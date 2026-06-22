@@ -1,0 +1,901 @@
+[
+  {
+    "rank": 1,
+    "category": "Startups & Founders",
+    "subcategory": "Startup fundamentals",
+    "title": "Lecture 1 - How to Start a Startup",
+    "speaker_creator": "Sam Altman, Dustin Moskovitz",
+    "source_event_channel": "Y Combinator / Stanford CS183F",
+    "year": 2014,
+    "format": "Recorded lecture",
+    "runtime": "43:53",
+    "link": "https://www.youtube.com/watch?v=CBYhVcO4WgI",
+    "summary": "The canonical startup orientation: idea, product, team, execution, and why founders need speed, clarity, and resilience.",
+    "core_ideas": [
+      "Idea quality matters",
+      "Execution is a discipline",
+      "Team quality compounds",
+      "Speed beats polish early"
+    ],
+    "why_it_matters": "It is one of the most widely referenced modern startup lectures and still frames how founders think about building early companies.",
+    "target_audience": "Founders, operators, incubator teams",
+    "difficulty": "Beginner",
+    "credibility_score": 10,
+    "usefulness_score": 10,
+    "tags": [
+      "startups",
+      "YC",
+      "founder basics",
+      "execution",
+      "team"
+    ]
+  },
+  {
+    "rank": 2,
+    "category": "Startups & Founders",
+    "subcategory": "Founding phase",
+    "title": "Before the Startup",
+    "speaker_creator": "Paul Graham",
+    "source_event_channel": "Y Combinator / Stanford CS183F",
+    "year": 2014,
+    "format": "Recorded lecture",
+    "runtime": "48:21",
+    "link": "https://www.youtube.com/watch?v=ii1jcLg-eIQ",
+    "summary": "A founder-centric lecture on how to think before you start: how ideas emerge, how founders get misled, and how to choose problems.",
+    "core_ideas": [
+      "Good ideas are rare",
+      "Curiosity beats brainstorming",
+      "Founders need taste and judgment",
+      "Early choices shape the company"
+    ],
+    "why_it_matters": "Paul Graham's influence on startup thinking is foundational, and this lecture shows the pre-company mental model YC pushes.",
+    "target_audience": "Founders, pre-founders, investors",
+    "difficulty": "Beginner",
+    "credibility_score": 10,
+    "usefulness_score": 10,
+    "tags": [
+      "idea generation",
+      "YC",
+      "founder mindset",
+      "Paul Graham"
+    ]
+  },
+  {
+    "rank": 3,
+    "category": "Startups & Founders",
+    "subcategory": "Early traction",
+    "title": "Do things that don't scale",
+    "speaker_creator": "Brian Chesky",
+    "source_event_channel": "Masters of Scale / Airbnb",
+    "year": 2017,
+    "format": "Interview / recorded episode",
+    "runtime": "50:17",
+    "link": "https://mastersofscale.com/episode/brian-chesky/",
+    "summary": "A practical account of Airbnb's early manual, high-touch tactics for finding product-market fit and delighting the first users.",
+    "core_ideas": [
+      "Manual effort creates learning",
+      "Founders should do founder-led sales",
+      "Exceptional early UX can be handcrafted",
+      "Scale comes after proof"
+    ],
+    "why_it_matters": "This became one of the most durable startup heuristics ever because it explains how fragile early products become real businesses.",
+    "target_audience": "Founders, PMs, growth teams",
+    "difficulty": "Beginner",
+    "credibility_score": 9,
+    "usefulness_score": 10,
+    "tags": [
+      "product-market fit",
+      "Airbnb",
+      "early traction",
+      "founder-led growth"
+    ]
+  },
+  {
+    "rank": 4,
+    "category": "Startups & Founders",
+    "subcategory": "Customer development",
+    "title": "The Lean Startup",
+    "speaker_creator": "Eric Ries",
+    "source_event_channel": "Talks at Google",
+    "year": 2011,
+    "format": "Talk / interview",
+    "runtime": "~54 min",
+    "link": "https://www.youtube.com/watch?v=fEvKo90qBns",
+    "summary": "A practical explanation of validated learning, MVPs, and treating startups as experiments rather than planning exercises.",
+    "core_ideas": [
+      "Build-measure-learn",
+      "MVPs reduce risk",
+      "Validated learning over vanity metrics",
+      "Pivots are evidence-driven"
+    ],
+    "why_it_matters": "It codified the language of modern startup experimentation and product discovery.",
+    "target_audience": "Founders, product teams, operators",
+    "difficulty": "Beginner",
+    "credibility_score": 10,
+    "usefulness_score": 10,
+    "tags": [
+      "lean startup",
+      "MVP",
+      "experimentation",
+      "validated learning"
+    ]
+  },
+  {
+    "rank": 5,
+    "category": "Startups & Founders",
+    "subcategory": "Customer interviews",
+    "title": "How To Talk To Your Customers (The Mom Test)",
+    "speaker_creator": "Rob Fitzpatrick",
+    "source_event_channel": "Digital Product School",
+    "year": 2017,
+    "format": "Talk / interview",
+    "runtime": "16:49",
+    "link": "https://www.youtube.com/watch?v=_tl0vcJpbf8",
+    "summary": "A compact, practical lesson on asking better questions, avoiding flattering false positives, and extracting real signal from customers.",
+    "core_ideas": [
+      "Ask about behavior, not opinions",
+      "Avoid hypothetical praise",
+      "Use past actions as evidence",
+      "Discovery interviews are a skill"
+    ],
+    "why_it_matters": "Many bad startups survive on wishful customer feedback; this talk teaches founders how to stop lying to themselves.",
+    "target_audience": "Founders, PMs, researchers",
+    "difficulty": "Beginner",
+    "credibility_score": 9,
+    "usefulness_score": 10,
+    "tags": [
+      "customer discovery",
+      "interviewing",
+      "validation",
+      "research"
+    ]
+  },
+  {
+    "rank": 6,
+    "category": "Startups & Founders",
+    "subcategory": "Company building",
+    "title": "Lecture 2 - Team and Execution",
+    "speaker_creator": "Sam Altman",
+    "source_event_channel": "Y Combinator / Stanford CS183F",
+    "year": 2014,
+    "format": "Recorded lecture",
+    "runtime": "~50 min",
+    "link": "https://www.youtube.com/watch?v=CVfnkM44Urs",
+    "summary": "A founder-operating-system lecture on team selection, pacing, accountability, and execution as a repeatable advantage.",
+    "core_ideas": [
+      "Great teams beat great slides",
+      "Execution is measurable",
+      "Founders must set tempo",
+      "Compounding habits matter"
+    ],
+    "why_it_matters": "It translates startup ambition into operating practice.",
+    "target_audience": "Founders, execs, startup managers",
+    "difficulty": "Beginner",
+    "credibility_score": 9,
+    "usefulness_score": 9,
+    "tags": [
+      "team",
+      "execution",
+      "operating rhythm",
+      "YC"
+    ]
+  },
+  {
+    "rank": 7,
+    "category": "Startups & Founders",
+    "subcategory": "Leadership under pressure",
+    "title": "The Hard Thing About Hard Things",
+    "speaker_creator": "Ben Horowitz",
+    "source_event_channel": "Startup Grind / a16z",
+    "year": 2014,
+    "format": "Talk",
+    "runtime": "~1h",
+    "link": "https://www.youtube.com/watch?v=vhxjCio_V-A",
+    "summary": "A blunt conversation about the painful, non-textbook realities of leading a company when there is no clean answer.",
+    "core_ideas": [
+      "Hard calls are unavoidable",
+      "Leadership is loneliness plus responsibility",
+      "There is no playbook for every crisis",
+      "Culture matters when things break"
+    ],
+    "why_it_matters": "It is one of the clearest anti-romantic startup/CEO resources ever made.",
+    "target_audience": "Founders, CEOs, operators",
+    "difficulty": "Intermediate",
+    "credibility_score": 9,
+    "usefulness_score": 9,
+    "tags": [
+      "leadership",
+      "CEO",
+      "crisis",
+      "management"
+    ]
+  },
+  {
+    "rank": 8,
+    "category": "AI & Machine Learning",
+    "subcategory": "Core ML course",
+    "title": "CS229: Machine Learning Course",
+    "speaker_creator": "Andrew Ng",
+    "source_event_channel": "Stanford Online",
+    "year": 2018,
+    "format": "Recorded class playlist",
+    "runtime": "21 lessons / 27 hours",
+    "link": "https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU",
+    "summary": "Stanford's classic introduction to machine learning, covering supervised learning, optimization, probabilistic reasoning, and core modeling ideas.",
+    "core_ideas": [
+      "ML fundamentals",
+      "Bias-variance tradeoffs",
+      "Optimization",
+      "Generalization"
+    ],
+    "why_it_matters": "Still one of the cleanest high-signal first courses for builders who need to understand why ML works.",
+    "target_audience": "Builders, engineers, AI learners",
+    "difficulty": "Intermediate",
+    "credibility_score": 10,
+    "usefulness_score": 10,
+    "tags": [
+      "machine learning",
+      "Stanford",
+      "Andrew Ng",
+      "foundations"
+    ]
+  },
+  {
+    "rank": 9,
+    "category": "AI & Machine Learning",
+    "subcategory": "Deep learning",
+    "title": "CS231n Winter 2016: Lecture 4: Backpropagation, Neural Networks 1",
+    "speaker_creator": "Andrej Karpathy",
+    "source_event_channel": "Stanford CS231n / Stanford Online",
+    "year": 2016,
+    "format": "Recorded lecture",
+    "runtime": "1:19:39",
+    "link": "https://www.youtube.com/watch?v=i94OvYb6noo",
+    "summary": "A clear walkthrough of computational graphs, backpropagation, and how neural networks learn by gradient descent.",
+    "core_ideas": [
+      "Computational graphs",
+      "Backpropagation",
+      "Gradient-based learning",
+      "Neural nets as compositional functions"
+    ],
+    "why_it_matters": "It is one of the most teachable deep learning lectures ever recorded.",
+    "target_audience": "Engineers, ML learners, technical founders",
+    "difficulty": "Intermediate",
+    "credibility_score": 10,
+    "usefulness_score": 10,
+    "tags": [
+      "deep learning",
+      "backprop",
+      "CS231n",
+      "neural nets"
+    ]
+  },
+  {
+    "rank": 10,
+    "category": "AI & Machine Learning",
+    "subcategory": "NLP course",
+    "title": "Natural Language Processing with Deep Learning Course",
+    "speaker_creator": "Stanford CS224N instructors",
+    "source_event_channel": "Stanford Online",
+    "year": 2024,
+    "format": "Recorded class playlist",
+    "runtime": "22 lessons / 25 hours",
+    "link": "https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z",
+    "summary": "A complete NLP course that bridges classical language modeling, embeddings, sequence models, attention, and modern transformer-era thinking.",
+    "core_ideas": [
+      "Word vectors",
+      "Sequence models",
+      "Attention",
+      "Language understanding"
+    ],
+    "why_it_matters": "For teams building LLM products, this is the right technical baseline before jumping to prompt engineering.",
+    "target_audience": "Engineers, AI researchers, technical PMs",
+    "difficulty": "Advanced",
+    "credibility_score": 10,
+    "usefulness_score": 10,
+    "tags": [
+      "NLP",
+      "transformers",
+      "Stanford",
+      "LLMs"
+    ]
+  },
+  {
+    "rank": 11,
+    "category": "AI & Machine Learning",
+    "subcategory": "Foundational implementation",
+    "title": "The spelled-out intro to neural networks and backpropagation: building micrograd",
+    "speaker_creator": "Andrej Karpathy",
+    "source_event_channel": "Andrej Karpathy",
+    "year": 2022,
+    "format": "Video lecture",
+    "runtime": "1:57:45",
+    "link": "https://www.youtube.com/watch?v=VMj-3S1tku0",
+    "summary": "A from-first-principles neural network lesson that shows how backpropagation and training really work in code.",
+    "core_ideas": [
+      "Autograd",
+      "Backprop",
+      "Primitive operations",
+      "Learning by implementation"
+    ],
+    "why_it_matters": "This is one of the most effective 'I finally get it' videos for deep learning.",
+    "target_audience": "Engineers, students, AI builders",
+    "difficulty": "Intermediate",
+    "credibility_score": 10,
+    "usefulness_score": 10,
+    "tags": [
+      "micrograd",
+      "autograd",
+      "backprop",
+      "from scratch"
+    ]
+  },
+  {
+    "rank": 12,
+    "category": "AI & Machine Learning",
+    "subcategory": "LLM coding",
+    "title": "Let's build GPT: from scratch, in code, spelled out",
+    "speaker_creator": "Andrej Karpathy",
+    "source_event_channel": "Andrej Karpathy",
+    "year": 2023,
+    "format": "Video lecture",
+    "runtime": "~2h",
+    "link": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+    "summary": "A long-form implementation walkthrough that reconstructs a GPT-like model and explains the moving parts in plain language.",
+    "core_ideas": [
+      "Tokenization",
+      "Attention",
+      "Transformer blocks",
+      "Training loop intuition"
+    ],
+    "why_it_matters": "It bridges conceptual understanding and practical implementation better than almost any other single AI video.",
+    "target_audience": "Engineers, applied AI teams",
+    "difficulty": "Advanced",
+    "credibility_score": 10,
+    "usefulness_score": 10,
+    "tags": [
+      "GPT",
+      "transformers",
+      "implementation",
+      "LLM"
+    ]
+  },
+  {
+    "rank": 13,
+    "category": "AI & Machine Learning",
+    "subcategory": "AI software paradigm",
+    "title": "Software Is Changing (Again)",
+    "speaker_creator": "Andrej Karpathy",
+    "source_event_channel": "Y Combinator",
+    "year": 2025,
+    "format": "Talk",
+    "runtime": "45:07",
+    "link": "https://www.youtube.com/watch?v=vDWaKVmqznQ",
+    "summary": "A modern framing of Software 1.0, 2.0, and 3.0, arguing that natural language and LLMs are reshaping how software gets authored and operated.",
+    "core_ideas": [
+      "Software 1.0/2.0/3.0",
+      "LLMs as programmable systems",
+      "English as an interface",
+      "Agents as software units"
+    ],
+    "why_it_matters": "This is one of the best current conceptual maps for AI-native product teams.",
+    "target_audience": "Founders, AI engineers, product teams",
+    "difficulty": "Intermediate",
+    "credibility_score": 10,
+    "usefulness_score": 10,
+    "tags": [
+      "Software 3.0",
+      "LLMs",
+      "agents",
+      "Karpathy"
+    ]
+  },
+  {
+    "rank": 14,
+    "category": "AI & Machine Learning",
+    "subcategory": "AI product launch",
+    "title": "OpenAI DevDay: Opening Keynote",
+    "speaker_creator": "Sam Altman and OpenAI",
+    "source_event_channel": "OpenAI",
+    "year": 2023,
+    "format": "Keynote",
+    "runtime": "45:36",
+    "link": "https://www.youtube.com/watch?v=U9mJuUkhUzk",
+    "summary": "OpenAI's first developer conference keynote, where major platform shifts for building with models were introduced.",
+    "core_ideas": [
+      "Platform shift",
+      "Developer tooling",
+      "Model capability jumps",
+      "App ecosystem creation"
+    ],
+    "why_it_matters": "It marked a major transition from AI demos to AI platform strategy.",
+    "target_audience": "AI founders, engineers, product leaders",
+    "difficulty": "Intermediate",
+    "credibility_score": 10,
+    "usefulness_score": 9,
+    "tags": [
+      "OpenAI",
+      "developer platform",
+      "AI products",
+      "keynote"
+    ]
+  },
+  {
+    "rank": 15,
+    "category": "AI & Machine Learning",
+    "subcategory": "State of the field",
+    "title": "HAI Seminar with Nestor Maslej: Presenting the 2025 AI Index Report",
+    "speaker_creator": "Nestor Maslej / Stanford HAI",
+    "source_event_channel": "Stanford HAI",
+    "year": 2025,
+    "format": "Seminar / talk",
+    "runtime": "~1h",
+    "link": "https://www.youtube.com/watch?v=D03EJhztsHQ",
+    "summary": "A data-driven overview of the AI landscape across research, economics, ethics, adoption, and policy.",
+    "core_ideas": [
+      "AI market and research trends",
+      "Adoption data",
+      "Policy context",
+      "Measuring progress"
+    ],
+    "why_it_matters": "It is one of the clearest annual reality checks for anyone making strategic bets in AI.",
+    "target_audience": "Founders, investors, strategy teams",
+    "difficulty": "Intermediate",
+    "credibility_score": 10,
+    "usefulness_score": 9,
+    "tags": [
+      "AI Index",
+      "Stanford HAI",
+      "market context",
+      "trends"
+    ]
+  },
+  {
+    "rank": 16,
+    "category": "Product & Design",
+    "subcategory": "Design thinking",
+    "title": "Tim Brown - From Design to Design Thinking",
+    "speaker_creator": "Tim Brown",
+    "source_event_channel": "Transform 2009 / Mayo Clinic Center for Innovation",
+    "year": 2009,
+    "format": "Talk",
+    "runtime": "~18 min",
+    "link": "https://www.youtube.com/watch?v=sq8EFbYBtOA",
+    "summary": "A classic introduction to design thinking as a human-centered approach that links desirability, viability, and feasibility.",
+    "core_ideas": [
+      "Human-centered innovation",
+      "Prototype early",
+      "Design is a process",
+      "Complex problems need iterative exploration"
+    ],
+    "why_it_matters": "It helped define the language of modern product/design collaboration.",
+    "target_audience": "Designers, PMs, founders",
+    "difficulty": "Beginner",
+    "credibility_score": 10,
+    "usefulness_score": 9,
+    "tags": [
+      "design thinking",
+      "IDEO",
+      "human-centered design",
+      "innovation"
+    ]
+  },
+  {
+    "rank": 17,
+    "category": "Product & Design",
+    "subcategory": "Human-centered design",
+    "title": "What is Design Thinking?",
+    "speaker_creator": "IDEO U",
+    "source_event_channel": "IDEO U",
+    "year": 2018,
+    "format": "Explainer video",
+    "runtime": "~4 min",
+    "link": "https://www.youtube.com/watch?v=ldYzbV0NDp8",
+    "summary": "A compact explainer of the design thinking process and its emphasis on empathy, experimentation, and iteration.",
+    "core_ideas": [
+      "Empathy",
+      "Experimentation",
+      "Iteration",
+      "Collaboration"
+    ],
+    "why_it_matters": "It is a concise entry point into a process many teams reference but few actually practice well.",
+    "target_audience": "Beginners, designers, PMs",
+    "difficulty": "Beginner",
+    "credibility_score": 9,
+    "usefulness_score": 8,
+    "tags": [
+      "IDEO",
+      "design process",
+      "UX",
+      "problem solving"
+    ]
+  },
+  {
+    "rank": 18,
+    "category": "Product & Design",
+    "subcategory": "Usability",
+    "title": "The three ways that good design makes you happy",
+    "speaker_creator": "Don Norman",
+    "source_event_channel": "TED",
+    "year": 2003,
+    "format": "Talk",
+    "runtime": "~20 min",
+    "link": "https://www.youtube.com/watch?v=RlQEoJaLQRA",
+    "summary": "A foundational talk on emotional design, showing why useful products still fail if they are not emotionally intelligible or pleasurable.",
+    "core_ideas": [
+      "Emotion affects usability",
+      "Good design works at multiple levels",
+      "Pleasure and function reinforce each other"
+    ],
+    "why_it_matters": "It remains a concise bridge between psychology and product craft.",
+    "target_audience": "Designers, PMs, product-minded engineers",
+    "difficulty": "Beginner",
+    "credibility_score": 10,
+    "usefulness_score": 9,
+    "tags": [
+      "Don Norman",
+      "emotional design",
+      "UX",
+      "usability"
+    ]
+  },
+  {
+    "rank": 19,
+    "category": "Product & Design",
+    "subcategory": "Product leadership",
+    "title": "Marty Cagan on the Current 'Golden Era' for Product Management",
+    "speaker_creator": "Marty Cagan",
+    "source_event_channel": "Silicon Valley Product Group",
+    "year": 2024,
+    "format": "Interview",
+    "runtime": "~50 min",
+    "link": "https://www.youtube.com/watch?v=lu0a-VRkKeY",
+    "summary": "A discussion about product management in the AI era, and why real product work is about solving problems, not administrating roadmaps.",
+    "core_ideas": [
+      "Product management is creation",
+      "Outcomes over output",
+      "AI changes the tools, not the mission",
+      "Avoid theater"
+    ],
+    "why_it_matters": "Marty Cagan remains one of the most influential voices for high-performance product teams.",
+    "target_audience": "Product managers, founders, design leads",
+    "difficulty": "Intermediate",
+    "credibility_score": 9,
+    "usefulness_score": 9,
+    "tags": [
+      "product management",
+      "product strategy",
+      "AI era",
+      "outcomes"
+    ]
+  },
+  {
+    "rank": 20,
+    "category": "Product & Design",
+    "subcategory": "Continuous discovery",
+    "title": "Continuous Discovery Habits",
+    "speaker_creator": "Teresa Torres",
+    "source_event_channel": "Conversation / product interview",
+    "year": 2024,
+    "format": "Interview",
+    "runtime": "~45 min",
+    "link": "https://www.youtube.com/watch?v=IwLvYd0vdAM",
+    "summary": "A conversation on building a steady discovery cadence so product teams learn continuously instead of only at roadmap time.",
+    "core_ideas": [
+      "Continuous discovery",
+      "Small weekly customer contact",
+      "Opportunity-solution thinking",
+      "Team-based discovery"
+    ],
+    "why_it_matters": "It is one of the best modern bridges between UX research and product execution.",
+    "target_audience": "PMs, researchers, designers",
+    "difficulty": "Intermediate",
+    "credibility_score": 9,
+    "usefulness_score": 9,
+    "tags": [
+      "continuous discovery",
+      "product discovery",
+      "UX research",
+      "team cadence"
+    ]
+  },
+  {
+    "rank": 21,
+    "category": "Engineering",
+    "subcategory": "Architecture",
+    "title": "Martin Fowler - Continuous Delivery",
+    "speaker_creator": "Martin Fowler",
+    "source_event_channel": "Conference talk",
+    "year": 2010,
+    "format": "Talk",
+    "runtime": "~50 min",
+    "link": "https://www.youtube.com/watch?v=aoMfbgF2D_4",
+    "summary": "A clear explanation of deployment pipelines, release safety, and the operating discipline behind continuous delivery.",
+    "core_ideas": [
+      "Deployment pipeline",
+      "Release automation",
+      "Small batch size",
+      "Reliable delivery"
+    ],
+    "why_it_matters": "It gives a strategic model for how software teams actually reduce shipping risk.",
+    "target_audience": "Engineers, tech leads, platform teams",
+    "difficulty": "Intermediate",
+    "credibility_score": 10,
+    "usefulness_score": 9,
+    "tags": [
+      "continuous delivery",
+      "DevOps",
+      "architecture",
+      "shipping"
+    ]
+  },
+  {
+    "rank": 22,
+    "category": "Engineering",
+    "subcategory": "Code design",
+    "title": "The power of preparatory refactoring",
+    "speaker_creator": "Martin Fowler",
+    "source_event_channel": "Conference talk",
+    "year": 2020,
+    "format": "Talk",
+    "runtime": "~40 min",
+    "link": "https://www.youtube.com/watch?v=CmAKz6eeqGM",
+    "summary": "A practical argument for refactoring before feature work when it unlocks safer, cheaper change.",
+    "core_ideas": [
+      "Change design before adding complexity",
+      "Refactoring is leverage",
+      "Prepare the codebase for the feature"
+    ],
+    "why_it_matters": "It reframes refactoring as an economic decision rather than a cleanup ritual.",
+    "target_audience": "Engineers, tech leads",
+    "difficulty": "Intermediate",
+    "credibility_score": 10,
+    "usefulness_score": 8,
+    "tags": [
+      "refactoring",
+      "code quality",
+      "software design",
+      "Martin Fowler"
+    ]
+  },
+  {
+    "rank": 23,
+    "category": "Engineering",
+    "subcategory": "Production systems",
+    "title": "Release It! • Michael Nygard & Trisha Gee • GOTO 2023",
+    "speaker_creator": "Michael Nygard, Trisha Gee",
+    "source_event_channel": "GOTO Conferences",
+    "year": 2023,
+    "format": "Talk / interview",
+    "runtime": "~50 min",
+    "link": "https://www.youtube.com/watch?v=BIuBnLTMkfQ",
+    "summary": "A production-hardened view of what fails in real systems and how engineers can design for resilience.",
+    "core_ideas": [
+      "Stability patterns",
+      "Failure modes",
+      "Resilience",
+      "Operational thinking"
+    ],
+    "why_it_matters": "A must-watch for teams that need to understand the difference between working code and survivable systems.",
+    "target_audience": "Engineers, SREs, platform teams",
+    "difficulty": "Advanced",
+    "credibility_score": 9,
+    "usefulness_score": 9,
+    "tags": [
+      "reliability",
+      "production systems",
+      "resilience",
+      "SRE"
+    ]
+  },
+  {
+    "rank": 24,
+    "category": "Internet & Computing History",
+    "subcategory": "Foundational demo",
+    "title": "The Mother of All Demos",
+    "speaker_creator": "Douglas Engelbart and SRI team",
+    "source_event_channel": "SRI / historical archive",
+    "year": 1968,
+    "format": "Historical demo recording",
+    "runtime": "1:15:47",
+    "link": "https://www.youtube.com/watch?v=JQ8ZiT1sn88",
+    "summary": "The landmark 1968 demonstration that previewed the mouse, hypertext-like navigation, collaborative computing, and modern HCI.",
+    "core_ideas": [
+      "Interactive computing",
+      "Mouse",
+      "Hypertext ideas",
+      "Collaborative tools"
+    ],
+    "why_it_matters": "Few recordings are more important for understanding the birth of modern computing UX.",
+    "target_audience": "Designers, engineers, historians",
+    "difficulty": "Intermediate",
+    "credibility_score": 10,
+    "usefulness_score": 10,
+    "tags": [
+      "computer history",
+      "HCI",
+      "mouse",
+      "Engelbart"
+    ]
+  },
+  {
+    "rank": 25,
+    "category": "Internet & Computing History",
+    "subcategory": "Personal computing",
+    "title": "Steve Jobs Introduces the Macintosh",
+    "speaker_creator": "Steve Jobs",
+    "source_event_channel": "Apple / Boston Computer Society",
+    "year": 1984,
+    "format": "Historical keynote",
+    "runtime": "1:15:38",
+    "link": "https://www.youtube.com/watch?v=1tQ5XwvjPmA",
+    "summary": "The famous Macintosh unveiling, a defining product launch that shows how narrative, reveal, and product demo can become culture.",
+    "core_ideas": [
+      "Product theater",
+      "Demo as persuasion",
+      "Computing for humans",
+      "Category making"
+    ],
+    "why_it_matters": "It is one of the most important product launch recordings ever made.",
+    "target_audience": "Founders, product teams, designers",
+    "difficulty": "Beginner",
+    "credibility_score": 10,
+    "usefulness_score": 9,
+    "tags": [
+      "Apple",
+      "product launch",
+      "Steve Jobs",
+      "demo"
+    ]
+  },
+  {
+    "rank": 26,
+    "category": "Internet & Computing History",
+    "subcategory": "Founder interview",
+    "title": "Steve Jobs: The Lost Interview",
+    "speaker_creator": "Steve Jobs, Robert X. Cringely",
+    "source_event_channel": "PBS / Triumph of the Nerds archive",
+    "year": 1995,
+    "format": "Interview documentary",
+    "runtime": "1:10:00",
+    "link": "https://www.youtube.com/watch?v=9m68auPIPRk",
+    "summary": "A candid long-form interview with Jobs between Apple eras, notable for his thinking on products, Xerox PARC, and Microsoft.",
+    "core_ideas": [
+      "Product philosophy",
+      "Taste",
+      "Vision",
+      "Competitive framing"
+    ],
+    "why_it_matters": "It offers one of the clearest windows into Jobs' product mind outside of stage demos.",
+    "target_audience": "Founders, product leaders, historians",
+    "difficulty": "Beginner",
+    "credibility_score": 10,
+    "usefulness_score": 9,
+    "tags": [
+      "Steve Jobs",
+      "interview",
+      "Apple",
+      "product thinking"
+    ]
+  },
+  {
+    "rank": 27,
+    "category": "Internet & Computing History",
+    "subcategory": "Web history",
+    "title": "The Computer Chronicles - The Internet (1993)",
+    "speaker_creator": "The Computer Chronicles",
+    "source_event_channel": "Computer Chronicles / public television archive",
+    "year": 1993,
+    "format": "TV episode",
+    "runtime": "27:39",
+    "link": "https://www.youtube.com/watch?v=U_o8gerare0",
+    "summary": "A time-capsule view of the early internet before the web became mainstream.",
+    "core_ideas": [
+      "Early network culture",
+      "Pre-web services",
+      "Internet adoption",
+      "Computing media history"
+    ],
+    "why_it_matters": "Excellent historical context for how quickly internet infrastructure moved from niche to mass market.",
+    "target_audience": "Builders, historians, product people",
+    "difficulty": "Beginner",
+    "credibility_score": 9,
+    "usefulness_score": 8,
+    "tags": [
+      "internet history",
+      "early web",
+      "Computer Chronicles",
+      "archival video"
+    ]
+  },
+  {
+    "rank": 28,
+    "category": "Internet & Computing History",
+    "subcategory": "Computer history documentary",
+    "title": "The Machine That Changed the World - Episode 1: Great Brains",
+    "speaker_creator": "WGBH / BBC",
+    "source_event_channel": "PBS / BBC",
+    "year": 1992,
+    "format": "Documentary episode",
+    "runtime": "57:29",
+    "link": "https://www.youtube.com/watch?v=gOx3TKl-ScU",
+    "summary": "The first episode of the classic computer-history documentary series, tracing the earliest eras of computing and key pioneers.",
+    "core_ideas": [
+      "Computing origins",
+      "Early pioneers",
+      "Hardware evolution",
+      "Systems history"
+    ],
+    "why_it_matters": "One of the best long-form introductions to the pre-personal-computer arc.",
+    "target_audience": "Builders, historians, curious generalists",
+    "difficulty": "Beginner",
+    "credibility_score": 9,
+    "usefulness_score": 8,
+    "tags": [
+      "computer history",
+      "documentary",
+      "pioneers",
+      "hardware"
+    ]
+  },
+  {
+    "rank": 29,
+    "category": "Internet & Computing History",
+    "subcategory": "Historical computing demo",
+    "title": "The Machine That Changed the World - Episode 2: Inventing the Future",
+    "speaker_creator": "WGBH / BBC",
+    "source_event_channel": "PBS / BBC",
+    "year": 1992,
+    "format": "Documentary episode",
+    "runtime": "54:22",
+    "link": "https://www.youtube.com/watch?v=8KnkeON3UEE",
+    "summary": "The sequel episode that moves the story into programming, commercialization, and the road toward personal computing.",
+    "core_ideas": [
+      "Software history",
+      "Commercial computing",
+      "PC evolution",
+      "Industry formation"
+    ],
+    "why_it_matters": "A strong companion to Episode 1 for seeing how the field became a mass industry.",
+    "target_audience": "Builders, historians, students",
+    "difficulty": "Beginner",
+    "credibility_score": 9,
+    "usefulness_score": 8,
+    "tags": [
+      "computer history",
+      "documentary",
+      "software",
+      "personal computing"
+    ]
+  },
+  {
+    "rank": 30,
+    "category": "Startups & Founders",
+    "subcategory": "Startup ideas",
+    "title": "How to Get Startup Ideas",
+    "speaker_creator": "Paul Graham",
+    "source_event_channel": "Paul Graham / YC essay translated to video",
+    "year": 2024,
+    "format": "Video reading / commentary",
+    "runtime": "42:02",
+    "link": "https://www.youtube.com/watch?v=FlCWg-KkUN4",
+    "summary": "A video reading of one of Paul Graham's most quoted startup essays: the best ideas are usually found, not invented.",
+    "core_ideas": [
+      "Solve your own problems",
+      "Look for latent demand",
+      "Ideas emerge from observation",
+      "Avoid forced brainstorming"
+    ],
+    "why_it_matters": "Useful as a compact reinforcement of YC's idea-selection philosophy, even if it is not the original lecture.",
+    "target_audience": "Founders, pre-founders",
+    "difficulty": "Beginner",
+    "credibility_score": 8,
+    "usefulness_score": 8,
+    "tags": [
+      "startup ideas",
+      "Paul Graham",
+      "founder discovery",
+      "problem selection"
+    ]
+  }
+]

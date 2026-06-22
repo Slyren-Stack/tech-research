@@ -1,0 +1,1363 @@
+{
+  "library_name": "Venture Studio Tech Intelligence Library",
+  "purpose": "A curated intelligence library for founders, builders, designers, and venture studio teams learning how technology, startups, and AI actually work in practice and in history.",
+  "last_updated": "2026-06-23",
+  "items": [
+    {
+      "category": "AI / ML",
+      "subcategory": "State of the field",
+      "title": "Artificial Intelligence Index Report 2024",
+      "author_creator": "Stanford HAI / AI Index Steering Committee",
+      "format": "Report",
+      "year": "2024",
+      "source": "Stanford HAI",
+      "summary": "A data-rich annual report tracking technical progress, investment, public perception, policy, and societal impact in AI.",
+      "key_ideas": [
+        "AI trends",
+        "investment and adoption",
+        "responsible AI",
+        "cross-country benchmarking"
+      ],
+      "why_important": "Best single macro reference for how the AI field is changing year to year.",
+      "who_for": "Founders, investors, strategists, researchers",
+      "difficulty": "Intermediate",
+      "credibility_score": 10,
+      "usefulness_score": 10,
+      "tags": [
+        "ai index",
+        "trend report",
+        "stanford",
+        "policy"
+      ],
+      "link": "https://hai.stanford.edu/ai-index/2024-ai-index-report"
+    },
+    {
+      "category": "AI / ML",
+      "subcategory": "Transformer architecture",
+      "title": "Attention Is All You Need",
+      "author_creator": "Vaswani et al.",
+      "format": "Paper",
+      "year": "2017",
+      "source": "arXiv",
+      "summary": "Introduces the Transformer architecture based entirely on attention, removing recurrence and convolution from sequence modeling.",
+      "key_ideas": [
+        "self-attention",
+        "Transformer",
+        "parallelizable sequence modeling",
+        "machine translation"
+      ],
+      "why_important": "The paper that redefined modern language modeling and unlocked the LLM era.",
+      "who_for": "AI engineers, researchers, technical founders",
+      "difficulty": "Advanced",
+      "credibility_score": 10,
+      "usefulness_score": 10,
+      "tags": [
+        "transformers",
+        "attention",
+        "llm",
+        "paper"
+      ],
+      "link": "https://arxiv.org/abs/1706.03762"
+    },
+    {
+      "category": "AI / ML",
+      "subcategory": "NLP and LLMs",
+      "title": "CS224N: Natural Language Processing with Deep Learning",
+      "author_creator": "Stanford University",
+      "format": "Course",
+      "year": "2023",
+      "source": "Stanford CS224n",
+      "summary": "A thorough introduction to deep learning for NLP, including the fundamentals behind modern large language models.",
+      "key_ideas": [
+        "NLP foundations",
+        "deep learning for language",
+        "LLM intuition",
+        "PyTorch implementation"
+      ],
+      "why_important": "One of the cleanest public paths from NLP basics to the architecture and training ideas behind LLMs.",
+      "who_for": "AI engineers, technical founders, ML product teams",
+      "difficulty": "Advanced",
+      "credibility_score": 10,
+      "usefulness_score": 10,
+      "tags": [
+        "nlp",
+        "llms",
+        "stanford",
+        "deep learning"
+      ],
+      "link": "https://web.stanford.edu/class/cs224n/"
+    },
+    {
+      "category": "AI / ML",
+      "subcategory": "Core foundations",
+      "title": "CS229: Machine Learning",
+      "author_creator": "Stanford University",
+      "format": "Course",
+      "year": "2024",
+      "source": "Stanford CS229",
+      "summary": "A broad introduction to machine learning and statistical pattern recognition, covering supervised learning, unsupervised learning, learning theory, and reinforcement learning.",
+      "key_ideas": [
+        "bias-variance tradeoffs",
+        "supervised vs unsupervised learning",
+        "practical ML intuition",
+        "statistical pattern recognition"
+      ],
+      "why_important": "The canonical on-ramp for modern ML thinking: it teaches the vocabulary, the math, and the intuition founders and engineers need before building with models.",
+      "who_for": "AI builders, engineers, technical founders, analysts",
+      "difficulty": "Intermediate",
+      "credibility_score": 10,
+      "usefulness_score": 10,
+      "tags": [
+        "machine learning",
+        "foundations",
+        "stanford",
+        "core"
+      ],
+      "link": "https://cs229.stanford.edu/"
+    },
+    {
+      "category": "AI / ML",
+      "subcategory": "Computer vision",
+      "title": "CS231n: Deep Learning for Computer Vision",
+      "author_creator": "Stanford University",
+      "format": "Course",
+      "year": "2021",
+      "source": "Stanford CS231n",
+      "summary": "A deep dive into end-to-end deep learning for visual recognition, including CNNs, training/debugging, and modern vision architectures.",
+      "key_ideas": [
+        "CNNs",
+        "training/debugging networks",
+        "end-to-end vision models",
+        "modern computer vision"
+      ],
+      "why_important": "A classic practical ML course that explains how deep vision systems are actually built and why they work.",
+      "who_for": "AI engineers, applied researchers, product teams using vision",
+      "difficulty": "Advanced",
+      "credibility_score": 10,
+      "usefulness_score": 9,
+      "tags": [
+        "computer vision",
+        "deep learning",
+        "stanford",
+        "practical"
+      ],
+      "link": "https://cs231n.stanford.edu/2021/"
+    },
+    {
+      "category": "AI / ML",
+      "subcategory": "Deep vision architecture",
+      "title": "Deep Residual Learning for Image Recognition",
+      "author_creator": "He, Zhang, Ren, Sun",
+      "format": "Paper",
+      "year": "2015",
+      "source": "arXiv",
+      "summary": "Introduces residual learning to make very deep neural networks easier to optimize and more accurate.",
+      "key_ideas": [
+        "residual blocks",
+        "deep networks",
+        "optimization",
+        "ImageNet breakthrough"
+      ],
+      "why_important": "A foundational paper behind the practical success of deep neural nets across vision and beyond.",
+      "who_for": "AI engineers, researchers",
+      "difficulty": "Advanced",
+      "credibility_score": 10,
+      "usefulness_score": 9,
+      "tags": [
+        "resnet",
+        "vision",
+        "deep learning",
+        "paper"
+      ],
+      "link": "https://arxiv.org/abs/1512.03385"
+    },
+    {
+      "category": "AI / ML",
+      "subcategory": "Frontier model report",
+      "title": "GPT-4 Technical Report",
+      "author_creator": "OpenAI",
+      "format": "Technical report",
+      "year": "2023",
+      "source": "OpenAI",
+      "summary": "Describes GPT-4 as a large-scale multimodal model and summarizes its development, capabilities, and evaluation.",
+      "key_ideas": [
+        "multimodal model",
+        "capability evaluation",
+        "benchmarking",
+        "frontier deployment"
+      ],
+      "why_important": "A canonical public reference for what frontier model releases look like in practice.",
+      "who_for": "AI builders, product teams, policy leads",
+      "difficulty": "Advanced",
+      "credibility_score": 10,
+      "usefulness_score": 9,
+      "tags": [
+        "openai",
+        "gpt-4",
+        "report",
+        "multimodal"
+      ],
+      "link": "https://cdn.openai.com/papers/gpt-4.pdf"
+    },
+    {
+      "category": "AI / ML",
+      "subcategory": "Scaling laws",
+      "title": "Training Compute-Optimal Large Language Models",
+      "author_creator": "Hoffmann et al. (DeepMind)",
+      "format": "Paper",
+      "year": "2022",
+      "source": "arXiv",
+      "summary": "Shows that many large language models are undertrained and derives compute-optimal scaling rules for model size and token count.",
+      "key_ideas": [
+        "compute optimality",
+        "model/data tradeoff",
+        "undertraining",
+        "scaling efficiency"
+      ],
+      "why_important": "Critical for understanding why modern foundation models are trained the way they are.",
+      "who_for": "AI researchers, infra teams, applied ML leads",
+      "difficulty": "Advanced",
+      "credibility_score": 10,
+      "usefulness_score": 9,
+      "tags": [
+        "scaling laws",
+        "compute",
+        "training",
+        "llm"
+      ],
+      "link": "https://arxiv.org/abs/2203.15556"
+    },
+    {
+      "category": "History / Media",
+      "subcategory": "Oral history archive",
+      "title": "Computer History Museum Oral Histories",
+      "author_creator": "Computer History Museum",
+      "format": "Archive",
+      "year": "Ongoing",
+      "source": "Computer History Museum",
+      "summary": "A large archive of firsthand interviews and demonstrations with pioneers in computing, entrepreneurship, and networking.",
+      "key_ideas": [
+        "firsthand accounts",
+        "computing pioneers",
+        "institutional memory",
+        "transcribed interviews"
+      ],
+      "why_important": "One of the richest primary-source archives for tech history and industry memory.",
+      "who_for": "Researchers, founders, historians, product teams",
+      "difficulty": "Intermediate",
+      "credibility_score": 10,
+      "usefulness_score": 9,
+      "tags": [
+        "oral history",
+        "computing",
+        "archive",
+        "chm"
+      ],
+      "link": "https://computerhistory.org/oral-histories/"
+    },
+    {
+      "category": "History / Media",
+      "subcategory": "Book",
+      "title": "The Innovators",
+      "author_creator": "Walter Isaacson",
+      "format": "Book",
+      "year": "2014",
+      "source": "Penguin Random House",
+      "summary": "A sweeping history of the people and collaborations that created the computer and the internet.",
+      "key_ideas": [
+        "team-based innovation",
+        "computing history",
+        "internet origins",
+        "networks of invention"
+      ],
+      "why_important": "A strong narrative map of the digital revolution from hardware to the web.",
+      "who_for": "Founders, engineers, historians, strategy teams",
+      "difficulty": "Beginner to Intermediate",
+      "credibility_score": 9,
+      "usefulness_score": 9,
+      "tags": [
+        "internet history",
+        "computer history",
+        "book",
+        "isaacson"
+      ],
+      "link": "https://www.penguinrandomhouse.com/books/617365/los-innovadores--the-innovators-by-walter-isaacson/"
+    },
+    {
+      "category": "History / Media",
+      "subcategory": "Interview / software history",
+      "title": "Inside Apple Software Design",
+      "author_creator": "a16z / Ken Kocienda",
+      "format": "Podcast interview",
+      "year": "2019",
+      "source": "a16z Podcast",
+      "summary": "An insider account of how Apple designed software in the Steve Jobs era, from Safari to the early iPhone and iOS.",
+      "key_ideas": [
+        "product taste",
+        "Apple software craft",
+        "tight iteration",
+        "design culture"
+      ],
+      "why_important": "A rare primary-source look at software design inside one of the most influential product organizations ever.",
+      "who_for": "Designers, PMs, engineers, product leaders",
+      "difficulty": "Intermediate",
+      "credibility_score": 9,
+      "usefulness_score": 8,
+      "tags": [
+        "apple",
+        "software design",
+        "interview",
+        "podcast"
+      ],
+      "link": "https://a16z.com/podcast/inside-apple-software-design/"
+    },
+    {
+      "category": "History / Media",
+      "subcategory": "Podcast / company history",
+      "title": "The Playbook: Lessons from 200+ Company Stories",
+      "author_creator": "Acquired",
+      "format": "Podcast episode",
+      "year": "2022",
+      "source": "Acquired",
+      "summary": "A synthesis episode that distills lessons from hundreds of company histories into strategy, product, moats, and management.",
+      "key_ideas": [
+        "company archetypes",
+        "strategy patterns",
+        "moats",
+        "management lessons"
+      ],
+      "why_important": "A compact distillation of the Acquired worldview, useful as an entry point to tech company history.",
+      "who_for": "Founders, operators, investors",
+      "difficulty": "Intermediate",
+      "credibility_score": 8,
+      "usefulness_score": 8,
+      "tags": [
+        "acquired",
+        "company history",
+        "strategy",
+        "podcast"
+      ],
+      "link": "https://www.acquired.fm/episodes/the-playbook-lessons-from-200-company-stories?96ed0d79_page=20"
+    },
+    {
+      "category": "History / Media",
+      "subcategory": "Documentary",
+      "title": "Triumph of the Nerds",
+      "author_creator": "Robert X. Cringely / PBS",
+      "format": "Documentary series",
+      "year": "1996",
+      "source": "PBS",
+      "summary": "A classic documentary on the rise of the personal computer and the early computer industry.",
+      "key_ideas": [
+        "PC revolution",
+        "industry origins",
+        "tech pioneers",
+        "startup-era storytelling"
+      ],
+      "why_important": "A vivid historical baseline for understanding how the modern tech industry emerged.",
+      "who_for": "Founders, designers, engineers, historians",
+      "difficulty": "Beginner",
+      "credibility_score": 8,
+      "usefulness_score": 8,
+      "tags": [
+        "history",
+        "documentary",
+        "pc",
+        "pbs"
+      ],
+      "link": "https://www.pbs.org/nerds/"
+    },
+    {
+      "category": "Product / Design",
+      "subcategory": "Usability",
+      "title": "10 Usability Heuristics for User Interface Design",
+      "author_creator": "Jakob Nielsen / Nielsen Norman Group",
+      "format": "Essay / framework",
+      "year": "1994",
+      "source": "Nielsen Norman Group",
+      "summary": "A canonical heuristic checklist for identifying and evaluating usability issues in interfaces.",
+      "key_ideas": [
+        "visibility of system status",
+        "match with the real world",
+        "error prevention",
+        "consistency"
+      ],
+      "why_important": "Still one of the most portable and field-tested design evaluation frameworks.",
+      "who_for": "Designers, PMs, UX researchers",
+      "difficulty": "Beginner",
+      "credibility_score": 10,
+      "usefulness_score": 10,
+      "tags": [
+        "usability",
+        "heuristics",
+        "ux",
+        "framework"
+      ],
+      "link": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+    },
+    {
+      "category": "Product / Design",
+      "subcategory": "Product management",
+      "title": "Inspired",
+      "author_creator": "Marty Cagan",
+      "format": "Book",
+      "year": "2008",
+      "source": "Wiley / SVPG",
+      "summary": "A practical product management handbook on building teams and products customers love.",
+      "key_ideas": [
+        "product discovery",
+        "product teams",
+        "customer value",
+        "product leadership"
+      ],
+      "why_important": "One of the most influential modern product management books.",
+      "who_for": "PMs, founders, design leads",
+      "difficulty": "Beginner to Intermediate",
+      "credibility_score": 10,
+      "usefulness_score": 10,
+      "tags": [
+        "product management",
+        "discovery",
+        "svpg",
+        "book"
+      ],
+      "link": "https://www.wiley.com/en-us/INSPIRED%3A+How+to+Create+Tech+Products+Customers+Love%2C+2nd+Edition-p-9781119387503"
+    },
+    {
+      "category": "Product / Design",
+      "subcategory": "Design fundamentals",
+      "title": "The Design of Everyday Things",
+      "author_creator": "Don Norman",
+      "format": "Book",
+      "year": "2014",
+      "source": "MIT Press",
+      "summary": "Explains how people interact with objects and interfaces through affordances, feedback, and mental models.",
+      "key_ideas": [
+        "affordances",
+        "feedback",
+        "mental models",
+        "error recovery"
+      ],
+      "why_important": "The classic text for understanding why bad product experiences happen and how to fix them.",
+      "who_for": "Designers, PMs, engineers, product founders",
+      "difficulty": "Beginner to Intermediate",
+      "credibility_score": 10,
+      "usefulness_score": 10,
+      "tags": [
+        "ux",
+        "design",
+        "norman",
+        "book"
+      ],
+      "link": "https://mitpress.mit.edu/9780262525671/the-design-of-everyday-things/"
+    },
+    {
+      "category": "Product / Design",
+      "subcategory": "Continuous discovery",
+      "title": "Continuous Discovery Habits",
+      "author_creator": "Teresa Torres",
+      "format": "Book",
+      "year": "2021",
+      "source": "Product Talk",
+      "summary": "A system for weekly customer touchpoints, small research activities, and evidence-based product decisions.",
+      "key_ideas": [
+        "weekly discovery",
+        "opportunity mapping",
+        "assumption testing",
+        "outcome focus"
+      ],
+      "why_important": "The clearest public framework for making product discovery continuous rather than occasional.",
+      "who_for": "PMs, designers, product researchers",
+      "difficulty": "Intermediate",
+      "credibility_score": 9,
+      "usefulness_score": 10,
+      "tags": [
+        "discovery",
+        "customer research",
+        "product",
+        "book"
+      ],
+      "link": "https://www.producttalk.org/continuous-discovery-habits/"
+    },
+    {
+      "category": "Product / Design",
+      "subcategory": "Product development process",
+      "title": "Shape Up",
+      "author_creator": "37signals / Basecamp",
+      "format": "Book",
+      "year": "2019",
+      "source": "Basecamp",
+      "summary": "A distinctive product development method built around shaping, betting, appetite, and fixed timeboxes.",
+      "key_ideas": [
+        "appetite not estimates",
+        "six-week cycles",
+        "shaping work",
+        "betting table"
+      ],
+      "why_important": "A useful counter-model for teams that are stuck in bloated roadmaps and endless backlog management.",
+      "who_for": "Product teams, founders, design managers",
+      "difficulty": "Intermediate",
+      "credibility_score": 9,
+      "usefulness_score": 9,
+      "tags": [
+        "shape up",
+        "product process",
+        "basecamp",
+        "book"
+      ],
+      "link": "https://basecamp.com/shapeup"
+    },
+    {
+      "category": "Product / Design",
+      "subcategory": "Research practice",
+      "title": "Everyone Can Do Continuous Discovery",
+      "author_creator": "Teresa Torres",
+      "format": "Essay",
+      "year": "2023",
+      "source": "Product Talk",
+      "summary": "A practical explanation of continuous discovery as weekly touchpoints with customers and small research activities.",
+      "key_ideas": [
+        "weekly discovery",
+        "product research habit",
+        "evidence",
+        "small experiments"
+      ],
+      "why_important": "A good bridge from theory into the habits teams actually need to build.",
+      "who_for": "PMs, designers, product researchers",
+      "difficulty": "Beginner",
+      "credibility_score": 8,
+      "usefulness_score": 9,
+      "tags": [
+        "discovery habits",
+        "research",
+        "product talk",
+        "essay"
+      ],
+      "link": "https://www.producttalk.org/getting-started-with-discovery/"
+    },
+    {
+      "category": "Product / Design",
+      "subcategory": "Human-centered design",
+      "title": "Design Thinking: Human-Centered Innovation",
+      "author_creator": "IDEO",
+      "format": "Article / resource hub",
+      "year": "2020s",
+      "source": "IDEO",
+      "summary": "IDEO’s overview of design thinking as a human-centered method balancing desirability, viability, and feasibility.",
+      "key_ideas": [
+        "human-centered design",
+        "desirability/viability/feasibility",
+        "creative experimentation",
+        "systems thinking"
+      ],
+      "why_important": "A useful strategic framing for design-led product and service work.",
+      "who_for": "Design teams, founders, innovation leads",
+      "difficulty": "Beginner",
+      "credibility_score": 9,
+      "usefulness_score": 8,
+      "tags": [
+        "design thinking",
+        "ideo",
+        "human-centered",
+        "framework"
+      ],
+      "link": "https://designthinking.ideo.com/"
+    },
+    {
+      "category": "Product / Design",
+      "subcategory": "Prioritization",
+      "title": "RICE: Simple prioritization for product managers",
+      "author_creator": "Intercom",
+      "format": "Essay / framework",
+      "year": "2018",
+      "source": "Intercom Blog",
+      "summary": "Introduces the RICE prioritization model: reach, impact, confidence, and effort.",
+      "key_ideas": [
+        "prioritization",
+        "scoring",
+        "confidence weighting",
+        "product tradeoffs"
+      ],
+      "why_important": "A simple, durable prioritization framework for product roadmaps and startup decision-making.",
+      "who_for": "PMs, founders, operators",
+      "difficulty": "Beginner",
+      "credibility_score": 8,
+      "usefulness_score": 8,
+      "tags": [
+        "prioritization",
+        "product",
+        "framework",
+        "rice"
+      ],
+      "link": "https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/"
+    },
+    {
+      "category": "Product / Design",
+      "subcategory": "Design practice",
+      "title": "Design Sprint Masterclass",
+      "author_creator": "AJ&Smart",
+      "format": "Course",
+      "year": "2020s",
+      "source": "AJ&Smart",
+      "summary": "A guided 4-day design sprint training program with facilitation resources.",
+      "key_ideas": [
+        "rapid alignment",
+        "prototype testing",
+        "structured facilitation",
+        "decision making"
+      ],
+      "why_important": "Useful when teams need to compress debate into a fast, testable decision process.",
+      "who_for": "Designers, PMs, founders, facilitators",
+      "difficulty": "Beginner to Intermediate",
+      "credibility_score": 7,
+      "usefulness_score": 7,
+      "tags": [
+        "design sprint",
+        "facilitation",
+        "workshop",
+        "course"
+      ],
+      "link": "https://go.ajsmart.com/masterclass"
+    },
+    {
+      "category": "Software / Engineering",
+      "subcategory": "Refactoring",
+      "title": "Refactoring",
+      "author_creator": "Martin Fowler",
+      "format": "Book / reference",
+      "year": "1999",
+      "source": "MartinFowler.com",
+      "summary": "Defines refactoring as behavior-preserving improvement to the internal structure of code.",
+      "key_ideas": [
+        "behavior-preserving change",
+        "code health",
+        "small steps",
+        "design evolution"
+      ],
+      "why_important": "Essential for any team maintaining code over time.",
+      "who_for": "Engineers, engineering managers, senior ICs",
+      "difficulty": "Intermediate",
+      "credibility_score": 10,
+      "usefulness_score": 10,
+      "tags": [
+        "refactoring",
+        "code quality",
+        "martin fowler",
+        "book"
+      ],
+      "link": "https://martinfowler.com/refactoring/"
+    },
+    {
+      "category": "Software / Engineering",
+      "subcategory": "Legacy code",
+      "title": "Working Effectively with Legacy Code",
+      "author_creator": "Michael Feathers",
+      "format": "Book",
+      "year": "2004",
+      "source": "O'Reilly",
+      "summary": "A practical guide to safely changing existing codebases without rewriting everything.",
+      "key_ideas": [
+        "seams",
+        "characterization tests",
+        "cover and modify",
+        "surgical change"
+      ],
+      "why_important": "One of the most useful books for teams inheriting messy or fragile systems.",
+      "who_for": "Engineers, maintainers, platform teams",
+      "difficulty": "Advanced",
+      "credibility_score": 10,
+      "usefulness_score": 10,
+      "tags": [
+        "legacy code",
+        "testing",
+        "refactoring",
+        "book"
+      ],
+      "link": "https://www.oreilly.com/library/view/working-effectively-with/0131177052/"
+    },
+    {
+      "category": "Software / Engineering",
+      "subcategory": "Delivery systems",
+      "title": "Continuous Delivery",
+      "author_creator": "Martin Fowler",
+      "format": "Essay / book summary",
+      "year": "2013",
+      "source": "MartinFowler.com",
+      "summary": "Defines continuous delivery as building software so it can be released to production at any time.",
+      "key_ideas": [
+        "release readiness",
+        "deployment pipeline",
+        "small batches",
+        "operational discipline"
+      ],
+      "why_important": "A key mental model for product teams shipping frequently and safely.",
+      "who_for": "Engineers, DevOps, platform teams",
+      "difficulty": "Intermediate",
+      "credibility_score": 10,
+      "usefulness_score": 9,
+      "tags": [
+        "deployment",
+        "devops",
+        "release",
+        "continuous delivery"
+      ],
+      "link": "https://martinfowler.com/bliki/ContinuousDelivery.html"
+    },
+    {
+      "category": "Software / Engineering",
+      "subcategory": "General craft",
+      "title": "The Pragmatic Programmer",
+      "author_creator": "Andy Hunt, Dave Thomas",
+      "format": "Book",
+      "year": "2019",
+      "source": "O'Reilly / Addison-Wesley",
+      "summary": "A modern update to the software craft classic focused on practical, professional programming habits.",
+      "key_ideas": [
+        "pragmatism",
+        "tooling",
+        "text manipulation",
+        "continuous improvement"
+      ],
+      "why_important": "A durable craftsmanship text for individual developers and small teams.",
+      "who_for": "Engineers, technical founders, code reviewers",
+      "difficulty": "Intermediate",
+      "credibility_score": 10,
+      "usefulness_score": 9,
+      "tags": [
+        "software craft",
+        "engineering",
+        "pragmatic",
+        "book"
+      ],
+      "link": "https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/"
+    },
+    {
+      "category": "Software / Engineering",
+      "subcategory": "Architecture",
+      "title": "Patterns of Enterprise Application Architecture",
+      "author_creator": "Martin Fowler and collaborators",
+      "format": "Book / reference",
+      "year": "2002",
+      "source": "MartinFowler.com",
+      "summary": "A catalog of enterprise architecture patterns for layering, domain logic, persistence, and web applications.",
+      "key_ideas": [
+        "layering",
+        "ORM patterns",
+        "domain logic",
+        "architecture vocabulary"
+      ],
+      "why_important": "A strong language for discussing how larger software systems are composed.",
+      "who_for": "Architects, senior engineers, platform teams",
+      "difficulty": "Advanced",
+      "credibility_score": 10,
+      "usefulness_score": 8,
+      "tags": [
+        "architecture",
+        "patterns",
+        "enterprise",
+        "book"
+      ],
+      "link": "https://martinfowler.com/books/eaa.html"
+    },
+    {
+      "category": "Software / Engineering",
+      "subcategory": "Programming mindset",
+      "title": "The Pragmatic Programmer: chapter on plain text / knowledge",
+      "author_creator": "Andy Hunt, Dave Thomas",
+      "format": "Book excerpt",
+      "year": "2019",
+      "source": "O'Reilly",
+      "summary": "Emphasizes plain text as a durable, manipulable format for persistent knowledge.",
+      "key_ideas": [
+        "plain text",
+        "durable knowledge",
+        "tooling",
+        "automation"
+      ],
+      "why_important": "A great mindset for builders designing systems, notes, and workflows that need to outlive software fashions.",
+      "who_for": "Engineers, builders, note-takers",
+      "difficulty": "Beginner",
+      "credibility_score": 9,
+      "usefulness_score": 8,
+      "tags": [
+        "plain text",
+        "workflow",
+        "engineering",
+        "knowledge"
+      ],
+      "link": "https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/f_0035.xhtml"
+    },
+    {
+      "category": "Software / Engineering",
+      "subcategory": "Code quality",
+      "title": "Clean Code",
+      "author_creator": "Robert C. Martin",
+      "format": "Book",
+      "year": "2008",
+      "source": "Pearson",
+      "summary": "A guide to code readability, naming, structure, and professional programming habits.",
+      "key_ideas": [
+        "readability",
+        "naming",
+        "smells",
+        "case studies"
+      ],
+      "why_important": "Still widely cited as a reference point for code hygiene and craft, even when teams disagree on specifics.",
+      "who_for": "Engineers, code reviewers, tech leads",
+      "difficulty": "Intermediate",
+      "credibility_score": 8,
+      "usefulness_score": 8,
+      "tags": [
+        "clean code",
+        "craft",
+        "engineering",
+        "book"
+      ],
+      "link": "https://www.pearson.com/en-us/subject-catalog/p/clean-code-a-handbook-of-agile-software-craftsmanship/P200000009044/9780136083252"
+    },
+    {
+      "category": "Software / Engineering",
+      "subcategory": "Team practices",
+      "title": "The Clean Coder",
+      "author_creator": "Robert C. Martin",
+      "format": "Book",
+      "year": "2011",
+      "source": "Pearson",
+      "summary": "A code-of-conduct style book about professionalism, estimation, testing, and responsibility.",
+      "key_ideas": [
+        "professionalism",
+        "estimation",
+        "discipline",
+        "testing"
+      ],
+      "why_important": "Useful for junior-to-mid engineers learning the social side of software craft.",
+      "who_for": "Engineers, team leads",
+      "difficulty": "Intermediate",
+      "credibility_score": 7,
+      "usefulness_score": 7,
+      "tags": [
+        "professionalism",
+        "engineering",
+        "book",
+        "craft"
+      ],
+      "link": "https://www.pearson.com/en-us/subject-catalog/p/clean-coder-the-a-code-of-conduct-for-professional-programmers/P200000009045/9780132542883"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Lean startup",
+      "title": "The Lean Startup",
+      "author_creator": "Eric Ries",
+      "format": "Book",
+      "year": "2011",
+      "source": "Penguin Random House",
+      "summary": "Introduces build-measure-learn, MVPs, and pivot/persevere thinking for startups and innovative organizations.",
+      "key_ideas": [
+        "MVP",
+        "validated learning",
+        "pivot/persevere",
+        "innovation accounting"
+      ],
+      "why_important": "The defining framework for modern startup experimentation and product iteration.",
+      "who_for": "Founders, PMs, startup operators",
+      "difficulty": "Beginner",
+      "credibility_score": 10,
+      "usefulness_score": 10,
+      "tags": [
+        "lean startup",
+        "mvp",
+        "iteration",
+        "book"
+      ],
+      "link": "https://www.penguinrandomhouse.com/books/210088/the-lean-startup-by-eric-ries/"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Founder essays",
+      "title": "Essays by Paul Graham",
+      "author_creator": "Paul Graham / Y Combinator",
+      "format": "Essays",
+      "year": "Ongoing",
+      "source": "YC Library",
+      "summary": "A deep essay corpus on startup ideas, hiring, growth, fundraising, and founder psychology.",
+      "key_ideas": [
+        "doing things that don't scale",
+        "taste and ideas",
+        "founder mode thinking",
+        "startup edge cases"
+      ],
+      "why_important": "Still one of the sharpest public collections of startup thinking ever published.",
+      "who_for": "Founders, product leaders, investors",
+      "difficulty": "Intermediate",
+      "credibility_score": 9,
+      "usefulness_score": 10,
+      "tags": [
+        "paul graham",
+        "essays",
+        "yc",
+        "founders"
+      ],
+      "link": "https://www.ycombinator.com/library/carousel/Essays%20by%20Paul%20Graham"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Startup library",
+      "title": "YC Startup Library",
+      "author_creator": "Y Combinator",
+      "format": "Library",
+      "year": "2023",
+      "source": "Y Combinator",
+      "summary": "A consolidated library of startup essays, videos, and talks from YC on how to start and grow companies.",
+      "key_ideas": [
+        "founder advice",
+        "startup basics",
+        "fundraising",
+        "product-market fit"
+      ],
+      "why_important": "A high-signal living library from the most influential startup incubator in the world.",
+      "who_for": "Founders, early operators, venture studio teams",
+      "difficulty": "Beginner to Advanced",
+      "credibility_score": 9,
+      "usefulness_score": 10,
+      "tags": [
+        "yc",
+        "startup",
+        "founder advice",
+        "library"
+      ],
+      "link": "https://www.ycombinator.com/library"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Customer discovery",
+      "title": "The Mom Test",
+      "author_creator": "Rob Fitzpatrick",
+      "format": "Book",
+      "year": "2013",
+      "source": "The Mom Test",
+      "summary": "A compact guide to customer conversations that avoids flattering but useless feedback.",
+      "key_ideas": [
+        "problem interviews",
+        "ask about behavior",
+        "avoid compliments",
+        "truthful discovery"
+      ],
+      "why_important": "One of the most practical tools for real customer learning before you build.",
+      "who_for": "Founders, PMs, researchers",
+      "difficulty": "Beginner",
+      "credibility_score": 8,
+      "usefulness_score": 10,
+      "tags": [
+        "customer discovery",
+        "interviews",
+        "validation",
+        "book"
+      ],
+      "link": "https://www.momtestbook.com/"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Disruption theory",
+      "title": "The Innovator's Dilemma",
+      "author_creator": "Clayton M. Christensen",
+      "format": "Book",
+      "year": "1997",
+      "source": "Harvard Business Review Store",
+      "summary": "Explains how successful companies can fail when new technologies start in low-end or overlooked markets.",
+      "key_ideas": [
+        "disruptive innovation",
+        "incumbent failure",
+        "value networks",
+        "market framing"
+      ],
+      "why_important": "A foundational theory of innovation, strategy, and why new entrants beat incumbents.",
+      "who_for": "Founders, strategists, investors, executives",
+      "difficulty": "Intermediate",
+      "credibility_score": 10,
+      "usefulness_score": 9,
+      "tags": [
+        "disruption",
+        "strategy",
+        "innovation",
+        "book"
+      ],
+      "link": "https://store.hbr.org/product/the-innovator-s-dilemma-with-a-new-foreword-when-new-technologies-cause-great-firms-to-fail/10706"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Market adoption",
+      "title": "Crossing the Chasm",
+      "author_creator": "Geoffrey A. Moore",
+      "format": "Book",
+      "year": "2014",
+      "source": "HarperCollins",
+      "summary": "Describes the gap between early adopters and the mainstream market for breakthrough technology products.",
+      "key_ideas": [
+        "early market vs mainstream",
+        "whole product",
+        "beachhead market",
+        "category creation"
+      ],
+      "why_important": "Still essential for teams trying to move from niche enthusiasm to broad adoption.",
+      "who_for": "Founders, product marketers, GTM leads",
+      "difficulty": "Intermediate",
+      "credibility_score": 9,
+      "usefulness_score": 9,
+      "tags": [
+        "gtm",
+        "adoption",
+        "market entry",
+        "book"
+      ],
+      "link": "https://www.harpercollins.com/products/crossing-the-chasm-3rd-edition-geoffrey-a-moore"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Startup curriculum",
+      "title": "Startup School",
+      "author_creator": "Y Combinator",
+      "format": "Course",
+      "year": "2022",
+      "source": "Y Combinator",
+      "summary": "YC’s online course for founders, taught by YC partners and successful founders.",
+      "key_ideas": [
+        "company building",
+        "cofounders",
+        "MVPs",
+        "fundraising"
+      ],
+      "why_important": "A practical founder curriculum that compresses years of startup trial-and-error into structured lessons.",
+      "who_for": "First-time founders, incubators, venture studios",
+      "difficulty": "Beginner to Intermediate",
+      "credibility_score": 9,
+      "usefulness_score": 9,
+      "tags": [
+        "yc",
+        "course",
+        "founders",
+        "startup"
+      ],
+      "link": "https://www.ycombinator.com/blog/startup-school"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Founder reality",
+      "title": "The Hard Thing About Hard Things",
+      "author_creator": "Ben Horowitz",
+      "format": "Book",
+      "year": "2014",
+      "source": "HarperCollins",
+      "summary": "A blunt founder/CEO field guide to the hard parts of running technology companies.",
+      "key_ideas": [
+        "CEO loneliness",
+        "layoffs",
+        "management under pressure",
+        "wartime vs peacetime"
+      ],
+      "why_important": "One of the most honest books on the operational pain of building a company.",
+      "who_for": "Founders, executives, senior operators",
+      "difficulty": "Intermediate",
+      "credibility_score": 9,
+      "usefulness_score": 9,
+      "tags": [
+        "founder",
+        "management",
+        "operating",
+        "book"
+      ],
+      "link": "https://www.harpercollins.com/products/the-hard-thing-about-hard-things-ben-horowitz"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Startup advice",
+      "title": "YC's Essential Startup Advice",
+      "author_creator": "Y Combinator",
+      "format": "Essay collection",
+      "year": "2023",
+      "source": "YC Library",
+      "summary": "YC’s curated set of the most transformative startup guidance across its library.",
+      "key_ideas": [
+        "product-market fit",
+        "speed",
+        "founder focus",
+        "customer obsession"
+      ],
+      "why_important": "A ruthless shortlist of the advice YC considers most important.",
+      "who_for": "Founders, incubator teams, operators",
+      "difficulty": "Beginner to Intermediate",
+      "credibility_score": 9,
+      "usefulness_score": 9,
+      "tags": [
+        "yc",
+        "essential advice",
+        "startup",
+        "curated"
+      ],
+      "link": "https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Scaling",
+      "title": "Scaling Up Excellence",
+      "author_creator": "Robert I. Sutton, Huggy Rao",
+      "format": "Book",
+      "year": "2014",
+      "source": "Penguin Random House",
+      "summary": "A framework for preserving quality while growing teams and organizations.",
+      "key_ideas": [
+        "scale without dilution",
+        "local adaptation",
+        "organizational habits",
+        "excellence under growth"
+      ],
+      "why_important": "Very useful once a startup begins facing growth-induced friction.",
+      "who_for": "Founders, managers, operations leaders",
+      "difficulty": "Intermediate",
+      "credibility_score": 8,
+      "usefulness_score": 8,
+      "tags": [
+        "scaling",
+        "operations",
+        "growth",
+        "book"
+      ],
+      "link": "https://www.penguinrandomhouse.com/books/222302/scaling-up-excellence-by-robert-i-sutton-and-huggy-rao/"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Enterprise innovation",
+      "title": "The Startup Way",
+      "author_creator": "Eric Ries",
+      "format": "Book",
+      "year": "2017",
+      "source": "Penguin Random House",
+      "summary": "Extends Lean Startup principles to large organizations and continuous innovation systems.",
+      "key_ideas": [
+        "internal startups",
+        "continuous innovation",
+        "organizational design",
+        "entrepreneurial management"
+      ],
+      "why_important": "Useful for teams that need startup speed inside a larger company or studio.",
+      "who_for": "Operators, innovation leaders, venture studio builders",
+      "difficulty": "Intermediate",
+      "credibility_score": 8,
+      "usefulness_score": 8,
+      "tags": [
+        "innovation",
+        "enterprise",
+        "lean",
+        "book"
+      ],
+      "link": "https://www.penguinrandomhouse.com/books/250646/the-startup-way-by-eric-ries/"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Strategy",
+      "title": "Zero to One",
+      "author_creator": "Peter Thiel, Blake Masters",
+      "format": "Book",
+      "year": "2014",
+      "source": "Penguin Random House",
+      "summary": "A contrarian startup strategy book centered on monopoly, secrets, and creating new value rather than copying existing markets.",
+      "key_ideas": [
+        "monopoly",
+        "secrets",
+        "vertical progress",
+        "contrarian strategy"
+      ],
+      "why_important": "Still widely read because it frames startup strategy in memorable, debate-worthy terms.",
+      "who_for": "Founders, investors, strategy teams",
+      "difficulty": "Intermediate",
+      "credibility_score": 8,
+      "usefulness_score": 8,
+      "tags": [
+        "strategy",
+        "founders",
+        "monopoly",
+        "book"
+      ],
+      "link": "https://www.penguinrandomhouse.com/books/234730/zero-to-one-by-peter-thiel-with-blake-masters/"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Life and leadership",
+      "title": "How Will You Measure Your Life?",
+      "author_creator": "Clayton M. Christensen, James Allworth, Karen Dillon",
+      "format": "Book",
+      "year": "2012",
+      "source": "HarperCollins",
+      "summary": "A leadership and life framework that applies strategy thinking to personal and organizational choices.",
+      "key_ideas": [
+        "purpose",
+        "tradeoffs",
+        "leadership",
+        "long-term thinking"
+      ],
+      "why_important": "Useful as a grounding text for founders who are also thinking about character, meaning, and company culture.",
+      "who_for": "Founders, leaders, managers",
+      "difficulty": "Beginner",
+      "credibility_score": 8,
+      "usefulness_score": 7,
+      "tags": [
+        "leadership",
+        "culture",
+        "christensen",
+        "book"
+      ],
+      "link": "https://www.harpercollins.com/products/how-will-you-measure-your-life-clayton-m-christensenjames-allworthkaren-dillon"
+    },
+    {
+      "category": "Startup / Business",
+      "subcategory": "Enterprise transformation",
+      "title": "What You Do Is Who You Are",
+      "author_creator": "Ben Horowitz",
+      "format": "Book",
+      "year": "2019",
+      "source": "HarperCollins",
+      "summary": "A book on company culture using history, examples, and practical advice for executives.",
+      "key_ideas": [
+        "culture",
+        "behavior",
+        "organizational identity",
+        "leadership"
+      ],
+      "why_important": "Helpful for leaders designing the norms and habits of a venture studio or startup team.",
+      "who_for": "Founders, executives, team leads",
+      "difficulty": "Intermediate",
+      "credibility_score": 8,
+      "usefulness_score": 7,
+      "tags": [
+        "culture",
+        "leadership",
+        "organization",
+        "book"
+      ],
+      "link": "https://www.harpercollins.com/products/what-you-do-is-who-you-are-ben-horowitz"
+    }
+  ],
+  "strategic_map": {
+    "core_library": [
+      "CS229: Machine Learning",
+      "CS231n: Deep Learning for Computer Vision",
+      "CS224N: Natural Language Processing with Deep Learning",
+      "Attention Is All You Need",
+      "Deep Residual Learning for Image Recognition",
+      "Training Compute-Optimal Large Language Models",
+      "GPT-4 Technical Report",
+      "Artificial Intelligence Index Report 2024",
+      "YC Startup Library",
+      "Startup School",
+      "Essays by Paul Graham",
+      "The Lean Startup",
+      "The Mom Test",
+      "The Innovator's Dilemma",
+      "Inspired",
+      "Continuous Discovery Habits",
+      "Shape Up",
+      "10 Usability Heuristics for User Interface Design",
+      "The Design of Everyday Things",
+      "The Pragmatic Programmer",
+      "Refactoring",
+      "Continuous Delivery",
+      "Working Effectively with Legacy Code",
+      "Triumph of the Nerds",
+      "Computer History Museum Oral Histories",
+      "The Innovators"
+    ],
+    "optional_deep_dive": [
+      "The Startup Way",
+      "The Hard Thing About Hard Things",
+      "Zero to One",
+      "RICE: Simple prioritization for product managers",
+      "Design Sprint Masterclass",
+      "The Clean Coder",
+      "Patterns of Enterprise Application Architecture",
+      "Scaling Up Excellence",
+      "How Will You Measure Your Life?",
+      "What You Do Is Who You Are",
+      "The Playbook: Lessons from 200+ Company Stories",
+      "Inside Apple Software Design"
+    ],
+    "historically_important_but_dated": [
+      "Triumph of the Nerds",
+      "The Innovator's Dilemma",
+      "Crossing the Chasm",
+      "The Design of Everyday Things",
+      "Clean Code",
+      "The Lean Startup"
+    ],
+    "missing_from_current_corpus": [
+      "Security and privacy for startups and AI products",
+      "Data engineering and analytics operating systems",
+      "AI product evaluation, red teaming, and safety playbooks",
+      "Pricing and monetization in SaaS and AI-native products",
+      "Distributed systems and infra economics for small teams",
+      "Sales, founder-led GTM, and enterprise procurement",
+      "Design systems, content design, and accessibility at scale",
+      "Legal/compliance for startups and AI deployment"
+    ]
+  },
+  "top_25_essential_items": [
+    "CS229: Machine Learning",
+    "CS231n: Deep Learning for Computer Vision",
+    "CS224N: Natural Language Processing with Deep Learning",
+    "Attention Is All You Need",
+    "GPT-4 Technical Report",
+    "Artificial Intelligence Index Report 2024",
+    "YC Startup Library",
+    "Startup School",
+    "Essays by Paul Graham",
+    "The Lean Startup",
+    "The Mom Test",
+    "The Innovator's Dilemma",
+    "Inspired",
+    "Continuous Discovery Habits",
+    "Shape Up",
+    "The Design of Everyday Things",
+    "10 Usability Heuristics for User Interface Design",
+    "The Pragmatic Programmer",
+    "Refactoring",
+    "Continuous Delivery",
+    "Working Effectively with Legacy Code",
+    "Triumph of the Nerds",
+    "Computer History Museum Oral Histories",
+    "The Innovators",
+    "Inside Apple Software Design"
+  ],
+  "learning_paths": {
+    "startup_team": [
+      "YC Startup School",
+      "The Lean Startup",
+      "The Mom Test",
+      "Essays by Paul Graham",
+      "Inspired",
+      "Shape Up",
+      "The Hard Thing About Hard Things",
+      "The Innovator's Dilemma",
+      "Acquired: The Playbook"
+    ],
+    "ai_engineering_team": [
+      "CS229: Machine Learning",
+      "CS231n: Deep Learning for Computer Vision",
+      "CS224N: Natural Language Processing with Deep Learning",
+      "Attention Is All You Need",
+      "Deep Residual Learning for Image Recognition",
+      "Training Compute-Optimal Large Language Models",
+      "GPT-4 Technical Report",
+      "Artificial Intelligence Index Report 2024",
+      "Continuous Delivery",
+      "Working Effectively with Legacy Code"
+    ],
+    "design_team": [
+      "The Design of Everyday Things",
+      "10 Usability Heuristics for User Interface Design",
+      "Design Thinking: Human-Centered Innovation",
+      "Continuous Discovery Habits",
+      "RICE: Simple prioritization for product managers",
+      "Design Sprint Masterclass",
+      "Inside Apple Software Design"
+    ],
+    "brief_theme": "The library moves from understanding how technology works, to how products are discovered and shipped, to how companies are built and scaled, then back through the history that explains why the current stack looks the way it does."
+  }
+}

@@ -1,0 +1,3019 @@
+{
+  "meta": {
+    "name": "Tech Research Knowledge Base",
+    "description": "A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.",
+    "version": "1.5.0",
+    "generated_from": "indexes/master.json",
+    "last_updated": "2026-06-23",
+    "maintainers": [
+      "maithammohamed@outlook.com"
+    ],
+    "schema_version": 1,
+    "score_scale": "1-10 (10 = highest)",
+    "status_values": [
+      "raw",
+      "reviewed",
+      "recommended",
+      "core"
+    ],
+    "note": "This file is the source of truth. Cards, hubs, indexes, and exports are generated from it via tools/generate.py. Edit data here, then regenerate."
+  },
+  "items": [
+    {
+      "id": "karpathy-zero-to-hero",
+      "title": "Neural Networks: Zero to Hero",
+      "creator": "Andrej Karpathy",
+      "year": 2023,
+      "format": "Course (Video)",
+      "category": "AI Foundations",
+      "subcategory": "Hands-on Learning",
+      "summary": "A free, code-first lecture series building neural networks and a GPT from scratch in Python, including the famous 'Let's build GPT' walkthrough. You write every line and understand every step.",
+      "key_takeaways": [
+        "Build autograd, language models, and a working GPT from first principles in code.",
+        "Demystifies tokenization, attention, and training loops by implementing them.",
+        "The best practical bridge from 'I read the papers' to 'I can build it.'"
+      ],
+      "why_it_matters": "The definitive hands-on path to genuinely understanding modern LLMs by building one yourself.",
+      "audience_fit": "Engineers and builders comfortable with Python who want depth.",
+      "difficulty": "Advanced",
+      "tags": [
+        "llms",
+        "hands-on",
+        "gpt",
+        "pytorch",
+        "course"
+      ],
+      "source_link": "https://karpathy.ai/zero-to-hero.html",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "core"
+    },
+    {
+      "id": "designing-data-intensive-applications",
+      "title": "Designing Data-Intensive Applications",
+      "creator": "Martin Kleppmann",
+      "year": 2017,
+      "format": "Book",
+      "category": "Engineering and Systems",
+      "subcategory": "Distributed Systems",
+      "summary": "A rigorous, readable book on the fundamentals of storing and processing data at scale: replication, partitioning, consistency, consensus, batch and stream processing. The modern reference for backend and data engineers.",
+      "key_takeaways": [
+        "Deeply explains the trade-offs behind databases, replication, and consistency models.",
+        "Connects academic distributed-systems theory to real engineering decisions.",
+        "Builds durable judgment about data systems rather than tool-specific trivia."
+      ],
+      "why_it_matters": "The single most recommended systems book for backend engineers in the last decade.",
+      "audience_fit": "Backend, data, and platform engineers.",
+      "difficulty": "Advanced",
+      "tags": [
+        "distributed-systems",
+        "databases",
+        "data-engineering",
+        "systems-design"
+      ],
+      "source_link": "https://dataintensive.net/",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "core"
+    },
+    {
+      "id": "software-is-changing-again",
+      "title": "Software Is Changing (Again)",
+      "creator": "Andrej Karpathy",
+      "year": 2025,
+      "format": "Talk",
+      "category": "AI in Practice",
+      "subcategory": "AI software paradigm",
+      "summary": "A modern framing of Software 1.0, 2.0, and 3.0, arguing that natural language and LLMs are reshaping how software gets authored and operated.",
+      "key_takeaways": [
+        "Software 1.0/2.0/3.0",
+        "LLMs as programmable systems",
+        "English as an interface",
+        "Agents as software units"
+      ],
+      "why_it_matters": "This is one of the best current conceptual maps for AI-native product teams.",
+      "audience_fit": "Founders, AI engineers, product teams",
+      "difficulty": "Intermediate",
+      "tags": [
+        "Software 3.0",
+        "LLMs",
+        "agents",
+        "Karpathy"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=vDWaKVmqznQ",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "core",
+      "venue": "Y Combinator",
+      "runtime": "45:07"
+    },
+    {
+      "id": "artificial-intelligence-index-report-2024",
+      "title": "Artificial Intelligence Index Report 2024",
+      "creator": "Stanford HAI / AI Index Steering Committee",
+      "year": 2024,
+      "format": "Report",
+      "category": "AI in Practice",
+      "subcategory": "State of the field",
+      "summary": "A data-rich annual report tracking technical progress, investment, public perception, policy, and societal impact in AI.",
+      "key_takeaways": [
+        "AI trends",
+        "investment and adoption",
+        "responsible AI",
+        "cross-country benchmarking"
+      ],
+      "why_it_matters": "Best single macro reference for how the AI field is changing year to year.",
+      "audience_fit": "Founders, investors, strategists, researchers",
+      "difficulty": "Intermediate",
+      "tags": [
+        "ai index",
+        "trend report",
+        "stanford",
+        "policy"
+      ],
+      "source_link": "https://hai.stanford.edu/ai-index/2024-ai-index-report",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "core",
+      "venue": "Stanford HAI"
+    },
+    {
+      "id": "cs224n-natural-language-processing-with-deep-learning",
+      "title": "CS224N: Natural Language Processing with Deep Learning",
+      "creator": "Stanford University",
+      "year": 2023,
+      "format": "Course",
+      "category": "AI Foundations",
+      "subcategory": "NLP and LLMs",
+      "summary": "A thorough introduction to deep learning for NLP, including the fundamentals behind modern large language models.",
+      "key_takeaways": [
+        "NLP foundations",
+        "deep learning for language",
+        "LLM intuition",
+        "PyTorch implementation"
+      ],
+      "why_it_matters": "One of the cleanest public paths from NLP basics to the architecture and training ideas behind LLMs.",
+      "audience_fit": "AI engineers, technical founders, ML product teams",
+      "difficulty": "Advanced",
+      "tags": [
+        "nlp",
+        "llms",
+        "stanford",
+        "deep learning"
+      ],
+      "source_link": "https://web.stanford.edu/class/cs224n/",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "core",
+      "venue": "Stanford CS224n"
+    },
+    {
+      "id": "10-usability-heuristics-for-user-interface-design",
+      "title": "10 Usability Heuristics for User Interface Design",
+      "creator": "Jakob Nielsen / Nielsen Norman Group",
+      "year": 1994,
+      "format": "Essay / framework",
+      "category": "Product and Design",
+      "subcategory": "Usability",
+      "summary": "A canonical heuristic checklist for identifying and evaluating usability issues in interfaces.",
+      "key_takeaways": [
+        "visibility of system status",
+        "match with the real world",
+        "error prevention",
+        "consistency"
+      ],
+      "why_it_matters": "Still one of the most portable and field-tested design evaluation frameworks.",
+      "audience_fit": "Designers, PMs, UX researchers",
+      "difficulty": "Beginner",
+      "tags": [
+        "usability",
+        "heuristics",
+        "ux",
+        "framework"
+      ],
+      "source_link": "https://www.nngroup.com/articles/ten-usability-heuristics/",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "core",
+      "venue": "Nielsen Norman Group"
+    },
+    {
+      "id": "refactoring",
+      "title": "Refactoring",
+      "creator": "Martin Fowler",
+      "year": 1999,
+      "format": "Book / reference",
+      "category": "Engineering and Systems",
+      "subcategory": "Refactoring",
+      "summary": "Defines refactoring as behavior-preserving improvement to the internal structure of code.",
+      "key_takeaways": [
+        "behavior-preserving change",
+        "code health",
+        "small steps",
+        "design evolution"
+      ],
+      "why_it_matters": "Essential for any team maintaining code over time.",
+      "audience_fit": "Engineers, engineering managers, senior ICs",
+      "difficulty": "Intermediate",
+      "tags": [
+        "refactoring",
+        "code quality",
+        "martin fowler",
+        "book"
+      ],
+      "source_link": "https://martinfowler.com/refactoring/",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "core",
+      "venue": "MartinFowler.com"
+    },
+    {
+      "id": "the-lean-startup",
+      "title": "The Lean Startup",
+      "creator": "Eric Ries",
+      "year": 2011,
+      "format": "Book",
+      "category": "Startup History",
+      "subcategory": "Lean startup",
+      "summary": "Introduces build-measure-learn, MVPs, and pivot/persevere thinking for startups and innovative organizations.",
+      "key_takeaways": [
+        "MVP",
+        "validated learning",
+        "pivot/persevere",
+        "innovation accounting"
+      ],
+      "why_it_matters": "The defining framework for modern startup experimentation and product iteration.",
+      "audience_fit": "Founders, PMs, startup operators",
+      "difficulty": "Beginner",
+      "tags": [
+        "lean startup",
+        "mvp",
+        "iteration",
+        "book"
+      ],
+      "source_link": "https://www.penguinrandomhouse.com/books/210088/the-lean-startup-by-eric-ries/",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "core",
+      "venue": "Penguin Random House"
+    },
+    {
+      "id": "attention-is-all-you-need",
+      "title": "Attention Is All You Need",
+      "creator": "Ashish Vaswani et al. (Google)",
+      "year": 2017,
+      "format": "Paper",
+      "category": "AI Foundations",
+      "subcategory": "Deep Learning Architectures",
+      "summary": "The paper that introduced the Transformer, an architecture built entirely on attention mechanisms with no recurrence or convolution. It became the foundation for virtually every modern large language model.",
+      "key_takeaways": [
+        "Self-attention lets a model weigh relationships between all tokens in a sequence in parallel.",
+        "Removing recurrence made training dramatically more parallelizable and scalable.",
+        "The architecture generalized far beyond translation into the backbone of GPT, BERT, and modern LLMs."
+      ],
+      "why_it_matters": "Almost everything in the current AI wave traces back to this architecture. Reading it is the single best way to understand what an LLM actually is.",
+      "audience_fit": "Engineers, ML practitioners, technically curious founders.",
+      "difficulty": "Advanced",
+      "tags": [
+        "transformers",
+        "attention",
+        "nlp",
+        "foundational-paper",
+        "llms"
+      ],
+      "source_link": "https://arxiv.org/abs/1706.03762",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "core"
+    },
+    {
+      "id": "3blue1brown-neural-networks",
+      "title": "Neural Networks (video series)",
+      "creator": "Grant Sanderson (3Blue1Brown)",
+      "year": 2017,
+      "format": "Video Series",
+      "category": "AI Foundations",
+      "subcategory": "Visual Explainers",
+      "summary": "A beautifully animated video series that builds visual intuition for how neural networks learn, what gradient descent does, and how backpropagation works, all from first principles.",
+      "key_takeaways": [
+        "Neural networks are layered functions that transform inputs into outputs.",
+        "Gradient descent and backpropagation are made visually intuitive, not just symbolic.",
+        "The best on-ramp for understanding the math without drowning in it."
+      ],
+      "why_it_matters": "The single most effective way for a beginner to truly 'get' what a neural network is doing.",
+      "audience_fit": "Beginners, designers, founders, anyone who learns visually.",
+      "difficulty": "Beginner",
+      "tags": [
+        "neural-networks",
+        "explainer",
+        "visual-learning",
+        "gradient-descent"
+      ],
+      "source_link": "https://www.3blue1brown.com/topics/neural-networks",
+      "credibility": 9,
+      "usefulness": 10,
+      "status": "core"
+    },
+    {
+      "id": "before-the-startup",
+      "title": "Before the Startup",
+      "creator": "Paul Graham",
+      "year": 2014,
+      "format": "Recorded lecture",
+      "category": "Founder Mental Models",
+      "subcategory": "Founding phase",
+      "summary": "A founder-centric lecture on how to think before you start: how ideas emerge, how founders get misled, and how to choose problems.",
+      "key_takeaways": [
+        "Good ideas are rare",
+        "Curiosity beats brainstorming",
+        "Founders need taste and judgment",
+        "Early choices shape the company"
+      ],
+      "why_it_matters": "Paul Graham's influence on startup thinking is foundational, and this lecture shows the pre-company mental model YC pushes.",
+      "audience_fit": "Founders, pre-founders, investors",
+      "difficulty": "Beginner",
+      "tags": [
+        "idea generation",
+        "YC",
+        "founder mindset",
+        "Paul Graham"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=ii1jcLg-eIQ",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "recommended",
+      "venue": "Y Combinator / Stanford CS183F",
+      "runtime": "48:21"
+    },
+    {
+      "id": "continuous-discovery-habits",
+      "title": "Continuous Discovery Habits",
+      "creator": "Teresa Torres",
+      "year": 2021,
+      "format": "Book",
+      "category": "Product and Design",
+      "subcategory": "Continuous discovery",
+      "summary": "A system for weekly customer touchpoints, small research activities, and evidence-based product decisions.",
+      "key_takeaways": [
+        "weekly discovery",
+        "opportunity mapping",
+        "assumption testing",
+        "outcome focus"
+      ],
+      "why_it_matters": "The clearest public framework for making product discovery continuous rather than occasional.",
+      "audience_fit": "PMs, designers, product researchers",
+      "difficulty": "Intermediate",
+      "tags": [
+        "discovery",
+        "customer research",
+        "product",
+        "book"
+      ],
+      "source_link": "https://www.producttalk.org/continuous-discovery-habits/",
+      "credibility": 9,
+      "usefulness": 10,
+      "status": "core",
+      "venue": "Product Talk"
+    },
+    {
+      "id": "working-effectively-with-legacy-code",
+      "title": "Working Effectively with Legacy Code",
+      "creator": "Michael Feathers",
+      "year": 2004,
+      "format": "Book",
+      "category": "Engineering and Systems",
+      "subcategory": "Legacy code",
+      "summary": "A practical guide to safely changing existing codebases without rewriting everything.",
+      "key_takeaways": [
+        "seams",
+        "characterization tests",
+        "cover and modify",
+        "surgical change"
+      ],
+      "why_it_matters": "One of the most useful books for teams inheriting messy or fragile systems.",
+      "audience_fit": "Engineers, maintainers, platform teams",
+      "difficulty": "Advanced",
+      "tags": [
+        "legacy code",
+        "testing",
+        "refactoring",
+        "book"
+      ],
+      "source_link": "https://www.oreilly.com/library/view/working-effectively-with/0131177052/",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "recommended",
+      "venue": "O'Reilly"
+    },
+    {
+      "id": "the-pragmatic-programmer",
+      "title": "The Pragmatic Programmer",
+      "creator": "Andy Hunt, Dave Thomas",
+      "year": 2019,
+      "format": "Book",
+      "category": "Engineering and Systems",
+      "subcategory": "General craft",
+      "summary": "A modern update to the software craft classic focused on practical, professional programming habits.",
+      "key_takeaways": [
+        "pragmatism",
+        "tooling",
+        "text manipulation",
+        "continuous improvement"
+      ],
+      "why_it_matters": "A durable craftsmanship text for individual developers and small teams.",
+      "audience_fit": "Engineers, technical founders, code reviewers",
+      "difficulty": "Intermediate",
+      "tags": [
+        "software craft",
+        "engineering",
+        "pragmatic",
+        "book"
+      ],
+      "source_link": "https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "core",
+      "venue": "O'Reilly / Addison-Wesley"
+    },
+    {
+      "id": "the-innovator-s-dilemma",
+      "title": "The Innovator's Dilemma",
+      "creator": "Clayton M. Christensen",
+      "year": 1997,
+      "format": "Book",
+      "category": "Startup History",
+      "subcategory": "Disruption theory",
+      "summary": "Explains how successful companies can fail when new technologies start in low-end or overlooked markets.",
+      "key_takeaways": [
+        "disruptive innovation",
+        "incumbent failure",
+        "value networks",
+        "market framing"
+      ],
+      "why_it_matters": "A foundational theory of innovation, strategy, and why new entrants beat incumbents.",
+      "audience_fit": "Founders, strategists, investors, executives",
+      "difficulty": "Intermediate",
+      "tags": [
+        "disruption",
+        "strategy",
+        "innovation",
+        "book"
+      ],
+      "source_link": "https://store.hbr.org/product/the-innovator-s-dilemma-with-a-new-foreword-when-new-technologies-cause-great-firms-to-fail/10706",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "core",
+      "venue": "Harvard Business Review Store"
+    },
+    {
+      "id": "the-bitter-lesson",
+      "title": "The Bitter Lesson",
+      "creator": "Richard Sutton",
+      "year": 2019,
+      "format": "Essay",
+      "category": "AI Foundations",
+      "subcategory": "Research Philosophy",
+      "summary": "A short, influential essay arguing that across 70 years of AI research, general methods that leverage computation (search and learning) consistently beat approaches that build in human knowledge. The 'bitter' part is how often researchers resist this.",
+      "key_takeaways": [
+        "General methods that scale with compute beat hand-crafted human knowledge over time.",
+        "Building in our own understanding feels good short-term but caps long-term progress.",
+        "Bet on learning and search, not on encoding domain expertise."
+      ],
+      "why_it_matters": "A two-page mental model that explains the trajectory of modern AI and why scaling worked.",
+      "audience_fit": "Founders, researchers, anyone making AI strategy bets.",
+      "difficulty": "Beginner",
+      "tags": [
+        "scaling",
+        "research-philosophy",
+        "compute",
+        "must-read-essay"
+      ],
+      "source_link": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "core"
+    },
+    {
+      "id": "software-2-0",
+      "title": "Software 2.0",
+      "creator": "Andrej Karpathy",
+      "year": 2017,
+      "format": "Essay",
+      "category": "AI in Practice",
+      "subcategory": "AI Engineering Mindset",
+      "summary": "An essay reframing neural networks as a new kind of software: instead of writing explicit code, you curate datasets and let optimization write the program in weight-space. It reshapes how to think about building with ML.",
+      "key_takeaways": [
+        "In 'Software 2.0', datasets and optimization replace hand-written logic.",
+        "The job shifts from writing code to shaping data and objectives.",
+        "Has profound implications for tooling, testing, and how teams are structured."
+      ],
+      "why_it_matters": "A clarifying mental model for anyone building AI products — it changes what 'programming' means.",
+      "audience_fit": "Engineers, founders, product leaders working with AI.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "ai-engineering",
+        "mental-model",
+        "ml-systems",
+        "must-read-essay"
+      ],
+      "source_link": "https://karpathy.medium.com/software-2-0-a64152b37c35",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "core"
+    },
+    {
+      "id": "hard-thing-about-hard-things",
+      "title": "The Hard Thing About Hard Things",
+      "creator": "Ben Horowitz",
+      "year": 2014,
+      "format": "Book",
+      "category": "Startup History",
+      "subcategory": "Operating a Company",
+      "summary": "A blunt, experience-driven book on the brutal parts of running a company that no one prepares you for: layoffs, near-death moments, demoting friends, and making decisions with no good options.",
+      "key_takeaways": [
+        "There are no recipes for the hardest leadership decisions — only judgment under pressure.",
+        "Honest about the psychological toll of being a CEO.",
+        "Practical wisdom on management, hiring, and surviving crises."
+      ],
+      "why_it_matters": "The definitive read on the operational and emotional reality of leading a startup.",
+      "audience_fit": "Founders, CEOs, operators.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "startups",
+        "leadership",
+        "management",
+        "operating"
+      ],
+      "source_link": "https://www.harpercollins.com/products/the-hard-thing-about-hard-things-ben-horowitz",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "core"
+    },
+    {
+      "id": "how-to-start-a-startup-cs183b",
+      "title": "How to Start a Startup (Stanford CS183B)",
+      "creator": "Sam Altman, Y Combinator, et al.",
+      "year": 2014,
+      "format": "Lecture Series",
+      "category": "Startup History",
+      "subcategory": "Startup Curriculum",
+      "summary": "A free Stanford lecture series organized by Y Combinator, with talks from Sam Altman, Paul Graham, Peter Thiel, Marc Andreessen, and others covering ideas, teams, product, growth, and fundraising.",
+      "key_takeaways": [
+        "A structured curriculum covering the full arc of starting a company.",
+        "Direct advice from people who built and funded major startups.",
+        "Free and self-paced — effectively a startup mini-degree."
+      ],
+      "why_it_matters": "The most comprehensive free startup curriculum, taught by the people who define the field.",
+      "audience_fit": "First-time founders and anyone learning how startups work.",
+      "difficulty": "Beginner",
+      "tags": [
+        "startups",
+        "y-combinator",
+        "curriculum",
+        "lectures"
+      ],
+      "source_link": "https://startupclass.samaltman.com/",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "core"
+    },
+    {
+      "id": "do-things-that-dont-scale",
+      "title": "Do Things That Don't Scale",
+      "creator": "Paul Graham",
+      "year": 2013,
+      "format": "Essay",
+      "category": "Founder Mental Models",
+      "subcategory": "Early-stage Tactics",
+      "summary": "A Paul Graham essay arguing that early-stage founders should do manual, unscalable things — personally recruiting users, delivering delight by hand — because that's how startups actually get their first traction.",
+      "key_takeaways": [
+        "Recruit your first users one by one; don't wait for growth to be automatic.",
+        "Deliver an overwhelmingly good experience to a few users early.",
+        "Startups don't take off by themselves — founders push them up the hill."
+      ],
+      "why_it_matters": "Corrects the most common early-founder mistake: waiting to scale before earning traction.",
+      "audience_fit": "Early-stage founders.",
+      "difficulty": "Beginner",
+      "tags": [
+        "startups",
+        "growth",
+        "early-stage",
+        "must-read-essay"
+      ],
+      "source_link": "https://paulgraham.com/ds.html",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "core"
+    },
+    {
+      "id": "how-to-do-great-work",
+      "title": "How to Do Great Work",
+      "creator": "Paul Graham",
+      "year": 2023,
+      "format": "Essay",
+      "category": "Founder Mental Models",
+      "subcategory": "Career & Craft",
+      "summary": "A long essay distilling what people who do great work tend to have in common: working on things you're genuinely curious about, the discipline to follow that curiosity, and the courage to work on ambitious problems.",
+      "key_takeaways": [
+        "Great work usually comes from deep curiosity, not forced ambition.",
+        "Choose problems at the intersection of what you're interested in and what's important.",
+        "Consistency, taste, and the willingness to look stupid compound over time."
+      ],
+      "why_it_matters": "A modern, comprehensive guide to building an ambitious, meaningful career in any field.",
+      "audience_fit": "Anyone serious about doing meaningful work — universal.",
+      "difficulty": "Beginner",
+      "tags": [
+        "career",
+        "ambition",
+        "curiosity",
+        "must-read-essay"
+      ],
+      "source_link": "https://paulgraham.com/greatwork.html",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "core"
+    },
+    {
+      "id": "hamming-you-and-your-research",
+      "title": "You and Your Research",
+      "creator": "Richard Hamming",
+      "year": 1986,
+      "format": "Talk",
+      "category": "Founder Mental Models",
+      "subcategory": "Doing Important Work",
+      "summary": "A famous Bell Labs talk on why some scientists do Nobel-caliber work and others don't. Hamming argues it's less about raw genius and more about courage, working on important problems, and managing yourself.",
+      "key_takeaways": [
+        "Work on important problems — most people avoid them.",
+        "Open doors and ambient curiosity compound into great work over years.",
+        "Self-management, courage, and how you handle 'the system' matter enormously."
+      ],
+      "why_it_matters": "A timeless meditation on how to aim a career at work that actually matters.",
+      "audience_fit": "Researchers, engineers, founders — anyone ambitious.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "research",
+        "career",
+        "great-work",
+        "classic-talk"
+      ],
+      "source_link": "https://www.cs.virginia.edu/~robins/YouAndYourResearch.html",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "core"
+    },
+    {
+      "id": "design-of-everyday-things",
+      "title": "The Design of Everyday Things",
+      "creator": "Don Norman",
+      "year": 1988,
+      "format": "Book",
+      "category": "Product and Design",
+      "subcategory": "Design Principles",
+      "summary": "The foundational text of user-centered design, introducing affordances, signifiers, mapping, and feedback. It teaches you to blame bad design, not users, and to see the designed world everywhere.",
+      "key_takeaways": [
+        "Good design makes the right action obvious; bad design blames the user.",
+        "Affordances, signifiers, feedback, and mapping are core design vocabulary.",
+        "Usability is a property you can reason about, not an accident."
+      ],
+      "why_it_matters": "The book that defined human-centered design and gave the field its shared language.",
+      "audience_fit": "Designers, product people, engineers, founders — universal.",
+      "difficulty": "Beginner",
+      "tags": [
+        "design",
+        "ux",
+        "usability",
+        "human-centered-design"
+      ],
+      "source_link": "https://mitpress.mit.edu/9780262525671/the-design-of-everyday-things/",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "core"
+    },
+    {
+      "id": "pg-how-to-raise-money",
+      "title": "How to Raise Money",
+      "creator": "Paul Graham",
+      "year": 2013,
+      "format": "Essay",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Fundraising Tactics",
+      "summary": "A detailed Paul Graham essay on the mechanics and psychology of raising a seed round: getting to a strong position first, talking to investors in parallel, managing momentum, and not letting fundraising consume the company.",
+      "key_takeaways": [
+        "Raise from a position of strength; be default-alive, not desperate.",
+        "Pursue investors in parallel to create real momentum.",
+        "Fundraising is a distraction — get it done and get back to building."
+      ],
+      "why_it_matters": "One of the clearest practical guides to seed fundraising from someone who's seen thousands of rounds.",
+      "audience_fit": "Founders raising or about to raise.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "fundraising",
+        "seed",
+        "venture-capital",
+        "must-read-essay"
+      ],
+      "source_link": "https://paulgraham.com/fr.html",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "core"
+    },
+    {
+      "id": "openai-devday-opening-keynote",
+      "title": "OpenAI DevDay: Opening Keynote",
+      "creator": "Sam Altman and OpenAI",
+      "year": 2023,
+      "format": "Keynote",
+      "category": "AI in Practice",
+      "subcategory": "AI product launch",
+      "summary": "OpenAI's first developer conference keynote, where major platform shifts for building with models were introduced.",
+      "key_takeaways": [
+        "Platform shift",
+        "Developer tooling",
+        "Model capability jumps",
+        "App ecosystem creation"
+      ],
+      "why_it_matters": "It marked a major transition from AI demos to AI platform strategy.",
+      "audience_fit": "AI founders, engineers, product leaders",
+      "difficulty": "Intermediate",
+      "tags": [
+        "OpenAI",
+        "developer platform",
+        "AI products",
+        "keynote"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=U9mJuUkhUzk",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "OpenAI",
+      "runtime": "45:36"
+    },
+    {
+      "id": "tim-brown-from-design-to-design-thinking",
+      "title": "Tim Brown - From Design to Design Thinking",
+      "creator": "Tim Brown",
+      "year": 2009,
+      "format": "Talk",
+      "category": "Product and Design",
+      "subcategory": "Design thinking",
+      "summary": "A classic introduction to design thinking as a human-centered approach that links desirability, viability, and feasibility.",
+      "key_takeaways": [
+        "Human-centered innovation",
+        "Prototype early",
+        "Design is a process",
+        "Complex problems need iterative exploration"
+      ],
+      "why_it_matters": "It helped define the language of modern product/design collaboration.",
+      "audience_fit": "Designers, PMs, founders",
+      "difficulty": "Beginner",
+      "tags": [
+        "design thinking",
+        "IDEO",
+        "human-centered design",
+        "innovation"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=sq8EFbYBtOA",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "Transform 2009 / Mayo Clinic Center for Innovation",
+      "runtime": "~18 min"
+    },
+    {
+      "id": "the-three-ways-that-good-design-makes-you-happy",
+      "title": "The three ways that good design makes you happy",
+      "creator": "Don Norman",
+      "year": 2003,
+      "format": "Talk",
+      "category": "Product and Design",
+      "subcategory": "Usability",
+      "summary": "A foundational talk on emotional design, showing why useful products still fail if they are not emotionally intelligible or pleasurable.",
+      "key_takeaways": [
+        "Emotion affects usability",
+        "Good design works at multiple levels",
+        "Pleasure and function reinforce each other"
+      ],
+      "why_it_matters": "It remains a concise bridge between psychology and product craft.",
+      "audience_fit": "Designers, PMs, product-minded engineers",
+      "difficulty": "Beginner",
+      "tags": [
+        "Don Norman",
+        "emotional design",
+        "UX",
+        "usability"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=RlQEoJaLQRA",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "TED",
+      "runtime": "~20 min"
+    },
+    {
+      "id": "steve-jobs-introduces-the-macintosh",
+      "title": "Steve Jobs Introduces the Macintosh",
+      "creator": "Steve Jobs",
+      "year": 1984,
+      "format": "Historical keynote",
+      "category": "Internet and Big Tech History",
+      "subcategory": "Personal computing",
+      "summary": "The famous Macintosh unveiling, a defining product launch that shows how narrative, reveal, and product demo can become culture.",
+      "key_takeaways": [
+        "Product theater",
+        "Demo as persuasion",
+        "Computing for humans",
+        "Category making"
+      ],
+      "why_it_matters": "It is one of the most important product launch recordings ever made.",
+      "audience_fit": "Founders, product teams, designers",
+      "difficulty": "Beginner",
+      "tags": [
+        "Apple",
+        "product launch",
+        "Steve Jobs",
+        "demo"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=1tQ5XwvjPmA",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "Apple / Boston Computer Society",
+      "runtime": "1:15:38"
+    },
+    {
+      "id": "steve-jobs-the-lost-interview",
+      "title": "Steve Jobs: The Lost Interview",
+      "creator": "Steve Jobs, Robert X. Cringely",
+      "year": 1995,
+      "format": "Interview documentary",
+      "category": "Internet and Big Tech History",
+      "subcategory": "Founder interview",
+      "summary": "A candid long-form interview with Jobs between Apple eras, notable for his thinking on products, Xerox PARC, and Microsoft.",
+      "key_takeaways": [
+        "Product philosophy",
+        "Taste",
+        "Vision",
+        "Competitive framing"
+      ],
+      "why_it_matters": "It offers one of the clearest windows into Jobs' product mind outside of stage demos.",
+      "audience_fit": "Founders, product leaders, historians",
+      "difficulty": "Beginner",
+      "tags": [
+        "Steve Jobs",
+        "interview",
+        "Apple",
+        "product thinking"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=9m68auPIPRk",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "PBS / Triumph of the Nerds archive",
+      "runtime": "1:10:00"
+    },
+    {
+      "id": "cs231n-deep-learning-for-computer-vision",
+      "title": "CS231n: Deep Learning for Computer Vision",
+      "creator": "Stanford University",
+      "year": 2021,
+      "format": "Course",
+      "category": "AI Foundations",
+      "subcategory": "Computer vision",
+      "summary": "A deep dive into end-to-end deep learning for visual recognition, including CNNs, training/debugging, and modern vision architectures.",
+      "key_takeaways": [
+        "CNNs",
+        "training/debugging networks",
+        "end-to-end vision models",
+        "modern computer vision"
+      ],
+      "why_it_matters": "A classic practical ML course that explains how deep vision systems are actually built and why they work.",
+      "audience_fit": "AI engineers, applied researchers, product teams using vision",
+      "difficulty": "Advanced",
+      "tags": [
+        "computer vision",
+        "deep learning",
+        "stanford",
+        "practical"
+      ],
+      "source_link": "https://cs231n.stanford.edu/2021/",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "Stanford CS231n"
+    },
+    {
+      "id": "deep-residual-learning-for-image-recognition",
+      "title": "Deep Residual Learning for Image Recognition",
+      "creator": "He, Zhang, Ren, Sun",
+      "year": 2015,
+      "format": "Paper",
+      "category": "AI Foundations",
+      "subcategory": "Deep vision architecture",
+      "summary": "Introduces residual learning to make very deep neural networks easier to optimize and more accurate.",
+      "key_takeaways": [
+        "residual blocks",
+        "deep networks",
+        "optimization",
+        "ImageNet breakthrough"
+      ],
+      "why_it_matters": "A foundational paper behind the practical success of deep neural nets across vision and beyond.",
+      "audience_fit": "AI engineers, researchers",
+      "difficulty": "Advanced",
+      "tags": [
+        "resnet",
+        "vision",
+        "deep learning",
+        "paper"
+      ],
+      "source_link": "https://arxiv.org/abs/1512.03385",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "arXiv"
+    },
+    {
+      "id": "gpt-4-technical-report",
+      "title": "GPT-4 Technical Report",
+      "creator": "OpenAI",
+      "year": 2023,
+      "format": "Technical report",
+      "category": "AI in Practice",
+      "subcategory": "Frontier model report",
+      "summary": "Describes GPT-4 as a large-scale multimodal model and summarizes its development, capabilities, and evaluation.",
+      "key_takeaways": [
+        "multimodal model",
+        "capability evaluation",
+        "benchmarking",
+        "frontier deployment"
+      ],
+      "why_it_matters": "A canonical public reference for what frontier model releases look like in practice.",
+      "audience_fit": "AI builders, product teams, policy leads",
+      "difficulty": "Advanced",
+      "tags": [
+        "openai",
+        "gpt-4",
+        "report",
+        "multimodal"
+      ],
+      "source_link": "https://cdn.openai.com/papers/gpt-4.pdf",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "OpenAI"
+    },
+    {
+      "id": "training-compute-optimal-large-language-models",
+      "title": "Training Compute-Optimal Large Language Models",
+      "creator": "Hoffmann et al. (DeepMind)",
+      "year": 2022,
+      "format": "Paper",
+      "category": "AI Foundations",
+      "subcategory": "Scaling laws",
+      "summary": "Shows that many large language models are undertrained and derives compute-optimal scaling rules for model size and token count.",
+      "key_takeaways": [
+        "compute optimality",
+        "model/data tradeoff",
+        "undertraining",
+        "scaling efficiency"
+      ],
+      "why_it_matters": "Critical for understanding why modern foundation models are trained the way they are.",
+      "audience_fit": "AI researchers, infra teams, applied ML leads",
+      "difficulty": "Advanced",
+      "tags": [
+        "scaling laws",
+        "compute",
+        "training",
+        "llm"
+      ],
+      "source_link": "https://arxiv.org/abs/2203.15556",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "arXiv"
+    },
+    {
+      "id": "computer-history-museum-oral-histories",
+      "title": "Computer History Museum Oral Histories",
+      "creator": "Computer History Museum",
+      "format": "Archive",
+      "category": "Internet and Big Tech History",
+      "subcategory": "Oral history archive",
+      "summary": "A large archive of firsthand interviews and demonstrations with pioneers in computing, entrepreneurship, and networking.",
+      "key_takeaways": [
+        "firsthand accounts",
+        "computing pioneers",
+        "institutional memory",
+        "transcribed interviews"
+      ],
+      "why_it_matters": "One of the richest primary-source archives for tech history and industry memory.",
+      "audience_fit": "Researchers, founders, historians, product teams",
+      "difficulty": "Intermediate",
+      "tags": [
+        "oral history",
+        "computing",
+        "archive",
+        "chm"
+      ],
+      "source_link": "https://computerhistory.org/oral-histories/",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "Computer History Museum"
+    },
+    {
+      "id": "continuous-delivery",
+      "title": "Continuous Delivery",
+      "creator": "Martin Fowler",
+      "year": 2013,
+      "format": "Essay / book summary",
+      "category": "Engineering and Systems",
+      "subcategory": "Delivery systems",
+      "summary": "Defines continuous delivery as building software so it can be released to production at any time.",
+      "key_takeaways": [
+        "release readiness",
+        "deployment pipeline",
+        "small batches",
+        "operational discipline"
+      ],
+      "why_it_matters": "A key mental model for product teams shipping frequently and safely.",
+      "audience_fit": "Engineers, DevOps, platform teams",
+      "difficulty": "Intermediate",
+      "tags": [
+        "deployment",
+        "devops",
+        "release",
+        "continuous delivery"
+      ],
+      "source_link": "https://martinfowler.com/bliki/ContinuousDelivery.html",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "MartinFowler.com"
+    },
+    {
+      "id": "essays-by-paul-graham",
+      "title": "Essays by Paul Graham",
+      "creator": "Paul Graham / Y Combinator",
+      "format": "Essays",
+      "category": "Founder Mental Models",
+      "subcategory": "Founder essays",
+      "summary": "A deep essay corpus on startup ideas, hiring, growth, fundraising, and founder psychology.",
+      "key_takeaways": [
+        "doing things that don't scale",
+        "taste and ideas",
+        "founder mode thinking",
+        "startup edge cases"
+      ],
+      "why_it_matters": "Still one of the sharpest public collections of startup thinking ever published.",
+      "audience_fit": "Founders, product leaders, investors",
+      "difficulty": "Intermediate",
+      "tags": [
+        "paul graham",
+        "essays",
+        "yc",
+        "founders"
+      ],
+      "source_link": "https://www.ycombinator.com/library/carousel/Essays%20by%20Paul%20Graham",
+      "credibility": 9,
+      "usefulness": 10,
+      "status": "recommended",
+      "venue": "YC Library"
+    },
+    {
+      "id": "yc-startup-library",
+      "title": "YC Startup Library",
+      "creator": "Y Combinator",
+      "year": 2023,
+      "format": "Library",
+      "category": "Startup History",
+      "subcategory": "Startup library",
+      "summary": "A consolidated library of startup essays, videos, and talks from YC on how to start and grow companies.",
+      "key_takeaways": [
+        "founder advice",
+        "startup basics",
+        "fundraising",
+        "product-market fit"
+      ],
+      "why_it_matters": "A high-signal living library from the most influential startup incubator in the world.",
+      "audience_fit": "Founders, early operators, venture studio teams",
+      "difficulty": "Beginner",
+      "tags": [
+        "yc",
+        "startup",
+        "founder advice",
+        "library"
+      ],
+      "source_link": "https://www.ycombinator.com/library",
+      "credibility": 9,
+      "usefulness": 10,
+      "status": "recommended",
+      "venue": "Y Combinator"
+    },
+    {
+      "id": "the-mom-test",
+      "title": "The Mom Test",
+      "creator": "Rob Fitzpatrick",
+      "year": 2013,
+      "format": "Book",
+      "category": "Startup History",
+      "subcategory": "Customer discovery",
+      "summary": "A compact guide to customer conversations that avoids flattering but useless feedback.",
+      "key_takeaways": [
+        "problem interviews",
+        "ask about behavior",
+        "avoid compliments",
+        "truthful discovery"
+      ],
+      "why_it_matters": "One of the most practical tools for real customer learning before you build.",
+      "audience_fit": "Founders, PMs, researchers",
+      "difficulty": "Beginner",
+      "tags": [
+        "customer discovery",
+        "interviews",
+        "validation",
+        "book"
+      ],
+      "source_link": "https://www.momtestbook.com/",
+      "credibility": 8,
+      "usefulness": 10,
+      "status": "core",
+      "venue": "The Mom Test"
+    },
+    {
+      "id": "computing-machinery-and-intelligence",
+      "title": "Computing Machinery and Intelligence",
+      "creator": "Alan Turing",
+      "year": 1950,
+      "format": "Essay",
+      "category": "AI Foundations",
+      "subcategory": "Origins of AI",
+      "summary": "Turing's seminal essay asking 'Can machines think?' and proposing the Imitation Game (the Turing Test) as an operational substitute for the question. It anticipated and rebutted most objections to machine intelligence still debated today.",
+      "key_takeaways": [
+        "Reframes an unanswerable philosophical question into a testable behavioral one.",
+        "Systematically pre-empts the major objections to machine intelligence.",
+        "Foreshadows machine learning by suggesting we build a 'child machine' that learns."
+      ],
+      "why_it_matters": "The intellectual starting point of the entire field of AI, written before the first AI program existed.",
+      "audience_fit": "Anyone interested in AI's foundations; non-technical readers welcome.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "ai-history",
+        "turing-test",
+        "philosophy-of-mind",
+        "foundational-essay"
+      ],
+      "source_link": "https://academic.oup.com/mind/article/LIX/236/433/986238",
+      "credibility": 10,
+      "usefulness": 7,
+      "status": "core"
+    },
+    {
+      "id": "deep-learning-nature-2015",
+      "title": "Deep Learning (Nature review)",
+      "creator": "Yann LeCun, Yoshua Bengio, Geoffrey Hinton",
+      "year": 2015,
+      "format": "Paper",
+      "category": "AI Foundations",
+      "subcategory": "Surveys & Reviews",
+      "summary": "An authoritative review of deep learning by three of its principal architects (later Turing Award winners), covering representation learning, backpropagation, CNNs, and RNNs in accessible form.",
+      "key_takeaways": [
+        "Deep learning works by learning layered representations directly from data.",
+        "Backpropagation is the engine that makes deep nets trainable.",
+        "A single trusted overview of the field from the people who built it."
+      ],
+      "why_it_matters": "The best single-paper orientation to deep learning, written for a general scientific audience.",
+      "audience_fit": "Engineers and technically literate readers wanting one solid survey.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "deep-learning",
+        "survey",
+        "backpropagation",
+        "foundational-paper"
+      ],
+      "source_link": "https://www.nature.com/articles/nature14539",
+      "credibility": 10,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "state-of-gpt",
+      "title": "State of GPT",
+      "creator": "Andrej Karpathy",
+      "year": 2023,
+      "format": "Talk",
+      "category": "AI in Practice",
+      "subcategory": "LLM Systems",
+      "summary": "A talk (Microsoft Build 2023) explaining how GPT-class models are actually trained — pretraining, supervised fine-tuning, reward modeling, and RLHF — and how to use them effectively as a builder.",
+      "key_takeaways": [
+        "Clear walkthrough of the full LLM training pipeline from pretraining to RLHF.",
+        "Practical guidance on prompting, tools, and where models fail.",
+        "Bridges research detail and applied product intuition in one sitting."
+      ],
+      "why_it_matters": "One of the clearest explanations of how production LLMs are built and how to wield them.",
+      "audience_fit": "Builders and product people shipping LLM features.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "llms",
+        "rlhf",
+        "training-pipeline",
+        "talk",
+        "applied-ai"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=bZQun8Y4L2A",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "zero-to-one",
+      "title": "Zero to One",
+      "creator": "Peter Thiel with Blake Masters",
+      "year": 2014,
+      "format": "Book",
+      "category": "Startup History",
+      "subcategory": "Startup Strategy",
+      "summary": "A contrarian set of essays on building valuable companies, arguing that great startups create something new ('zero to one') rather than copying ('one to n'), and that monopolies built on real differentiation drive progress.",
+      "key_takeaways": [
+        "Build something genuinely new instead of competing in red oceans.",
+        "Durable companies have a real, defensible edge — a 'secret'.",
+        "Contrarian truth: ask what important truth few people agree with you on."
+      ],
+      "why_it_matters": "A widely read framework for thinking about differentiation, monopoly, and ambition.",
+      "audience_fit": "Founders, investors, strategists.",
+      "difficulty": "Beginner",
+      "tags": [
+        "startups",
+        "strategy",
+        "monopoly",
+        "contrarian-thinking"
+      ],
+      "source_link": "https://www.penguinrandomhouse.com/books/234730/zero-to-one-by-peter-thiel-with-blake-masters/",
+      "credibility": 8,
+      "usefulness": 9,
+      "status": "core"
+    },
+    {
+      "id": "inventing-on-principle",
+      "title": "Inventing on Principle",
+      "creator": "Bret Victor",
+      "year": 2012,
+      "format": "Talk",
+      "category": "Product and Design",
+      "subcategory": "Interaction Design",
+      "summary": "A landmark talk demonstrating live, immediate feedback between creators and their creations, and arguing that the most meaningful work comes from following a guiding principle. Visually stunning and intellectually provocative.",
+      "key_takeaways": [
+        "Creators should have immediate connection to what they're making.",
+        "Tools shape thought — better feedback loops unlock better ideas.",
+        "A principle worth organizing your career around can be a north star."
+      ],
+      "why_it_matters": "An endlessly influential talk on tools, creativity, and doing work that means something.",
+      "audience_fit": "Designers, engineers, tool-builders, founders.",
+      "difficulty": "Beginner",
+      "tags": [
+        "design",
+        "tools",
+        "interaction",
+        "creativity",
+        "classic-talk"
+      ],
+      "source_link": "https://vimeo.com/36579366",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "core"
+    },
+    {
+      "id": "mother-of-all-demos",
+      "title": "The Mother of All Demos",
+      "creator": "Douglas Engelbart",
+      "year": 1968,
+      "format": "Video",
+      "category": "Internet and Big Tech History",
+      "subcategory": "Computing History",
+      "summary": "Engelbart's 1968 live demonstration that introduced the mouse, hypertext, real-time collaborative editing, video conferencing, and windows — decades before they became mainstream. A staggering vision of interactive computing.",
+      "key_takeaways": [
+        "Demonstrated the mouse, hypertext, and collaborative computing in 1968.",
+        "Framed computing as a tool to augment human intellect, not just calculate.",
+        "Set the agenda that Xerox PARC, Apple, and the web would later realize."
+      ],
+      "why_it_matters": "The single most prophetic demo in computing history — the future, shown decades early.",
+      "audience_fit": "Anyone interested in where modern computing came from.",
+      "difficulty": "Beginner",
+      "tags": [
+        "computing-history",
+        "hci",
+        "engelbart",
+        "augmentation"
+      ],
+      "source_link": "https://www.dougengelbart.org/content/view/209/",
+      "credibility": 10,
+      "usefulness": 7,
+      "status": "core"
+    },
+    {
+      "id": "marty-cagan-on-the-current-golden-era-for-product-management",
+      "title": "Marty Cagan on the Current 'Golden Era' for Product Management",
+      "creator": "Marty Cagan",
+      "year": 2024,
+      "format": "Interview",
+      "category": "Product and Design",
+      "subcategory": "Product leadership",
+      "summary": "A discussion about product management in the AI era, and why real product work is about solving problems, not administrating roadmaps.",
+      "key_takeaways": [
+        "Product management is creation",
+        "Outcomes over output",
+        "AI changes the tools, not the mission",
+        "Avoid theater"
+      ],
+      "why_it_matters": "Marty Cagan remains one of the most influential voices for high-performance product teams.",
+      "audience_fit": "Product managers, founders, design leads",
+      "difficulty": "Intermediate",
+      "tags": [
+        "product management",
+        "product strategy",
+        "AI era",
+        "outcomes"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=lu0a-VRkKeY",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "Silicon Valley Product Group",
+      "runtime": "~50 min"
+    },
+    {
+      "id": "release-it-michael-nygard-trisha-gee-goto-2023",
+      "title": "Release It! • Michael Nygard & Trisha Gee • GOTO 2023",
+      "creator": "Michael Nygard, Trisha Gee",
+      "year": 2023,
+      "format": "Talk / interview",
+      "category": "Engineering and Systems",
+      "subcategory": "Production systems",
+      "summary": "A production-hardened view of what fails in real systems and how engineers can design for resilience.",
+      "key_takeaways": [
+        "Stability patterns",
+        "Failure modes",
+        "Resilience",
+        "Operational thinking"
+      ],
+      "why_it_matters": "A must-watch for teams that need to understand the difference between working code and survivable systems.",
+      "audience_fit": "Engineers, SREs, platform teams",
+      "difficulty": "Advanced",
+      "tags": [
+        "reliability",
+        "production systems",
+        "resilience",
+        "SRE"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=BIuBnLTMkfQ",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "GOTO Conferences",
+      "runtime": "~50 min"
+    },
+    {
+      "id": "shape-up",
+      "title": "Shape Up",
+      "creator": "37signals / Basecamp",
+      "year": 2019,
+      "format": "Book",
+      "category": "Product and Design",
+      "subcategory": "Product development process",
+      "summary": "A distinctive product development method built around shaping, betting, appetite, and fixed timeboxes.",
+      "key_takeaways": [
+        "appetite not estimates",
+        "six-week cycles",
+        "shaping work",
+        "betting table"
+      ],
+      "why_it_matters": "A useful counter-model for teams that are stuck in bloated roadmaps and endless backlog management.",
+      "audience_fit": "Product teams, founders, design managers",
+      "difficulty": "Intermediate",
+      "tags": [
+        "shape up",
+        "product process",
+        "basecamp",
+        "book"
+      ],
+      "source_link": "https://basecamp.com/shapeup",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "Basecamp"
+    },
+    {
+      "id": "patterns-of-enterprise-application-architecture",
+      "title": "Patterns of Enterprise Application Architecture",
+      "creator": "Martin Fowler and collaborators",
+      "year": 2002,
+      "format": "Book / reference",
+      "category": "Engineering and Systems",
+      "subcategory": "Architecture",
+      "summary": "A catalog of enterprise architecture patterns for layering, domain logic, persistence, and web applications.",
+      "key_takeaways": [
+        "layering",
+        "ORM patterns",
+        "domain logic",
+        "architecture vocabulary"
+      ],
+      "why_it_matters": "A strong language for discussing how larger software systems are composed.",
+      "audience_fit": "Architects, senior engineers, platform teams",
+      "difficulty": "Advanced",
+      "tags": [
+        "architecture",
+        "patterns",
+        "enterprise",
+        "book"
+      ],
+      "source_link": "https://martinfowler.com/books/eaa.html",
+      "credibility": 10,
+      "usefulness": 8,
+      "status": "recommended",
+      "venue": "MartinFowler.com"
+    },
+    {
+      "id": "crossing-the-chasm",
+      "title": "Crossing the Chasm",
+      "creator": "Geoffrey A. Moore",
+      "year": 2014,
+      "format": "Book",
+      "category": "Startup History",
+      "subcategory": "Market adoption",
+      "summary": "Describes the gap between early adopters and the mainstream market for breakthrough technology products.",
+      "key_takeaways": [
+        "early market vs mainstream",
+        "whole product",
+        "beachhead market",
+        "category creation"
+      ],
+      "why_it_matters": "Still essential for teams trying to move from niche enthusiasm to broad adoption.",
+      "audience_fit": "Founders, product marketers, GTM leads",
+      "difficulty": "Intermediate",
+      "tags": [
+        "gtm",
+        "adoption",
+        "market entry",
+        "book"
+      ],
+      "source_link": "https://www.harpercollins.com/products/crossing-the-chasm-3rd-edition-geoffrey-a-moore",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "HarperCollins"
+    },
+    {
+      "id": "startup-school",
+      "title": "Startup School",
+      "creator": "Y Combinator",
+      "year": 2022,
+      "format": "Course",
+      "category": "Startup History",
+      "subcategory": "Startup curriculum",
+      "summary": "YC’s online course for founders, taught by YC partners and successful founders.",
+      "key_takeaways": [
+        "company building",
+        "cofounders",
+        "MVPs",
+        "fundraising"
+      ],
+      "why_it_matters": "A practical founder curriculum that compresses years of startup trial-and-error into structured lessons.",
+      "audience_fit": "First-time founders, incubators, venture studios",
+      "difficulty": "Beginner",
+      "tags": [
+        "yc",
+        "course",
+        "founders",
+        "startup"
+      ],
+      "source_link": "https://www.ycombinator.com/blog/startup-school",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended",
+      "venue": "Y Combinator"
+    },
+    {
+      "id": "alexnet-imagenet-2012",
+      "title": "ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)",
+      "creator": "Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton",
+      "year": 2012,
+      "format": "Paper",
+      "category": "AI Foundations",
+      "subcategory": "Deep Learning Architectures",
+      "summary": "The paper behind AlexNet, the deep convolutional network that crushed the ImageNet 2012 competition and kicked off the modern deep learning era by showing GPUs + big data + deep nets work at scale.",
+      "key_takeaways": [
+        "Demonstrated that deep CNNs trained on GPUs dramatically outperform prior computer vision methods.",
+        "Popularized techniques like ReLU activations and dropout for regularization.",
+        "Marked the inflection point where deep learning became the dominant paradigm."
+      ],
+      "why_it_matters": "The 'big bang' moment of the deep learning revolution — the result that made industry take neural nets seriously.",
+      "audience_fit": "ML practitioners and engineers; historically minded builders.",
+      "difficulty": "Advanced",
+      "tags": [
+        "deep-learning",
+        "computer-vision",
+        "cnn",
+        "foundational-paper",
+        "imagenet"
+      ],
+      "source_link": "https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html",
+      "credibility": 10,
+      "usefulness": 7,
+      "status": "recommended"
+    },
+    {
+      "id": "andrew-ng-machine-learning",
+      "title": "Machine Learning (Stanford CS229 / Coursera)",
+      "creator": "Andrew Ng",
+      "year": 2011,
+      "format": "Course",
+      "category": "AI Foundations",
+      "subcategory": "Fundamentals",
+      "summary": "The course that introduced millions of people to machine learning, covering supervised and unsupervised learning, regularization, and practical advice for applying ML. Famous for clear pedagogy over hype.",
+      "key_takeaways": [
+        "Solid grounding in the classical ML toolkit before deep learning.",
+        "Emphasis on practical judgment: bias/variance, what to try next, error analysis.",
+        "Accessible to anyone with basic math and programming."
+      ],
+      "why_it_matters": "The canonical first ML course; shaped how a generation of practitioners thinks about the field.",
+      "audience_fit": "Beginners to intermediate; anyone wanting fundamentals.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "machine-learning",
+        "fundamentals",
+        "course",
+        "supervised-learning"
+      ],
+      "source_link": "https://www.coursera.org/specializations/machine-learning-introduction",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "mythical-man-month",
+      "title": "The Mythical Man-Month",
+      "creator": "Fred Brooks",
+      "year": 1975,
+      "format": "Book",
+      "category": "Engineering and Systems",
+      "subcategory": "Software Project Management",
+      "summary": "A classic collection of essays on software engineering and project management, most famous for Brooks's Law: adding manpower to a late software project makes it later. Still painfully relevant decades on.",
+      "key_takeaways": [
+        "Communication overhead grows non-linearly as teams grow.",
+        "Conceptual integrity matters more than raw effort.",
+        "Many 'modern' management lessons were already understood in 1975."
+      ],
+      "why_it_matters": "The original wisdom on why software projects slip — still cited because it's still true.",
+      "audience_fit": "Engineering leaders, founders, anyone managing builders.",
+      "difficulty": "Beginner",
+      "tags": [
+        "software-engineering",
+        "management",
+        "classic",
+        "team-building"
+      ],
+      "source_link": null,
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "concurrency-is-not-parallelism",
+      "title": "Concurrency Is Not Parallelism",
+      "creator": "Rob Pike",
+      "year": 2012,
+      "format": "Talk",
+      "category": "Engineering and Systems",
+      "subcategory": "Concurrency",
+      "summary": "A crisp talk by a co-creator of Go drawing the distinction between concurrency (structuring a program as independently executing parts) and parallelism (executing them simultaneously). Clears up a near-universal confusion.",
+      "key_takeaways": [
+        "Concurrency is about structure; parallelism is about execution.",
+        "Good concurrent design composes independent pieces that may or may not run in parallel.",
+        "Better mental models lead to simpler, more robust systems."
+      ],
+      "why_it_matters": "A short talk that permanently sharpens how you reason about concurrent software.",
+      "audience_fit": "Software engineers, especially systems and backend.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "concurrency",
+        "parallelism",
+        "go",
+        "talk",
+        "systems"
+      ],
+      "source_link": "https://go.dev/blog/waza-talk",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "time-clocks-ordering-lamport",
+      "title": "Time, Clocks, and the Ordering of Events in a Distributed System",
+      "creator": "Leslie Lamport",
+      "year": 1978,
+      "format": "Paper",
+      "category": "Engineering and Systems",
+      "subcategory": "Distributed Systems",
+      "summary": "A foundational distributed-systems paper introducing logical clocks and the 'happens-before' relation, giving a rigorous way to reason about ordering events without synchronized physical time.",
+      "key_takeaways": [
+        "Introduces logical (Lamport) clocks and the happens-before relation.",
+        "Shows you can order distributed events without a shared physical clock.",
+        "Underpins much of modern distributed-systems theory."
+      ],
+      "why_it_matters": "One of the most cited and important papers in computer science; the root of how we reason about distributed time.",
+      "audience_fit": "Systems engineers and the theoretically inclined.",
+      "difficulty": "Advanced",
+      "tags": [
+        "distributed-systems",
+        "logical-clocks",
+        "foundational-paper",
+        "theory"
+      ],
+      "source_link": "https://lamport.azurewebsites.net/pubs/time-clocks.pdf",
+      "credibility": 10,
+      "usefulness": 7,
+      "status": "recommended"
+    },
+    {
+      "id": "end-to-end-arguments",
+      "title": "End-to-End Arguments in System Design",
+      "creator": "J. Saltzer, D. Reed, D. Clark",
+      "year": 1984,
+      "format": "Paper",
+      "category": "Engineering and Systems",
+      "subcategory": "System Design Principles",
+      "summary": "A classic paper articulating the end-to-end principle: functions are best implemented at the endpoints of a system rather than in its core. It shaped the design of the internet itself.",
+      "key_takeaways": [
+        "Push application-specific functions to the endpoints, keep the network simple.",
+        "Explains why the internet's 'dumb core, smart edges' design works.",
+        "A reusable lens for deciding where complexity belongs in any system."
+      ],
+      "why_it_matters": "One of the deepest design principles in computing, and a key reason the internet scaled.",
+      "audience_fit": "Systems and network engineers, architects.",
+      "difficulty": "Advanced",
+      "tags": [
+        "system-design",
+        "internet-architecture",
+        "foundational-paper",
+        "principles"
+      ],
+      "source_link": "https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf",
+      "credibility": 10,
+      "usefulness": 7,
+      "status": "reviewed"
+    },
+    {
+      "id": "sicp",
+      "title": "Structure and Interpretation of Computer Programs (SICP)",
+      "creator": "Harold Abelson, Gerald Jay Sussman, Julie Sussman",
+      "year": 1985,
+      "format": "Book",
+      "category": "Engineering and Systems",
+      "subcategory": "Programming Foundations",
+      "summary": "A legendary MIT textbook that teaches programming as the art of controlling complexity through abstraction. Famous for being hard, deep, and permanently changing how you think about code.",
+      "key_takeaways": [
+        "Programming is fundamentally about building and composing abstractions.",
+        "Covers higher-order functions, state, interpreters, and metalinguistic abstraction.",
+        "Rewires how you think more than it teaches any single language."
+      ],
+      "why_it_matters": "Among the most influential CS texts ever written; a rite of passage for serious programmers.",
+      "audience_fit": "Programmers wanting deep foundations; patient learners.",
+      "difficulty": "Advanced",
+      "tags": [
+        "programming",
+        "abstraction",
+        "computer-science",
+        "classic-textbook"
+      ],
+      "source_link": "https://mitpress.mit.edu/9780262510875/structure-and-interpretation-of-computer-programs/",
+      "credibility": 10,
+      "usefulness": 7,
+      "status": "recommended"
+    },
+    {
+      "id": "makers-schedule-managers-schedule",
+      "title": "Maker's Schedule, Manager's Schedule",
+      "creator": "Paul Graham",
+      "year": 2009,
+      "format": "Essay",
+      "category": "Founder Mental Models",
+      "subcategory": "Productivity & Focus",
+      "summary": "A short essay distinguishing the manager's schedule (chopped into hour-long meetings) from the maker's schedule (long uninterrupted blocks), and why meetings are so costly for people who build.",
+      "key_takeaways": [
+        "Makers need long, uninterrupted blocks; a single meeting can wreck an afternoon.",
+        "Managers and makers operate on fundamentally different time models.",
+        "Protect deep-work time deliberately, especially in technical teams."
+      ],
+      "why_it_matters": "A small idea that reshapes how builders and their managers should structure time.",
+      "audience_fit": "Engineers, designers, and the people who manage them.",
+      "difficulty": "Beginner",
+      "tags": [
+        "productivity",
+        "focus",
+        "deep-work",
+        "essay"
+      ],
+      "source_link": "https://paulgraham.com/makersschedule.html",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "inspired-cagan",
+      "title": "Inspired: How to Create Tech Products Customers Love",
+      "creator": "Marty Cagan",
+      "year": 2017,
+      "format": "Book",
+      "category": "Product and Design",
+      "subcategory": "Product Management",
+      "summary": "A modern guide to product management from Silicon Valley Product Group, covering how strong product teams discover and deliver products customers love — empowered teams, product discovery, and outcome over output.",
+      "key_takeaways": [
+        "Empowered product teams solve problems, not just ship features.",
+        "Continuous product discovery de-risks what you build before you build it.",
+        "Optimize for outcomes (customer and business results), not output."
+      ],
+      "why_it_matters": "The default reference for modern product management practice.",
+      "audience_fit": "Product managers, founders, product-minded engineers.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "product-management",
+        "product-discovery",
+        "teams",
+        "tech-products"
+      ],
+      "source_link": "https://www.wiley.com/en-us/INSPIRED%3A+How+to+Create+Tech+Products+Customers+Love%2C+2nd+Edition-p-9781119387503",
+      "credibility": 8,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "secrets-of-sand-hill-road",
+      "title": "Secrets of Sand Hill Road",
+      "creator": "Scott Kupor",
+      "year": 2019,
+      "format": "Book",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "How VC Works",
+      "summary": "A clear insider explanation of how venture capital actually works — fund economics, term sheets, board dynamics, and what VCs are optimizing for — written by a managing partner at Andreessen Horowitz.",
+      "key_takeaways": [
+        "Understand VC fund economics and why they shape investor behavior.",
+        "Demystifies term sheets, liquidation preferences, and governance.",
+        "Helps founders negotiate from understanding rather than fear."
+      ],
+      "why_it_matters": "The most accessible explanation of the VC machine from the inside.",
+      "audience_fit": "Founders raising venture money; operators.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "venture-capital",
+        "fundraising",
+        "term-sheets",
+        "fund-economics"
+      ],
+      "source_link": null,
+      "credibility": 8,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "venture-deals",
+      "title": "Venture Deals",
+      "creator": "Brad Feld, Jason Mendelson",
+      "year": 2011,
+      "format": "Book",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Term Sheets & Mechanics",
+      "summary": "A practical, founder-friendly guide to understanding and negotiating venture financings term by term, written by experienced VCs. The standard reference for what's in a term sheet and why.",
+      "key_takeaways": [
+        "Walks through every major term sheet clause and its real implications.",
+        "Explains the negotiation dynamics and incentives on both sides.",
+        "Turns opaque legal documents into something founders can negotiate."
+      ],
+      "why_it_matters": "The go-to handbook for founders who want to understand deals before signing them.",
+      "audience_fit": "Founders, early employees with equity, operators.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "venture-capital",
+        "term-sheets",
+        "negotiation",
+        "fundraising"
+      ],
+      "source_link": null,
+      "credibility": 8,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "as-we-may-think",
+      "title": "As We May Think",
+      "creator": "Vannevar Bush",
+      "year": 1945,
+      "format": "Essay",
+      "category": "Internet and Big Tech History",
+      "subcategory": "Foundational Vision",
+      "summary": "A 1945 Atlantic essay imagining the 'Memex', a device for storing and linking all of one's books, records, and communications by association — a striking anticipation of hypertext, personal computing, and the web.",
+      "key_takeaways": [
+        "Imagined associative information linking decades before hypertext existed.",
+        "Anticipated the personal knowledge machine and the web.",
+        "Framed information overload and augmentation as central challenges."
+      ],
+      "why_it_matters": "The conceptual seed of hypertext and the web, written before computers were programmable as we know them.",
+      "audience_fit": "Anyone curious about the origins of the internet and information tools.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "internet-history",
+        "memex",
+        "hypertext",
+        "foundational-essay"
+      ],
+      "source_link": "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/",
+      "credibility": 10,
+      "usefulness": 7,
+      "status": "recommended"
+    },
+    {
+      "id": "the-computer-chronicles-the-internet-1993",
+      "title": "The Computer Chronicles - The Internet (1993)",
+      "creator": "The Computer Chronicles",
+      "year": 1993,
+      "format": "TV episode",
+      "category": "Documentary and Long-Form Media",
+      "subcategory": "Web history",
+      "summary": "A time-capsule view of the early internet before the web became mainstream.",
+      "key_takeaways": [
+        "Early network culture",
+        "Pre-web services",
+        "Internet adoption",
+        "Computing media history"
+      ],
+      "why_it_matters": "Excellent historical context for how quickly internet infrastructure moved from niche to mass market.",
+      "audience_fit": "Builders, historians, product people",
+      "difficulty": "Beginner",
+      "tags": [
+        "internet history",
+        "early web",
+        "Computer Chronicles",
+        "archival video"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=U_o8gerare0",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended",
+      "venue": "Computer Chronicles / public television archive",
+      "runtime": "27:39"
+    },
+    {
+      "id": "the-machine-that-changed-the-world-episode-1-great-brains",
+      "title": "The Machine That Changed the World - Episode 1: Great Brains",
+      "creator": "WGBH / BBC",
+      "year": 1992,
+      "format": "Documentary episode",
+      "category": "Documentary and Long-Form Media",
+      "subcategory": "Computer history documentary",
+      "summary": "The first episode of the classic computer-history documentary series, tracing the earliest eras of computing and key pioneers.",
+      "key_takeaways": [
+        "Computing origins",
+        "Early pioneers",
+        "Hardware evolution",
+        "Systems history"
+      ],
+      "why_it_matters": "One of the best long-form introductions to the pre-personal-computer arc.",
+      "audience_fit": "Builders, historians, curious generalists",
+      "difficulty": "Beginner",
+      "tags": [
+        "computer history",
+        "documentary",
+        "pioneers",
+        "hardware"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=gOx3TKl-ScU",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended",
+      "venue": "PBS / BBC",
+      "runtime": "57:29"
+    },
+    {
+      "id": "the-machine-that-changed-the-world-episode-2-inventing-the-f",
+      "title": "The Machine That Changed the World - Episode 2: Inventing the Future",
+      "creator": "WGBH / BBC",
+      "year": 1992,
+      "format": "Documentary episode",
+      "category": "Documentary and Long-Form Media",
+      "subcategory": "Historical computing demo",
+      "summary": "The sequel episode that moves the story into programming, commercialization, and the road toward personal computing.",
+      "key_takeaways": [
+        "Software history",
+        "Commercial computing",
+        "PC evolution",
+        "Industry formation"
+      ],
+      "why_it_matters": "A strong companion to Episode 1 for seeing how the field became a mass industry.",
+      "audience_fit": "Builders, historians, students",
+      "difficulty": "Beginner",
+      "tags": [
+        "computer history",
+        "documentary",
+        "software",
+        "personal computing"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=8KnkeON3UEE",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended",
+      "venue": "PBS / BBC",
+      "runtime": "54:22"
+    },
+    {
+      "id": "inside-apple-software-design",
+      "title": "Inside Apple Software Design",
+      "creator": "a16z / Ken Kocienda",
+      "year": 2019,
+      "format": "Podcast interview",
+      "category": "Product and Design",
+      "subcategory": "Interview / software history",
+      "summary": "An insider account of how Apple designed software in the Steve Jobs era, from Safari to the early iPhone and iOS.",
+      "key_takeaways": [
+        "product taste",
+        "Apple software craft",
+        "tight iteration",
+        "design culture"
+      ],
+      "why_it_matters": "A rare primary-source look at software design inside one of the most influential product organizations ever.",
+      "audience_fit": "Designers, PMs, engineers, product leaders",
+      "difficulty": "Intermediate",
+      "tags": [
+        "apple",
+        "software design",
+        "interview",
+        "podcast"
+      ],
+      "source_link": "https://a16z.com/podcast/inside-apple-software-design/",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended",
+      "venue": "a16z Podcast"
+    },
+    {
+      "id": "design-thinking-human-centered-innovation",
+      "title": "Design Thinking: Human-Centered Innovation",
+      "creator": "IDEO",
+      "format": "Article / resource hub",
+      "category": "Product and Design",
+      "subcategory": "Human-centered design",
+      "summary": "IDEO’s overview of design thinking as a human-centered method balancing desirability, viability, and feasibility.",
+      "key_takeaways": [
+        "human-centered design",
+        "desirability/viability/feasibility",
+        "creative experimentation",
+        "systems thinking"
+      ],
+      "why_it_matters": "A useful strategic framing for design-led product and service work.",
+      "audience_fit": "Design teams, founders, innovation leads",
+      "difficulty": "Beginner",
+      "tags": [
+        "design thinking",
+        "ideo",
+        "human-centered",
+        "framework"
+      ],
+      "source_link": "https://designthinking.ideo.com/",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended",
+      "venue": "IDEO"
+    },
+    {
+      "id": "andrew-ng-building-faster-with-ai",
+      "title": "Building Faster with AI",
+      "creator": "Andrew Ng",
+      "format": "Talk",
+      "category": "AI in Practice",
+      "subcategory": "Building with AI",
+      "summary": "A talk by Andrew Ng on how teams can build and ship faster using AI — emphasizing rapid prototyping with foundation models, agentic workflows, and treating AI as a speed multiplier for product development.",
+      "key_takeaways": [
+        "AI tooling dramatically compresses prototyping and iteration time",
+        "Agentic workflows unlock new ways of building software",
+        "Speed of execution is itself a competitive advantage in the AI era"
+      ],
+      "why_it_matters": "Practical guidance from one of AI's most trusted educators on turning model capability into faster shipping.",
+      "audience_fit": "Founders, engineers, and product teams building with AI.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "applied-ai",
+        "agents",
+        "productivity",
+        "andrew-ng",
+        "building"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=RNJCfif1dPY",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "out-of-the-tar-pit",
+      "title": "Out of the Tar Pit",
+      "creator": "Ben Moseley, Peter Marks",
+      "year": 2006,
+      "format": "Paper",
+      "category": "Engineering and Systems",
+      "subcategory": "Software Complexity",
+      "summary": "A paper arguing that complexity is the single biggest cause of problems in software, distinguishing essential from accidental complexity and advocating for minimizing mutable state. A favorite of thoughtful engineers.",
+      "key_takeaways": [
+        "Most software pain comes from accidental, not essential, complexity.",
+        "State and control flow are primary sources of accidental complexity.",
+        "Functional and declarative approaches can reduce the complexity burden."
+      ],
+      "why_it_matters": "A rigorous articulation of why simplicity is the core engineering virtue.",
+      "audience_fit": "Engineers who care about design and maintainability.",
+      "difficulty": "Advanced",
+      "tags": [
+        "complexity",
+        "software-design",
+        "state",
+        "foundational-paper"
+      ],
+      "source_link": "https://curtclifton.net/papers/MoseleyMarks06a.pdf",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "reviewed"
+    },
+    {
+      "id": "founders-at-work",
+      "title": "Founders at Work",
+      "creator": "Jessica Livingston",
+      "year": 2007,
+      "format": "Book",
+      "category": "Startup History",
+      "subcategory": "First-hand Accounts",
+      "summary": "A collection of candid interviews with founders of major tech companies about their early, messy, uncertain days. It captures what startups actually feel like before they look inevitable.",
+      "key_takeaways": [
+        "Successful startups looked fragile and improvised in their early days.",
+        "Persistence and adaptation matter more than a perfect initial idea.",
+        "Real founder stories, not sanitized retrospectives."
+      ],
+      "why_it_matters": "A grounding antidote to startup mythology, from a Y Combinator co-founder.",
+      "audience_fit": "Founders and aspiring founders.",
+      "difficulty": "Beginner",
+      "tags": [
+        "startups",
+        "founders",
+        "interviews",
+        "history"
+      ],
+      "source_link": null,
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "poor-charlies-almanack",
+      "title": "Poor Charlie's Almanack",
+      "creator": "Charlie Munger (ed. Peter Kaufman)",
+      "year": 2005,
+      "format": "Book",
+      "category": "Founder Mental Models",
+      "subcategory": "Decision-Making",
+      "summary": "A collection of Charlie Munger's speeches and wisdom, centered on the idea of a 'latticework of mental models' drawn from many disciplines to make better decisions and avoid predictable folly.",
+      "key_takeaways": [
+        "Build a latticework of mental models across disciplines, not siloed expertise.",
+        "Invert problems: study how to fail, then avoid it.",
+        "Understand human misjudgment and incentives to think more clearly."
+      ],
+      "why_it_matters": "The foundational text for the 'mental models' approach to thinking and decision-making.",
+      "audience_fit": "Founders, investors, decision-makers.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "mental-models",
+        "decision-making",
+        "investing",
+        "wisdom"
+      ],
+      "source_link": null,
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "soul-of-a-new-machine",
+      "title": "The Soul of a New Machine",
+      "creator": "Tracy Kidder",
+      "year": 1981,
+      "format": "Book",
+      "category": "Internet and Big Tech History",
+      "subcategory": "Engineering Culture",
+      "summary": "A Pulitzer-winning account of a team at Data General racing to build a new minicomputer, capturing the obsession, burnout, and craft of hardware engineering with novelistic detail.",
+      "key_takeaways": [
+        "An intimate portrait of what building hard technology really demands.",
+        "Explores motivation, 'signing up', and the culture of intense engineering teams.",
+        "Timeless on the human side of ambitious technical projects."
+      ],
+      "why_it_matters": "The classic narrative of engineering teams under pressure; still the best book on the feeling of building.",
+      "audience_fit": "Engineers, eng leaders, anyone who's shipped under deadline.",
+      "difficulty": "Beginner",
+      "tags": [
+        "engineering-culture",
+        "hardware",
+        "teams",
+        "narrative"
+      ],
+      "source_link": null,
+      "credibility": 9,
+      "usefulness": 7,
+      "status": "recommended"
+    },
+    {
+      "id": "general-magic-documentary",
+      "title": "General Magic",
+      "creator": "Sarah Kerruish, Matt Maude",
+      "year": 2018,
+      "format": "Documentary",
+      "category": "Documentary and Long-Form Media",
+      "subcategory": "Startup Stories",
+      "summary": "A documentary about General Magic, the 1990s Apple spin-off that tried to build the smartphone decades too early. It failed commercially but its alumni went on to shape the iPhone, Android, eBay, and more.",
+      "key_takeaways": [
+        "Vision can be right while timing is fatally wrong.",
+        "'Failed' companies can seed an entire industry through their people.",
+        "A moving look at belief, ambition, and the cost of being early."
+      ],
+      "why_it_matters": "A rare, honest film about a brilliant failure that quietly shaped modern tech.",
+      "audience_fit": "Founders, product people, anyone who's bet on a big vision.",
+      "difficulty": "Beginner",
+      "tags": [
+        "documentary",
+        "startups",
+        "failure",
+        "smartphone-history"
+      ],
+      "source_link": "https://www.generalmagicthemovie.com/",
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "core"
+    },
+    {
+      "id": "how-to-get-startup-ideas",
+      "title": "How to Get Startup Ideas",
+      "creator": "Paul Graham",
+      "year": 2024,
+      "format": "Video reading / commentary",
+      "category": "Founder Mental Models",
+      "subcategory": "Startup ideas",
+      "summary": "A video reading of one of Paul Graham's most quoted startup essays: the best ideas are usually found, not invented.",
+      "key_takeaways": [
+        "Solve your own problems",
+        "Look for latent demand",
+        "Ideas emerge from observation",
+        "Avoid forced brainstorming"
+      ],
+      "why_it_matters": "Useful as a compact reinforcement of YC's idea-selection philosophy, even if it is not the original lecture.",
+      "audience_fit": "Founders, pre-founders",
+      "difficulty": "Beginner",
+      "tags": [
+        "startup ideas",
+        "Paul Graham",
+        "founder discovery",
+        "problem selection"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=FlCWg-KkUN4",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "reviewed",
+      "venue": "Paul Graham / YC essay translated to video",
+      "runtime": "42:02"
+    },
+    {
+      "id": "the-playbook-lessons-from-200-company-stories",
+      "title": "The Playbook: Lessons from 200+ Company Stories",
+      "creator": "Acquired",
+      "year": 2022,
+      "format": "Podcast episode",
+      "category": "Documentary and Long-Form Media",
+      "subcategory": "Podcast / company history",
+      "summary": "A synthesis episode that distills lessons from hundreds of company histories into strategy, product, moats, and management.",
+      "key_takeaways": [
+        "company archetypes",
+        "strategy patterns",
+        "moats",
+        "management lessons"
+      ],
+      "why_it_matters": "A compact distillation of the Acquired worldview, useful as an entry point to tech company history.",
+      "audience_fit": "Founders, operators, investors",
+      "difficulty": "Intermediate",
+      "tags": [
+        "acquired",
+        "company history",
+        "strategy",
+        "podcast"
+      ],
+      "source_link": "https://www.acquired.fm/episodes/the-playbook-lessons-from-200-company-stories?96ed0d79_page=20",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "reviewed",
+      "venue": "Acquired"
+    },
+    {
+      "id": "rice-simple-prioritization-for-product-managers",
+      "title": "RICE: Simple prioritization for product managers",
+      "creator": "Intercom",
+      "year": 2018,
+      "format": "Essay / framework",
+      "category": "Product and Design",
+      "subcategory": "Prioritization",
+      "summary": "Introduces the RICE prioritization model: reach, impact, confidence, and effort.",
+      "key_takeaways": [
+        "prioritization",
+        "scoring",
+        "confidence weighting",
+        "product tradeoffs"
+      ],
+      "why_it_matters": "A simple, durable prioritization framework for product roadmaps and startup decision-making.",
+      "audience_fit": "PMs, founders, operators",
+      "difficulty": "Beginner",
+      "tags": [
+        "prioritization",
+        "product",
+        "framework",
+        "rice"
+      ],
+      "source_link": "https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "reviewed",
+      "venue": "Intercom Blog"
+    },
+    {
+      "id": "clean-code",
+      "title": "Clean Code",
+      "creator": "Robert C. Martin",
+      "year": 2008,
+      "format": "Book",
+      "category": "Engineering and Systems",
+      "subcategory": "Code quality",
+      "summary": "A guide to code readability, naming, structure, and professional programming habits.",
+      "key_takeaways": [
+        "readability",
+        "naming",
+        "smells",
+        "case studies"
+      ],
+      "why_it_matters": "Still widely cited as a reference point for code hygiene and craft, even when teams disagree on specifics.",
+      "audience_fit": "Engineers, code reviewers, tech leads",
+      "difficulty": "Intermediate",
+      "tags": [
+        "clean code",
+        "craft",
+        "engineering",
+        "book"
+      ],
+      "source_link": "https://www.pearson.com/en-us/subject-catalog/p/clean-code-a-handbook-of-agile-software-craftsmanship/P200000009044/9780136083252",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "reviewed",
+      "venue": "Pearson"
+    },
+    {
+      "id": "scaling-up-excellence",
+      "title": "Scaling Up Excellence",
+      "creator": "Robert I. Sutton, Huggy Rao",
+      "year": 2014,
+      "format": "Book",
+      "category": "Startup History",
+      "subcategory": "Scaling",
+      "summary": "A framework for preserving quality while growing teams and organizations.",
+      "key_takeaways": [
+        "scale without dilution",
+        "local adaptation",
+        "organizational habits",
+        "excellence under growth"
+      ],
+      "why_it_matters": "Very useful once a startup begins facing growth-induced friction.",
+      "audience_fit": "Founders, managers, operations leaders",
+      "difficulty": "Intermediate",
+      "tags": [
+        "scaling",
+        "operations",
+        "growth",
+        "book"
+      ],
+      "source_link": "https://www.penguinrandomhouse.com/books/222302/scaling-up-excellence-by-robert-i-sutton-and-huggy-rao/",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "reviewed",
+      "venue": "Penguin Random House"
+    },
+    {
+      "id": "the-startup-way",
+      "title": "The Startup Way",
+      "creator": "Eric Ries",
+      "year": 2017,
+      "format": "Book",
+      "category": "Startup History",
+      "subcategory": "Enterprise innovation",
+      "summary": "Extends Lean Startup principles to large organizations and continuous innovation systems.",
+      "key_takeaways": [
+        "internal startups",
+        "continuous innovation",
+        "organizational design",
+        "entrepreneurial management"
+      ],
+      "why_it_matters": "Useful for teams that need startup speed inside a larger company or studio.",
+      "audience_fit": "Operators, innovation leaders, venture studio builders",
+      "difficulty": "Intermediate",
+      "tags": [
+        "innovation",
+        "enterprise",
+        "lean",
+        "book"
+      ],
+      "source_link": "https://www.penguinrandomhouse.com/books/250646/the-startup-way-by-eric-ries/",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "reviewed",
+      "venue": "Penguin Random House"
+    },
+    {
+      "id": "cold-start-problem-andrew-chen",
+      "title": "The Cold Start Problem: How to Start and Scale Network Effects",
+      "creator": "Andrew Chen",
+      "format": "Talk",
+      "category": "Startup History",
+      "subcategory": "Network effects & growth",
+      "summary": "A Talks at Google session with a16z general partner Andrew Chen, based on his 2021 book, on how products overcome the 'cold start problem' — the difficulty of getting a network-effects business off the ground when an empty network has little value — and how to grow network effects from a small working network to a tipping point and beyond.",
+      "key_takeaways": [
+        "An empty network has little value; the 'cold start' is the hardest phase for network-effects products.",
+        "Start with a small 'atomic network' that works, then replicate it toward a tipping point.",
+        "Network effects must be actively engineered across stages: cold start, tipping point, escape velocity, and defending the moat."
+      ],
+      "why_it_matters": "Network effects underlie many of the most valuable tech companies; this is a practical framework for the specific, underrated challenge of starting and scaling them.",
+      "audience_fit": "Founders, growth and product teams, investors.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "network-effects",
+        "growth",
+        "startups",
+        "go-to-market",
+        "andrew-chen"
+      ],
+      "source_link": "https://youtu.be/TSnYO34b3TA",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "recommended",
+      "venue": "Talks at Google"
+    },
+    {
+      "id": "cathedral-and-the-bazaar",
+      "title": "The Cathedral and the Bazaar",
+      "creator": "Eric S. Raymond",
+      "year": 1999,
+      "format": "Essay",
+      "category": "Engineering and Systems",
+      "subcategory": "Open Source",
+      "summary": "An influential essay contrasting two development models — the cathedral (closed, top-down) and the bazaar (open, decentralized) — using Linux as the case study. It helped legitimize open-source development to industry.",
+      "key_takeaways": [
+        "'Given enough eyeballs, all bugs are shallow.'",
+        "Open, iterative, community-driven development can outperform closed teams.",
+        "Release early, release often, and treat users as co-developers."
+      ],
+      "why_it_matters": "Shaped the open-source movement and the way modern software is built and shipped.",
+      "audience_fit": "Engineers, open-source contributors, eng leaders.",
+      "difficulty": "Beginner",
+      "tags": [
+        "open-source",
+        "software-culture",
+        "linux",
+        "essay"
+      ],
+      "source_link": "http://www.catb.org/~esr/writings/cathedral-bazaar/",
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "reviewed"
+    },
+    {
+      "id": "naval-how-to-get-rich",
+      "title": "How to Get Rich (without getting lucky)",
+      "creator": "Naval Ravikant",
+      "year": 2019,
+      "format": "Podcast Series",
+      "category": "Founder Mental Models",
+      "subcategory": "Leverage & Wealth",
+      "summary": "An expanded podcast/essay series on building wealth through ownership and leverage — code, media, capital, and labor — plus the role of specific knowledge, accountability, and long-term games with long-term people.",
+      "key_takeaways": [
+        "Seek wealth (assets that earn while you sleep), not money or status.",
+        "Modern leverage is code and media — permissionless and infinitely scalable.",
+        "Play long-term games with long-term people; build specific knowledge."
+      ],
+      "why_it_matters": "A widely shared mental-model framework for leverage, ownership, and judgment.",
+      "audience_fit": "Founders, builders, and independent operators.",
+      "difficulty": "Beginner",
+      "tags": [
+        "leverage",
+        "wealth",
+        "mental-models",
+        "podcast"
+      ],
+      "source_link": "https://nav.al/rich",
+      "credibility": 7,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "dieter-rams-ten-principles",
+      "title": "Ten Principles for Good Design",
+      "creator": "Dieter Rams",
+      "year": null,
+      "format": "Reference",
+      "category": "Product and Design",
+      "subcategory": "Design Philosophy",
+      "summary": "Dieter Rams's ten principles of good design (good design is innovative, useful, aesthetic, understandable, unobtrusive, honest, long-lasting, thorough, environmentally friendly, and as little design as possible). The bedrock of minimalist product design.",
+      "key_takeaways": [
+        "'Less, but better' — good design is as little design as possible.",
+        "Good design is honest, unobtrusive, and long-lasting.",
+        "A compact rubric you can hold any product up against."
+      ],
+      "why_it_matters": "A concise design philosophy that influenced everything from Braun to Apple. (Exact origin year approximate.)",
+      "audience_fit": "Designers, product builders, founders who care about craft.",
+      "difficulty": "Beginner",
+      "tags": [
+        "design",
+        "principles",
+        "minimalism",
+        "product-design"
+      ],
+      "source_link": "https://www.vitsoe.com/us/about/good-design",
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "reviewed"
+    },
+    {
+      "id": "hackers-heroes-levy",
+      "title": "Hackers: Heroes of the Computer Revolution",
+      "creator": "Steven Levy",
+      "year": 1984,
+      "format": "Book",
+      "category": "Internet and Big Tech History",
+      "subcategory": "Computing Culture",
+      "summary": "A history of the hacker culture from MIT's early labs through the home-computer and game eras, documenting the ethos — openness, hands-on imperative, mistrust of authority — that shaped tech.",
+      "key_takeaways": [
+        "Defines the original 'hacker ethic' of openness and hands-on building.",
+        "Traces a cultural lineage from MIT labs to personal computing.",
+        "Explains values that still underpin open source and startup culture."
+      ],
+      "why_it_matters": "The canonical chronicle of where hacker and builder culture came from.",
+      "audience_fit": "Engineers and anyone interested in tech culture and history.",
+      "difficulty": "Beginner",
+      "tags": [
+        "hacker-culture",
+        "computing-history",
+        "mit",
+        "personal-computing"
+      ],
+      "source_link": null,
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "reviewed"
+    },
+    {
+      "id": "the-innovators-isaacson",
+      "title": "The Innovators",
+      "creator": "Walter Isaacson",
+      "year": 2014,
+      "format": "Book",
+      "category": "Internet and Big Tech History",
+      "subcategory": "Computing History",
+      "summary": "A sweeping history of the digital revolution from Ada Lovelace to the web, emphasizing that innovation is collaborative — a relay of teams and ideas rather than lone geniuses.",
+      "key_takeaways": [
+        "Digital innovation was driven by collaboration, not solitary genius.",
+        "Connects a long lineage from Babbage and Lovelace to modern computing.",
+        "A broad, accessible map of how the digital age was built."
+      ],
+      "why_it_matters": "A single readable narrative tying together the whole arc of computing history.",
+      "audience_fit": "Generalists and newcomers to tech history.",
+      "difficulty": "Beginner",
+      "tags": [
+        "computing-history",
+        "innovation",
+        "collaboration",
+        "narrative"
+      ],
+      "source_link": "https://www.penguinrandomhouse.com/books/617365/los-innovadores--the-innovators-by-walter-isaacson/",
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "reviewed"
+    },
+    {
+      "id": "how-will-you-measure-your-life",
+      "title": "How Will You Measure Your Life?",
+      "creator": "Clayton M. Christensen, James Allworth, Karen Dillon",
+      "year": 2012,
+      "format": "Book",
+      "category": "Founder Mental Models",
+      "subcategory": "Life and leadership",
+      "summary": "A leadership and life framework that applies strategy thinking to personal and organizational choices.",
+      "key_takeaways": [
+        "purpose",
+        "tradeoffs",
+        "leadership",
+        "long-term thinking"
+      ],
+      "why_it_matters": "Useful as a grounding text for founders who are also thinking about character, meaning, and company culture.",
+      "audience_fit": "Founders, leaders, managers",
+      "difficulty": "Beginner",
+      "tags": [
+        "leadership",
+        "culture",
+        "christensen",
+        "book"
+      ],
+      "source_link": "https://www.harpercollins.com/products/how-will-you-measure-your-life-clayton-m-christensenjames-allworthkaren-dillon",
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "reviewed",
+      "venue": "HarperCollins"
+    },
+    {
+      "id": "what-you-do-is-who-you-are",
+      "title": "What You Do Is Who You Are",
+      "creator": "Ben Horowitz",
+      "year": 2019,
+      "format": "Book",
+      "category": "Founder Mental Models",
+      "subcategory": "Enterprise transformation",
+      "summary": "A book on company culture using history, examples, and practical advice for executives.",
+      "key_takeaways": [
+        "culture",
+        "behavior",
+        "organizational identity",
+        "leadership"
+      ],
+      "why_it_matters": "Helpful for leaders designing the norms and habits of a venture studio or startup team.",
+      "audience_fit": "Founders, executives, team leads",
+      "difficulty": "Intermediate",
+      "tags": [
+        "culture",
+        "leadership",
+        "organization",
+        "book"
+      ],
+      "source_link": "https://www.harpercollins.com/products/what-you-do-is-who-you-are-ben-horowitz",
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "reviewed",
+      "venue": "HarperCollins"
+    },
+    {
+      "id": "cs221-ai-history",
+      "title": "AI History (Stanford CS221: Artificial Intelligence)",
+      "creator": "Stanford CS221 / Stanford Online",
+      "year": 2021,
+      "format": "Lecture (Video)",
+      "category": "AI Foundations",
+      "subcategory": "History of AI",
+      "summary": "A lecture segment from Stanford's CS221 (Artificial Intelligence: Principles and Techniques, Autumn 2021) tracing the history of AI — from early symbolic systems and expert systems through the rise of statistical learning and modern deep learning.",
+      "key_takeaways": [
+        "Maps the swings between symbolic AI and learning-based approaches",
+        "Situates today's deep learning within decades of prior paradigms",
+        "Useful framing before diving into CS221's technical material"
+      ],
+      "why_it_matters": "Historical context from a rigorous university AI course helps builders understand why the field looks the way it does today.",
+      "audience_fit": "Students, engineers, and builders new to AI's intellectual history.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "ai-history",
+        "stanford",
+        "cs221",
+        "foundations"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=z8fEXuH0mu0",
+      "credibility": 9,
+      "usefulness": 6,
+      "status": "reviewed",
+      "venue": "Stanford CS221 (Autumn 2021)"
+    },
+    {
+      "id": "ai-engineer-conference",
+      "title": "AI Engineer (Conferences & Talk Library)",
+      "creator": "AI Engineer",
+      "format": "Conference / Video Hub",
+      "category": "AI in Practice",
+      "subcategory": "Community & talks",
+      "summary": "The home of the AI Engineer conferences (Summit and World's Fair), which publish a large free library of technical talks for engineers building with LLMs and AI systems — covering agents, evals, RAG, tooling, and production practices.",
+      "key_takeaways": [
+        "High-signal, practitioner-focused talks on building real AI systems",
+        "Strong coverage of agents, evaluation, RAG, and tooling",
+        "A living resource that tracks the fast-moving applied-AI frontier"
+      ],
+      "why_it_matters": "One of the best ongoing sources of applied, build-it-now knowledge for the emerging 'AI engineer' role.",
+      "audience_fit": "AI engineers, technical founders, applied ML teams.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "ai-engineering",
+        "llms",
+        "agents",
+        "conference",
+        "applied-ai"
+      ],
+      "source_link": "https://www.ai.engineer",
+      "credibility": 7,
+      "usefulness": 8,
+      "status": "recommended",
+      "venue": "AI Engineer"
+    },
+    {
+      "id": "startup-com-documentary",
+      "title": "Startup.com",
+      "creator": "Chris Hegedus, Jehane Noujaim (dir.)",
+      "year": 2001,
+      "format": "Documentary",
+      "category": "Documentary and Long-Form Media",
+      "subcategory": "Startup Stories",
+      "summary": "A raw, cinema-vérité documentary following two childhood friends as they launch govWorks, a government-focused dot-com, during the internet bubble. It captures the dot-com boom and bust up close, including the strain it puts on the founders' partnership.",
+      "key_takeaways": [
+        "An unfiltered, real-time view of a startup's rise and collapse",
+        "Shows how the dot-com bubble's hype and funding distorted decisions",
+        "A case study in how co-founder relationships fracture under pressure"
+      ],
+      "why_it_matters": "One of the most honest fly-on-the-wall records of startup failure and the dot-com era, valuable precisely because it isn't a sanitized retrospective.",
+      "audience_fit": "Founders, co-founders, anyone studying startup risk and the dot-com era.",
+      "difficulty": "Beginner",
+      "tags": [
+        "documentary",
+        "startups",
+        "dot-com",
+        "failure",
+        "co-founders"
+      ],
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "recommended"
+    },
+    {
+      "id": "silicon-cowboys-documentary",
+      "title": "Silicon Cowboys",
+      "creator": "Jason Cohen (dir.)",
+      "year": 2016,
+      "format": "Documentary",
+      "category": "Documentary and Long-Form Media",
+      "subcategory": "Startup Stories",
+      "summary": "A documentary on the rise of Compaq, founded in 1982 by three Texas friends — Rod Canion, Jim Harris, and Bill Murto — who built the first IBM-compatible portable PC and took on IBM in the personal computer market, with venture capitalist Ben Rosen backing them.",
+      "key_takeaways": [
+        "An underdog challenger can beat an incumbent by out-executing on compatibility and speed",
+        "Compaq's IBM-compatible strategy helped open up the PC clone market",
+        "A vivid case study in 1980s startup ambition and hardware competition"
+      ],
+      "why_it_matters": "Tells a foundational and often-overlooked PC-industry story: how a startup challenged IBM and helped shape the open PC ecosystem.",
+      "audience_fit": "Founders, hardware builders, anyone interested in PC and startup history.",
+      "difficulty": "Beginner",
+      "tags": [
+        "documentary",
+        "startups",
+        "compaq",
+        "pc-history",
+        "competition"
+      ],
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "recommended"
+    },
+    {
+      "id": "where-wizards-stay-up-late",
+      "title": "Where Wizards Stay Up Late: The Origins of the Internet",
+      "creator": "Katie Hafner, Matthew Lyon",
+      "year": 1996,
+      "format": "Book",
+      "category": "Internet and Big Tech History",
+      "subcategory": "Internet Origins",
+      "summary": "The story of the people who built ARPANET, the precursor to the internet — the researchers, the funding, and the engineering decisions (like packet switching) that made a global network possible.",
+      "key_takeaways": [
+        "Tells how ARPANET and packet switching actually came to be.",
+        "Highlights the people and institutions behind the internet's origins.",
+        "Grounds today's internet in concrete, human engineering history."
+      ],
+      "why_it_matters": "The definitive popular history of how the internet was born.",
+      "audience_fit": "Anyone curious about the internet's real origins.",
+      "difficulty": "Beginner",
+      "tags": [
+        "internet-history",
+        "arpanet",
+        "packet-switching",
+        "networking"
+      ],
+      "source_link": null,
+      "credibility": 8,
+      "usefulness": 6,
+      "status": "reviewed"
+    },
+    {
+      "id": "steve-jobs-stanford-2005",
+      "title": "Stanford Commencement Address (2005)",
+      "creator": "Steve Jobs",
+      "year": 2005,
+      "format": "Talk",
+      "category": "Founder Mental Models",
+      "subcategory": "Vision & Motivation",
+      "summary": "Steve Jobs's widely watched commencement speech told through three stories — connecting the dots, love and loss, and death — distilling a philosophy of following curiosity and doing what you love.",
+      "key_takeaways": [
+        "You can only connect the dots looking backward — trust they'll connect.",
+        "Do work you love; don't settle.",
+        "Remembering you'll die clarifies what actually matters."
+      ],
+      "why_it_matters": "A short, durable piece of motivation for builders facing uncertainty.",
+      "audience_fit": "Anyone — especially founders early in the journey.",
+      "difficulty": "Beginner",
+      "tags": [
+        "motivation",
+        "vision",
+        "career",
+        "classic-talk"
+      ],
+      "source_link": "https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/",
+      "credibility": 8,
+      "usefulness": 6,
+      "status": "reviewed"
+    },
+    {
+      "id": "design-sprint-masterclass",
+      "title": "Design Sprint Masterclass",
+      "creator": "AJ&Smart",
+      "format": "Course",
+      "category": "Product and Design",
+      "subcategory": "Design practice",
+      "summary": "A guided 4-day design sprint training program with facilitation resources.",
+      "key_takeaways": [
+        "rapid alignment",
+        "prototype testing",
+        "structured facilitation",
+        "decision making"
+      ],
+      "why_it_matters": "Useful when teams need to compress debate into a fast, testable decision process.",
+      "audience_fit": "Designers, PMs, founders, facilitators",
+      "difficulty": "Beginner",
+      "tags": [
+        "design sprint",
+        "facilitation",
+        "workshop",
+        "course"
+      ],
+      "source_link": "https://go.ajsmart.com/masterclass",
+      "credibility": 7,
+      "usefulness": 7,
+      "status": "reviewed",
+      "venue": "AJ&Smart"
+    },
+    {
+      "id": "the-clean-coder",
+      "title": "The Clean Coder",
+      "creator": "Robert C. Martin",
+      "year": 2011,
+      "format": "Book",
+      "category": "Engineering and Systems",
+      "subcategory": "Team practices",
+      "summary": "A code-of-conduct style book about professionalism, estimation, testing, and responsibility.",
+      "key_takeaways": [
+        "professionalism",
+        "estimation",
+        "discipline",
+        "testing"
+      ],
+      "why_it_matters": "Useful for junior-to-mid engineers learning the social side of software craft.",
+      "audience_fit": "Engineers, team leads",
+      "difficulty": "Intermediate",
+      "tags": [
+        "professionalism",
+        "engineering",
+        "book",
+        "craft"
+      ],
+      "source_link": "https://www.pearson.com/en-us/subject-catalog/p/clean-coder-the-a-code-of-conduct-for-professional-programmers/P200000009045/9780132542883",
+      "credibility": 7,
+      "usefulness": 7,
+      "status": "reviewed",
+      "venue": "Pearson"
+    },
+    {
+      "id": "cs106e-ai-machine-learning-notes",
+      "title": "AI & Machine Learning (Stanford CS106E Lecture Notes)",
+      "creator": "Stanford CS106E",
+      "format": "Lecture Notes (PDF)",
+      "category": "AI Foundations",
+      "subcategory": "Intro explainers",
+      "summary": "Lecture notes from Stanford's CS106E (a computing course for general audiences) introducing artificial intelligence and machine learning concepts in plain, non-specialist language.",
+      "key_takeaways": [
+        "Explains core AI/ML ideas without assuming a technical background",
+        "A gentle, readable on-ramp from a respected institution",
+        "Good primer before heavier courses or papers"
+      ],
+      "why_it_matters": "One of the most accessible institution-backed introductions to what AI and ML actually are.",
+      "audience_fit": "Non-technical readers, founders, operators, beginners.",
+      "difficulty": "Beginner",
+      "tags": [
+        "ai",
+        "machine-learning",
+        "intro",
+        "stanford",
+        "lecture-notes"
+      ],
+      "source_link": "https://web.stanford.edu/class/cs106e/lectureNotes/L23NAIMachineLearning.pdf",
+      "credibility": 8,
+      "usefulness": 6,
+      "status": "reviewed",
+      "venue": "Stanford CS106E"
+    },
+    {
+      "id": "cmu-15780-intro-ai",
+      "title": "Introduction to Graduate Artificial Intelligence (CMU 15-780)",
+      "creator": "Carnegie Mellon University 15-780",
+      "format": "Lecture Slides (PDF)",
+      "category": "AI Foundations",
+      "subcategory": "Course material",
+      "summary": "Introductory lecture slides from Carnegie Mellon's graduate AI course (15-780), framing the scope of AI: search, logic, probabilistic reasoning, and machine learning at a graduate level.",
+      "key_takeaways": [
+        "Defines the breadth of academic AI beyond just deep learning",
+        "Graduate-level framing of search, logic, and reasoning",
+        "Primary course material from a top CS program"
+      ],
+      "why_it_matters": "A rigorous map of the AI field from one of the strongest CS departments, useful for grounding beyond the LLM-only view.",
+      "audience_fit": "Engineers and researchers wanting graduate-level AI breadth.",
+      "difficulty": "Advanced",
+      "tags": [
+        "ai",
+        "cmu",
+        "graduate-course",
+        "foundations"
+      ],
+      "source_link": "https://www.cs.cmu.edu/~15780/15-780_files/lecture_slides/Lecture1_intro.pdf",
+      "credibility": 8,
+      "usefulness": 6,
+      "status": "reviewed",
+      "venue": "Carnegie Mellon 15-780"
+    },
+    {
+      "id": "allan-dafoe-ai-talks",
+      "title": "Allan Dafoe — AI Governance & Safety Talks",
+      "creator": "Allan Dafoe",
+      "format": "Talk Collection",
+      "category": "AI in Practice",
+      "subcategory": "AI safety & governance",
+      "summary": "A collection of recorded talks by Allan Dafoe, Director of Frontier Safety and Governance at Google DeepMind, on the governance, policy, and safety challenges of navigating the transition to advanced AI.",
+      "key_takeaways": [
+        "Frames AI governance as a central challenge of advanced AI",
+        "Connects technical capability trends to policy and safety",
+        "Primary-source thinking from a leading governance researcher"
+      ],
+      "why_it_matters": "As AI capability scales, governance and safety become strategic concerns for builders and policymakers alike — this is a credible primary source.",
+      "audience_fit": "Founders, policy leads, researchers, AI strategists.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "ai-safety",
+        "ai-governance",
+        "policy",
+        "deepmind"
+      ],
+      "source_link": "https://www.allandafoe.com/ai-talks",
+      "credibility": 8,
+      "usefulness": 6,
+      "status": "reviewed",
+      "venue": "Allan Dafoe (Google DeepMind)"
+    },
+    {
+      "id": "ui-talks-product-management",
+      "title": "UI Talks — Product Management (Curated Collection)",
+      "creator": "UI Patterns (UI Talks)",
+      "format": "Talk Collection",
+      "category": "Product and Design",
+      "subcategory": "Product management",
+      "summary": "A curated set of seven conference talks on product management (recorded 2013–2018) from speakers including Paul Adams, Jeff Gothelf, and Ken Norton, covering lean methods, rapid prototyping, and product strategy.",
+      "key_takeaways": [
+        "Curated talks from respected product practitioners",
+        "Covers lean, prototyping, and product strategy",
+        "A compact playlist for leveling up product thinking"
+      ],
+      "why_it_matters": "A high-signal shortcut to several influential product-management talks in one place.",
+      "audience_fit": "Product managers, designers, founders.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "product-management",
+        "talks",
+        "curated",
+        "strategy"
+      ],
+      "source_link": "https://talks.ui-patterns.com/topics/product-management",
+      "credibility": 7,
+      "usefulness": 7,
+      "status": "reviewed",
+      "venue": "UI Patterns"
+    },
+    {
+      "id": "something-ventured-documentary",
+      "title": "Something Ventured",
+      "creator": "Dan Geller, Dayna Goldfine",
+      "year": 2011,
+      "format": "Documentary",
+      "category": "Documentary and Long-Form Media",
+      "subcategory": "Venture History",
+      "summary": "A documentary on the birth of the venture capital industry, following the early VCs who backed Apple, Intel, Genentech, Atari, and Cisco, and how their bets created Silicon Valley.",
+      "key_takeaways": [
+        "Shows how a handful of early investors catalyzed entire industries.",
+        "Illuminates the founder–investor relationship at its best.",
+        "Grounds modern VC in its surprisingly recent origins."
+      ],
+      "why_it_matters": "The clearest narrative of where venture capital came from and why it mattered.",
+      "audience_fit": "Founders and anyone curious about VC's origins.",
+      "difficulty": "Beginner",
+      "tags": [
+        "documentary",
+        "venture-capital",
+        "silicon-valley",
+        "history"
+      ],
+      "source_link": null,
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed"
+    },
+    {
+      "id": "triumph-of-the-nerds",
+      "title": "Triumph of the Nerds",
+      "creator": "Robert X. Cringely",
+      "year": 1996,
+      "format": "Documentary",
+      "category": "Documentary and Long-Form Media",
+      "subcategory": "PC History",
+      "summary": "A three-part documentary on the rise of the personal computer industry, from hobbyist garages to Apple, Microsoft, and IBM, told with first-hand interviews of the key players.",
+      "key_takeaways": [
+        "Chronicles how the PC industry went from hobby to global force.",
+        "Captures the rivalries and accidents that decided who won.",
+        "First-hand interviews with the people who built the PC era."
+      ],
+      "why_it_matters": "A lively, primary-source history of the personal computer revolution.",
+      "audience_fit": "Anyone interested in PC and tech-industry history.",
+      "difficulty": "Beginner",
+      "tags": [
+        "documentary",
+        "personal-computing",
+        "apple",
+        "microsoft",
+        "history"
+      ],
+      "source_link": "https://www.pbs.org/nerds/",
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed"
+    },
+    {
+      "id": "edx-columbia-ai-study-guide",
+      "title": "Artificial Intelligence (AI) by edX — Columbia University (Study Guide)",
+      "creator": "Josh Wentz (notes on Columbia CSMM.101x, Ansaf Salleb-Aouissi)",
+      "format": "Study Guide (Article)",
+      "category": "AI Foundations",
+      "subcategory": "Course notes",
+      "summary": "A detailed study guide documenting Columbia University's graduate-level edX AI course (taught by Prof. Ansaf Salleb-Aouissi), covering search algorithms, machine learning, neural networks, logic, NLP, robotics, and reinforcement learning across a 12-week curriculum.",
+      "key_takeaways": [
+        "Summarizes a full graduate AI curriculum in one place",
+        "Covers classical AI (search, logic) alongside ML and neural nets",
+        "A roadmap/companion for self-studying the edX course"
+      ],
+      "why_it_matters": "A useful secondary-source map of a respected university AI course for self-directed learners.",
+      "audience_fit": "Self-learners and engineers planning an AI study path.",
+      "difficulty": "Intermediate",
+      "tags": [
+        "ai",
+        "course-notes",
+        "edx",
+        "columbia",
+        "self-study"
+      ],
+      "source_link": "https://medium.com/@joshwentz/artificial-intelligence-ai-by-edx-2ae1067103c8",
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed",
+      "venue": "Medium / edX (Columbia)"
+    },
+    {
+      "id": "canon-of-design-product-management",
+      "title": "The Canon of Design for a New Journey in Product Management",
+      "creator": "Rajiv Kaul (Intelligaia)",
+      "format": "Slides",
+      "category": "Product and Design",
+      "subcategory": "Design-led product",
+      "summary": "A slide deck outlining a design-centered approach to product management, organized around trust, empathy, storytelling, prototyping, design systems, and user adoption as pillars of strong product experiences.",
+      "key_takeaways": [
+        "Frames product management through a design-first lens",
+        "Emphasizes empathy, storytelling, and prototyping",
+        "Connects design systems to product adoption"
+      ],
+      "why_it_matters": "A concise visual articulation of how design thinking and product management reinforce each other.",
+      "audience_fit": "Product managers, designers, design-minded founders.",
+      "difficulty": "Beginner",
+      "tags": [
+        "product-management",
+        "design",
+        "design-systems",
+        "slides"
+      ],
+      "source_link": "https://pt.slideshare.net/slideshow/canon-of-design-for-a-new-journey-in-product-management/66867250",
+      "credibility": 6,
+      "usefulness": 6,
+      "status": "reviewed",
+      "venue": "SlideShare"
+    }
+  ]
+}
