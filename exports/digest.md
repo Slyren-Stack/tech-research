@@ -2,7 +2,7 @@
 
 > A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.
 
-103 curated items · generated 2026-06-23. This single file is meant to be sent to a teammate as a complete snapshot.
+142 curated items · generated 2026-06-23. This single file is meant to be sent to a teammate as a complete snapshot.
 
 ---
 
@@ -118,6 +118,48 @@ Introduces build-measure-learn, MVPs, and pivot/persevere thinking for startups 
 
 ---
 
+## ⭐ VC: An American History
+*Tom Nicholas / Harvard University Press · 2019 · Book · Venture Capital and Fundraising → Core Historical Foundations*
+`Intermediate` · cred 10/10 · useful 10/10 · status `core`
+
+The strongest single-volume history of venture capital in the United States, from early risk finance to modern Silicon Valley.
+
+**Key takeaways:** (1) risk pooling (2) institutional evolution (3) innovation finance
+
+**Why it matters:** It gives the broadest and most durable framework for understanding how VC became an American institution.
+
+**Source:** [https://www.hup.harvard.edu/books/9780674988002](https://www.hup.harvard.edu/books/9780674988002)
+
+---
+
+## ⭐ The Money of Invention: How Venture Capital Creates New Wealth
+*Josh Lerner and Paul Gompers / Harvard Business School Press · 2001 · Book · Venture Capital and Fundraising → Core Historical Foundations*
+`Beginner` · cred 10/10 · useful 10/10 · status `core`
+
+A classic explanation of how VC works structurally and why it became a durable engine of new company formation.
+
+**Key takeaways:** (1) startup finance (2) VC economics (3) wealth creation (4) exit logic
+
+**Why it matters:** It remains one of the cleanest bridges between history and practice.
+
+**Source:** [https://www.hbs.edu/faculty/Pages/item.aspx?num=10434](https://www.hbs.edu/faculty/Pages/item.aspx?num=10434)
+
+---
+
+## ⭐ The Power Law: Venture Capital and the Making of the New Future
+*Sebastian Mallaby / Penguin Press · 2022 · Book · Venture Capital and Fundraising → Silicon Valley and Modern VC Model*
+`Intermediate` · cred 10/10 · useful 10/10 · status `core`
+
+A modern narrative history of the dominant firms, personalities, and strategy shifts that shaped the VC industry.
+
+**Key takeaways:** (1) power-law returns (2) firm culture (3) Silicon Valley (4) winner-take-most dynamics
+
+**Why it matters:** Probably the best contemporary narrative of the modern VC industry.
+
+**Source:** [https://www.cfr.org/books/power-law](https://www.cfr.org/books/power-law)
+
+---
+
 ## ⭐ Attention Is All You Need
 *Ashish Vaswani et al. (Google) · 2017 · Paper · AI Foundations → Deep Learning Architectures*
 `Advanced` · cred 10/10 · useful 9/10 · status `core`
@@ -213,6 +255,34 @@ Explains how successful companies can fail when new technologies start in low-en
 **Why it matters:** A foundational theory of innovation, strategy, and why new entrants beat incumbents.
 
 **Source:** [https://store.hbr.org/product/the-innovator-s-dilemma-with-a-new-foreword-when-new-technologies-cause-great-firms-to-fail/10706](https://store.hbr.org/product/the-innovator-s-dilemma-with-a-new-foreword-when-new-technologies-cause-great-firms-to-fail/10706)
+
+---
+
+## Interview with Don Valentine, 2004 April 21
+*Stanford Silicon Genesis · 2004 · Oral history interview · Venture Capital and Fundraising → Major Firms and Legendary Investors*
+`Intermediate` · cred 10/10 · useful 10/10 · status `recommended`
+
+A major firsthand account from the Sequoia founder on the formation of Valley venture practice and company-building judgment.
+
+**Key takeaways:** (1) Sequoia (2) company selection (3) product judgment (4) Silicon Genesis
+
+**Why it matters:** A rare window into the mind of one of the most influential venture investors ever.
+
+**Source:** [https://exhibits.stanford.edu/silicongenesis/catalog/nn642hx4425](https://exhibits.stanford.edu/silicongenesis/catalog/nn642hx4425)
+
+---
+
+## Oral History with Alan Patricof
+*Computer History Museum / NVCA · 2010 · Oral history interview · Venture Capital and Fundraising → Origins of Venture Capital*
+`Intermediate` · cred 10/10 · useful 10/10 · status `recommended`
+
+A first-person account of one of the earliest venture capitalists, with extensive reflections on angel investing and the evolution of the field.
+
+**Key takeaways:** (1) angel capital (2) early VC (3) fund origins (4) institutional change
+
+**Why it matters:** A direct witness account from a builder of the modern industry.
+
+**Source:** [https://archive.computerhistory.org/resources/access/text/2019/03/102781064-05-01-acc.pdf](https://archive.computerhistory.org/resources/access/text/2019/03/102781064-05-01-acc.pdf)
 
 ---
 
@@ -538,6 +608,188 @@ A compact guide to customer conversations that avoids flattering but useless fee
 
 ---
 
+## How Do Venture Capitalists Make Decisions?
+*Paul Gompers et al. / NBER · 2016 · Working paper · Venture Capital and Fundraising → Startup Financing and Fundraising History*
+`Advanced` · cred 10/10 · useful 9/10 · status `recommended`
+
+A rare empirical look inside the black box of VC decision-making using a large survey of firms and partners.
+
+**Key takeaways:** (1) screening (2) stage (3) sector choice (4) investment process
+
+**Why it matters:** It reveals how real firms behave rather than how they advertise themselves.
+
+**Source:** [https://www.nber.org/system/files/working_papers/w22587/w22587.pdf](https://www.nber.org/system/files/working_papers/w22587/w22587.pdf)
+
+---
+
+## Venture Capital Data: Opportunities and Challenges
+*Steven N. Kaplan and Josh Lerner / Harvard Business School · 2016 · Working paper · Venture Capital and Fundraising → LP/GP Fundraising History*
+`Advanced` · cred 10/10 · useful 9/10 · status `recommended`
+
+A foundational paper on why VC is hard to study and how data limitations shape what we know about fund performance and LP behavior.
+
+**Key takeaways:** (1) LP data (2) fund performance (3) measurement limits (4) private markets
+
+**Why it matters:** A necessary reality check for VC narratives built on incomplete public data.
+
+**Source:** [https://www.hbs.edu/ris/Publication%20Files/17-012_10de1f93-30e4-4a98-858c-4137556ec037.pdf](https://www.hbs.edu/ris/Publication%20Files/17-012_10de1f93-30e4-4a98-858c-4137556ec037.pdf)
+
+---
+
+## Institutions and venture capital
+*Josh Lerner / Oxford Academic · 2013 · Article · Venture Capital and Fundraising → Origins of Venture Capital*
+`Advanced` · cred 10/10 · useful 9/10 · status `recommended`
+
+Explains how policy and institutions, including SBICs, helped shape the venture capital market.
+
+**Key takeaways:** (1) government policy (2) market formation (3) institutional design
+
+**Why it matters:** It shows VC was co-created by public and private institutions.
+
+**Source:** [https://academic.oup.com/icc/article/22/1/153/884044](https://academic.oup.com/icc/article/22/1/153/884044)
+
+---
+
+## Silicon Valley
+*PBS American Experience · 2013 · Documentary · Venture Capital and Fundraising → Silicon Valley and the Modern VC Model*
+`Beginner` · cred 10/10 · useful 9/10 · status `recommended`
+
+A high-quality documentary tracing the Fairchild-to-Intel-to-Silicon-Valley arc and the rise of startup culture.
+
+**Key takeaways:** (1) Fairchild (2) Intel (3) startup ecosystem (4) regional concentration
+
+**Why it matters:** It situates venture capital within the broader history of Silicon Valley.
+
+**Source:** [https://www.pbs.org/wgbh/americanexperience/films/silicon/](https://www.pbs.org/wgbh/americanexperience/films/silicon/)
+
+---
+
+## Bill Draper: The Rise of Sand Hill Road and Silicon Valley
+*Stanford · 2015 · Recorded lecture · Venture Capital and Fundraising → Silicon Valley and the Modern VC Model*
+`Intermediate` · cred 10/10 · useful 9/10 · status `recommended`
+
+A pioneer VC reflects on the rise of Sand Hill Road and the evolution of the Valley from the inside.
+
+**Key takeaways:** (1) early VC (2) Sand Hill Road (3) incubators (4) angels
+
+**Why it matters:** One of the clearest direct testimonies from the first generation of West Coast venture capitalists.
+
+**Source:** [https://www.youtube.com/watch?v=KxDxRUYEMXg](https://www.youtube.com/watch?v=KxDxRUYEMXg)
+
+---
+
+## Cisco oral history panel: John Morgridge and Don Valentine
+*Computer History Museum · 2014 · Oral history panel · Venture Capital and Fundraising → Major Firms and Legendary Investors*
+`Advanced` · cred 10/10 · useful 9/10 · status `recommended`
+
+A firsthand record of how investor and operator dynamics helped build Cisco into a category-defining company.
+
+**Key takeaways:** (1) company building (2) board dynamics (3) market creation (4) scale
+
+**Why it matters:** It shows how VC and startup leadership interact in real company formation.
+
+**Source:** [https://archive.computerhistory.org/resources/access/text/2015/09/102739934-05-01-acc.pdf](https://archive.computerhistory.org/resources/access/text/2015/09/102739934-05-01-acc.pdf)
+
+---
+
+## The Economics within the Private Equity Partnership
+*Victoria Ivashina, Josh Lerner et al. / Harvard Business School · 2016 · Working paper · Venture Capital and Fundraising → LP/GP Fundraising History*
+`Advanced` · cred 10/10 · useful 9/10 · status `recommended`
+
+Explains how compensation, incentive design, and firm age shape GP economics and fundraising dynamics.
+
+**Key takeaways:** (1) fees (2) carry (3) incentives (4) GP strategy
+
+**Why it matters:** Fundraising makes more sense once you understand the economic structure of the partnership.
+
+**Source:** [https://www.hbs.edu/ris/Publication%20Files/16-119_4925d447-80c5-4764-ad17-912b2baa918d.pdf](https://www.hbs.edu/ris/Publication%20Files/16-119_4925d447-80c5-4764-ad17-912b2baa918d.pdf)
+
+---
+
+## Venture Capital Booms and Start-Up Financing
+*William Janeway, Ramana Nanda, Matthew Rhodes-Kropf / Harvard Business School · 2021 · Working paper / review · Venture Capital and Fundraising → Bubbles, Booms, and Crashes*
+`Advanced` · cred 10/10 · useful 9/10 · status `recommended`
+
+A review of how VC booms change startup financing, the kinds of firms that get funded, and the downstream effects of capital surges.
+
+**Key takeaways:** (1) booms (2) busts (3) startup financing (4) selection effects
+
+**Why it matters:** It explains why venture cycles do not just add capital; they change the market structure itself.
+
+**Source:** [https://www.hbs.edu/ris/Publication%20Files/21-116_c8365ab5-7cad-4ba3-9e02-ddec0191413f.pdf](https://www.hbs.edu/ris/Publication%20Files/21-116_c8365ab5-7cad-4ba3-9e02-ddec0191413f.pdf)
+
+---
+
+## Oral History with Charles W. Newhall III
+*Computer History Museum / NVCA · 2010 · Oral history interview · Venture Capital and Fundraising → Origins of Venture Capital*
+`Intermediate` · cred 10/10 · useful 9/10 · status `recommended`
+
+A firsthand history of early venture, including Newhall's pre-VC exposure to angel investors and the Boston-to-California evolution of the field.
+
+**Key takeaways:** (1) angel investors (2) VC history (3) founder journey (4) East Coast origins
+
+**Why it matters:** Shows that modern VC grew out of a wider ecosystem of merchants, angels, and early risk capital.
+
+**Source:** [https://archive.computerhistory.org/resources/access/text/2021/05/102792196-05-01-acc.pdf](https://archive.computerhistory.org/resources/access/text/2021/05/102792196-05-01-acc.pdf)
+
+---
+
+## Oral History with Henry F. McCance
+*Computer History Museum / NVCA · 2010 · Oral history interview · Venture Capital and Fundraising → Origins of Venture Capital*
+`Intermediate` · cred 10/10 · useful 9/10 · status `recommended`
+
+A detailed recollection of the early venture ecosystem, including the role of abundant angel and venture capital in the Valley.
+
+**Key takeaways:** (1) angel capital (2) early ecosystem (3) VC expansion (4) Silicon Valley
+
+**Why it matters:** Useful for understanding how venture capital scaled from a niche craft into an industry.
+
+**Source:** [https://archive.computerhistory.org/resources/access/text/2019/03/102781068-05-01-acc.pdf](https://archive.computerhistory.org/resources/access/text/2019/03/102781068-05-01-acc.pdf)
+
+---
+
+## From the Archives: Y Combinator Founders Paul Graham and Jessica Livingston on Studio 1.0
+*Bloomberg Technology · 2014 · Interview / recorded conversation · Venture Capital and Fundraising → Angel Investing and Accelerators*
+`Beginner` · cred 9/10 · useful 10/10 · status `recommended`
+
+A widely cited interview on how YC began and how the accelerator model changed startup financing and founder support.
+
+**Key takeaways:** (1) Y Combinator (2) accelerators (3) founder selection (4) startup support
+
+**Why it matters:** One of the best primary interviews on the origin of the modern accelerator model.
+
+**Source:** [https://www.youtube.com/watch?v=SuoPiiUBcOk](https://www.youtube.com/watch?v=SuoPiiUBcOk)
+
+---
+
+## The Determinants of Corporate Venture Capital Success
+*Paul Gompers / NBER · 2000 · Academic paper · Venture Capital and Fundraising → Corporate VC*
+`Advanced` · cred 10/10 · useful 9/10 · status `recommended`
+
+A landmark paper explaining the rise of corporate venture funds and the conditions under which they succeed.
+
+**Key takeaways:** (1) corporate VC (2) strategic overlap (3) innovation search (4) history of CVC
+
+**Why it matters:** One of the clearest early academic histories of CVC as a distinct model.
+
+**Source:** [https://www.nber.org/system/files/working_papers/w6725/w6725.pdf](https://www.nber.org/system/files/working_papers/w6725/w6725.pdf)
+
+---
+
+## The Next New Thing: Venture Capital Stories
+*Computer History Museum · 2019 · Oral history collection · Venture Capital and Fundraising → Hidden Gems and Lesser-Known Historical Material*
+`Intermediate` · cred 10/10 · useful 9/10 · status `recommended`
+
+A curated story collection of VC history featuring first-person recollections of major firms, founders, and deals.
+
+**Key takeaways:** (1) oral history (2) firm memory (3) founder-investor relationships
+
+**Why it matters:** Excellent for building institutional memory without relying on promotional narratives.
+
+**Source:** [https://computerhistory.org/stories/the-next-new-thing/](https://computerhistory.org/stories/the-next-new-thing/)
+
+---
+
 ## ⭐ Computing Machinery and Intelligence
 *Alan Turing · 1950 · Essay · AI Foundations → Origins of AI*
 `Intermediate` · cred 10/10 · useful 7/10 · status `core`
@@ -703,6 +955,132 @@ YC’s online course for founders, taught by YC partners and successful founders
 **Why it matters:** A practical founder curriculum that compresses years of startup trial-and-error into structured lessons.
 
 **Source:** [https://www.ycombinator.com/blog/startup-school](https://www.ycombinator.com/blog/startup-school)
+
+---
+
+## Creative Capital: Georges Doriot and the Birth of Venture Capital
+*Spencer E. Ante / Harvard Business Press · 2008 · Book · Venture Capital and Fundraising → Origins of Venture Capital*
+`Intermediate` · cred 9/10 · useful 9/10 · status `recommended`
+
+The classic account of Georges Doriot and ARD, often treated as the birth of modern venture capital.
+
+**Key takeaways:** (1) ARD (2) Doriot (3) institutional invention (4) early tech finance
+
+**Why it matters:** It explains how modern venture capital emerged as a distinct profession and structure.
+
+**Source:** [https://books.google.com/books/about/Creative_Capital.html?id=Pex8b-qNoL8C](https://books.google.com/books/about/Creative_Capital.html?id=Pex8b-qNoL8C)
+
+---
+
+## How Venture Capital Works
+*Harvard Business Review · 1998 · Article · Venture Capital and Fundraising → Startup Financing and Fundraising History*
+`Beginner` · cred 9/10 · useful 9/10 · status `recommended`
+
+A concise evergreen explanation of the venture bargain: invest, nurture, and exit through sale or IPO.
+
+**Key takeaways:** (1) equity financing (2) exit discipline (3) fund economics
+
+**Why it matters:** A clean structural primer for anyone trying to understand the industry.
+
+**Source:** [https://hbr.org/1998/11/how-venture-capital-works](https://hbr.org/1998/11/how-venture-capital-works)
+
+---
+
+## Financing New Ideas
+*Harvard Business School / Georges F. Doriot exhibit · 2010 · Historical exhibit / essay · Venture Capital and Fundraising → Origins of Venture Capital*
+`Beginner` · cred 10/10 · useful 8/10 · status `recommended`
+
+A short exhibit on ARD and the early institutionalization of venture financing under Georges Doriot.
+
+**Key takeaways:** (1) ARD (2) institutionalization (3) Doriot (4) early venture firms
+
+**Why it matters:** A concise primary-source style entry point into the origin story.
+
+**Source:** [https://www.library.hbs.edu/hc/doriot/innovation-vc/financing-new-ideas/](https://www.library.hbs.edu/hc/doriot/innovation-vc/financing-new-ideas/)
+
+---
+
+## Origins of High-Tech Venture Investing in America
+*Tom Nicholas / Harvard Business School · 2016 · Working paper · Venture Capital and Fundraising → Origins of Venture Capital*
+`Advanced` · cred 10/10 · useful 8/10 · status `recommended`
+
+A historical account of how high-tech venture investing emerged in the United States and became tied to innovation growth.
+
+**Key takeaways:** (1) U.S. innovation (2) high-tech finance (3) institutional emergence
+
+**Why it matters:** It explains VC as part of industrial and financial history, not just startup lore.
+
+**Source:** [https://www.hbs.edu/ris/Publication%20Files/VC_Tech_4b7a1b2a-ef2a-4867-a41e-2ba84cb120f2.pdf](https://www.hbs.edu/ris/Publication%20Files/VC_Tech_4b7a1b2a-ef2a-4867-a41e-2ba84cb120f2.pdf)
+
+---
+
+## Sequoia Capital (Part 1)
+*Acquired · 2019 · Podcast episode / long-form audio · Venture Capital and Fundraising → Major Firms and Legendary Investors*
+`Intermediate` · cred 9/10 · useful 9/10 · status `recommended`
+
+A deep narrative on Sequoia's origins, strategy, and cultural influence.
+
+**Key takeaways:** (1) firm strategy (2) brand (3) venture franchise (4) founder selection
+
+**Why it matters:** One of the best long-form treatments of a defining VC firm.
+
+**Source:** [https://www.acquired.fm/episodes/sequoia-capital-part-1](https://www.acquired.fm/episodes/sequoia-capital-part-1)
+
+---
+
+## Chris Douvos: Limited Partners and Funds of Funds
+*Stanford / Entrepreneurship Through the Lens of Venture Capital · 2015 · Recorded lecture · Venture Capital and Fundraising → LP/GP Fundraising History*
+`Intermediate` · cred 9/10 · useful 9/10 · status `recommended`
+
+A clear LP-side explanation of fund-of-funds logic, portfolio construction, and what institutions seek from VC managers.
+
+**Key takeaways:** (1) LP selection (2) fund-of-funds (3) portfolio construction (4) manager quality
+
+**Why it matters:** A rare LP-focused view inside a GP-dominated conversation.
+
+**Source:** [https://www.youtube.com/watch?v=sFGX2iPxc9Y](https://www.youtube.com/watch?v=sFGX2iPxc9Y)
+
+---
+
+## Dalton Caldwell: Incubators, Accelerators, and Y Combinator
+*Stanford · 2015 · Recorded lecture · Venture Capital and Fundraising → Angel Investing and Accelerators*
+`Intermediate` · cred 9/10 · useful 9/10 · status `recommended`
+
+A practical and historical talk on why accelerators emerged and how YC shaped the startup pipeline.
+
+**Key takeaways:** (1) incubators (2) accelerators (3) YC model (4) startup pipeline
+
+**Why it matters:** It explains the accelerator model from someone inside YC's operating culture.
+
+**Source:** [https://www.youtube.com/watch?v=evATPGQq3oc](https://www.youtube.com/watch?v=evATPGQq3oc)
+
+---
+
+## The Entrepreneurial State
+*Mariana Mazzucato · 2013 · Book · Venture Capital and Fundraising → VC Critiques and Controversies*
+`Intermediate` · cred 9/10 · useful 9/10 · status `recommended`
+
+A major critique arguing that public institutions often create the markets and technologies that private capital later monetizes.
+
+**Key takeaways:** (1) state-led innovation (2) risk socialization (3) market creation
+
+**Why it matters:** Essential for balancing pro-VC narratives with a serious account of public investment.
+
+**Source:** [https://marianamazzucato.com/books/the-entrepreneurial-state/](https://marianamazzucato.com/books/the-entrepreneurial-state/)
+
+---
+
+## Pioneers of Venture Capital
+*Computer History Museum · 2002 · Recorded panel · Venture Capital and Fundraising → Hidden Gems and Lesser-Known Historical Material*
+`Intermediate` · cred 10/10 · useful 8/10 · status `recommended`
+
+A classic history panel on how venture capital got started in Silicon Valley.
+
+**Key takeaways:** (1) pioneers (2) industry origin (3) Silicon Valley
+
+**Why it matters:** One of the most important recorded conversations on VC's earliest years.
+
+**Source:** [https://www.youtube.com/watch?v=ult7VFgxiKo](https://www.youtube.com/watch?v=ult7VFgxiKo)
 
 ---
 
@@ -958,6 +1336,104 @@ A talk by Andrew Ng on how teams can build and ship faster using AI — emphasiz
 
 ---
 
+## A survey of venture capital research
+*Marco Da Rin, Thomas Hellmann, Manju Puri / NBER · 2011 · Survey article · Venture Capital and Fundraising → Core Historical Foundations*
+`Advanced` · cred 9/10 · useful 8/10 · status `recommended`
+
+A broad survey of the venture capital literature, including financing choices, fund behavior, and gaps in research.
+
+**Key takeaways:** (1) literature review (2) market structure (3) open research questions
+
+**Why it matters:** It helps you see what is known, what is contested, and what still needs study.
+
+**Source:** [https://www.nber.org/system/files/working_papers/w17523/w17523.pdf](https://www.nber.org/system/files/working_papers/w17523/w17523.pdf)
+
+---
+
+## Roundtable Summary: Towards a Better Aligned Private Equity World: Perspectives of Limited and General Partners
+*Harvard Business School / ILPA · 2016 · Roundtable summary · Venture Capital and Fundraising → LP/GP Fundraising History*
+`Intermediate` · cred 9/10 · useful 8/10 · status `recommended`
+
+A practical discussion of LP-GP alignment, transparency, co-investments, separate accounts, and fee pressure.
+
+**Key takeaways:** (1) alignment (2) transparency (3) LP governance (4) special relationships
+
+**Why it matters:** It captures the modern LP concerns that now shape the fundraising market.
+
+**Source:** [https://www.hbs.edu/private-capital/Documents/ILPA-PCRI-Roundtable-2016.pdf](https://www.hbs.edu/private-capital/Documents/ILPA-PCRI-Roundtable-2016.pdf)
+
+---
+
+## Venture capital, angel financing, and crowdfunding of entrepreneurial ventures: a literature review
+*Johannes Wallmeroth, Peter Wirtz, Alexander Peter Groh · 2018 · Literature review · Venture Capital and Fundraising → Angel Investing and Accelerators*
+`Advanced` · cred 9/10 · useful 8/10 · status `recommended`
+
+A broad research overview of angel financing, VC, and crowdfunding that maps the entrepreneurial finance landscape.
+
+**Key takeaways:** (1) angel investing (2) crowdfunding (3) entrepreneurial finance (4) market evolution
+
+**Why it matters:** A strong academic scaffold for understanding how angel capital fits into the broader startup financing stack.
+
+**Source:** [https://ideas.repec.org/a/now/fntent/0300000066.html](https://ideas.repec.org/a/now/fntent/0300000066.html)
+
+---
+
+## Corporate Venture Capital as a Real Option in the Markets for Technology
+*M. Ceccagnoli et al. / NBER · 2015 · Academic paper · Venture Capital and Fundraising → Corporate VC*
+`Advanced` · cred 9/10 · useful 8/10 · status `recommended`
+
+Explains CVC as a strategic option for access to technology and a window on future markets.
+
+**Key takeaways:** (1) real options (2) technology access (3) strategic investing (4) CVC logic
+
+**Why it matters:** A more modern theoretical frame for why corporations back startups.
+
+**Source:** [https://www.nber.org/system/files/working_papers/w21424/w21424.pdf](https://www.nber.org/system/files/working_papers/w21424/w21424.pdf)
+
+---
+
+## Have Secondaries Reached a Tipping Point?
+*Bain & Company · 2024 · Report / article · Venture Capital and Fundraising → Secondary Markets and Continuation Funds*
+`Intermediate` · cred 9/10 · useful 8/10 · status `recommended`
+
+A high-quality industry report explaining the recent growth in secondaries and the liquidity pressure that helped drive it.
+
+**Key takeaways:** (1) liquidity (2) secondaries (3) private markets (4) market scale
+
+**Why it matters:** A strong snapshot of how secondary markets moved from niche to central infrastructure.
+
+**Source:** [https://www.bain.com/insights/have-secondaries-reached-a-tipping-point-global-private-equity-report-2024/](https://www.bain.com/insights/have-secondaries-reached-a-tipping-point-global-private-equity-report-2024/)
+
+---
+
+## Secondary Market: 2024 Recap & Outlook for 2025
+*Coller Capital · 2024 · Industry report / interview · Venture Capital and Fundraising → Secondary Markets and Continuation Funds*
+`Intermediate` · cred 9/10 · useful 8/10 · status `recommended`
+
+A detailed private-markets review showing how GP-led transactions and continuation vehicles are now a major part of the secondaries market.
+
+**Key takeaways:** (1) continuation funds (2) GP-led secondaries (3) liquidity (4) market expansion
+
+**Why it matters:** One of the clearest current sources for understanding the rise of continuation vehicles.
+
+**Source:** [https://www.collercapital.com/2024-market-recap-2025-outlook/](https://www.collercapital.com/2024-market-recap-2025-outlook/)
+
+---
+
+## Venture Capital in the Valley: Past, Present & Future
+*Computer History Museum / Something Ventured · 2011 · Panel discussion · Venture Capital and Fundraising → Hidden Gems and Lesser-Known Historical Material*
+`Beginner` · cred 9/10 · useful 8/10 · status `recommended`
+
+A recorded panel that places the early VC founding generation in conversation with later Valley developments.
+
+**Key takeaways:** (1) past present future (2) Valley evolution (3) industry reflection
+
+**Why it matters:** Useful connective tissue between the origin stories and the mature Sand Hill era.
+
+**Source:** [https://www.youtube.com/watch?v=l_MW7PbuwlE](https://www.youtube.com/watch?v=l_MW7PbuwlE)
+
+---
+
 ## Out of the Tar Pit
 *Ben Moseley, Peter Marks · 2006 · Paper · Engineering and Systems → Software Complexity*
 `Advanced` · cred 8/10 · useful 8/10 · status `reviewed`
@@ -1123,6 +1599,76 @@ A Talks at Google session with a16z general partner Andrew Chen, based on his 20
 **Why it matters:** Network effects underlie many of the most valuable tech companies; this is a practical framework for the specific, underrated challenge of starting and scaling them.
 
 **Source:** [https://youtu.be/TSnYO34b3TA](https://youtu.be/TSnYO34b3TA)
+
+---
+
+## How Y Combinator Started - The Origin Story and Early Days
+*Paul Graham / YC commentary · 2012 · Video essay / commentary · Venture Capital and Fundraising → Angel Investing and Accelerators*
+`Beginner` · cred 8/10 · useful 8/10 · status `reviewed`
+
+A video treatment of Paul Graham's own account of how YC began and what problem it was trying to solve.
+
+**Key takeaways:** (1) origin story (2) founder support (3) accelerator philosophy
+
+**Why it matters:** A concise way to understand why YC became the template for accelerators.
+
+**Source:** [https://www.youtube.com/watch?v=lhA42gSdjNQ](https://www.youtube.com/watch?v=lhA42gSdjNQ)
+
+---
+
+## LP and GP led secondaries: Navigating different fund styles and continuation funds
+*Industry video · 2024 · Video · Venture Capital and Fundraising → Secondary Markets and Continuation Funds*
+`Intermediate` · cred 8/10 · useful 8/10 · status `reviewed`
+
+A practical explainer of LP-led and GP-led secondaries and the mechanics of continuation funds.
+
+**Key takeaways:** (1) deal structure (2) LP-led (3) GP-led (4) continuation vehicles
+
+**Why it matters:** Useful for understanding the structure behind the headlines.
+
+**Source:** [https://www.youtube.com/watch?v=2CdilCvKc0c](https://www.youtube.com/watch?v=2CdilCvKc0c)
+
+---
+
+## The Myths of Venture Capital
+*INET Economics / Julia Ott · 2023 · Interview video · Venture Capital and Fundraising → VC Critiques and Controversies*
+`Intermediate` · cred 8/10 · useful 8/10 · status `reviewed`
+
+A sharp discussion questioning the heroic mythology of VC and examining the industry's power and exclusions.
+
+**Key takeaways:** (1) mythmaking (2) power (3) venture narratives (4) inequality
+
+**Why it matters:** A necessary corrective to celebratory VC history.
+
+**Source:** [https://www.ineteconomics.org/perspectives/videos/the-myths-of-venture-capital](https://www.ineteconomics.org/perspectives/videos/the-myths-of-venture-capital)
+
+---
+
+## venture capital and the making of asset-driven inequalities
+*Finance and Society / academic article · 2025 · Academic article · Venture Capital and Fundraising → VC Critiques and Controversies*
+`Advanced` · cred 9/10 · useful 7/10 · status `reviewed`
+
+An argument that VC can amplify asset-driven inequality through its selection, ownership, and exit patterns.
+
+**Key takeaways:** (1) inequality (2) value capture (3) distribution (4) ownership
+
+**Why it matters:** Important for understanding the broader social consequences of the VC system.
+
+**Source:** [https://www.cambridge.org/core/journals/finance-and-society/article/rapacious-ambivalence-of-vc-investment-venture-capital-value-capture-and-the-valorization-of-crisis/7A7C156AB0959AF85F2656FF2C635211](https://www.cambridge.org/core/journals/finance-and-society/article/rapacious-ambivalence-of-vc-investment-venture-capital-value-capture-and-the-valorization-of-crisis/7A7C156AB0959AF85F2656FF2C635211)
+
+---
+
+## How to Raise a Venture Capital Fund
+*Winter Mead / Coolwater Capital · 2021 · Book and interviews · Venture Capital and Fundraising → LP/GP Fundraising History*
+`Intermediate` · cred 8/10 · useful 8/10 · status `reviewed`
+
+A recent source on how VC funds are raised, how LPs think, and how emerging managers navigate institutional fundraising.
+
+**Key takeaways:** (1) LPs (2) fundraising (3) emerging managers (4) institutional readiness
+
+**Why it matters:** Useful modern complement to the older LP/GP history literature.
+
+**Source:** [https://howtosetupaventurecapitalfund.com/](https://howtosetupaventurecapitalfund.com/)
 
 ---
 

@@ -2,7 +2,7 @@
   "meta": {
     "name": "Tech Research Knowledge Base",
     "description": "A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "generated_from": "indexes/master.json",
     "last_updated": "2026-06-23",
     "maintainers": [
@@ -160,6 +160,24 @@
         "shape-up",
         "rice-simple-prioritization-for-product-managers",
         "inside-apple-software-design"
+      ]
+    },
+    {
+      "id": "vc-history-path",
+      "title": "VC History Path",
+      "audience": "Founders, operators, and investors who want to understand how venture capital actually came to be and how it works.",
+      "intro": "From the broad history and mechanics of venture capital, through Silicon Valley's formation and its legendary firms, to fund economics and a critical counter-view. Moves from accessible narrative to deeper structural and empirical material.",
+      "items": [
+        "vc-an-american-history",
+        "the-money-of-invention-how-venture-capital-creates-new-wealt",
+        "the-power-law-venture-capital-and-the-making-of-the-new-futu",
+        "how-venture-capital-works",
+        "silicon-valley",
+        "creative-capital-georges-doriot-and-the-birth-of-venture-cap",
+        "bill-draper-the-rise-of-sand-hill-road-and-silicon-valley",
+        "interview-with-don-valentine-2004-april-21",
+        "the-economics-within-the-private-equity-partnership",
+        "the-entrepreneurial-state"
       ]
     }
   ],
@@ -3159,6 +3177,1127 @@
       "credibility": 8,
       "usefulness": 7,
       "status": "recommended"
+    },
+    {
+      "id": "vc-an-american-history",
+      "title": "VC: An American History",
+      "creator": "Tom Nicholas / Harvard University Press",
+      "year": 2019,
+      "format": "Book",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Core Historical Foundations",
+      "summary": "The strongest single-volume history of venture capital in the United States, from early risk finance to modern Silicon Valley.",
+      "key_takeaways": [
+        "risk pooling",
+        "institutional evolution",
+        "innovation finance"
+      ],
+      "why_it_matters": "It gives the broadest and most durable framework for understanding how VC became an American institution.",
+      "audience_fit": "researcher, investor, founder, operator",
+      "difficulty": "Intermediate",
+      "tags": [
+        "history",
+        "foundations",
+        "venture capital",
+        "America"
+      ],
+      "source_link": "https://www.hup.harvard.edu/books/9780674988002",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "core"
+    },
+    {
+      "id": "creative-capital-georges-doriot-and-the-birth-of-venture-cap",
+      "title": "Creative Capital: Georges Doriot and the Birth of Venture Capital",
+      "creator": "Spencer E. Ante / Harvard Business Press",
+      "year": 2008,
+      "format": "Book",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Origins of Venture Capital",
+      "summary": "The classic account of Georges Doriot and ARD, often treated as the birth of modern venture capital.",
+      "key_takeaways": [
+        "ARD",
+        "Doriot",
+        "institutional invention",
+        "early tech finance"
+      ],
+      "why_it_matters": "It explains how modern venture capital emerged as a distinct profession and structure.",
+      "audience_fit": "researcher, investor, founder",
+      "difficulty": "Intermediate",
+      "tags": [
+        "Doriot",
+        "ARD",
+        "origin",
+        "biography"
+      ],
+      "source_link": "https://books.google.com/books/about/Creative_Capital.html?id=Pex8b-qNoL8C",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "the-money-of-invention-how-venture-capital-creates-new-wealt",
+      "title": "The Money of Invention: How Venture Capital Creates New Wealth",
+      "creator": "Josh Lerner and Paul Gompers / Harvard Business School Press",
+      "year": 2001,
+      "format": "Book",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Core Historical Foundations",
+      "summary": "A classic explanation of how VC works structurally and why it became a durable engine of new company formation.",
+      "key_takeaways": [
+        "startup finance",
+        "VC economics",
+        "wealth creation",
+        "exit logic"
+      ],
+      "why_it_matters": "It remains one of the cleanest bridges between history and practice.",
+      "audience_fit": "founder, investor, operator, researcher",
+      "difficulty": "Beginner",
+      "tags": [
+        "VC",
+        "wealth creation",
+        "finance",
+        "classic"
+      ],
+      "source_link": "https://www.hbs.edu/faculty/Pages/item.aspx?num=10434",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "core"
+    },
+    {
+      "id": "the-power-law-venture-capital-and-the-making-of-the-new-futu",
+      "title": "The Power Law: Venture Capital and the Making of the New Future",
+      "creator": "Sebastian Mallaby / Penguin Press",
+      "year": 2022,
+      "format": "Book",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Silicon Valley and Modern VC Model",
+      "summary": "A modern narrative history of the dominant firms, personalities, and strategy shifts that shaped the VC industry.",
+      "key_takeaways": [
+        "power-law returns",
+        "firm culture",
+        "Silicon Valley",
+        "winner-take-most dynamics"
+      ],
+      "why_it_matters": "Probably the best contemporary narrative of the modern VC industry.",
+      "audience_fit": "researcher, investor, founder",
+      "difficulty": "Intermediate",
+      "tags": [
+        "Power Law",
+        "Silicon Valley",
+        "firms",
+        "strategy"
+      ],
+      "source_link": "https://www.cfr.org/books/power-law",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "core"
+    },
+    {
+      "id": "how-venture-capital-works",
+      "title": "How Venture Capital Works",
+      "creator": "Harvard Business Review",
+      "year": 1998,
+      "format": "Article",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Startup Financing and Fundraising History",
+      "summary": "A concise evergreen explanation of the venture bargain: invest, nurture, and exit through sale or IPO.",
+      "key_takeaways": [
+        "equity financing",
+        "exit discipline",
+        "fund economics"
+      ],
+      "why_it_matters": "A clean structural primer for anyone trying to understand the industry.",
+      "audience_fit": "founder, operator, beginner investor",
+      "difficulty": "Beginner",
+      "tags": [
+        "VC basics",
+        "HBR",
+        "funds",
+        "exits"
+      ],
+      "source_link": "https://hbr.org/1998/11/how-venture-capital-works",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "how-do-venture-capitalists-make-decisions",
+      "title": "How Do Venture Capitalists Make Decisions?",
+      "creator": "Paul Gompers et al. / NBER",
+      "year": 2016,
+      "format": "Working paper",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Startup Financing and Fundraising History",
+      "summary": "A rare empirical look inside the black box of VC decision-making using a large survey of firms and partners.",
+      "key_takeaways": [
+        "screening",
+        "stage",
+        "sector choice",
+        "investment process"
+      ],
+      "why_it_matters": "It reveals how real firms behave rather than how they advertise themselves.",
+      "audience_fit": "researcher, investor, advanced founder",
+      "difficulty": "Advanced",
+      "tags": [
+        "decision-making",
+        "NBER",
+        "VC process",
+        "empirical"
+      ],
+      "source_link": "https://www.nber.org/system/files/working_papers/w22587/w22587.pdf",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "venture-capital-data-opportunities-and-challenges",
+      "title": "Venture Capital Data: Opportunities and Challenges",
+      "creator": "Steven N. Kaplan and Josh Lerner / Harvard Business School",
+      "year": 2016,
+      "format": "Working paper",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "LP/GP Fundraising History",
+      "summary": "A foundational paper on why VC is hard to study and how data limitations shape what we know about fund performance and LP behavior.",
+      "key_takeaways": [
+        "LP data",
+        "fund performance",
+        "measurement limits",
+        "private markets"
+      ],
+      "why_it_matters": "A necessary reality check for VC narratives built on incomplete public data.",
+      "audience_fit": "researcher, investor, policymaker",
+      "difficulty": "Advanced",
+      "tags": [
+        "LPs",
+        "funds",
+        "data",
+        "performance"
+      ],
+      "source_link": "https://www.hbs.edu/ris/Publication%20Files/17-012_10de1f93-30e4-4a98-858c-4137556ec037.pdf",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "a-survey-of-venture-capital-research",
+      "title": "A survey of venture capital research",
+      "creator": "Marco Da Rin, Thomas Hellmann, Manju Puri / NBER",
+      "year": 2011,
+      "format": "Survey article",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Core Historical Foundations",
+      "summary": "A broad survey of the venture capital literature, including financing choices, fund behavior, and gaps in research.",
+      "key_takeaways": [
+        "literature review",
+        "market structure",
+        "open research questions"
+      ],
+      "why_it_matters": "It helps you see what is known, what is contested, and what still needs study.",
+      "audience_fit": "researcher, advanced investor",
+      "difficulty": "Advanced",
+      "tags": [
+        "survey",
+        "research",
+        "venture capital",
+        "NBER"
+      ],
+      "source_link": "https://www.nber.org/system/files/working_papers/w17523/w17523.pdf",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "financing-new-ideas",
+      "title": "Financing New Ideas",
+      "creator": "Harvard Business School / Georges F. Doriot exhibit",
+      "year": 2010,
+      "format": "Historical exhibit / essay",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Origins of Venture Capital",
+      "summary": "A short exhibit on ARD and the early institutionalization of venture financing under Georges Doriot.",
+      "key_takeaways": [
+        "ARD",
+        "institutionalization",
+        "Doriot",
+        "early venture firms"
+      ],
+      "why_it_matters": "A concise primary-source style entry point into the origin story.",
+      "audience_fit": "researcher, founder, investor",
+      "difficulty": "Beginner",
+      "tags": [
+        "ARD",
+        "Doriot",
+        "HBS",
+        "history"
+      ],
+      "source_link": "https://www.library.hbs.edu/hc/doriot/innovation-vc/financing-new-ideas/",
+      "credibility": 10,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "origins-of-high-tech-venture-investing-in-america",
+      "title": "Origins of High-Tech Venture Investing in America",
+      "creator": "Tom Nicholas / Harvard Business School",
+      "year": 2016,
+      "format": "Working paper",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Origins of Venture Capital",
+      "summary": "A historical account of how high-tech venture investing emerged in the United States and became tied to innovation growth.",
+      "key_takeaways": [
+        "U.S. innovation",
+        "high-tech finance",
+        "institutional emergence"
+      ],
+      "why_it_matters": "It explains VC as part of industrial and financial history, not just startup lore.",
+      "audience_fit": "researcher, investor",
+      "difficulty": "Advanced",
+      "tags": [
+        "history",
+        "technology",
+        "capital",
+        "origins"
+      ],
+      "source_link": "https://www.hbs.edu/ris/Publication%20Files/VC_Tech_4b7a1b2a-ef2a-4867-a41e-2ba84cb120f2.pdf",
+      "credibility": 10,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "institutions-and-venture-capital",
+      "title": "Institutions and venture capital",
+      "creator": "Josh Lerner / Oxford Academic",
+      "year": 2013,
+      "format": "Article",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Origins of Venture Capital",
+      "summary": "Explains how policy and institutions, including SBICs, helped shape the venture capital market.",
+      "key_takeaways": [
+        "government policy",
+        "market formation",
+        "institutional design"
+      ],
+      "why_it_matters": "It shows VC was co-created by public and private institutions.",
+      "audience_fit": "researcher, policymaker, investor",
+      "difficulty": "Advanced",
+      "tags": [
+        "policy",
+        "institutions",
+        "SBIC",
+        "history"
+      ],
+      "source_link": "https://academic.oup.com/icc/article/22/1/153/884044",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "silicon-valley",
+      "title": "Silicon Valley",
+      "creator": "PBS American Experience",
+      "year": 2013,
+      "format": "Documentary",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Silicon Valley and the Modern VC Model",
+      "summary": "A high-quality documentary tracing the Fairchild-to-Intel-to-Silicon-Valley arc and the rise of startup culture.",
+      "key_takeaways": [
+        "Fairchild",
+        "Intel",
+        "startup ecosystem",
+        "regional concentration"
+      ],
+      "why_it_matters": "It situates venture capital within the broader history of Silicon Valley.",
+      "audience_fit": "general, founder, investor, researcher",
+      "difficulty": "Beginner",
+      "tags": [
+        "documentary",
+        "Silicon Valley",
+        "PBS",
+        "history"
+      ],
+      "source_link": "https://www.pbs.org/wgbh/americanexperience/films/silicon/",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "bill-draper-the-rise-of-sand-hill-road-and-silicon-valley",
+      "title": "Bill Draper: The Rise of Sand Hill Road and Silicon Valley",
+      "creator": "Stanford",
+      "year": 2015,
+      "format": "Recorded lecture",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Silicon Valley and the Modern VC Model",
+      "summary": "A pioneer VC reflects on the rise of Sand Hill Road and the evolution of the Valley from the inside.",
+      "key_takeaways": [
+        "early VC",
+        "Sand Hill Road",
+        "incubators",
+        "angels"
+      ],
+      "why_it_matters": "One of the clearest direct testimonies from the first generation of West Coast venture capitalists.",
+      "audience_fit": "researcher, investor, founder",
+      "difficulty": "Intermediate",
+      "tags": [
+        "Bill Draper",
+        "Sand Hill Road",
+        "VC",
+        "history"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=KxDxRUYEMXg",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "interview-with-don-valentine-2004-april-21",
+      "title": "Interview with Don Valentine, 2004 April 21",
+      "creator": "Stanford Silicon Genesis",
+      "year": 2004,
+      "format": "Oral history interview",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Major Firms and Legendary Investors",
+      "summary": "A major firsthand account from the Sequoia founder on the formation of Valley venture practice and company-building judgment.",
+      "key_takeaways": [
+        "Sequoia",
+        "company selection",
+        "product judgment",
+        "Silicon Genesis"
+      ],
+      "why_it_matters": "A rare window into the mind of one of the most influential venture investors ever.",
+      "audience_fit": "researcher, investor, founder",
+      "difficulty": "Intermediate",
+      "tags": [
+        "Don Valentine",
+        "Sequoia",
+        "oral history",
+        "Stanford"
+      ],
+      "source_link": "https://exhibits.stanford.edu/silicongenesis/catalog/nn642hx4425",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "recommended"
+    },
+    {
+      "id": "sequoia-capital-part-1",
+      "title": "Sequoia Capital (Part 1)",
+      "creator": "Acquired",
+      "year": 2019,
+      "format": "Podcast episode / long-form audio",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Major Firms and Legendary Investors",
+      "summary": "A deep narrative on Sequoia's origins, strategy, and cultural influence.",
+      "key_takeaways": [
+        "firm strategy",
+        "brand",
+        "venture franchise",
+        "founder selection"
+      ],
+      "why_it_matters": "One of the best long-form treatments of a defining VC firm.",
+      "audience_fit": "investor, founder, researcher",
+      "difficulty": "Intermediate",
+      "tags": [
+        "Sequoia",
+        "Acquired",
+        "firm history",
+        "VC"
+      ],
+      "source_link": "https://www.acquired.fm/episodes/sequoia-capital-part-1",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "cisco-oral-history-panel-john-morgridge-and-don-valentine",
+      "title": "Cisco oral history panel: John Morgridge and Don Valentine",
+      "creator": "Computer History Museum",
+      "year": 2014,
+      "format": "Oral history panel",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Major Firms and Legendary Investors",
+      "summary": "A firsthand record of how investor and operator dynamics helped build Cisco into a category-defining company.",
+      "key_takeaways": [
+        "company building",
+        "board dynamics",
+        "market creation",
+        "scale"
+      ],
+      "why_it_matters": "It shows how VC and startup leadership interact in real company formation.",
+      "audience_fit": "founder, investor, operator, researcher",
+      "difficulty": "Advanced",
+      "tags": [
+        "Cisco",
+        "Don Valentine",
+        "board",
+        "history"
+      ],
+      "source_link": "https://archive.computerhistory.org/resources/access/text/2015/09/102739934-05-01-acc.pdf",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "the-economics-within-the-private-equity-partnership",
+      "title": "The Economics within the Private Equity Partnership",
+      "creator": "Victoria Ivashina, Josh Lerner et al. / Harvard Business School",
+      "year": 2016,
+      "format": "Working paper",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "LP/GP Fundraising History",
+      "summary": "Explains how compensation, incentive design, and firm age shape GP economics and fundraising dynamics.",
+      "key_takeaways": [
+        "fees",
+        "carry",
+        "incentives",
+        "GP strategy"
+      ],
+      "why_it_matters": "Fundraising makes more sense once you understand the economic structure of the partnership.",
+      "audience_fit": "researcher, investor, emerging manager",
+      "difficulty": "Advanced",
+      "tags": [
+        "LP",
+        "GP",
+        "carry",
+        "fees"
+      ],
+      "source_link": "https://www.hbs.edu/ris/Publication%20Files/16-119_4925d447-80c5-4764-ad17-912b2baa918d.pdf",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "roundtable-summary-towards-a-better-aligned-private-equity-w",
+      "title": "Roundtable Summary: Towards a Better Aligned Private Equity World: Perspectives of Limited and General Partners",
+      "creator": "Harvard Business School / ILPA",
+      "year": 2016,
+      "format": "Roundtable summary",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "LP/GP Fundraising History",
+      "summary": "A practical discussion of LP-GP alignment, transparency, co-investments, separate accounts, and fee pressure.",
+      "key_takeaways": [
+        "alignment",
+        "transparency",
+        "LP governance",
+        "special relationships"
+      ],
+      "why_it_matters": "It captures the modern LP concerns that now shape the fundraising market.",
+      "audience_fit": "investor, researcher, emerging manager",
+      "difficulty": "Intermediate",
+      "tags": [
+        "alignment",
+        "LPs",
+        "governance",
+        "private equity"
+      ],
+      "source_link": "https://www.hbs.edu/private-capital/Documents/ILPA-PCRI-Roundtable-2016.pdf",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "chris-douvos-limited-partners-and-funds-of-funds",
+      "title": "Chris Douvos: Limited Partners and Funds of Funds",
+      "creator": "Stanford / Entrepreneurship Through the Lens of Venture Capital",
+      "year": 2015,
+      "format": "Recorded lecture",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "LP/GP Fundraising History",
+      "summary": "A clear LP-side explanation of fund-of-funds logic, portfolio construction, and what institutions seek from VC managers.",
+      "key_takeaways": [
+        "LP selection",
+        "fund-of-funds",
+        "portfolio construction",
+        "manager quality"
+      ],
+      "why_it_matters": "A rare LP-focused view inside a GP-dominated conversation.",
+      "audience_fit": "investor, researcher, emerging manager",
+      "difficulty": "Intermediate",
+      "tags": [
+        "LP",
+        "fund of funds",
+        "Stanford",
+        "fundraising"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=sFGX2iPxc9Y",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "venture-capital-booms-and-start-up-financing",
+      "title": "Venture Capital Booms and Start-Up Financing",
+      "creator": "William Janeway, Ramana Nanda, Matthew Rhodes-Kropf / Harvard Business School",
+      "year": 2021,
+      "format": "Working paper / review",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Bubbles, Booms, and Crashes",
+      "summary": "A review of how VC booms change startup financing, the kinds of firms that get funded, and the downstream effects of capital surges.",
+      "key_takeaways": [
+        "booms",
+        "busts",
+        "startup financing",
+        "selection effects"
+      ],
+      "why_it_matters": "It explains why venture cycles do not just add capital; they change the market structure itself.",
+      "audience_fit": "researcher, investor, operator",
+      "difficulty": "Advanced",
+      "tags": [
+        "cycles",
+        "booms",
+        "financing",
+        "startup market"
+      ],
+      "source_link": "https://www.hbs.edu/ris/Publication%20Files/21-116_c8365ab5-7cad-4ba3-9e02-ddec0191413f.pdf",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "oral-history-with-alan-patricof",
+      "title": "Oral History with Alan Patricof",
+      "creator": "Computer History Museum / NVCA",
+      "year": 2010,
+      "format": "Oral history interview",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Origins of Venture Capital",
+      "summary": "A first-person account of one of the earliest venture capitalists, with extensive reflections on angel investing and the evolution of the field.",
+      "key_takeaways": [
+        "angel capital",
+        "early VC",
+        "fund origins",
+        "institutional change"
+      ],
+      "why_it_matters": "A direct witness account from a builder of the modern industry.",
+      "audience_fit": "researcher, investor, founder",
+      "difficulty": "Intermediate",
+      "tags": [
+        "angel investing",
+        "oral history",
+        "Patricof",
+        "early VC"
+      ],
+      "source_link": "https://archive.computerhistory.org/resources/access/text/2019/03/102781064-05-01-acc.pdf",
+      "credibility": 10,
+      "usefulness": 10,
+      "status": "recommended"
+    },
+    {
+      "id": "oral-history-with-charles-w-newhall-iii",
+      "title": "Oral History with Charles W. Newhall III",
+      "creator": "Computer History Museum / NVCA",
+      "year": 2010,
+      "format": "Oral history interview",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Origins of Venture Capital",
+      "summary": "A firsthand history of early venture, including Newhall's pre-VC exposure to angel investors and the Boston-to-California evolution of the field.",
+      "key_takeaways": [
+        "angel investors",
+        "VC history",
+        "founder journey",
+        "East Coast origins"
+      ],
+      "why_it_matters": "Shows that modern VC grew out of a wider ecosystem of merchants, angels, and early risk capital.",
+      "audience_fit": "researcher, investor",
+      "difficulty": "Intermediate",
+      "tags": [
+        "angel",
+        "VC history",
+        "Newhall",
+        "oral history"
+      ],
+      "source_link": "https://archive.computerhistory.org/resources/access/text/2021/05/102792196-05-01-acc.pdf",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "oral-history-with-henry-f-mccance",
+      "title": "Oral History with Henry F. McCance",
+      "creator": "Computer History Museum / NVCA",
+      "year": 2010,
+      "format": "Oral history interview",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Origins of Venture Capital",
+      "summary": "A detailed recollection of the early venture ecosystem, including the role of abundant angel and venture capital in the Valley.",
+      "key_takeaways": [
+        "angel capital",
+        "early ecosystem",
+        "VC expansion",
+        "Silicon Valley"
+      ],
+      "why_it_matters": "Useful for understanding how venture capital scaled from a niche craft into an industry.",
+      "audience_fit": "researcher, investor",
+      "difficulty": "Intermediate",
+      "tags": [
+        "McCance",
+        "angel capital",
+        "history",
+        "VC"
+      ],
+      "source_link": "https://archive.computerhistory.org/resources/access/text/2019/03/102781068-05-01-acc.pdf",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "from-the-archives-y-combinator-founders-paul-graham-and-jess",
+      "title": "From the Archives: Y Combinator Founders Paul Graham and Jessica Livingston on Studio 1.0",
+      "creator": "Bloomberg Technology",
+      "year": 2014,
+      "format": "Interview / recorded conversation",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Angel Investing and Accelerators",
+      "summary": "A widely cited interview on how YC began and how the accelerator model changed startup financing and founder support.",
+      "key_takeaways": [
+        "Y Combinator",
+        "accelerators",
+        "founder selection",
+        "startup support"
+      ],
+      "why_it_matters": "One of the best primary interviews on the origin of the modern accelerator model.",
+      "audience_fit": "founder, investor, operator, researcher",
+      "difficulty": "Beginner",
+      "tags": [
+        "YC",
+        "accelerators",
+        "Paul Graham",
+        "Jessica Livingston"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=SuoPiiUBcOk",
+      "credibility": 9,
+      "usefulness": 10,
+      "status": "recommended"
+    },
+    {
+      "id": "dalton-caldwell-incubators-accelerators-and-y-combinator",
+      "title": "Dalton Caldwell: Incubators, Accelerators, and Y Combinator",
+      "creator": "Stanford",
+      "year": 2015,
+      "format": "Recorded lecture",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Angel Investing and Accelerators",
+      "summary": "A practical and historical talk on why accelerators emerged and how YC shaped the startup pipeline.",
+      "key_takeaways": [
+        "incubators",
+        "accelerators",
+        "YC model",
+        "startup pipeline"
+      ],
+      "why_it_matters": "It explains the accelerator model from someone inside YC's operating culture.",
+      "audience_fit": "founder, investor, researcher",
+      "difficulty": "Intermediate",
+      "tags": [
+        "YC",
+        "accelerator",
+        "incubator",
+        "Stanford"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=evATPGQq3oc",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "how-y-combinator-started-the-origin-story-and-early-days",
+      "title": "How Y Combinator Started - The Origin Story and Early Days",
+      "creator": "Paul Graham / YC commentary",
+      "year": 2012,
+      "format": "Video essay / commentary",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Angel Investing and Accelerators",
+      "summary": "A video treatment of Paul Graham's own account of how YC began and what problem it was trying to solve.",
+      "key_takeaways": [
+        "origin story",
+        "founder support",
+        "accelerator philosophy"
+      ],
+      "why_it_matters": "A concise way to understand why YC became the template for accelerators.",
+      "audience_fit": "founder, investor, operator",
+      "difficulty": "Beginner",
+      "tags": [
+        "YC",
+        "origin story",
+        "accelerators",
+        "Paul Graham"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=lhA42gSdjNQ",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "reviewed"
+    },
+    {
+      "id": "venture-capital-angel-financing-and-crowdfunding-of-entrepre",
+      "title": "Venture capital, angel financing, and crowdfunding of entrepreneurial ventures: a literature review",
+      "creator": "Johannes Wallmeroth, Peter Wirtz, Alexander Peter Groh",
+      "year": 2018,
+      "format": "Literature review",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Angel Investing and Accelerators",
+      "summary": "A broad research overview of angel financing, VC, and crowdfunding that maps the entrepreneurial finance landscape.",
+      "key_takeaways": [
+        "angel investing",
+        "crowdfunding",
+        "entrepreneurial finance",
+        "market evolution"
+      ],
+      "why_it_matters": "A strong academic scaffold for understanding how angel capital fits into the broader startup financing stack.",
+      "audience_fit": "researcher, investor",
+      "difficulty": "Advanced",
+      "tags": [
+        "angel investing",
+        "crowdfunding",
+        "literature review",
+        "finance"
+      ],
+      "source_link": "https://ideas.repec.org/a/now/fntent/0300000066.html",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "the-determinants-of-corporate-venture-capital-success",
+      "title": "The Determinants of Corporate Venture Capital Success",
+      "creator": "Paul Gompers / NBER",
+      "year": 2000,
+      "format": "Academic paper",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Corporate VC",
+      "summary": "A landmark paper explaining the rise of corporate venture funds and the conditions under which they succeed.",
+      "key_takeaways": [
+        "corporate VC",
+        "strategic overlap",
+        "innovation search",
+        "history of CVC"
+      ],
+      "why_it_matters": "One of the clearest early academic histories of CVC as a distinct model.",
+      "audience_fit": "researcher, investor, operator",
+      "difficulty": "Advanced",
+      "tags": [
+        "CVC",
+        "corporate venture",
+        "NBER",
+        "history"
+      ],
+      "source_link": "https://www.nber.org/system/files/working_papers/w6725/w6725.pdf",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "corporate-venture-capital-as-a-real-option-in-the-markets-fo",
+      "title": "Corporate Venture Capital as a Real Option in the Markets for Technology",
+      "creator": "M. Ceccagnoli et al. / NBER",
+      "year": 2015,
+      "format": "Academic paper",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Corporate VC",
+      "summary": "Explains CVC as a strategic option for access to technology and a window on future markets.",
+      "key_takeaways": [
+        "real options",
+        "technology access",
+        "strategic investing",
+        "CVC logic"
+      ],
+      "why_it_matters": "A more modern theoretical frame for why corporations back startups.",
+      "audience_fit": "researcher, investor, strategist",
+      "difficulty": "Advanced",
+      "tags": [
+        "CVC",
+        "real options",
+        "technology",
+        "strategy"
+      ],
+      "source_link": "https://www.nber.org/system/files/working_papers/w21424/w21424.pdf",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "have-secondaries-reached-a-tipping-point",
+      "title": "Have Secondaries Reached a Tipping Point?",
+      "creator": "Bain & Company",
+      "year": 2024,
+      "format": "Report / article",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Secondary Markets and Continuation Funds",
+      "summary": "A high-quality industry report explaining the recent growth in secondaries and the liquidity pressure that helped drive it.",
+      "key_takeaways": [
+        "liquidity",
+        "secondaries",
+        "private markets",
+        "market scale"
+      ],
+      "why_it_matters": "A strong snapshot of how secondary markets moved from niche to central infrastructure.",
+      "audience_fit": "investor, researcher, operator",
+      "difficulty": "Intermediate",
+      "tags": [
+        "secondaries",
+        "liquidity",
+        "Bain",
+        "private markets"
+      ],
+      "source_link": "https://www.bain.com/insights/have-secondaries-reached-a-tipping-point-global-private-equity-report-2024/",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "secondary-market-2024-recap-outlook-for-2025",
+      "title": "Secondary Market: 2024 Recap & Outlook for 2025",
+      "creator": "Coller Capital",
+      "year": 2024,
+      "format": "Industry report / interview",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Secondary Markets and Continuation Funds",
+      "summary": "A detailed private-markets review showing how GP-led transactions and continuation vehicles are now a major part of the secondaries market.",
+      "key_takeaways": [
+        "continuation funds",
+        "GP-led secondaries",
+        "liquidity",
+        "market expansion"
+      ],
+      "why_it_matters": "One of the clearest current sources for understanding the rise of continuation vehicles.",
+      "audience_fit": "investor, researcher",
+      "difficulty": "Intermediate",
+      "tags": [
+        "continuation funds",
+        "secondaries",
+        "Coller",
+        "GP-led"
+      ],
+      "source_link": "https://www.collercapital.com/2024-market-recap-2025-outlook/",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "lp-and-gp-led-secondaries-navigating-different-fund-styles-a",
+      "title": "LP and GP led secondaries: Navigating different fund styles and continuation funds",
+      "creator": "Industry video",
+      "year": 2024,
+      "format": "Video",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Secondary Markets and Continuation Funds",
+      "summary": "A practical explainer of LP-led and GP-led secondaries and the mechanics of continuation funds.",
+      "key_takeaways": [
+        "deal structure",
+        "LP-led",
+        "GP-led",
+        "continuation vehicles"
+      ],
+      "why_it_matters": "Useful for understanding the structure behind the headlines.",
+      "audience_fit": "investor, operator, researcher",
+      "difficulty": "Intermediate",
+      "tags": [
+        "secondaries",
+        "continuation fund",
+        "LP-led",
+        "GP-led"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=2CdilCvKc0c",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "reviewed"
+    },
+    {
+      "id": "the-entrepreneurial-state",
+      "title": "The Entrepreneurial State",
+      "creator": "Mariana Mazzucato",
+      "year": 2013,
+      "format": "Book",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "VC Critiques and Controversies",
+      "summary": "A major critique arguing that public institutions often create the markets and technologies that private capital later monetizes.",
+      "key_takeaways": [
+        "state-led innovation",
+        "risk socialization",
+        "market creation"
+      ],
+      "why_it_matters": "Essential for balancing pro-VC narratives with a serious account of public investment.",
+      "audience_fit": "researcher, policymaker, founder, investor",
+      "difficulty": "Intermediate",
+      "tags": [
+        "critique",
+        "state",
+        "innovation policy",
+        "VC"
+      ],
+      "source_link": "https://marianamazzucato.com/books/the-entrepreneurial-state/",
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "the-myths-of-venture-capital",
+      "title": "The Myths of Venture Capital",
+      "creator": "INET Economics / Julia Ott",
+      "year": 2023,
+      "format": "Interview video",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "VC Critiques and Controversies",
+      "summary": "A sharp discussion questioning the heroic mythology of VC and examining the industry's power and exclusions.",
+      "key_takeaways": [
+        "mythmaking",
+        "power",
+        "venture narratives",
+        "inequality"
+      ],
+      "why_it_matters": "A necessary corrective to celebratory VC history.",
+      "audience_fit": "researcher, investor, general",
+      "difficulty": "Intermediate",
+      "tags": [
+        "critique",
+        "myths",
+        "INET",
+        "VC history"
+      ],
+      "source_link": "https://www.ineteconomics.org/perspectives/videos/the-myths-of-venture-capital",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "reviewed"
+    },
+    {
+      "id": "venture-capital-and-the-making-of-asset-driven-inequalities",
+      "title": "venture capital and the making of asset-driven inequalities",
+      "creator": "Finance and Society / academic article",
+      "year": 2025,
+      "format": "Academic article",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "VC Critiques and Controversies",
+      "summary": "An argument that VC can amplify asset-driven inequality through its selection, ownership, and exit patterns.",
+      "key_takeaways": [
+        "inequality",
+        "value capture",
+        "distribution",
+        "ownership"
+      ],
+      "why_it_matters": "Important for understanding the broader social consequences of the VC system.",
+      "audience_fit": "researcher, policymaker",
+      "difficulty": "Advanced",
+      "tags": [
+        "inequality",
+        "distribution",
+        "critique",
+        "VC"
+      ],
+      "source_link": "https://www.cambridge.org/core/journals/finance-and-society/article/rapacious-ambivalence-of-vc-investment-venture-capital-value-capture-and-the-valorization-of-crisis/7A7C156AB0959AF85F2656FF2C635211",
+      "credibility": 9,
+      "usefulness": 7,
+      "status": "reviewed"
+    },
+    {
+      "id": "the-next-new-thing-venture-capital-stories",
+      "title": "The Next New Thing: Venture Capital Stories",
+      "creator": "Computer History Museum",
+      "year": 2019,
+      "format": "Oral history collection",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Hidden Gems and Lesser-Known Historical Material",
+      "summary": "A curated story collection of VC history featuring first-person recollections of major firms, founders, and deals.",
+      "key_takeaways": [
+        "oral history",
+        "firm memory",
+        "founder-investor relationships"
+      ],
+      "why_it_matters": "Excellent for building institutional memory without relying on promotional narratives.",
+      "audience_fit": "researcher, founder, investor",
+      "difficulty": "Intermediate",
+      "tags": [
+        "oral history",
+        "CHM",
+        "stories",
+        "VC"
+      ],
+      "source_link": "https://computerhistory.org/stories/the-next-new-thing/",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended"
+    },
+    {
+      "id": "pioneers-of-venture-capital",
+      "title": "Pioneers of Venture Capital",
+      "creator": "Computer History Museum",
+      "year": 2002,
+      "format": "Recorded panel",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Hidden Gems and Lesser-Known Historical Material",
+      "summary": "A classic history panel on how venture capital got started in Silicon Valley.",
+      "key_takeaways": [
+        "pioneers",
+        "industry origin",
+        "Silicon Valley"
+      ],
+      "why_it_matters": "One of the most important recorded conversations on VC's earliest years.",
+      "audience_fit": "researcher, investor, founder",
+      "difficulty": "Intermediate",
+      "tags": [
+        "pioneers",
+        "VC history",
+        "panel",
+        "Silicon Valley"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=ult7VFgxiKo",
+      "credibility": 10,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "venture-capital-in-the-valley-past-present-future",
+      "title": "Venture Capital in the Valley: Past, Present & Future",
+      "creator": "Computer History Museum / Something Ventured",
+      "year": 2011,
+      "format": "Panel discussion",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "Hidden Gems and Lesser-Known Historical Material",
+      "summary": "A recorded panel that places the early VC founding generation in conversation with later Valley developments.",
+      "key_takeaways": [
+        "past present future",
+        "Valley evolution",
+        "industry reflection"
+      ],
+      "why_it_matters": "Useful connective tissue between the origin stories and the mature Sand Hill era.",
+      "audience_fit": "researcher, founder, investor",
+      "difficulty": "Beginner",
+      "tags": [
+        "panel",
+        "Valley",
+        "history",
+        "VC"
+      ],
+      "source_link": "https://www.youtube.com/watch?v=l_MW7PbuwlE",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended"
+    },
+    {
+      "id": "how-to-raise-a-venture-capital-fund",
+      "title": "How to Raise a Venture Capital Fund",
+      "creator": "Winter Mead / Coolwater Capital",
+      "year": 2021,
+      "format": "Book and interviews",
+      "category": "Venture Capital and Fundraising",
+      "subcategory": "LP/GP Fundraising History",
+      "summary": "A recent source on how VC funds are raised, how LPs think, and how emerging managers navigate institutional fundraising.",
+      "key_takeaways": [
+        "LPs",
+        "fundraising",
+        "emerging managers",
+        "institutional readiness"
+      ],
+      "why_it_matters": "Useful modern complement to the older LP/GP history literature.",
+      "audience_fit": "investor, emerging manager, researcher",
+      "difficulty": "Intermediate",
+      "tags": [
+        "fundraising",
+        "LPs",
+        "emerging managers",
+        "VC fund"
+      ],
+      "source_link": "https://howtosetupaventurecapitalfund.com/",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "reviewed"
     }
   ]
 }

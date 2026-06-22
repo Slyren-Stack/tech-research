@@ -2,14 +2,14 @@
 
 > A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.
 
-**103 curated items** · 28 core · last updated 2026-06-23 · version 1.5.0
+**142 curated items** · 31 core · last updated 2026-06-23 · version 1.6.0
 
 This is the human-readable overview. The machine-readable source of truth is [`master.json`](master.json). Everything in this repo is generated from it.
 
 ## How to use this library
 - **Just exploring?** Browse the [topic hubs](#topic-hubs) below.
 - **Short on time?** Start with the [Top 25](top-25.md) or the [Must-Watch Core Library](../kb/topic-hubs/core-library.md).
-- **Learning a path?** Pick one: [Beginner Path](beginner-path.md) · [Advanced Builder Path](advanced-path.md) · [Founder / Startup Path](founder-path.md) · [AI Engineering Path](ai-engineering-path.md) · [Product & Design Path](product-design-path.md).
+- **Learning a path?** Pick one: [Beginner Path](beginner-path.md) · [Advanced Builder Path](advanced-path.md) · [Founder / Startup Path](founder-path.md) · [AI Engineering Path](ai-engineering-path.md) · [Product & Design Path](product-design-path.md) · [VC History Path](vc-history-path.md).
 - **Want one file to send someone?** Share [`exports/digest.md`](../exports/digest.md).
 
 ## Topic hubs
@@ -20,10 +20,10 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 - **[Founder Mental Models](../kb/topic-hubs/founder-mental-models.md)** (12) — Durable ways of thinking about work, leverage, judgment, and doing great work over a career.
 - **[Product and Design](../kb/topic-hubs/product-and-design.md)** (16) — Designing things people love — product sense, interaction design, and the principles behind good craft.
 - **[Engineering and Systems](../kb/topic-hubs/engineering-and-systems.md)** (16) — Systems thinking for builders: distributed systems, software design, and the papers that shaped the field.
-- **[Venture Capital and Fundraising](../kb/topic-hubs/venture-capital.md)** (3) — How venture works from both sides of the table — term sheets, incentives, and raising money well.
+- **[Venture Capital and Fundraising](../kb/topic-hubs/venture-capital.md)** (42) — How venture works from both sides of the table — term sheets, incentives, and raising money well.
 - **[Internet and Big Tech History](../kb/topic-hubs/internet-history.md)** (9) — Where computing and the internet came from — the people, labs, and machines that made it all possible.
 - **[Documentary and Long-Form Media](../kb/topic-hubs/documentary-long-form.md)** (9) — Films and long-form storytelling that capture the culture and history of technology.
-- **[Must-Watch Core Library](../kb/topic-hubs/core-library.md)** (28) — The essential cross-category set — if you only have time for a handful, start here. (Auto-collected from items marked 'core'.)
+- **[Must-Watch Core Library](../kb/topic-hubs/core-library.md)** (31) — The essential cross-category set — if you only have time for a handful, start here. (Auto-collected from items marked 'core'.)
 
 ## Learning paths
 
@@ -32,6 +32,7 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 - **[Founder / Startup Path](founder-path.md)** — People starting or operating a company who want judgment, not platitudes.
 - **[AI Engineering Path](ai-engineering-path.md)** — Engineers and ML teams building with models, from fundamentals to frontier systems.
 - **[Product & Design Path](product-design-path.md)** — Designers, PMs, and product-minded founders building things people love.
+- **[VC History Path](vc-history-path.md)** — Founders, operators, and investors who want to understand how venture capital actually came to be and how it works.
 
 ## All items by category
 
@@ -179,9 +180,48 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 
 | Item | Creator | Year | Format | Difficulty | Status | Score |
 |---|---|---|---|---|---|---|
+| [VC: An American History](../kb/cards/vc-an-american-history.md) | Tom Nicholas / Harvard University Press | 2019 | Book | Intermediate | `core` | 21 |
+| [The Money of Invention: How Venture Capital Creates New Wealth](../kb/cards/the-money-of-invention-how-venture-capital-creates-new-wealt.md) | Josh Lerner and Paul Gompers / Harvard Business School Press | 2001 | Book | Beginner | `core` | 21 |
+| [The Power Law: Venture Capital and the Making of the New Future](../kb/cards/the-power-law-venture-capital-and-the-making-of-the-new-futu.md) | Sebastian Mallaby / Penguin Press | 2022 | Book | Intermediate | `core` | 21 |
+| [Interview with Don Valentine, 2004 April 21](../kb/cards/interview-with-don-valentine-2004-april-21.md) | Stanford Silicon Genesis | 2004 | Oral history interview | Intermediate | `recommended` | 20 |
+| [Oral History with Alan Patricof](../kb/cards/oral-history-with-alan-patricof.md) | Computer History Museum / NVCA | 2010 | Oral history interview | Intermediate | `recommended` | 20 |
 | [How to Raise Money](../kb/cards/pg-how-to-raise-money.md) | Paul Graham | 2013 | Essay | Intermediate | `core` | 19 |
+| [How Do Venture Capitalists Make Decisions?](../kb/cards/how-do-venture-capitalists-make-decisions.md) | Paul Gompers et al. / NBER | 2016 | Working paper | Advanced | `recommended` | 19 |
+| [Venture Capital Data: Opportunities and Challenges](../kb/cards/venture-capital-data-opportunities-and-challenges.md) | Steven N. Kaplan and Josh Lerner / Harvard Business School | 2016 | Working paper | Advanced | `recommended` | 19 |
+| [Institutions and venture capital](../kb/cards/institutions-and-venture-capital.md) | Josh Lerner / Oxford Academic | 2013 | Article | Advanced | `recommended` | 19 |
+| [Silicon Valley](../kb/cards/silicon-valley.md) | PBS American Experience | 2013 | Documentary | Beginner | `recommended` | 19 |
+| [Bill Draper: The Rise of Sand Hill Road and Silicon Valley](../kb/cards/bill-draper-the-rise-of-sand-hill-road-and-silicon-valley.md) | Stanford | 2015 | Recorded lecture | Intermediate | `recommended` | 19 |
+| [Cisco oral history panel: John Morgridge and Don Valentine](../kb/cards/cisco-oral-history-panel-john-morgridge-and-don-valentine.md) | Computer History Museum | 2014 | Oral history panel | Advanced | `recommended` | 19 |
+| [The Economics within the Private Equity Partnership](../kb/cards/the-economics-within-the-private-equity-partnership.md) | Victoria Ivashina, Josh Lerner et al. / Harvard Business School | 2016 | Working paper | Advanced | `recommended` | 19 |
+| [Venture Capital Booms and Start-Up Financing](../kb/cards/venture-capital-booms-and-start-up-financing.md) | William Janeway, Ramana Nanda, Matthew Rhodes-Kropf / Harvard Business School | 2021 | Working paper / review | Advanced | `recommended` | 19 |
+| [Oral History with Charles W. Newhall III](../kb/cards/oral-history-with-charles-w-newhall-iii.md) | Computer History Museum / NVCA | 2010 | Oral history interview | Intermediate | `recommended` | 19 |
+| [Oral History with Henry F. McCance](../kb/cards/oral-history-with-henry-f-mccance.md) | Computer History Museum / NVCA | 2010 | Oral history interview | Intermediate | `recommended` | 19 |
+| [From the Archives: Y Combinator Founders Paul Graham and Jessica Livingston on Studio 1.0](../kb/cards/from-the-archives-y-combinator-founders-paul-graham-and-jess.md) | Bloomberg Technology | 2014 | Interview / recorded conversation | Beginner | `recommended` | 19 |
+| [The Determinants of Corporate Venture Capital Success](../kb/cards/the-determinants-of-corporate-venture-capital-success.md) | Paul Gompers / NBER | 2000 | Academic paper | Advanced | `recommended` | 19 |
+| [The Next New Thing: Venture Capital Stories](../kb/cards/the-next-new-thing-venture-capital-stories.md) | Computer History Museum | 2019 | Oral history collection | Intermediate | `recommended` | 19 |
+| [Creative Capital: Georges Doriot and the Birth of Venture Capital](../kb/cards/creative-capital-georges-doriot-and-the-birth-of-venture-cap.md) | Spencer E. Ante / Harvard Business Press | 2008 | Book | Intermediate | `recommended` | 18 |
+| [How Venture Capital Works](../kb/cards/how-venture-capital-works.md) | Harvard Business Review | 1998 | Article | Beginner | `recommended` | 18 |
+| [Financing New Ideas](../kb/cards/financing-new-ideas.md) | Harvard Business School / Georges F. Doriot exhibit | 2010 | Historical exhibit / essay | Beginner | `recommended` | 18 |
+| [Origins of High-Tech Venture Investing in America](../kb/cards/origins-of-high-tech-venture-investing-in-america.md) | Tom Nicholas / Harvard Business School | 2016 | Working paper | Advanced | `recommended` | 18 |
+| [Sequoia Capital (Part 1)](../kb/cards/sequoia-capital-part-1.md) | Acquired | 2019 | Podcast episode / long-form audio | Intermediate | `recommended` | 18 |
+| [Chris Douvos: Limited Partners and Funds of Funds](../kb/cards/chris-douvos-limited-partners-and-funds-of-funds.md) | Stanford / Entrepreneurship Through the Lens of Venture Capital | 2015 | Recorded lecture | Intermediate | `recommended` | 18 |
+| [Dalton Caldwell: Incubators, Accelerators, and Y Combinator](../kb/cards/dalton-caldwell-incubators-accelerators-and-y-combinator.md) | Stanford | 2015 | Recorded lecture | Intermediate | `recommended` | 18 |
+| [The Entrepreneurial State](../kb/cards/the-entrepreneurial-state.md) | Mariana Mazzucato | 2013 | Book | Intermediate | `recommended` | 18 |
+| [Pioneers of Venture Capital](../kb/cards/pioneers-of-venture-capital.md) | Computer History Museum | 2002 | Recorded panel | Intermediate | `recommended` | 18 |
 | [Secrets of Sand Hill Road](../kb/cards/secrets-of-sand-hill-road.md) | Scott Kupor | 2019 | Book | Intermediate | `recommended` | 17 |
 | [Venture Deals](../kb/cards/venture-deals.md) | Brad Feld, Jason Mendelson | 2011 | Book | Intermediate | `recommended` | 17 |
+| [A survey of venture capital research](../kb/cards/a-survey-of-venture-capital-research.md) | Marco Da Rin, Thomas Hellmann, Manju Puri / NBER | 2011 | Survey article | Advanced | `recommended` | 17 |
+| [Roundtable Summary: Towards a Better Aligned Private Equity World: Perspectives of Limited and General Partners](../kb/cards/roundtable-summary-towards-a-better-aligned-private-equity-w.md) | Harvard Business School / ILPA | 2016 | Roundtable summary | Intermediate | `recommended` | 17 |
+| [Venture capital, angel financing, and crowdfunding of entrepreneurial ventures: a literature review](../kb/cards/venture-capital-angel-financing-and-crowdfunding-of-entrepre.md) | Johannes Wallmeroth, Peter Wirtz, Alexander Peter Groh | 2018 | Literature review | Advanced | `recommended` | 17 |
+| [Corporate Venture Capital as a Real Option in the Markets for Technology](../kb/cards/corporate-venture-capital-as-a-real-option-in-the-markets-fo.md) | M. Ceccagnoli et al. / NBER | 2015 | Academic paper | Advanced | `recommended` | 17 |
+| [Have Secondaries Reached a Tipping Point?](../kb/cards/have-secondaries-reached-a-tipping-point.md) | Bain & Company | 2024 | Report / article | Intermediate | `recommended` | 17 |
+| [Secondary Market: 2024 Recap & Outlook for 2025](../kb/cards/secondary-market-2024-recap-outlook-for-2025.md) | Coller Capital | 2024 | Industry report / interview | Intermediate | `recommended` | 17 |
+| [Venture Capital in the Valley: Past, Present & Future](../kb/cards/venture-capital-in-the-valley-past-present-future.md) | Computer History Museum / Something Ventured | 2011 | Panel discussion | Beginner | `recommended` | 17 |
+| [How Y Combinator Started - The Origin Story and Early Days](../kb/cards/how-y-combinator-started-the-origin-story-and-early-days.md) | Paul Graham / YC commentary | 2012 | Video essay / commentary | Beginner | `reviewed` | 16 |
+| [LP and GP led secondaries: Navigating different fund styles and continuation funds](../kb/cards/lp-and-gp-led-secondaries-navigating-different-fund-styles-a.md) | Industry video | 2024 | Video | Intermediate | `reviewed` | 16 |
+| [The Myths of Venture Capital](../kb/cards/the-myths-of-venture-capital.md) | INET Economics / Julia Ott | 2023 | Interview video | Intermediate | `reviewed` | 16 |
+| [venture capital and the making of asset-driven inequalities](../kb/cards/venture-capital-and-the-making-of-asset-driven-inequalities.md) | Finance and Society / academic article | 2025 | Academic article | Advanced | `reviewed` | 16 |
+| [How to Raise a Venture Capital Fund](../kb/cards/how-to-raise-a-venture-capital-fund.md) | Winter Mead / Coolwater Capital | 2021 | Book and interviews | Intermediate | `reviewed` | 16 |
 
 ---
 *Generated from `indexes/master.json` via `tools/generate.py`. To add or edit items, change the JSON and re-run the generator.*

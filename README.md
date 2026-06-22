@@ -4,7 +4,7 @@ A curated, shareable library of the most foundational media for people who build
 
 It answers: *how does AI work, where did startups and the internet come from, what is good product and design sense, how do systems and venture really work* — through the canonical talks, papers, books, essays, and documentaries worth your time.
 
-**103 curated items · 10 topic hubs · 5 learning paths.** Curated, not dumped.
+**142 curated items · 10 topic hubs · 6 learning paths.** Curated, not dumped.
 
 ---
 
@@ -15,7 +15,7 @@ It answers: *how does AI work, where did startups and the internet come from, wh
 | See everything, organized | **[indexes/master.md](indexes/master.md)** |
 | Read/watch the best first | **[indexes/top-25.md](indexes/top-25.md)** |
 | Hit only the essentials | **[Must-Watch Core Library](kb/topic-hubs/core-library.md)** |
-| Follow a structured path | [Beginner](indexes/beginner-path.md) · [Advanced Builder](indexes/advanced-path.md) · [Founder / Startup](indexes/founder-path.md) · [AI Engineering](indexes/ai-engineering-path.md) · [Product & Design](indexes/product-design-path.md) |
+| Follow a structured path | [Beginner](indexes/beginner-path.md) · [Advanced Builder](indexes/advanced-path.md) · [Founder / Startup](indexes/founder-path.md) · [AI Engineering](indexes/ai-engineering-path.md) · [Product & Design](indexes/product-design-path.md) · [VC History](indexes/vc-history-path.md) |
 | Send someone ONE file | **[exports/digest.md](exports/digest.md)** |
 | Load it into a tool / sheet | [exports/library.json](exports/library.json) · [exports/library.csv](exports/library.csv) |
 

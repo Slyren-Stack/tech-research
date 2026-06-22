@@ -2,7 +2,7 @@
 
 The essential cross-category set — if you only have time for a handful, start here. (Auto-collected from items marked 'core'.)
 
-The 28 essential items across every category — the highest-signal starting set.
+The 31 essential items across every category — the highest-signal starting set.
 
 ---
 
@@ -45,6 +45,21 @@ Defines refactoring as behavior-preserving improvement to the internal structure
 *Eric Ries · 2011 · Book · Startup History*
 
 Introduces build-measure-learn, MVPs, and pivot/persevere thinking for startups and innovative organizations.
+
+### [VC: An American History](../cards/vc-an-american-history.md)
+*Tom Nicholas / Harvard University Press · 2019 · Book · Venture Capital and Fundraising*
+
+The strongest single-volume history of venture capital in the United States, from early risk finance to modern Silicon Valley.
+
+### [The Money of Invention: How Venture Capital Creates New Wealth](../cards/the-money-of-invention-how-venture-capital-creates-new-wealt.md)
+*Josh Lerner and Paul Gompers / Harvard Business School Press · 2001 · Book · Venture Capital and Fundraising*
+
+A classic explanation of how VC works structurally and why it became a durable engine of new company formation.
+
+### [The Power Law: Venture Capital and the Making of the New Future](../cards/the-power-law-venture-capital-and-the-making-of-the-new-futu.md)
+*Sebastian Mallaby / Penguin Press · 2022 · Book · Venture Capital and Fundraising*
+
+A modern narrative history of the dominant firms, personalities, and strategy shifts that shaped the VC industry.
 
 ### [Attention Is All You Need](../cards/attention-is-all-you-need.md)
 *Ashish Vaswani et al. (Google) · 2017 · Paper · AI Foundations*
