@@ -152,3 +152,76 @@ Built as a cross-cutting 'Conversation Starters' hub (like Core Library).
 - flag `how-to-get-startup-ideas` — How to Get Startup Ideas
 - new `startup-growth` — Startup = Growth
 - new `founder-mode` — Founder Mode
+
+---
+
+## Conversation Topics expansion (conversation_topics_expansion.json)
+
+Ruthlessly-ranked SV conversation map. New topics added to home hubs and flagged; existing library items flagged in place (no duplicates).
+- **New items created:** 46
+- **Existing items flagged:** 17
+- No warnings.
+
+- new `situational-awareness-the-decade-ahead` — Situational Awareness: The Decade Ahead
+- new `machines-of-loving-grace` — Machines of Loving Grace
+- new `the-intelligence-age` — The Intelligence Age
+- new `superintelligence-paths-dangers-strategies` — Superintelligence: Paths, Dangers, Strategies
+- new `on-the-dangers-of-stochastic-parrots` — On the Dangers of Stochastic Parrots
+- new `sparks-of-artificial-general-intelligence-early-experiments` — Sparks of Artificial General Intelligence: Early experiments with GPT-4
+- new `agi-ruin-a-list-of-lethalities` — AGI Ruin: A List of Lethalities
+- new `the-coming-wave` — The Coming Wave
+- new `alphago` — AlphaGo
+- new `why-software-is-eating-the-world` — Why Software Is Eating the World
+- new `it-s-time-to-build` — It's Time to Build
+- new `the-almanack-of-naval-ravikant` — The Almanack of Naval Ravikant
+- new `high-output-management` — High Output Management
+- new `only-the-paranoid-survive` — Only the Paranoid Survive
+- new `1-000-true-fans` — 1,000 True Fans
+- new `super-founders` — Super Founders
+- new `hooked-how-to-build-habit-forming-products` — Hooked: How to Build Habit-Forming Products
+- new `obviously-awesome` — Obviously Awesome
+- new `the-tyranny-of-the-marginal-user` — The Tyranny of the Marginal User
+- new `amazon-shareholder-letters` — Amazon Shareholder Letters
+- new `no-silver-bullet-essence-and-accident-in-software-engineerin` — No Silver Bullet — Essence and Accident in Software Engineering
+- new `reflections-on-trusting-trust` — Reflections on Trusting Trust
+- new `the-rise-of-worse-is-better` — The Rise of Worse Is Better
+- new `site-reliability-engineering-the-sre-book` — Site Reliability Engineering (The SRE Book)
+- new `a-philosophy-of-software-design` — A Philosophy of Software Design
+- new `the-twelve-factor-app` — The Twelve-Factor App
+- new `bad-blood-secrets-and-lies-in-a-silicon-valley-startup` — Bad Blood: Secrets and Lies in a Silicon Valley Startup
+- new `the-everything-store-jeff-bezos-and-the-age-of-amazon` — The Everything Store: Jeff Bezos and the Age of Amazon
+- new `chaos-monkeys` — Chaos Monkeys
+- new `valley-of-genius` — Valley of Genius
+- new `the-dream-machine` — The Dream Machine
+- new `the-social-network` — The Social Network
+- new `pirates-of-silicon-valley` — Pirates of Silicon Valley
+- new `7-powers-the-foundations-of-business-strategy` — 7 Powers: The Foundations of Business Strategy
+- new `aggregation-theory` — Aggregation Theory
+- new `amazon-s-antitrust-paradox` — Amazon's Antitrust Paradox
+- new `competing-against-luck-jobs-to-be-done` — Competing Against Luck (Jobs to Be Done)
+- new `the-age-of-surveillance-capitalism` — The Age of Surveillance Capitalism
+- new `weapons-of-math-destruction` — Weapons of Math Destruction
+- new `the-social-dilemma` — The Social Dilemma
+- new `the-californian-ideology` — The Californian Ideology
+- new `the-attention-merchants` — The Attention Merchants
+- new `snow-crash` — Snow Crash
+- new `meditations-on-moloch` — Meditations on Moloch
+- new `the-beginning-of-infinity` — The Beginning of Infinity
+- new `thinking-fast-and-slow` — Thinking, Fast and Slow
+- flag `zero-to-one` — Zero to One
+- flag `crossing-the-chasm` — Crossing the Chasm
+- flag `the-innovator-s-dilemma` — The Innovator's Dilemma
+- flag `the-power-law-venture-capital-and-the-making-of-the-new-futu` — The Power Law: Venture Capital and the Making of the New Future
+- flag `vc-an-american-history` — VC: An American History
+- flag `hard-thing-about-hard-things` — The Hard Thing About Hard Things
+- flag `cold-start-problem-andrew-chen` — The Cold Start Problem: How to Start and Scale Network Effects
+- flag `the-mom-test` — The Mom Test
+- flag `the-lean-startup` — The Lean Startup
+- flag `design-of-everyday-things` — The Design of Everyday Things
+- flag `mother-of-all-demos` — The Mother of All Demos
+- flag `the-entrepreneurial-state` — The Entrepreneurial State
+- flag `secrets-of-sand-hill-road` — Secrets of Sand Hill Road
+- flag `venture-deals` — Venture Deals
+- flag `cathedral-and-the-bazaar` — The Cathedral and the Bazaar
+- flag `designing-data-intensive-applications` — Designing Data-Intensive Applications
+- flag `mythical-man-month` — The Mythical Man-Month

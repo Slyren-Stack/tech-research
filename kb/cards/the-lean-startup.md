@@ -24,6 +24,9 @@ venue: "Penguin Random House"
 ## Summary
 Introduces build-measure-learn, MVPs, and pivot/persevere thinking for startups and innovative organizations.
 
+## 💬 Good conversation topic
+Loved and backlashed against — MVPs and pivots still start arguments.
+
 ## Key takeaways
 - MVP
 - validated learning

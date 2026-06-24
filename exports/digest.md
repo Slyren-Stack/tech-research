@@ -2,7 +2,7 @@
 
 > A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.
 
-144 curated items · generated 2026-06-24. This single file is meant to be sent to a teammate as a complete snapshot.
+190 curated items · generated 2026-06-24. This single file is meant to be sent to a teammate as a complete snapshot.
 
 ---
 
@@ -1098,6 +1098,62 @@ A classic history panel on how venture capital got started in Silicon Valley.
 
 ---
 
+## High Output Management
+*Andy Grove · 1983 · Book · Founder Mental Models → Management*
+`Intermediate` · cred 9/10 · useful 9/10 · status `recommended`
+
+Intel CEO Andy Grove's classic on managing for output, leverage, and high-performance teams.
+
+**Key takeaways:** (1) Managerial output = output of your org + orgs you influence (2) Meetings, 1:1s, and decisions as leverage tools (3) Task-relevant maturity drives management style
+
+**Why it matters:** The management bible repeatedly endorsed by top founders and investors.
+
+**Source:** _No single canonical link._
+
+---
+
+## Amazon Shareholder Letters
+*Jeff Bezos · 1997 · Letters · Startup History → Operating philosophy*
+`Beginner` · cred 9/10 · useful 9/10 · status `recommended`
+
+Bezos's annual letters (1997–2020) laying out long-term thinking, customer obsession, and Day 1 culture.
+
+**Key takeaways:** (1) 'It's always Day 1' and long-term orientation (2) Customer obsession over competitor obsession (3) High-velocity, disagree-and-commit decisions
+
+**Why it matters:** The most-cited primary source on operating philosophy at scale.
+
+**Source:** [https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders](https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders)
+
+---
+
+## 7 Powers: The Foundations of Business Strategy
+*Hamilton Helmer · 2016 · Book · Startup History → Moats & strategy*
+`Intermediate` · cred 9/10 · useful 9/10 · status `recommended`
+
+A framework of seven durable sources of competitive advantage (power) and when each applies.
+
+**Key takeaways:** (1) Seven distinct, durable 'powers' (moats) (2) Power = benefit + barrier (3) Timing determines which power is available
+
+**Why it matters:** The most precise shared vocabulary for moats, beloved by investors and strategists.
+
+**Source:** _No single canonical link._
+
+---
+
+## Aggregation Theory
+*Ben Thompson (Stratechery) · 2015 · Essay · Startup History → Platform strategy*
+`Intermediate` · cred 9/10 · useful 9/10 · status `recommended`
+
+The theory that internet-era winners aggregate demand by owning the user relationship and commoditizing supply.
+
+**Key takeaways:** (1) Own demand, commoditize supply (2) Zero distribution cost changes strategy (3) Explains Google, Facebook, Amazon, Netflix
+
+**Why it matters:** The dominant strategic framework for platform competition in the modern Valley.
+
+**Source:** [https://stratechery.com/2015/aggregation-theory/](https://stratechery.com/2015/aggregation-theory/)
+
+---
+
 ## ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)
 *Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton · 2012 · Paper · AI Foundations → Deep Learning Architectures*
 `Advanced` · cred 10/10 · useful 7/10 · status `recommended`
@@ -1462,6 +1518,132 @@ Argues that founders should sometimes manage companies differently from professi
 
 ---
 
+## Machines of Loving Grace
+*Dario Amodei · 2024 · Essay · AI in Practice → AI optimism*
+`Intermediate` · cred 9/10 · useful 8/10 · status `recommended`
+
+Anthropic's CEO lays out a concrete, optimistic vision of how powerful AI could compress decades of progress in biology, health, and development.
+
+**Key takeaways:** (1) Argues 'powerful AI' could deliver century-scale gains in years (2) Grounds optimism in specific domains like biology and neuroscience (3) Deliberately counters doom-only framings of AI
+
+**Why it matters:** A rare detailed, credible articulation of the AI-upside case from a frontier-lab leader.
+
+**Source:** [https://darioamodei.com/machines-of-loving-grace](https://darioamodei.com/machines-of-loving-grace)
+
+---
+
+## AlphaGo
+*Greg Kohs (dir.) / DeepMind · 2017 · Documentary · Documentary and Long-Form Media → AI milestones*
+`Beginner` · cred 9/10 · useful 8/10 · status `recommended`
+
+A documentary on DeepMind's AlphaGo defeating Go champion Lee Sedol, including the famous 'Move 37.'
+
+**Key takeaways:** (1) Captures a landmark moment of machine creativity (2) 'Move 37' as a symbol of non-human intuition (3) Humanizes a technical AI breakthrough
+
+**Why it matters:** A vivid, emotional reference point for what AI surpassing humans actually felt like.
+
+**Source:** _No single canonical link._
+
+---
+
+## Why Software Is Eating the World
+*Marc Andreessen · 2011 · Essay · Startup History → Tech theses*
+`Beginner` · cred 9/10 · useful 8/10 · status `recommended`
+
+The essay that argued software companies would disrupt and absorb traditional industries across the economy.
+
+**Key takeaways:** (1) Software as the universal disruptor of incumbents (2) Framed a generation of vertical-SaaS theses (3) Now a default lens for tech investing
+
+**Why it matters:** One of the most-cited tech theses of the decade; shorthand everyone in the Valley understands.
+
+**Source:** [https://a16z.com/2011/08/20/why-software-is-eating-the-world/](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
+
+---
+
+## Only the Paranoid Survive
+*Andy Grove · 1996 · Book · Startup History → Strategy under change*
+`Intermediate` · cred 9/10 · useful 8/10 · status `recommended`
+
+Andy Grove on navigating 'strategic inflection points' — moments when the fundamentals of a business shift.
+
+**Key takeaways:** (1) Strategic inflection points reshape industries (2) Paranoia as disciplined attention to change (3) Intel's memory-to-microprocessor pivot as case study
+
+**Why it matters:** 'Strategic inflection point' is durable SV vocabulary, freshly relevant in the AI shift.
+
+**Source:** _No single canonical link._
+
+---
+
+## No Silver Bullet — Essence and Accident in Software Engineering
+*Fred Brooks · 1986 · Essay · Engineering and Systems → Software essence*
+`Intermediate` · cred 9/10 · useful 8/10 · status `recommended`
+
+Brooks argues no single technique will yield an order-of-magnitude productivity gain because software's hard parts are essential, not accidental.
+
+**Key takeaways:** (1) Essential vs. accidental complexity (2) No one tool delivers 10x gains (3) A recurring lens for evaluating hype
+
+**Why it matters:** The default rebuttal to every 'this tool will 10x developers' claim — newly relevant for AI coding.
+
+**Source:** _No single canonical link._
+
+---
+
+## Reflections on Trusting Trust
+*Ken Thompson · 1984 · Lecture / essay · Engineering and Systems → Security*
+`Advanced` · cred 10/10 · useful 7/10 · status `recommended`
+
+Ken Thompson's Turing Award lecture showing you can't fully trust code you didn't create yourself, via a self-replicating compiler backdoor.
+
+**Key takeaways:** (1) Trust must bottom out somewhere (2) A compiler can hide an undetectable backdoor (3) Foundational supply-chain security insight
+
+**Why it matters:** The canonical reference for software trust and supply-chain security debates.
+
+**Source:** _No single canonical link._
+
+---
+
+## Site Reliability Engineering (The SRE Book)
+*Google (Beyer, Jones, Petoff, Murphy, eds.) · 2016 · Book · Engineering and Systems → Operations*
+`Advanced` · cred 9/10 · useful 8/10 · status `recommended`
+
+Google's account of running production systems at scale: SLOs, error budgets, and toil reduction.
+
+**Key takeaways:** (1) Error budgets balance velocity and reliability (2) SLIs/SLOs make reliability measurable (3) Toil reduction via automation
+
+**Why it matters:** It defined modern reliability vocabulary used across infra teams.
+
+**Source:** [https://sre.google/sre-book/table-of-contents/](https://sre.google/sre-book/table-of-contents/)
+
+---
+
+## Bad Blood: Secrets and Lies in a Silicon Valley Startup
+*John Carreyrou · 2018 · Book · Internet and Big Tech History → Fraud & cautionary tales*
+`Beginner` · cred 9/10 · useful 8/10 · status `recommended`
+
+The definitive account of Theranos's rise and fraud, by the journalist who broke the story.
+
+**Key takeaways:** (1) 'Fake it till you make it' taken to fraud (2) Hype, secrecy, and governance failures (3) A cautionary tale on founder mythology
+
+**Why it matters:** The ultimate cautionary tale about hype, governance, and the dark side of founder worship.
+
+**Source:** _No single canonical link._
+
+---
+
+## Thinking, Fast and Slow
+*Daniel Kahneman · 2011 · Book · Founder Mental Models → Decision-making*
+`Intermediate` · cred 9/10 · useful 8/10 · status `recommended`
+
+The Nobel laureate's synthesis of System 1 / System 2 thinking and cognitive biases.
+
+**Key takeaways:** (1) Fast intuitive vs. slow deliberate thinking (2) A catalog of decision biases (3) Why judgment systematically errs
+
+**Why it matters:** The shared vocabulary (System 1/2, biases) underlying most product and decision conversations.
+
+**Source:** _No single canonical link._
+
+---
+
 ## Out of the Tar Pit
 *Ben Moseley, Peter Marks · 2006 · Paper · Engineering and Systems → Software Complexity*
 `Advanced` · cred 8/10 · useful 8/10 · status `reviewed`
@@ -1700,6 +1882,90 @@ A recent source on how VC funds are raised, how LPs think, and how emerging mana
 
 ---
 
+## 1,000 True Fans
+*Kevin Kelly · 2008 · Essay · Founder Mental Models → Creator economy*
+`Beginner` · cred 8/10 · useful 8/10 · status `recommended`
+
+The essay arguing a creator needs only ~1,000 true fans paying meaningfully to make a living.
+
+**Key takeaways:** (1) Direct relationships beat mass reach for creators (2) Niche + depth can sustain a business (3) Predicted the creator economy
+
+**Why it matters:** A foundational idea behind the creator economy and many bottoms-up businesses.
+
+**Source:** [https://kk.org/thetechnium/1000-true-fans/](https://kk.org/thetechnium/1000-true-fans/)
+
+---
+
+## A Philosophy of Software Design
+*John Ousterhout · 2018 · Book · Engineering and Systems → Design*
+`Intermediate` · cred 8/10 · useful 8/10 · status `reviewed`
+
+A Stanford professor's take on managing complexity through deep modules and good abstractions.
+
+**Key takeaways:** (1) Complexity is the enemy; manage it deliberately (2) Prefer deep modules with simple interfaces (3) Design is iterative, not one-shot
+
+**Why it matters:** A modern, contrarian-to-Clean-Code reference that sparks engineering debate.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Everything Store: Jeff Bezos and the Age of Amazon
+*Brad Stone · 2013 · Book · Internet and Big Tech History → Company history*
+`Beginner` · cred 8/10 · useful 8/10 · status `recommended`
+
+A deeply reported history of Amazon's rise and Bezos's relentless operating culture.
+
+**Key takeaways:** (1) Long-term thinking and customer obsession (2) Ruthless operating intensity (3) How a bookstore became infrastructure
+
+**Why it matters:** The reference history for Amazon's strategy and culture, endlessly cited in operating debates.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Dream Machine
+*M. Mitchell Waldrop · 2001 · Book · Internet and Big Tech History → Computing history*
+`Intermediate` · cred 9/10 · useful 7/10 · status `recommended`
+
+The story of J.C.R. Licklider and the visionaries who shaped personal and networked computing.
+
+**Key takeaways:** (1) Licklider's 'intergalactic network' vision (2) Government research seeded the PC and internet (3) Ideas long preceded the products
+
+**Why it matters:** A beloved deep history that signals real literacy in where computing came from.
+
+**Source:** _No single canonical link._
+
+---
+
+## Amazon's Antitrust Paradox
+*Lina Khan · 2017 · Law journal article · Internet and Big Tech History → Antitrust & regulation*
+`Advanced` · cred 9/10 · useful 7/10 · status `recommended`
+
+The Yale Law Journal note arguing consumer-welfare antitrust fails to capture Amazon's structural power.
+
+**Key takeaways:** (1) Challenges the consumer-welfare standard (2) Argues for structural views of platform power (3) Reshaped US antitrust thinking and policy
+
+**Why it matters:** It moved tech antitrust from academic to live policy — its author became FTC chair.
+
+**Source:** [https://www.yalelawjournal.org/note/amazons-antitrust-paradox](https://www.yalelawjournal.org/note/amazons-antitrust-paradox)
+
+---
+
+## Competing Against Luck (Jobs to Be Done)
+*Clayton Christensen et al. · 2016 · Book · Product and Design → Jobs to be Done*
+`Intermediate` · cred 8/10 · useful 8/10 · status `reviewed`
+
+Christensen's theory that customers 'hire' products to do a job, reframing how to find demand.
+
+**Key takeaways:** (1) Customers hire products for a 'job' (2) Causation over correlation in demand (3) Reframes segmentation and innovation
+
+**Why it matters:** JTBD is everyday product vocabulary; the milkshake story is a shared reference.
+
+**Source:** _No single canonical link._
+
+---
+
 ## The Cathedral and the Bazaar
 *Eric S. Raymond · 1999 · Essay · Engineering and Systems → Open Source*
 `Beginner` · cred 8/10 · useful 7/10 · status `reviewed`
@@ -1854,6 +2120,202 @@ A documentary on the rise of Compaq, founded in 1982 by three Texas friends — 
 
 ---
 
+## Situational Awareness: The Decade Ahead
+*Leopold Aschenbrenner · 2024 · Essay series · AI in Practice → AGI forecasting*
+`Intermediate` · cred 7/10 · useful 8/10 · status `recommended`
+
+A widely-read essay series arguing that the trendlines of compute and capability point to AGI this decade, with national-security stakes.
+
+**Key takeaways:** (1) Extrapolates compute and capability trendlines toward AGI within years (2) Frames frontier AI as a geopolitical and security contest (3) Argues most people are not 'situationally aware' of the trajectory
+
+**Why it matters:** It became a reference point for the accelerationist case and the AGI-timelines debate among founders and investors.
+
+**Source:** [https://situational-awareness.ai/](https://situational-awareness.ai/)
+
+---
+
+## Superintelligence: Paths, Dangers, Strategies
+*Nick Bostrom · 2014 · Book · AI in Practice → AI risk*
+`Advanced` · cred 8/10 · useful 7/10 · status `recommended`
+
+The book that mainstreamed serious discussion of existential risk from advanced AI, including the control and alignment problems.
+
+**Key takeaways:** (1) Frames the 'control problem' for smarter-than-human systems (2) Introduces instrumental convergence and orthogonality arguments (3) Shaped a decade of AI-safety discourse
+
+**Why it matters:** It is the canonical entry point for the AI-existential-risk debate that recurs constantly post-2023.
+
+**Source:** _No single canonical link._
+
+---
+
+## On the Dangers of Stochastic Parrots
+*Bender, Gebru, McMillan-Major, Shmitchell · 2021 · Paper · AI Foundations → AI ethics*
+`Advanced` · cred 8/10 · useful 7/10 · status `reviewed`
+
+An influential critique arguing large language models are 'stochastic parrots' that risk scale-driven harms, bias, and environmental cost without true understanding.
+
+**Key takeaways:** (1) Questions whether scale equals understanding (2) Raises bias, data, and environmental concerns (3) Became a flashpoint (tied to a high-profile Google departure)
+
+**Why it matters:** The sharpest counterweight to scale-maximalism, and a story about power inside Big Tech research.
+
+**Source:** [https://dl.acm.org/doi/10.1145/3442188.3445922](https://dl.acm.org/doi/10.1145/3442188.3445922)
+
+---
+
+## Sparks of Artificial General Intelligence: Early experiments with GPT-4
+*Bubeck et al. (Microsoft Research) · 2023 · Paper · AI Foundations → Capability evaluation*
+`Advanced` · cred 8/10 · useful 7/10 · status `reviewed`
+
+A Microsoft Research report claiming GPT-4 shows early sparks of general intelligence across diverse tasks.
+
+**Key takeaways:** (1) Documents surprising cross-domain GPT-4 capabilities (2) Argues for emergent, general-purpose competence (3) Provoked debate over hype vs. genuine generality
+
+**Why it matters:** It crystallized the 'is this AGI?' argument with concrete examples people still cite.
+
+**Source:** [https://arxiv.org/abs/2303.12712](https://arxiv.org/abs/2303.12712)
+
+---
+
+## The Coming Wave
+*Mustafa Suleyman · 2023 · Book · AI in Practice → AI and society*
+`Intermediate` · cred 8/10 · useful 7/10 · status `reviewed`
+
+A DeepMind co-founder argues AI and synthetic biology pose a containment problem for states and society.
+
+**Key takeaways:** (1) Frames AI + biotech as a dual 'coming wave' (2) Centers the 'containment problem' for governments (3) Bridges capability optimism with governance worry
+
+**Why it matters:** A mainstream, credible framing of AI governance that operators and policy folks both cite.
+
+**Source:** _No single canonical link._
+
+---
+
+## It's Time to Build
+*Marc Andreessen · 2020 · Essay · Founder Mental Models → Builder culture*
+`Beginner` · cred 8/10 · useful 7/10 · status `recommended`
+
+A pandemic-era call to arms arguing the West has lost its capacity to build housing, infrastructure, and institutions.
+
+**Key takeaways:** (1) Diagnoses an institutional failure to build (2) A rallying cry for ambition and agency (3) Spawned the 'build' / progress-studies discourse
+
+**Why it matters:** It seeded the 'builder' identity and progress-studies movement now common in SV.
+
+**Source:** [https://a16z.com/its-time-to-build/](https://a16z.com/its-time-to-build/)
+
+---
+
+## The Almanack of Naval Ravikant
+*Eric Jorgenson · 2020 · Book · Founder Mental Models → Wealth & judgment*
+`Beginner` · cred 7/10 · useful 8/10 · status `recommended`
+
+A curated collection of Naval Ravikant's thinking on wealth creation, leverage, and happiness.
+
+**Key takeaways:** (1) 'Productize yourself' via specific knowledge and leverage (2) Seek wealth, not money or status (3) Happiness as a skill and choice
+
+**Why it matters:** Naval's aphorisms are near-universal cultural currency among founders and operators.
+
+**Source:** [https://www.navalmanack.com/](https://www.navalmanack.com/)
+
+---
+
+## Obviously Awesome
+*April Dunford · 2019 · Book · Product and Design → Positioning*
+`Beginner` · cred 7/10 · useful 8/10 · status `reviewed`
+
+A practical method for positioning products so customers instantly understand their value.
+
+**Key takeaways:** (1) Positioning is context-setting, not slogans (2) Pick the market frame you want to win (3) Reposition rather than rebuild when stuck
+
+**Why it matters:** The go-to reference when teams argue about positioning and category.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Rise of Worse Is Better
+*Richard P. Gabriel · 1991 · Essay · Engineering and Systems → Design philosophy*
+`Intermediate` · cred 8/10 · useful 7/10 · status `reviewed`
+
+The essay contrasting 'the right thing' with 'worse is better,' arguing simpler, less-perfect designs often win.
+
+**Key takeaways:** (1) Simplicity of implementation can beat completeness (2) Worse-is-better systems spread faster (3) A lasting frame for design tradeoffs
+
+**Why it matters:** A perennial lens for debating why uglier, simpler tech keeps winning.
+
+**Source:** [https://www.dreamsongs.com/RiseOfWorseIsBetter.html](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
+
+---
+
+## The Twelve-Factor App
+*Adam Wiggins / Heroku · 2011 · Reference · Engineering and Systems → Cloud-native*
+`Intermediate` · cred 8/10 · useful 7/10 · status `reviewed`
+
+A methodology of twelve principles for building portable, scalable web apps in the cloud era.
+
+**Key takeaways:** (1) Config in the environment, not code (2) Stateless processes and disposability (3) Dev/prod parity
+
+**Why it matters:** Shaped how a generation built cloud apps; still a baseline reference.
+
+**Source:** [https://12factor.net/](https://12factor.net/)
+
+---
+
+## The Age of Surveillance Capitalism
+*Shoshana Zuboff · 2019 · Book · Internet and Big Tech History → Tech critique*
+`Advanced` · cred 8/10 · useful 7/10 · status `reviewed`
+
+An argument that tech giants commodify behavioral data into 'behavioral futures' markets.
+
+**Key takeaways:** (1) Behavioral surplus as the new raw material (2) Prediction products sold in futures markets (3) A systemic critique of ad-driven tech
+
+**Why it matters:** The most-cited intellectual critique of the ad-driven internet's business model.
+
+**Source:** _No single canonical link._
+
+---
+
+## Weapons of Math Destruction
+*Cathy O'Neil · 2016 · Book · AI in Practice → Algorithmic harm*
+`Beginner` · cred 8/10 · useful 7/10 · status `reviewed`
+
+How opaque algorithms in credit, policing, and hiring can scale bias and inequality.
+
+**Key takeaways:** (1) Models encode and scale bias (2) Opacity + scale + harm = 'WMD' (3) Calls for algorithmic accountability
+
+**Why it matters:** A widely-read primer for the fairness and accountability side of the AI debate.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Attention Merchants
+*Tim Wu · 2016 · Book · Internet and Big Tech History → Attention economy*
+`Intermediate` · cred 8/10 · useful 7/10 · status `reviewed`
+
+A history of how industries from newspapers to social media have harvested and resold human attention.
+
+**Key takeaways:** (1) Attention as a centuries-old commodity (2) The 'attention merchant' business model (3) Cycles of capture and revolt
+
+**Why it matters:** Gives historical depth to the attention-economy conversation that dominates tech.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Beginning of Infinity
+*David Deutsch · 2011 · Book · Founder Mental Models → Epistemology & progress*
+`Advanced` · cred 8/10 · useful 7/10 · status `reviewed`
+
+A physicist's argument that good explanations drive unbounded knowledge and progress.
+
+**Key takeaways:** (1) 'Problems are soluble' as an outlook (2) Good explanations as the engine of progress (3) Optimism grounded in epistemology
+
+**Why it matters:** A favorite of the progress-and-optimism crowd (Naval, founders); a worldview reference.
+
+**Source:** _No single canonical link._
+
+---
+
 ## Where Wizards Stay Up Late: The Origins of the Internet
 *Katie Hafner, Matthew Lyon · 1996 · Book · Internet and Big Tech History → Internet Origins*
 `Beginner` · cred 8/10 · useful 6/10 · status `reviewed`
@@ -1966,6 +2428,104 @@ A curated set of seven conference talks on product management (recorded 2013–2
 
 ---
 
+## The Intelligence Age
+*Sam Altman · 2024 · Essay · AI in Practice → AI vision*
+`Beginner` · cred 7/10 · useful 7/10 · status `reviewed`
+
+OpenAI's CEO sketches a near-future where abundant intelligence reshapes work, prosperity, and what individuals can accomplish.
+
+**Key takeaways:** (1) Predicts cheap, abundant intelligence as the next platform shift (2) Emphasizes massive infrastructure and energy buildout (3) Frames AI as broadly prosperity-expanding
+
+**Why it matters:** A concise statement of the dominant frontier-lab worldview that founders and investors react to.
+
+**Source:** [https://ia.samaltman.com/](https://ia.samaltman.com/)
+
+---
+
+## Super Founders
+*Ali Tamaseb · 2021 · Book · Startup History → Founder data*
+`Intermediate` · cred 7/10 · useful 7/10 · status `reviewed`
+
+A data-driven study comparing billion-dollar startup founders against a control group, debunking common myths.
+
+**Key takeaways:** (1) Many 'founder myths' don't survive the data (2) Age, pedigree, and idea novelty matter less than assumed (3) Empirical antidote to pattern-matching
+
+**Why it matters:** Gives founders and investors actual data to argue against lazy pattern-matching.
+
+**Source:** _No single canonical link._
+
+---
+
+## Hooked: How to Build Habit-Forming Products
+*Nir Eyal · 2014 · Book · Product and Design → Behavioral design*
+`Beginner` · cred 7/10 · useful 7/10 · status `reviewed`
+
+A model (trigger, action, variable reward, investment) for building products that form habits.
+
+**Key takeaways:** (1) The Hook Model of habit formation (2) Variable rewards drive engagement (3) Raises the ethics of persuasive design
+
+**Why it matters:** Defines the engagement-design playbook — and the ethical backlash against it.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Tyranny of the Marginal User
+*Ivan Vendrov · 2022 · Essay · Product and Design → Product decay*
+`Intermediate` · cred 7/10 · useful 7/10 · status `recommended`
+
+An essay arguing that optimizing for the least-engaged marginal user degrades products for everyone.
+
+**Key takeaways:** (1) Growth metrics pull products toward the lowest common denominator (2) Explains why beloved apps get worse (3) Names a force every PM has felt
+
+**Why it matters:** A crisp explanation for 'enshittification' that product people love to debate.
+
+**Source:** [https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
+
+---
+
+## Valley of Genius
+*Adam Fisher · 2018 · Book · Internet and Big Tech History → Oral history*
+`Beginner` · cred 7/10 · useful 7/10 · status `reviewed`
+
+An oral history of Silicon Valley told through the voices of the people who built it.
+
+**Key takeaways:** (1) First-person, contradictory accounts of key moments (2) Atari to Apple to Google to social (3) Myth vs. memory in tech history
+
+**Why it matters:** A lively, quotable source of Valley lore and origin stories.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Social Network
+*David Fincher (dir.) / Aaron Sorkin · 2010 · Film · Documentary and Long-Form Media → Founder mythology*
+`Beginner` · cred 7/10 · useful 7/10 · status `recommended`
+
+The dramatized origin story of Facebook, founder conflict, and the cost of ambition.
+
+**Key takeaways:** (1) Founder-relationship fractures under scale (2) Cultural template for the 'startup founder' (3) Myth vs. reality of origin stories
+
+**Why it matters:** The most culturally pervasive depiction of startup founding — shared reference for everyone.
+
+**Source:** _No single canonical link._
+
+---
+
+## Meditations on Moloch
+*Scott Alexander · 2014 · Essay · Founder Mental Models → Coordination & game theory*
+`Advanced` · cred 7/10 · useful 7/10 · status `reviewed`
+
+An essay using 'Moloch' as a metaphor for coordination failures where everyone races to the bottom.
+
+**Key takeaways:** (1) Multipolar traps and races to the bottom (2) Why good actors produce bad equilibria (3) A vocabulary for systemic incentive failure
+
+**Why it matters:** 'Moloch' is shorthand in SV intellectual circles, frequently invoked in AI-race debates.
+
+**Source:** [https://slatestarcodex.com/2014/07/30/meditations-on-moloch/](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+
+---
+
 ## Something Ventured
 *Dan Geller, Dayna Goldfine · 2011 · Documentary · Documentary and Long-Form Media → Venture History*
 `Beginner` · cred 7/10 · useful 6/10 · status `reviewed`
@@ -2008,6 +2568,48 @@ A detailed study guide documenting Columbia University's graduate-level edX AI c
 
 ---
 
+## Pirates of Silicon Valley
+*Martyn Burke (dir.) · 1999 · Film · Documentary and Long-Form Media → Founder mythology*
+`Beginner` · cred 7/10 · useful 6/10 · status `reviewed`
+
+A docudrama on the Apple–Microsoft rivalry and the personalities of Jobs and Gates.
+
+**Key takeaways:** (1) The Jobs–Gates rivalry dramatized (2) Borrowing and competition in early PCs (3) Origin myths of two giants
+
+**Why it matters:** A nostalgic touchstone for the founding rivalry that shaped personal computing.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Californian Ideology
+*Richard Barbrook & Andy Cameron · 1995 · Essay · Internet and Big Tech History → Tech culture critique*
+`Advanced` · cred 7/10 · useful 6/10 · status `reviewed`
+
+A prescient critique of Silicon Valley's fusion of countercultural libertarianism and free-market tech optimism.
+
+**Key takeaways:** (1) Names the Valley's libertarian-utopian blend (2) Predicted tensions still alive today (3) A lens on tech's political identity
+
+**Why it matters:** It named the Valley's worldview decades early; still cited to explain tech politics.
+
+**Source:** _No single canonical link._
+
+---
+
+## Snow Crash
+*Neal Stephenson · 1992 · Book · Internet and Big Tech History → Sci-fi & tech imagination*
+`Intermediate` · cred 7/10 · useful 6/10 · status `reviewed`
+
+The cyberpunk novel that coined the 'Metaverse' and shaped how technologists imagine virtual worlds.
+
+**Key takeaways:** (1) Coined 'Metaverse' and 'avatar' usage (2) Influenced VR, crypto, and gaming visions (3) Sci-fi as a roadmap technologists actually follow
+
+**Why it matters:** Required cultural reading behind metaverse and VR ambitions; a shared imaginative reference.
+
+**Source:** _No single canonical link._
+
+---
+
 ## The Canon of Design for a New Journey in Product Management
 *Rajiv Kaul (Intelligaia) · Unknown · Slides · Product and Design → Design-led product*
 `Beginner` · cred 6/10 · useful 6/10 · status `reviewed`
@@ -2019,5 +2621,47 @@ A slide deck outlining a design-centered approach to product management, organiz
 **Why it matters:** A concise visual articulation of how design thinking and product management reinforce each other.
 
 **Source:** [https://pt.slideshare.net/slideshow/canon-of-design-for-a-new-journey-in-product-management/66867250](https://pt.slideshare.net/slideshow/canon-of-design-for-a-new-journey-in-product-management/66867250)
+
+---
+
+## AGI Ruin: A List of Lethalities
+*Eliezer Yudkowsky · 2022 · Essay · AI in Practice → AI risk*
+`Advanced` · cred 6/10 · useful 6/10 · status `reviewed`
+
+A blunt, much-cited enumeration of why the author believes aligning superhuman AI is extremely hard and likely to fail by default.
+
+**Key takeaways:** (1) Lists structural reasons alignment may be unsolved in time (2) Represents the pessimistic pole of the safety debate (3) Frequently invoked and rebutted in AI discourse
+
+**Why it matters:** It defines the doomer position that nearly every AI-risk conversation orbits.
+
+**Source:** [https://www.lesswrong.com/posts/uMQ3CqWDPHhjtiesc/agi-ruin-a-list-of-lethalities](https://www.lesswrong.com/posts/uMQ3CqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)
+
+---
+
+## Chaos Monkeys
+*Antonio García Martínez · 2016 · Book · Internet and Big Tech History → Insider memoir*
+`Beginner` · cred 6/10 · useful 6/10 · status `reviewed`
+
+A caustic, insider memoir of startup life, YC, and ad-tech inside Facebook.
+
+**Key takeaways:** (1) Unsparing look at startup and Big-Tech incentives (2) Ad-tech and monetization from the inside (3) Deliberately provocative tone
+
+**Why it matters:** A polarizing insider account that people love to argue about for its candor and controversy.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Social Dilemma
+*Jeff Orlowski (dir.) · 2020 · Documentary · Documentary and Long-Form Media → Tech & society*
+`Beginner` · cred 6/10 · useful 6/10 · status `reviewed`
+
+A documentary in which former insiders critique social media's attention and manipulation mechanics.
+
+**Key takeaways:** (1) Engagement optimization vs. user wellbeing (2) Insider testimony on persuasive design (3) Polarization and mental-health concerns
+
+**Why it matters:** The mainstream on-ramp to the social-media-harms debate that most people have seen.
+
+**Source:** _No single canonical link._
 
 ---

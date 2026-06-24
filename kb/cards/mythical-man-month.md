@@ -21,6 +21,9 @@ status: recommended
 ## Summary
 A classic collection of essays on software engineering and project management, most famous for Brooks's Law: adding manpower to a late software project makes it later. Still painfully relevant decades on.
 
+## 💬 Good conversation topic
+'Adding people to a late project makes it later' — endlessly re-litigated.
+
 ## Key takeaways
 - Communication overhead grows non-linearly as teams grow.
 - Conceptual integrity matters more than raw effort.

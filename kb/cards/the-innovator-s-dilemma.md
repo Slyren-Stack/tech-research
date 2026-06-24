@@ -24,6 +24,9 @@ venue: "Harvard Business Review Store"
 ## Summary
 Explains how successful companies can fail when new technologies start in low-end or overlooked markets.
 
+## 💬 Good conversation topic
+Everyone invokes 'disruption' — few use it correctly, which is exactly why it sparks debate.
+
 ## Key takeaways
 - disruptive innovation
 - incumbent failure

@@ -21,6 +21,9 @@ status: reviewed
 ## Summary
 An influential essay contrasting two development models — the cathedral (closed, top-down) and the bazaar (open, decentralized) — using Linux as the case study. It helped legitimize open-source development to industry.
 
+## 💬 Good conversation topic
+The open-source vs. closed development debate in one classic essay.
+
 ## Key takeaways
 - 'Given enough eyeballs, all bugs are shallow.'
 - Open, iterative, community-driven development can outperform closed teams.

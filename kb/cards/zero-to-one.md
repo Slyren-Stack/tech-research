@@ -21,6 +21,9 @@ status: core
 ## Summary
 A contrarian set of essays on building valuable companies, arguing that great startups create something new ('zero to one') rather than copying ('one to n'), and that monopolies built on real differentiation drive progress.
 
+## 💬 Good conversation topic
+'Competition is for losers' and the monopoly thesis are perennial debate-starters.
+
 ## Key takeaways
 - Build something genuinely new instead of competing in red oceans.
 - Durable companies have a real, defensible edge — a 'secret'.

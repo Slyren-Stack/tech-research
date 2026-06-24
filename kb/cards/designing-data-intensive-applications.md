@@ -21,6 +21,9 @@ status: core
 ## Summary
 A rigorous, readable book on the fundamentals of storing and processing data at scale: replication, partitioning, consistency, consensus, batch and stream processing. The modern reference for backend and data engineers.
 
+## 💬 Good conversation topic
+The book engineers cite to signal they think seriously about systems.
+
 ## Key takeaways
 - Deeply explains the trade-offs behind databases, replication, and consistency models.
 - Connects academic distributed-systems theory to real engineering decisions.

@@ -21,6 +21,9 @@ status: recommended
 ## Summary
 A major critique arguing that public institutions often create the markets and technologies that private capital later monetizes.
 
+## 💬 Good conversation topic
+The strongest counter to 'private markets did it all' — guaranteed debate.
+
 ## Key takeaways
 - state-led innovation
 - risk socialization

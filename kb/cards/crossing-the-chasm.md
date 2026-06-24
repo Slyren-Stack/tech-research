@@ -24,6 +24,9 @@ venue: "HarperCollins"
 ## Summary
 Describes the gap between early adopters and the mainstream market for breakthrough technology products.
 
+## 💬 Good conversation topic
+The default frame for arguing why a hot product will (or won't) reach the mainstream.
+
 ## Key takeaways
 - early market vs mainstream
 - whole product

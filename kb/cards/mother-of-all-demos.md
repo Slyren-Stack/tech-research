@@ -21,6 +21,9 @@ status: core
 ## Summary
 Engelbart's 1968 live demonstration that introduced the mouse, hypertext, real-time collaborative editing, video conferencing, and windows — decades before they became mainstream. A staggering vision of interactive computing.
 
+## 💬 Good conversation topic
+The 1968 demo is the ultimate 'they predicted everything' reference.
+
 ## Key takeaways
 - Demonstrated the mouse, hypertext, and collaborative computing in 1968.
 - Framed computing as a tool to augment human intellect, not just calculate.

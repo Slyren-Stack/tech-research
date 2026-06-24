@@ -2,7 +2,7 @@
 
 > A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.
 
-**144 curated items** · 31 core · last updated 2026-06-23 · version 1.7.0
+**190 curated items** · 31 core · last updated 2026-06-23 · version 1.8.0
 
 This is the human-readable overview. The machine-readable source of truth is [`master.json`](master.json). Everything in this repo is generated from it.
 
@@ -14,17 +14,17 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 
 ## Topic hubs
 
-- **[AI Foundations](../kb/topic-hubs/ai-foundations.md)** (16) — How AI actually works — the ideas, papers, and explainers that built modern machine learning and the transformer era.
-- **[AI in Practice](../kb/topic-hubs/ai-in-practice.md)** (9) — Applying AI as a builder: shipping ML systems, LLM products, and the engineering mindset behind them.
-- **[Startup History](../kb/topic-hubs/startup-history.md)** (13) — How companies actually got started — first-hand accounts, hard lessons, and the canon of startup thinking.
-- **[Founder Mental Models](../kb/topic-hubs/founder-mental-models.md)** (14) — Durable ways of thinking about work, leverage, judgment, and doing great work over a career.
-- **[Product and Design](../kb/topic-hubs/product-and-design.md)** (16) — Designing things people love — product sense, interaction design, and the principles behind good craft.
-- **[Engineering and Systems](../kb/topic-hubs/engineering-and-systems.md)** (16) — Systems thinking for builders: distributed systems, software design, and the papers that shaped the field.
+- **[AI Foundations](../kb/topic-hubs/ai-foundations.md)** (18) — How AI actually works — the ideas, papers, and explainers that built modern machine learning and the transformer era.
+- **[AI in Practice](../kb/topic-hubs/ai-in-practice.md)** (16) — Applying AI as a builder: shipping ML systems, LLM products, and the engineering mindset behind them.
+- **[Startup History](../kb/topic-hubs/startup-history.md)** (19) — How companies actually got started — first-hand accounts, hard lessons, and the canon of startup thinking.
+- **[Founder Mental Models](../kb/topic-hubs/founder-mental-models.md)** (21) — Durable ways of thinking about work, leverage, judgment, and doing great work over a career.
+- **[Product and Design](../kb/topic-hubs/product-and-design.md)** (20) — Designing things people love — product sense, interaction design, and the principles behind good craft.
+- **[Engineering and Systems](../kb/topic-hubs/engineering-and-systems.md)** (22) — Systems thinking for builders: distributed systems, software design, and the papers that shaped the field.
 - **[Venture Capital and Fundraising](../kb/topic-hubs/venture-capital.md)** (42) — How venture works from both sides of the table — term sheets, incentives, and raising money well.
-- **[Internet and Big Tech History](../kb/topic-hubs/internet-history.md)** (9) — Where computing and the internet came from — the people, labs, and machines that made it all possible.
-- **[Documentary and Long-Form Media](../kb/topic-hubs/documentary-long-form.md)** (9) — Films and long-form storytelling that capture the culture and history of technology.
+- **[Internet and Big Tech History](../kb/topic-hubs/internet-history.md)** (19) — Where computing and the internet came from — the people, labs, and machines that made it all possible.
+- **[Documentary and Long-Form Media](../kb/topic-hubs/documentary-long-form.md)** (13) — Films and long-form storytelling that capture the culture and history of technology.
 - **[Must-Watch Core Library](../kb/topic-hubs/core-library.md)** (31) — The essential cross-category set — if you only have time for a handful, start here. (Auto-collected from items marked 'core'.)
-- **[Conversation Starters](../kb/topic-hubs/conversation-starters.md)** (10) — High-signal topics worth raising in technical and founder circles — each is something smart people genuinely argue about. A cross-cutting collection; every item also lives in its home hub.
+- **[Conversation Starters](../kb/topic-hubs/conversation-starters.md)** (73) — High-signal topics worth raising in technical and founder circles — each is something smart people genuinely argue about. A cross-cutting collection; every item also lives in its home hub.
 
 ## Learning paths
 
@@ -54,6 +54,8 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](../kb/cards/alexnet-imagenet-2012.md) | Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton | 2012 | Paper | Advanced | `recommended` | 17 |
 | [Machine Learning (Stanford CS229 / Coursera)](../kb/cards/andrew-ng-machine-learning.md) | Andrew Ng | 2011 | Course | Intermediate | `recommended` | 17 |
 | [AI History (Stanford CS221: Artificial Intelligence)](../kb/cards/cs221-ai-history.md) | Stanford CS221 / Stanford Online | 2021 | Lecture (Video) | Intermediate | `reviewed` | 15 |
+| [On the Dangers of Stochastic Parrots](../kb/cards/on-the-dangers-of-stochastic-parrots.md) | Bender, Gebru, McMillan-Major, Shmitchell | 2021 | Paper | Advanced | `reviewed` | 15 |
+| [Sparks of Artificial General Intelligence: Early experiments with GPT-4](../kb/cards/sparks-of-artificial-general-intelligence-early-experiments.md) | Bubeck et al. (Microsoft Research) | 2023 | Paper | Advanced | `reviewed` | 15 |
 | [AI & Machine Learning (Stanford CS106E Lecture Notes)](../kb/cards/cs106e-ai-machine-learning-notes.md) | Stanford CS106E | — | Lecture Notes (PDF) | Beginner | `reviewed` | 14 |
 | [Introduction to Graduate Artificial Intelligence (CMU 15-780)](../kb/cards/cmu-15780-intro-ai.md) | Carnegie Mellon University 15-780 | — | Lecture Slides (PDF) | Advanced | `reviewed` | 14 |
 | [Artificial Intelligence (AI) by edX — Columbia University (Study Guide)](../kb/cards/edx-columbia-ai-study-guide.md) | Josh Wentz (notes on Columbia CSMM.101x, Ansaf Salleb-Aouissi) | — | Study Guide (Article) | Intermediate | `reviewed` | 13 |
@@ -69,8 +71,15 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [GPT-4 Technical Report](../kb/cards/gpt-4-technical-report.md) | OpenAI | 2023 | Technical report | Advanced | `recommended` | 19 |
 | [State of GPT](../kb/cards/state-of-gpt.md) | Andrej Karpathy | 2023 | Talk | Intermediate | `recommended` | 18 |
 | [Building Faster with AI](../kb/cards/andrew-ng-building-faster-with-ai.md) | Andrew Ng | — | Talk | Intermediate | `recommended` | 17 |
+| [Machines of Loving Grace](../kb/cards/machines-of-loving-grace.md) | Dario Amodei | 2024 | Essay | Intermediate | `recommended` | 17 |
 | [AI Engineer (Conferences & Talk Library)](../kb/cards/ai-engineer-conference.md) | AI Engineer | — | Conference / Video Hub | Intermediate | `recommended` | 15 |
+| [Situational Awareness: The Decade Ahead](../kb/cards/situational-awareness-the-decade-ahead.md) | Leopold Aschenbrenner | 2024 | Essay series | Intermediate | `recommended` | 15 |
+| [Superintelligence: Paths, Dangers, Strategies](../kb/cards/superintelligence-paths-dangers-strategies.md) | Nick Bostrom | 2014 | Book | Advanced | `recommended` | 15 |
+| [The Coming Wave](../kb/cards/the-coming-wave.md) | Mustafa Suleyman | 2023 | Book | Intermediate | `reviewed` | 15 |
+| [Weapons of Math Destruction](../kb/cards/weapons-of-math-destruction.md) | Cathy O'Neil | 2016 | Book | Beginner | `reviewed` | 15 |
 | [Allan Dafoe — AI Governance & Safety Talks](../kb/cards/allan-dafoe-ai-talks.md) | Allan Dafoe | — | Talk Collection | Intermediate | `reviewed` | 14 |
+| [The Intelligence Age](../kb/cards/the-intelligence-age.md) | Sam Altman | 2024 | Essay | Beginner | `reviewed` | 14 |
+| [AGI Ruin: A List of Lethalities](../kb/cards/agi-ruin-a-list-of-lethalities.md) | Eliezer Yudkowsky | 2022 | Essay | Advanced | `reviewed` | 12 |
 
 ### Documentary and Long-Form Media
 
@@ -79,12 +88,16 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [The Computer Chronicles - The Internet (1993)](../kb/cards/the-computer-chronicles-the-internet-1993.md) | The Computer Chronicles | 1993 | TV episode | Beginner | `recommended` | 17 |
 | [The Machine That Changed the World - Episode 1: Great Brains](../kb/cards/the-machine-that-changed-the-world-episode-1-great-brains.md) | WGBH / BBC | 1992 | Documentary episode | Beginner | `recommended` | 17 |
 | [The Machine That Changed the World - Episode 2: Inventing the Future](../kb/cards/the-machine-that-changed-the-world-episode-2-inventing-the-f.md) | WGBH / BBC | 1992 | Documentary episode | Beginner | `recommended` | 17 |
+| [AlphaGo](../kb/cards/alphago.md) | Greg Kohs (dir.) / DeepMind | 2017 | Documentary | Beginner | `recommended` | 17 |
 | [General Magic](../kb/cards/general-magic-documentary.md) | Sarah Kerruish, Matt Maude | 2018 | Documentary | Beginner | `core` | 16 |
 | [The Playbook: Lessons from 200+ Company Stories](../kb/cards/the-playbook-lessons-from-200-company-stories.md) | Acquired | 2022 | Podcast episode | Intermediate | `reviewed` | 16 |
 | [Startup.com](../kb/cards/startup-com-documentary.md) | Chris Hegedus, Jehane Noujaim (dir.) | 2001 | Documentary | Beginner | `recommended` | 15 |
 | [Silicon Cowboys](../kb/cards/silicon-cowboys-documentary.md) | Jason Cohen (dir.) | 2016 | Documentary | Beginner | `recommended` | 15 |
+| [The Social Network](../kb/cards/the-social-network.md) | David Fincher (dir.) / Aaron Sorkin | 2010 | Film | Beginner | `recommended` | 14 |
 | [Something Ventured](../kb/cards/something-ventured-documentary.md) | Dan Geller, Dayna Goldfine | 2011 | Documentary | Beginner | `reviewed` | 13 |
 | [Triumph of the Nerds](../kb/cards/triumph-of-the-nerds.md) | Robert X. Cringely | 1996 | Documentary | Beginner | `reviewed` | 13 |
+| [Pirates of Silicon Valley](../kb/cards/pirates-of-silicon-valley.md) | Martyn Burke (dir.) | 1999 | Film | Beginner | `reviewed` | 13 |
+| [The Social Dilemma](../kb/cards/the-social-dilemma.md) | Jeff Orlowski (dir.) | 2020 | Documentary | Beginner | `reviewed` | 12 |
 
 ### Engineering and Systems
 
@@ -102,9 +115,15 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [Time, Clocks, and the Ordering of Events in a Distributed System](../kb/cards/time-clocks-ordering-lamport.md) | Leslie Lamport | 1978 | Paper | Advanced | `recommended` | 17 |
 | [End-to-End Arguments in System Design](../kb/cards/end-to-end-arguments.md) | J. Saltzer, D. Reed, D. Clark | 1984 | Paper | Advanced | `reviewed` | 17 |
 | [Structure and Interpretation of Computer Programs (SICP)](../kb/cards/sicp.md) | Harold Abelson, Gerald Jay Sussman, Julie Sussman | 1985 | Book | Advanced | `recommended` | 17 |
+| [No Silver Bullet — Essence and Accident in Software Engineering](../kb/cards/no-silver-bullet-essence-and-accident-in-software-engineerin.md) | Fred Brooks | 1986 | Essay | Intermediate | `recommended` | 17 |
+| [Reflections on Trusting Trust](../kb/cards/reflections-on-trusting-trust.md) | Ken Thompson | 1984 | Lecture / essay | Advanced | `recommended` | 17 |
+| [Site Reliability Engineering (The SRE Book)](../kb/cards/site-reliability-engineering-the-sre-book.md) | Google (Beyer, Jones, Petoff, Murphy, eds.) | 2016 | Book | Advanced | `recommended` | 17 |
 | [Out of the Tar Pit](../kb/cards/out-of-the-tar-pit.md) | Ben Moseley, Peter Marks | 2006 | Paper | Advanced | `reviewed` | 16 |
 | [Clean Code](../kb/cards/clean-code.md) | Robert C. Martin | 2008 | Book | Intermediate | `reviewed` | 16 |
+| [A Philosophy of Software Design](../kb/cards/a-philosophy-of-software-design.md) | John Ousterhout | 2018 | Book | Intermediate | `reviewed` | 16 |
 | [The Cathedral and the Bazaar](../kb/cards/cathedral-and-the-bazaar.md) | Eric S. Raymond | 1999 | Essay | Beginner | `reviewed` | 15 |
+| [The Rise of Worse Is Better](../kb/cards/the-rise-of-worse-is-better.md) | Richard P. Gabriel | 1991 | Essay | Intermediate | `reviewed` | 15 |
+| [The Twelve-Factor App](../kb/cards/the-twelve-factor-app.md) | Adam Wiggins / Heroku | 2011 | Reference | Intermediate | `reviewed` | 15 |
 | [The Clean Coder](../kb/cards/the-clean-coder.md) | Robert C. Martin | 2011 | Book | Intermediate | `reviewed` | 14 |
 
 ### Founder Mental Models
@@ -117,14 +136,21 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [You and Your Research](../kb/cards/hamming-you-and-your-research.md) | Richard Hamming | 1986 | Talk | Intermediate | `core` | 19 |
 | [Essays by Paul Graham](../kb/cards/essays-by-paul-graham.md) | Paul Graham / Y Combinator | — | Essays | Intermediate | `recommended` | 19 |
 | [Startup = Growth](../kb/cards/startup-growth.md) | Paul Graham | 2012 | Essay | Beginner | `recommended` | 19 |
+| [High Output Management](../kb/cards/high-output-management.md) | Andy Grove | 1983 | Book | Intermediate | `recommended` | 18 |
 | [Maker's Schedule, Manager's Schedule](../kb/cards/makers-schedule-managers-schedule.md) | Paul Graham | 2009 | Essay | Beginner | `recommended` | 17 |
 | [Founder Mode](../kb/cards/founder-mode.md) | Paul Graham | 2024 | Essay | Intermediate | `recommended` | 17 |
+| [Thinking, Fast and Slow](../kb/cards/thinking-fast-and-slow.md) | Daniel Kahneman | 2011 | Book | Intermediate | `recommended` | 17 |
 | [Poor Charlie's Almanack](../kb/cards/poor-charlies-almanack.md) | Charlie Munger (ed. Peter Kaufman) | 2005 | Book | Intermediate | `recommended` | 16 |
 | [How to Get Startup Ideas](../kb/cards/how-to-get-startup-ideas.md) | Paul Graham | 2024 | Video reading / commentary | Beginner | `reviewed` | 16 |
+| [1,000 True Fans](../kb/cards/1-000-true-fans.md) | Kevin Kelly | 2008 | Essay | Beginner | `recommended` | 16 |
 | [How to Get Rich (without getting lucky)](../kb/cards/naval-how-to-get-rich.md) | Naval Ravikant | 2019 | Podcast Series | Beginner | `recommended` | 15 |
 | [How Will You Measure Your Life?](../kb/cards/how-will-you-measure-your-life.md) | Clayton M. Christensen, James Allworth, Karen Dillon | 2012 | Book | Beginner | `reviewed` | 15 |
 | [What You Do Is Who You Are](../kb/cards/what-you-do-is-who-you-are.md) | Ben Horowitz | 2019 | Book | Intermediate | `reviewed` | 15 |
+| [It's Time to Build](../kb/cards/it-s-time-to-build.md) | Marc Andreessen | 2020 | Essay | Beginner | `recommended` | 15 |
+| [The Almanack of Naval Ravikant](../kb/cards/the-almanack-of-naval-ravikant.md) | Eric Jorgenson | 2020 | Book | Beginner | `recommended` | 15 |
+| [The Beginning of Infinity](../kb/cards/the-beginning-of-infinity.md) | David Deutsch | 2011 | Book | Advanced | `reviewed` | 15 |
 | [Stanford Commencement Address (2005)](../kb/cards/steve-jobs-stanford-2005.md) | Steve Jobs | 2005 | Talk | Beginner | `reviewed` | 14 |
+| [Meditations on Moloch](../kb/cards/meditations-on-moloch.md) | Scott Alexander | 2014 | Essay | Advanced | `reviewed` | 14 |
 
 ### Internet and Big Tech History
 
@@ -135,10 +161,20 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [Computer History Museum Oral Histories](../kb/cards/computer-history-museum-oral-histories.md) | Computer History Museum | — | Archive | Intermediate | `recommended` | 19 |
 | [The Mother of All Demos](../kb/cards/mother-of-all-demos.md) | Douglas Engelbart | 1968 | Video | Beginner | `core` | 18 |
 | [As We May Think](../kb/cards/as-we-may-think.md) | Vannevar Bush | 1945 | Essay | Intermediate | `recommended` | 17 |
+| [Bad Blood: Secrets and Lies in a Silicon Valley Startup](../kb/cards/bad-blood-secrets-and-lies-in-a-silicon-valley-startup.md) | John Carreyrou | 2018 | Book | Beginner | `recommended` | 17 |
 | [The Soul of a New Machine](../kb/cards/soul-of-a-new-machine.md) | Tracy Kidder | 1981 | Book | Beginner | `recommended` | 16 |
+| [The Everything Store: Jeff Bezos and the Age of Amazon](../kb/cards/the-everything-store-jeff-bezos-and-the-age-of-amazon.md) | Brad Stone | 2013 | Book | Beginner | `recommended` | 16 |
+| [The Dream Machine](../kb/cards/the-dream-machine.md) | M. Mitchell Waldrop | 2001 | Book | Intermediate | `recommended` | 16 |
+| [Amazon's Antitrust Paradox](../kb/cards/amazon-s-antitrust-paradox.md) | Lina Khan | 2017 | Law journal article | Advanced | `recommended` | 16 |
 | [Hackers: Heroes of the Computer Revolution](../kb/cards/hackers-heroes-levy.md) | Steven Levy | 1984 | Book | Beginner | `reviewed` | 15 |
 | [The Innovators](../kb/cards/the-innovators-isaacson.md) | Walter Isaacson | 2014 | Book | Beginner | `reviewed` | 15 |
+| [The Age of Surveillance Capitalism](../kb/cards/the-age-of-surveillance-capitalism.md) | Shoshana Zuboff | 2019 | Book | Advanced | `reviewed` | 15 |
+| [The Attention Merchants](../kb/cards/the-attention-merchants.md) | Tim Wu | 2016 | Book | Intermediate | `reviewed` | 15 |
 | [Where Wizards Stay Up Late: The Origins of the Internet](../kb/cards/where-wizards-stay-up-late.md) | Katie Hafner, Matthew Lyon | 1996 | Book | Beginner | `reviewed` | 14 |
+| [Valley of Genius](../kb/cards/valley-of-genius.md) | Adam Fisher | 2018 | Book | Beginner | `reviewed` | 14 |
+| [The Californian Ideology](../kb/cards/the-californian-ideology.md) | Richard Barbrook & Andy Cameron | 1995 | Essay | Advanced | `reviewed` | 13 |
+| [Snow Crash](../kb/cards/snow-crash.md) | Neal Stephenson | 1992 | Book | Intermediate | `reviewed` | 13 |
+| [Chaos Monkeys](../kb/cards/chaos-monkeys.md) | Antonio García Martínez | 2016 | Book | Beginner | `reviewed` | 12 |
 
 ### Product and Design
 
@@ -156,9 +192,13 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [Inside Apple Software Design](../kb/cards/inside-apple-software-design.md) | a16z / Ken Kocienda | 2019 | Podcast interview | Intermediate | `recommended` | 17 |
 | [Design Thinking: Human-Centered Innovation](../kb/cards/design-thinking-human-centered-innovation.md) | IDEO | — | Article / resource hub | Beginner | `recommended` | 17 |
 | [RICE: Simple prioritization for product managers](../kb/cards/rice-simple-prioritization-for-product-managers.md) | Intercom | 2018 | Essay / framework | Beginner | `reviewed` | 16 |
+| [Competing Against Luck (Jobs to Be Done)](../kb/cards/competing-against-luck-jobs-to-be-done.md) | Clayton Christensen et al. | 2016 | Book | Intermediate | `reviewed` | 16 |
 | [Ten Principles for Good Design](../kb/cards/dieter-rams-ten-principles.md) | Dieter Rams | — | Reference | Beginner | `reviewed` | 15 |
+| [Obviously Awesome](../kb/cards/obviously-awesome.md) | April Dunford | 2019 | Book | Beginner | `reviewed` | 15 |
 | [Design Sprint Masterclass](../kb/cards/design-sprint-masterclass.md) | AJ&Smart | — | Course | Beginner | `reviewed` | 14 |
 | [UI Talks — Product Management (Curated Collection)](../kb/cards/ui-talks-product-management.md) | UI Patterns (UI Talks) | — | Talk Collection | Intermediate | `reviewed` | 14 |
+| [Hooked: How to Build Habit-Forming Products](../kb/cards/hooked-how-to-build-habit-forming-products.md) | Nir Eyal | 2014 | Book | Beginner | `reviewed` | 14 |
+| [The Tyranny of the Marginal User](../kb/cards/the-tyranny-of-the-marginal-user.md) | Ivan Vendrov | 2022 | Essay | Intermediate | `recommended` | 14 |
 | [The Canon of Design for a New Journey in Product Management](../kb/cards/canon-of-design-product-management.md) | Rajiv Kaul (Intelligaia) | — | Slides | Beginner | `reviewed` | 12 |
 
 ### Startup History
@@ -174,10 +214,16 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [Zero to One](../kb/cards/zero-to-one.md) | Peter Thiel with Blake Masters | 2014 | Book | Beginner | `core` | 18 |
 | [Crossing the Chasm](../kb/cards/crossing-the-chasm.md) | Geoffrey A. Moore | 2014 | Book | Intermediate | `recommended` | 18 |
 | [Startup School](../kb/cards/startup-school.md) | Y Combinator | 2022 | Course | Beginner | `recommended` | 18 |
+| [Amazon Shareholder Letters](../kb/cards/amazon-shareholder-letters.md) | Jeff Bezos | 1997 | Letters | Beginner | `recommended` | 18 |
+| [7 Powers: The Foundations of Business Strategy](../kb/cards/7-powers-the-foundations-of-business-strategy.md) | Hamilton Helmer | 2016 | Book | Intermediate | `recommended` | 18 |
+| [Aggregation Theory](../kb/cards/aggregation-theory.md) | Ben Thompson (Stratechery) | 2015 | Essay | Intermediate | `recommended` | 18 |
+| [Why Software Is Eating the World](../kb/cards/why-software-is-eating-the-world.md) | Marc Andreessen | 2011 | Essay | Beginner | `recommended` | 17 |
+| [Only the Paranoid Survive](../kb/cards/only-the-paranoid-survive.md) | Andy Grove | 1996 | Book | Intermediate | `recommended` | 17 |
 | [Founders at Work](../kb/cards/founders-at-work.md) | Jessica Livingston | 2007 | Book | Beginner | `recommended` | 16 |
 | [Scaling Up Excellence](../kb/cards/scaling-up-excellence.md) | Robert I. Sutton, Huggy Rao | 2014 | Book | Intermediate | `reviewed` | 16 |
 | [The Startup Way](../kb/cards/the-startup-way.md) | Eric Ries | 2017 | Book | Intermediate | `reviewed` | 16 |
 | [The Cold Start Problem: How to Start and Scale Network Effects](../kb/cards/cold-start-problem-andrew-chen.md) | Andrew Chen | — | Talk | Intermediate | `recommended` | 16 |
+| [Super Founders](../kb/cards/super-founders.md) | Ali Tamaseb | 2021 | Book | Intermediate | `reviewed` | 14 |
 
 ### Venture Capital and Fundraising
 

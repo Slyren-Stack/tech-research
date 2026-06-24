@@ -21,6 +21,9 @@ status: core
 ## Summary
 The strongest single-volume history of venture capital in the United States, from early risk finance to modern Silicon Valley.
 
+## 💬 Good conversation topic
+Grounds any 'is VC good for the world' debate in real history.
+
 ## Key takeaways
 - risk pooling
 - institutional evolution

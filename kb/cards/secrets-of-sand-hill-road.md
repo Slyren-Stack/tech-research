@@ -21,6 +21,9 @@ status: recommended
 ## Summary
 A clear insider explanation of how venture capital actually works — fund economics, term sheets, board dynamics, and what VCs are optimizing for — written by a managing partner at Andreessen Horowitz.
 
+## 💬 Good conversation topic
+The clearest explainer of how VC deals actually work — great for founders vs. investors.
+
 ## Key takeaways
 - Understand VC fund economics and why they shape investor behavior.
 - Demystifies term sheets, liquidation preferences, and governance.

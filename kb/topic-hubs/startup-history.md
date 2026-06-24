@@ -2,7 +2,7 @@
 
 How companies actually got started — first-hand accounts, hard lessons, and the canon of startup thinking.
 
-13 item(s), ranked by signal. ⭐ = core / must-experience.
+19 item(s), ranked by signal. ⭐ = core / must-experience.
 
 ---
 
@@ -69,6 +69,41 @@ YC’s online course for founders, taught by YC partners and successful founders
 
 **Why it matters:** A practical founder curriculum that compresses years of startup trial-and-error into structured lessons.
 
+### [Amazon Shareholder Letters](../cards/amazon-shareholder-letters.md)
+*Jeff Bezos · 1997 · Letters · Beginner*
+
+Bezos's annual letters (1997–2020) laying out long-term thinking, customer obsession, and Day 1 culture.
+
+**Why it matters:** The most-cited primary source on operating philosophy at scale.
+
+### [7 Powers: The Foundations of Business Strategy](../cards/7-powers-the-foundations-of-business-strategy.md)
+*Hamilton Helmer · 2016 · Book · Intermediate*
+
+A framework of seven durable sources of competitive advantage (power) and when each applies.
+
+**Why it matters:** The most precise shared vocabulary for moats, beloved by investors and strategists.
+
+### [Aggregation Theory](../cards/aggregation-theory.md)
+*Ben Thompson (Stratechery) · 2015 · Essay · Intermediate*
+
+The theory that internet-era winners aggregate demand by owning the user relationship and commoditizing supply.
+
+**Why it matters:** The dominant strategic framework for platform competition in the modern Valley.
+
+### [Why Software Is Eating the World](../cards/why-software-is-eating-the-world.md)
+*Marc Andreessen · 2011 · Essay · Beginner*
+
+The essay that argued software companies would disrupt and absorb traditional industries across the economy.
+
+**Why it matters:** One of the most-cited tech theses of the decade; shorthand everyone in the Valley understands.
+
+### [Only the Paranoid Survive](../cards/only-the-paranoid-survive.md)
+*Andy Grove · 1996 · Book · Intermediate*
+
+Andy Grove on navigating 'strategic inflection points' — moments when the fundamentals of a business shift.
+
+**Why it matters:** 'Strategic inflection point' is durable SV vocabulary, freshly relevant in the AI shift.
+
 ### [Founders at Work](../cards/founders-at-work.md)
 *Jessica Livingston · 2007 · Book · Beginner*
 
@@ -96,6 +131,13 @@ Extends Lean Startup principles to large organizations and continuous innovation
 A Talks at Google session with a16z general partner Andrew Chen, based on his 2021 book, on how products overcome the 'cold start problem' — the difficulty of getting a network-effects business off the ground when an empty network has little value — and how to grow network effects from a small working network to a tipping point and beyond.
 
 **Why it matters:** Network effects underlie many of the most valuable tech companies; this is a practical framework for the specific, underrated challenge of starting and scaling them.
+
+### [Super Founders](../cards/super-founders.md)
+*Ali Tamaseb · 2021 · Book · Intermediate*
+
+A data-driven study comparing billion-dollar startup founders against a control group, debunking common myths.
+
+**Why it matters:** Gives founders and investors actual data to argue against lazy pattern-matching.
 
 
 ---

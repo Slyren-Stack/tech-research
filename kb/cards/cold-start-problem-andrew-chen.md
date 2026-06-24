@@ -24,6 +24,9 @@ venue: "Talks at Google"
 ## Summary
 A Talks at Google session with a16z general partner Andrew Chen, based on his 2021 book, on how products overcome the 'cold start problem' — the difficulty of getting a network-effects business off the ground when an empty network has little value — and how to grow network effects from a small working network to a tipping point and beyond.
 
+## 💬 Good conversation topic
+The shared vocabulary for arguing about network effects and 'atomic networks.'
+
 ## Key takeaways
 - An empty network has little value; the 'cold start' is the hardest phase for network-effects products.
 - Start with a small 'atomic network' that works, then replicate it toward a tipping point.

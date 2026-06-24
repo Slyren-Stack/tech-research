@@ -2,7 +2,7 @@
 
 Durable ways of thinking about work, leverage, judgment, and doing great work over a career.
 
-14 item(s), ranked by signal. ⭐ = core / must-experience.
+21 item(s), ranked by signal. ⭐ = core / must-experience.
 
 ---
 
@@ -48,6 +48,13 @@ One of Graham’s clearest statements that small differences in startup growth r
 
 **Why it matters:** Gives a precise, widely-cited definition of what makes a startup a startup, anchoring how founders and investors reason about progress.
 
+### [High Output Management](../cards/high-output-management.md)
+*Andy Grove · 1983 · Book · Intermediate*
+
+Intel CEO Andy Grove's classic on managing for output, leverage, and high-performance teams.
+
+**Why it matters:** The management bible repeatedly endorsed by top founders and investors.
+
 ### [Maker's Schedule, Manager's Schedule](../cards/makers-schedule-managers-schedule.md)
 *Paul Graham · 2009 · Essay · Beginner*
 
@@ -62,6 +69,13 @@ Argues that founders should sometimes manage companies differently from professi
 
 **Why it matters:** Sparked a major Silicon Valley debate about how founders should lead as companies scale, shaping current management discourse.
 
+### [Thinking, Fast and Slow](../cards/thinking-fast-and-slow.md)
+*Daniel Kahneman · 2011 · Book · Intermediate*
+
+The Nobel laureate's synthesis of System 1 / System 2 thinking and cognitive biases.
+
+**Why it matters:** The shared vocabulary (System 1/2, biases) underlying most product and decision conversations.
+
 ### [Poor Charlie's Almanack](../cards/poor-charlies-almanack.md)
 *Charlie Munger (ed. Peter Kaufman) · 2005 · Book · Intermediate*
 
@@ -75,6 +89,13 @@ A collection of Charlie Munger's speeches and wisdom, centered on the idea of a 
 A video reading of one of Paul Graham's most quoted startup essays: the best ideas are usually found, not invented.
 
 **Why it matters:** Useful as a compact reinforcement of YC's idea-selection philosophy, even if it is not the original lecture.
+
+### [1,000 True Fans](../cards/1-000-true-fans.md)
+*Kevin Kelly · 2008 · Essay · Beginner*
+
+The essay arguing a creator needs only ~1,000 true fans paying meaningfully to make a living.
+
+**Why it matters:** A foundational idea behind the creator economy and many bottoms-up businesses.
 
 ### [How to Get Rich (without getting lucky)](../cards/naval-how-to-get-rich.md)
 *Naval Ravikant · 2019 · Podcast Series · Beginner*
@@ -97,12 +118,40 @@ A book on company culture using history, examples, and practical advice for exec
 
 **Why it matters:** Helpful for leaders designing the norms and habits of a venture studio or startup team.
 
+### [It's Time to Build](../cards/it-s-time-to-build.md)
+*Marc Andreessen · 2020 · Essay · Beginner*
+
+A pandemic-era call to arms arguing the West has lost its capacity to build housing, infrastructure, and institutions.
+
+**Why it matters:** It seeded the 'builder' identity and progress-studies movement now common in SV.
+
+### [The Almanack of Naval Ravikant](../cards/the-almanack-of-naval-ravikant.md)
+*Eric Jorgenson · 2020 · Book · Beginner*
+
+A curated collection of Naval Ravikant's thinking on wealth creation, leverage, and happiness.
+
+**Why it matters:** Naval's aphorisms are near-universal cultural currency among founders and operators.
+
+### [The Beginning of Infinity](../cards/the-beginning-of-infinity.md)
+*David Deutsch · 2011 · Book · Advanced*
+
+A physicist's argument that good explanations drive unbounded knowledge and progress.
+
+**Why it matters:** A favorite of the progress-and-optimism crowd (Naval, founders); a worldview reference.
+
 ### [Stanford Commencement Address (2005)](../cards/steve-jobs-stanford-2005.md)
 *Steve Jobs · 2005 · Talk · Beginner*
 
 Steve Jobs's widely watched commencement speech told through three stories — connecting the dots, love and loss, and death — distilling a philosophy of following curiosity and doing what you love.
 
 **Why it matters:** A short, durable piece of motivation for builders facing uncertainty.
+
+### [Meditations on Moloch](../cards/meditations-on-moloch.md)
+*Scott Alexander · 2014 · Essay · Advanced*
+
+An essay using 'Moloch' as a metaphor for coordination failures where everyone races to the bottom.
+
+**Why it matters:** 'Moloch' is shorthand in SV intellectual circles, frequently invoked in AI-race debates.
 
 
 ---

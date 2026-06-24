@@ -21,6 +21,9 @@ status: core
 ## Summary
 A modern narrative history of the dominant firms, personalities, and strategy shifts that shaped the VC industry.
 
+## 💬 Good conversation topic
+The go-to reference for how VC returns and power actually work.
+
 ## Key takeaways
 - power-law returns
 - firm culture

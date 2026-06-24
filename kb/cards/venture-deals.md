@@ -21,6 +21,9 @@ status: recommended
 ## Summary
 A practical, founder-friendly guide to understanding and negotiating venture financings term by term, written by experienced VCs. The standard reference for what's in a term sheet and why.
 
+## 💬 Good conversation topic
+Term-sheet literacy; mentioning it signals you know the mechanics.
+
 ## Key takeaways
 - Walks through every major term sheet clause and its real implications.
 - Explains the negotiation dynamics and incentives on both sides.

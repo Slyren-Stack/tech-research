@@ -24,6 +24,9 @@ venue: "The Mom Test"
 ## Summary
 A compact guide to customer conversations that avoids flattering but useless feedback.
 
+## 💬 Good conversation topic
+Everyone has a 'customers lied to me' story this book frames perfectly.
+
 ## Key takeaways
 - problem interviews
 - ask about behavior

@@ -143,30 +143,69 @@ def render_hub(hub, items):
 """
 
 
-def render_conversation_hub(hub, items):
+def render_conversation_hub(hub, items, meta):
     members = [i for i in items if i.get("conversation")]
-    members.sort(key=lambda i: (i.get("conversation_value", 0), score(i)), reverse=True)
-    rows = []
-    for i in members:
-        rows.append(
-            f"### [{i['title']}]({slug_link(i)})\n"
-            f"*{i['creator']} · {i.get('year') or 'Unknown'} · {i['format']} · {i['category']}*\n\n"
-            f"**Why it's a good topic:** {i.get('conversation_note', '')}\n"
-        )
-    body = "\n".join(rows) if rows else "_No items yet._"
-    return f"""# {hub['title']}
+    cv = lambda i: (i.get("conversation_value", 0), score(i))
+    ranked = sorted(members, key=cv, reverse=True)
 
-{hub['blurb']}
+    def line(i):
+        return (f"- **[{i['title']}]({slug_link(i)})** — *{i['creator']}, "
+                f"{i.get('year') or 'Unknown'} ({i['format']})* — {i.get('conversation_note', '')}")
 
-{len(members)} conversation-worthy item(s), ranked by conversation value. Each also lives in its home hub.
+    out = [
+        f"# {hub['title']}", "", hub["blurb"], "",
+        f"**{len(members)} conversation-worthy items** across every theme, ranked by conversation value. "
+        "Each also lives in its home hub.", "",
+    ]
+    if meta.get("conversation_synthesis"):
+        out += [f"> **The recurring themes:** {meta['conversation_synthesis']}", ""]
 
----
+    # Top 25
+    out += ["## Top 25 — the highest-signal starters", "",
+            "| # | Topic | Creator | Format | Conv. |", "|---|---|---|---|---|"]
+    for n, i in enumerate(ranked[:25], 1):
+        out.append(f"| {n} | [{i['title']}]({slug_link(i)}) | {i['creator']} | "
+                   f"{i['format']} | {i.get('conversation_value', '—')} |")
+    out.append("")
 
-{body}
+    # By theme (home category)
+    out += ["## By theme", ""]
+    by_cat = {}
+    for i in ranked:
+        by_cat.setdefault(i["category"], []).append(i)
+    for cat in sorted(by_cat, key=lambda c: -len(by_cat[c])):
+        out.append(f"### {cat} ({len(by_cat[cat])})")
+        out += [line(i) for i in by_cat[cat]]
+        out.append("")
 
----
-*[← Back to master index](../../indexes/master.md) · Generated from `indexes/master.json`.*
-"""
+    # Curated cross-lists derived from fields
+    dinner = [i for i in ranked if i["difficulty"] == "Beginner"]
+    builders = [i for i in ranked if i["category"] in
+                ("AI Foundations", "AI in Practice", "Engineering and Systems")]
+    investor = [i for i in ranked if i["category"] == "Venture Capital and Fundraising"
+                or "investor" in i.get("tags", [])]
+
+    def names(lst, k):
+        return " · ".join(f"[{i['title']}]({slug_link(i)})" for i in lst[:k])
+
+    out += [
+        "## Quick lists", "",
+        f"**🍷 Safe at dinner or networking** (accessible, broadly known): {names(dinner, 12)}", "",
+        f"**🛠️ For builders & engineers** (technical depth): {names(builders, 12)}", "",
+        f"**💰 Investor lens** (capital, markets, moats): {names(investor, 12)}", "",
+        "## Gaps — where this map should grow next",
+        "",
+        "- Crypto/web3 history and the scaling-vs-decentralization debate",
+        "- Hardware, semiconductors, and the compute supply chain (TSMC, NVIDIA)",
+        "- Climate, energy, and deep-tech founder stories",
+        "- Non-US tech ecosystems (China, India, Europe) and global VC",
+        "- Labor, remote work, and the future-of-work debate",
+        "- Defense tech, govtech, and the new state–startup relationship",
+        "",
+        "---",
+        "*[← Back to master index](../../indexes/master.md) · Generated from `indexes/master.json`.*",
+    ]
+    return "\n".join(out)
 
 
 def render_core_hub(hub, items):
@@ -382,7 +421,7 @@ def main():
         if h["id"] == "core-library":
             write(path, render_core_hub(h, items))
         elif h["id"] == "conversation-starters":
-            write(path, render_conversation_hub(h, items))
+            write(path, render_conversation_hub(h, items, data["meta"]))
         else:
             write(path, render_hub(h, items))
 

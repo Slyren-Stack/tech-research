@@ -21,6 +21,9 @@ status: core
 ## Summary
 The foundational text of user-centered design, introducing affordances, signifiers, mapping, and feedback. It teaches you to blame bad design, not users, and to see the designed world everywhere.
 
+## 💬 Good conversation topic
+Affordances and 'Norman doors' are shared design vocabulary.
+
 ## Key takeaways
 - Good design makes the right action obvious; bad design blames the user.
 - Affordances, signifiers, feedback, and mapping are core design vocabulary.

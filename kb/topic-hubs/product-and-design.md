@@ -2,7 +2,7 @@
 
 Designing things people love — product sense, interaction design, and the principles behind good craft.
 
-16 item(s), ranked by signal. ⭐ = core / must-experience.
+20 item(s), ranked by signal. ⭐ = core / must-experience.
 
 ---
 
@@ -90,12 +90,26 @@ Introduces the RICE prioritization model: reach, impact, confidence, and effort.
 
 **Why it matters:** A simple, durable prioritization framework for product roadmaps and startup decision-making.
 
+### [Competing Against Luck (Jobs to Be Done)](../cards/competing-against-luck-jobs-to-be-done.md)
+*Clayton Christensen et al. · 2016 · Book · Intermediate*
+
+Christensen's theory that customers 'hire' products to do a job, reframing how to find demand.
+
+**Why it matters:** JTBD is everyday product vocabulary; the milkshake story is a shared reference.
+
 ### [Ten Principles for Good Design](../cards/dieter-rams-ten-principles.md)
 *Dieter Rams · Unknown · Reference · Beginner*
 
 Dieter Rams's ten principles of good design (good design is innovative, useful, aesthetic, understandable, unobtrusive, honest, long-lasting, thorough, environmentally friendly, and as little design as possible). The bedrock of minimalist product design.
 
 **Why it matters:** A concise design philosophy that influenced everything from Braun to Apple. (Exact origin year approximate.)
+
+### [Obviously Awesome](../cards/obviously-awesome.md)
+*April Dunford · 2019 · Book · Beginner*
+
+A practical method for positioning products so customers instantly understand their value.
+
+**Why it matters:** The go-to reference when teams argue about positioning and category.
 
 ### [Design Sprint Masterclass](../cards/design-sprint-masterclass.md)
 *AJ&Smart · Unknown · Course · Beginner*
@@ -110,6 +124,20 @@ A guided 4-day design sprint training program with facilitation resources.
 A curated set of seven conference talks on product management (recorded 2013–2018) from speakers including Paul Adams, Jeff Gothelf, and Ken Norton, covering lean methods, rapid prototyping, and product strategy.
 
 **Why it matters:** A high-signal shortcut to several influential product-management talks in one place.
+
+### [Hooked: How to Build Habit-Forming Products](../cards/hooked-how-to-build-habit-forming-products.md)
+*Nir Eyal · 2014 · Book · Beginner*
+
+A model (trigger, action, variable reward, investment) for building products that form habits.
+
+**Why it matters:** Defines the engagement-design playbook — and the ethical backlash against it.
+
+### [The Tyranny of the Marginal User](../cards/the-tyranny-of-the-marginal-user.md)
+*Ivan Vendrov · 2022 · Essay · Intermediate*
+
+An essay arguing that optimizing for the least-engaged marginal user degrades products for everyone.
+
+**Why it matters:** A crisp explanation for 'enshittification' that product people love to debate.
 
 ### [The Canon of Design for a New Journey in Product Management](../cards/canon-of-design-product-management.md)
 *Rajiv Kaul (Intelligaia) · Unknown · Slides · Beginner*

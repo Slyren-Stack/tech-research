@@ -2,7 +2,7 @@
 
 Films and long-form storytelling that capture the culture and history of technology.
 
-9 item(s), ranked by signal. ⭐ = core / must-experience.
+13 item(s), ranked by signal. ⭐ = core / must-experience.
 
 ---
 
@@ -26,6 +26,13 @@ The first episode of the classic computer-history documentary series, tracing th
 The sequel episode that moves the story into programming, commercialization, and the road toward personal computing.
 
 **Why it matters:** A strong companion to Episode 1 for seeing how the field became a mass industry.
+
+### [AlphaGo](../cards/alphago.md)
+*Greg Kohs (dir.) / DeepMind · 2017 · Documentary · Beginner*
+
+A documentary on DeepMind's AlphaGo defeating Go champion Lee Sedol, including the famous 'Move 37.'
+
+**Why it matters:** A vivid, emotional reference point for what AI surpassing humans actually felt like.
 
 ### ⭐ [General Magic](../cards/general-magic-documentary.md)
 *Sarah Kerruish, Matt Maude · 2018 · Documentary · Beginner*
@@ -55,6 +62,13 @@ A documentary on the rise of Compaq, founded in 1982 by three Texas friends — 
 
 **Why it matters:** Tells a foundational and often-overlooked PC-industry story: how a startup challenged IBM and helped shape the open PC ecosystem.
 
+### [The Social Network](../cards/the-social-network.md)
+*David Fincher (dir.) / Aaron Sorkin · 2010 · Film · Beginner*
+
+The dramatized origin story of Facebook, founder conflict, and the cost of ambition.
+
+**Why it matters:** The most culturally pervasive depiction of startup founding — shared reference for everyone.
+
 ### [Something Ventured](../cards/something-ventured-documentary.md)
 *Dan Geller, Dayna Goldfine · 2011 · Documentary · Beginner*
 
@@ -68,6 +82,20 @@ A documentary on the birth of the venture capital industry, following the early 
 A three-part documentary on the rise of the personal computer industry, from hobbyist garages to Apple, Microsoft, and IBM, told with first-hand interviews of the key players.
 
 **Why it matters:** A lively, primary-source history of the personal computer revolution.
+
+### [Pirates of Silicon Valley](../cards/pirates-of-silicon-valley.md)
+*Martyn Burke (dir.) · 1999 · Film · Beginner*
+
+A docudrama on the Apple–Microsoft rivalry and the personalities of Jobs and Gates.
+
+**Why it matters:** A nostalgic touchstone for the founding rivalry that shaped personal computing.
+
+### [The Social Dilemma](../cards/the-social-dilemma.md)
+*Jeff Orlowski (dir.) · 2020 · Documentary · Beginner*
+
+A documentary in which former insiders critique social media's attention and manipulation mechanics.
+
+**Why it matters:** The mainstream on-ramp to the social-media-harms debate that most people have seen.
 
 
 ---

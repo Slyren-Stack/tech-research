@@ -2,7 +2,7 @@
 
 Systems thinking for builders: distributed systems, software design, and the papers that shaped the field.
 
-16 item(s), ranked by signal. ⭐ = core / must-experience.
+22 item(s), ranked by signal. ⭐ = core / must-experience.
 
 ---
 
@@ -90,6 +90,27 @@ A legendary MIT textbook that teaches programming as the art of controlling comp
 
 **Why it matters:** Among the most influential CS texts ever written; a rite of passage for serious programmers.
 
+### [No Silver Bullet — Essence and Accident in Software Engineering](../cards/no-silver-bullet-essence-and-accident-in-software-engineerin.md)
+*Fred Brooks · 1986 · Essay · Intermediate*
+
+Brooks argues no single technique will yield an order-of-magnitude productivity gain because software's hard parts are essential, not accidental.
+
+**Why it matters:** The default rebuttal to every 'this tool will 10x developers' claim — newly relevant for AI coding.
+
+### [Reflections on Trusting Trust](../cards/reflections-on-trusting-trust.md)
+*Ken Thompson · 1984 · Lecture / essay · Advanced*
+
+Ken Thompson's Turing Award lecture showing you can't fully trust code you didn't create yourself, via a self-replicating compiler backdoor.
+
+**Why it matters:** The canonical reference for software trust and supply-chain security debates.
+
+### [Site Reliability Engineering (The SRE Book)](../cards/site-reliability-engineering-the-sre-book.md)
+*Google (Beyer, Jones, Petoff, Murphy, eds.) · 2016 · Book · Advanced*
+
+Google's account of running production systems at scale: SLOs, error budgets, and toil reduction.
+
+**Why it matters:** It defined modern reliability vocabulary used across infra teams.
+
 ### [Out of the Tar Pit](../cards/out-of-the-tar-pit.md)
 *Ben Moseley, Peter Marks · 2006 · Paper · Advanced*
 
@@ -104,12 +125,33 @@ A guide to code readability, naming, structure, and professional programming hab
 
 **Why it matters:** Still widely cited as a reference point for code hygiene and craft, even when teams disagree on specifics.
 
+### [A Philosophy of Software Design](../cards/a-philosophy-of-software-design.md)
+*John Ousterhout · 2018 · Book · Intermediate*
+
+A Stanford professor's take on managing complexity through deep modules and good abstractions.
+
+**Why it matters:** A modern, contrarian-to-Clean-Code reference that sparks engineering debate.
+
 ### [The Cathedral and the Bazaar](../cards/cathedral-and-the-bazaar.md)
 *Eric S. Raymond · 1999 · Essay · Beginner*
 
 An influential essay contrasting two development models — the cathedral (closed, top-down) and the bazaar (open, decentralized) — using Linux as the case study. It helped legitimize open-source development to industry.
 
 **Why it matters:** Shaped the open-source movement and the way modern software is built and shipped.
+
+### [The Rise of Worse Is Better](../cards/the-rise-of-worse-is-better.md)
+*Richard P. Gabriel · 1991 · Essay · Intermediate*
+
+The essay contrasting 'the right thing' with 'worse is better,' arguing simpler, less-perfect designs often win.
+
+**Why it matters:** A perennial lens for debating why uglier, simpler tech keeps winning.
+
+### [The Twelve-Factor App](../cards/the-twelve-factor-app.md)
+*Adam Wiggins / Heroku · 2011 · Reference · Intermediate*
+
+A methodology of twelve principles for building portable, scalable web apps in the cloud era.
+
+**Why it matters:** Shaped how a generation built cloud apps; still a baseline reference.
 
 ### [The Clean Coder](../cards/the-clean-coder.md)
 *Robert C. Martin · 2011 · Book · Intermediate*

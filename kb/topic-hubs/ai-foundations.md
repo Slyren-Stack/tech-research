@@ -2,7 +2,7 @@
 
 How AI actually works — the ideas, papers, and explainers that built modern machine learning and the transformer era.
 
-16 item(s), ranked by signal. ⭐ = core / must-experience.
+18 item(s), ranked by signal. ⭐ = core / must-experience.
 
 ---
 
@@ -96,6 +96,20 @@ The course that introduced millions of people to machine learning, covering supe
 A lecture segment from Stanford's CS221 (Artificial Intelligence: Principles and Techniques, Autumn 2021) tracing the history of AI — from early symbolic systems and expert systems through the rise of statistical learning and modern deep learning.
 
 **Why it matters:** Historical context from a rigorous university AI course helps builders understand why the field looks the way it does today.
+
+### [On the Dangers of Stochastic Parrots](../cards/on-the-dangers-of-stochastic-parrots.md)
+*Bender, Gebru, McMillan-Major, Shmitchell · 2021 · Paper · Advanced*
+
+An influential critique arguing large language models are 'stochastic parrots' that risk scale-driven harms, bias, and environmental cost without true understanding.
+
+**Why it matters:** The sharpest counterweight to scale-maximalism, and a story about power inside Big Tech research.
+
+### [Sparks of Artificial General Intelligence: Early experiments with GPT-4](../cards/sparks-of-artificial-general-intelligence-early-experiments.md)
+*Bubeck et al. (Microsoft Research) · 2023 · Paper · Advanced*
+
+A Microsoft Research report claiming GPT-4 shows early sparks of general intelligence across diverse tasks.
+
+**Why it matters:** It crystallized the 'is this AGI?' argument with concrete examples people still cite.
 
 ### [AI & Machine Learning (Stanford CS106E Lecture Notes)](../cards/cs106e-ai-machine-learning-notes.md)
 *Stanford CS106E · Unknown · Lecture Notes (PDF) · Beginner*

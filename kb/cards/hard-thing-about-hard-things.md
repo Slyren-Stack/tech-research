@@ -21,6 +21,9 @@ status: core
 ## Summary
 A blunt, experience-driven book on the brutal parts of running a company that no one prepares you for: layoffs, near-death moments, demoting friends, and making decisions with no good options.
 
+## 💬 Good conversation topic
+The honest-about-the-pain founder book everyone has a take on.
+
 ## Key takeaways
 - There are no recipes for the hardest leadership decisions — only judgment under pressure.
 - Honest about the psychological toll of being a CEO.
