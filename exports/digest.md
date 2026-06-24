@@ -2,7 +2,7 @@
 
 > A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.
 
-142 curated items · generated 2026-06-23. This single file is meant to be sent to a teammate as a complete snapshot.
+144 curated items · generated 2026-06-24. This single file is meant to be sent to a teammate as a complete snapshot.
 
 ---
 
@@ -790,6 +790,20 @@ A curated story collection of VC history featuring first-person recollections of
 
 ---
 
+## Startup = Growth
+*Paul Graham · 2012 · Essay · Founder Mental Models → Growth philosophy*
+`Beginner` · cred 10/10 · useful 9/10 · status `recommended`
+
+One of Graham’s clearest statements that small differences in startup growth rate compound into radically different outcomes.
+
+**Key takeaways:** (1) A startup is a company designed to grow fast; growth rate is its defining metric. (2) Small differences in weekly growth compound into radically different outcomes. (3) Optimizing relentlessly for growth forces clarity about what users actually want.
+
+**Why it matters:** Gives a precise, widely-cited definition of what makes a startup a startup, anchoring how founders and investors reason about progress.
+
+**Source:** [https://www.paulgraham.com/growth.html](https://www.paulgraham.com/growth.html)
+
+---
+
 ## ⭐ Computing Machinery and Intelligence
 *Alan Turing · 1950 · Essay · AI Foundations → Origins of AI*
 `Intermediate` · cred 10/10 · useful 7/10 · status `core`
@@ -1431,6 +1445,20 @@ A recorded panel that places the early VC founding generation in conversation wi
 **Why it matters:** Useful connective tissue between the origin stories and the mature Sand Hill era.
 
 **Source:** [https://www.youtube.com/watch?v=l_MW7PbuwlE](https://www.youtube.com/watch?v=l_MW7PbuwlE)
+
+---
+
+## Founder Mode
+*Paul Graham · 2024 · Essay · Founder Mental Models → Leadership*
+`Intermediate` · cred 9/10 · useful 8/10 · status `recommended`
+
+Argues that founders should sometimes manage companies differently from professional managers as they scale.
+
+**Key takeaways:** (1) Founders may need to run companies more hands-on than conventional 'manager mode' advice allows. (2) Blanket advice to fully delegate can hurt founder-led companies as they scale. (3) The idea is hotly debated precisely because the right limits of founder involvement are unclear.
+
+**Why it matters:** Sparked a major Silicon Valley debate about how founders should lead as companies scale, shaping current management discourse.
+
+**Source:** [https://www.paulgraham.com/foundermode.html](https://www.paulgraham.com/foundermode.html)
 
 ---
 

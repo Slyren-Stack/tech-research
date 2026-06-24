@@ -25,6 +25,9 @@ runtime: "48:21"
 ## Summary
 A founder-centric lecture on how to think before you start: how ideas emerge, how founders get misled, and how to choose problems.
 
+## 💬 Good conversation topic
+A natural entry point for anyone deciding whether to start a company.
+
 ## Key takeaways
 - Good ideas are rare
 - Curiosity beats brainstorming

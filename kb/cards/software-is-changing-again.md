@@ -25,6 +25,9 @@ runtime: "45:07"
 ## Summary
 A modern framing of Software 1.0, 2.0, and 3.0, arguing that natural language and LLMs are reshaping how software gets authored and operated.
 
+## 💬 Good conversation topic
+It is one of the clearest ways to discuss AI-native software without falling into hype.
+
 ## Key takeaways
 - Software 1.0/2.0/3.0
 - LLMs as programmable systems

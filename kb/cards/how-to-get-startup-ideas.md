@@ -25,6 +25,9 @@ runtime: "42:02"
 ## Summary
 A video reading of one of Paul Graham's most quoted startup essays: the best ideas are usually found, not invented.
 
+## 💬 Good conversation topic
+Idea quality and problem selection are evergreen founder-room arguments.
+
 ## Key takeaways
 - Solve your own problems
 - Look for latent demand

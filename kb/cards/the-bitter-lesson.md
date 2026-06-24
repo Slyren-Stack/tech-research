@@ -21,6 +21,9 @@ status: core
 ## Summary
 A short, influential essay arguing that across 70 years of AI research, general methods that leverage computation (search and learning) consistently beat approaches that build in human knowledge. The 'bitter' part is how often researchers resist this.
 
+## 💬 Good conversation topic
+It instantly opens the scale-versus-craft debate that dominates AI rooms.
+
 ## Key takeaways
 - General methods that scale with compute beat hand-crafted human knowledge over time.
 - Building in our own understanding feels good short-term but caps long-term progress.

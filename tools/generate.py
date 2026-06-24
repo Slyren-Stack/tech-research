@@ -68,6 +68,9 @@ def render_card(item):
         extras.append(f"**Runtime:** {item['runtime']}")
     if extras:
         provenance = "\n" + " · ".join(extras) + "\n"
+    conversation = ""
+    if item.get("conversation_note"):
+        conversation = f"\n## 💬 Good conversation topic\n{item['conversation_note']}\n"
     return f"""---
 id: {item['id']}
 title: "{item['title']}"
@@ -90,7 +93,7 @@ status: {item['status']}{venue}{runtime}
 
 ## Summary
 {item['summary']}
-
+{conversation}
 ## Key takeaways
 {takeaways}
 
@@ -130,6 +133,32 @@ def render_hub(hub, items):
 {hub['blurb']}
 
 {len(members)} item(s), ranked by signal. ⭐ = core / must-experience.
+
+---
+
+{body}
+
+---
+*[← Back to master index](../../indexes/master.md) · Generated from `indexes/master.json`.*
+"""
+
+
+def render_conversation_hub(hub, items):
+    members = [i for i in items if i.get("conversation")]
+    members.sort(key=lambda i: (i.get("conversation_value", 0), score(i)), reverse=True)
+    rows = []
+    for i in members:
+        rows.append(
+            f"### [{i['title']}]({slug_link(i)})\n"
+            f"*{i['creator']} · {i.get('year') or 'Unknown'} · {i['format']} · {i['category']}*\n\n"
+            f"**Why it's a good topic:** {i.get('conversation_note', '')}\n"
+        )
+    body = "\n".join(rows) if rows else "_No items yet._"
+    return f"""# {hub['title']}
+
+{hub['blurb']}
+
+{len(members)} conversation-worthy item(s), ranked by conversation value. Each also lives in its home hub.
 
 ---
 
@@ -199,6 +228,8 @@ def render_master(data):
     for h in hubs:
         if h["id"] == "core-library":
             count = len([i for i in items if i["status"] == "core"])
+        elif h["id"] == "conversation-starters":
+            count = len([i for i in items if i.get("conversation")])
         else:
             count = len(by_cat.get(h["title"], []))
         lines.append(f"- **[{h['title']}](../kb/topic-hubs/{h['id']}.md)** ({count}) — {h['blurb']}")
@@ -350,6 +381,8 @@ def main():
         path = os.path.join(ROOT, "kb", "topic-hubs", f"{h['id']}.md")
         if h["id"] == "core-library":
             write(path, render_core_hub(h, items))
+        elif h["id"] == "conversation-starters":
+            write(path, render_conversation_hub(h, items))
         else:
             write(path, render_hub(h, items))
 

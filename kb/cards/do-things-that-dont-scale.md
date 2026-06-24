@@ -21,6 +21,9 @@ status: core
 ## Summary
 A Paul Graham essay arguing that early-stage founders should do manual, unscalable things — personally recruiting users, delivering delight by hand — because that's how startups actually get their first traction.
 
+## 💬 Good conversation topic
+Almost every founder can tell a 'we did the ugly thing early' story.
+
 ## Key takeaways
 - Recruit your first users one by one; don't wait for growth to be automatic.
 - Deliver an overwhelmingly good experience to a few users early.

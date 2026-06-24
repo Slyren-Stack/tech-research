@@ -1,0 +1,293 @@
+{
+  "library_name": "Conversation Topics",
+  "purpose": "A high-signal conversation library for Silicon Valley circles.",
+  "sections": [
+    {
+      "name": "AI and Frontier Tech",
+      "item_ranks": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "Startups and Founder Culture",
+      "item_ranks": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "title": "The Bitter Lesson",
+      "creator_author_speaker_publisher": "Rich Sutton",
+      "year": 2019,
+      "format": "Essay",
+      "category": "AI and Frontier Tech",
+      "subcategory": "Scaling doctrine",
+      "summary": "A short, famous argument that general methods using computation tend to beat hand-built knowledge over time.",
+      "why_it_is_a_good_conversation_topic": "It instantly opens the scale-versus-craft debate that dominates AI rooms.",
+      "what_kind_of_people_would_discuss_it": "AI researchers, founders, engineers, investors",
+      "difficulty_level": "advanced",
+      "conversation_value_score": 10,
+      "credibility_score": 10,
+      "link": "https://www.incompleteideas.net/IncIdeas/BitterLesson.html",
+      "tags": [
+        "scaling",
+        "compute",
+        "AI",
+        "inductive bias"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Attention Is All You Need",
+      "creator_author_speaker_publisher": "Ashish Vaswani et al.",
+      "year": 2017,
+      "format": "Paper",
+      "category": "AI and Frontier Tech",
+      "subcategory": "Transformers",
+      "summary": "The paper that introduced the Transformer architecture and made modern LLMs possible.",
+      "why_it_is_a_good_conversation_topic": "It is the technical before-and-after line for the generative AI era.",
+      "what_kind_of_people_would_discuss_it": "Engineers, AI founders, researchers",
+      "difficulty_level": "advanced",
+      "conversation_value_score": 10,
+      "credibility_score": 10,
+      "link": "https://arxiv.org/abs/1706.03762",
+      "tags": [
+        "transformers",
+        "attention",
+        "LLMs",
+        "foundation model"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "GPT-4 Technical Report",
+      "creator_author_speaker_publisher": "OpenAI",
+      "year": 2023,
+      "format": "Technical report",
+      "category": "AI and Frontier Tech",
+      "subcategory": "Frontier models",
+      "summary": "OpenAI’s flagship disclosure on GPT-4’s multimodality, benchmark performance, and limitations.",
+      "why_it_is_a_good_conversation_topic": "It bridges model capability, product strategy, and the practical reality of frontier AI.",
+      "what_kind_of_people_would_discuss_it": "Founders, AI engineers, product teams, investors",
+      "difficulty_level": "intermediate",
+      "conversation_value_score": 10,
+      "credibility_score": 10,
+      "link": "https://cdn.openai.com/papers/gpt-4.pdf",
+      "tags": [
+        "GPT-4",
+        "multimodal",
+        "safety",
+        "benchmarks"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Software Is Changing (Again)",
+      "creator_author_speaker_publisher": "Andrej Karpathy / Y Combinator",
+      "year": 2025,
+      "format": "Talk",
+      "category": "AI and Frontier Tech",
+      "subcategory": "Software paradigms",
+      "summary": "Karpathy reframes software as shifting again under AI, with English, prompts, and agents becoming part of the programming stack.",
+      "why_it_is_a_good_conversation_topic": "It is one of the clearest ways to discuss AI-native software without falling into hype.",
+      "what_kind_of_people_would_discuss_it": "Founders, engineers, product people",
+      "difficulty_level": "intermediate",
+      "conversation_value_score": 10,
+      "credibility_score": 10,
+      "link": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "tags": [
+        "agents",
+        "Software 3.0",
+        "programming",
+        "AI products"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "2026 AI Index Report",
+      "creator_author_speaker_publisher": "Stanford HAI",
+      "year": 2026,
+      "format": "Report",
+      "category": "AI and Frontier Tech",
+      "subcategory": "Field-wide measurement",
+      "summary": "The most current Stanford AI Index reports AI investment, capability progress, adoption, and governance gaps.",
+      "why_it_is_a_good_conversation_topic": "It gives people a shared factual baseline instead of vibes.",
+      "what_kind_of_people_would_discuss_it": "Founders, investors, researchers, operators",
+      "difficulty_level": "intermediate",
+      "conversation_value_score": 9,
+      "credibility_score": 10,
+      "link": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+      "tags": [
+        "AI trends",
+        "market data",
+        "policy",
+        "benchmarks"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Startup = Growth",
+      "creator_author_speaker_publisher": "Paul Graham",
+      "year": 2012,
+      "format": "Essay",
+      "category": "Startups and Founder Culture",
+      "subcategory": "Growth philosophy",
+      "summary": "One of Graham’s clearest statements that small differences in startup growth rate compound into radically different outcomes.",
+      "why_it_is_a_good_conversation_topic": "Founders and investors constantly argue about growth quality, and this essay gives them a shared language.",
+      "what_kind_of_people_would_discuss_it": "Founders, investors, operators",
+      "difficulty_level": "beginner",
+      "conversation_value_score": 10,
+      "credibility_score": 10,
+      "link": "https://www.paulgraham.com/growth.html",
+      "tags": [
+        "growth",
+        "compounding",
+        "startups",
+        "PG"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Do Things that Don’t Scale",
+      "creator_author_speaker_publisher": "Paul Graham",
+      "year": 2013,
+      "format": "Essay",
+      "category": "Startups and Founder Culture",
+      "subcategory": "Early traction",
+      "summary": "A canonical YC-era argument for doing manual, unscalable work to get the first users and learn what matters.",
+      "why_it_is_a_good_conversation_topic": "Almost every founder can tell a 'we did the ugly thing early' story.",
+      "what_kind_of_people_would_discuss_it": "Founders, PMs, growth teams",
+      "difficulty_level": "beginner",
+      "conversation_value_score": 10,
+      "credibility_score": 10,
+      "link": "https://www.paulgraham.com/ds.html",
+      "tags": [
+        "PMF",
+        "early users",
+        "founder-led growth",
+        "YC"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Before the Startup",
+      "creator_author_speaker_publisher": "Paul Graham",
+      "year": 2014,
+      "format": "Essay / lecture-derived",
+      "category": "Startups and Founder Culture",
+      "subcategory": "Pre-founding",
+      "summary": "Talks about how founders think before they start, how ideas emerge, and why judgment matters more than planning.",
+      "why_it_is_a_good_conversation_topic": "A natural entry point for anyone deciding whether to start a company.",
+      "what_kind_of_people_would_discuss_it": "Pre-founders, founders, students, investors",
+      "difficulty_level": "beginner",
+      "conversation_value_score": 9,
+      "credibility_score": 10,
+      "link": "https://www.paulgraham.com/before.html",
+      "tags": [
+        "ideas",
+        "founder mindset",
+        "YC",
+        "judgment"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Founder Mode",
+      "creator_author_speaker_publisher": "Paul Graham",
+      "year": 2024,
+      "format": "Essay",
+      "category": "Startups and Founder Culture",
+      "subcategory": "Leadership",
+      "summary": "Argues that founders should sometimes manage companies differently from professional managers as they scale.",
+      "why_it_is_a_good_conversation_topic": "It touches a live Silicon Valley argument about founder autonomy, management, and culture.",
+      "what_kind_of_people_would_discuss_it": "Founders, operators, investors",
+      "difficulty_level": "intermediate",
+      "conversation_value_score": 10,
+      "credibility_score": 9,
+      "link": "https://www.paulgraham.com/foundermode.html",
+      "tags": [
+        "founder mode",
+        "management",
+        "scaling",
+        "culture"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "How to Get Startup Ideas",
+      "creator_author_speaker_publisher": "Paul Graham",
+      "year": 2012,
+      "format": "Essay",
+      "category": "Startups and Founder Culture",
+      "subcategory": "Idea selection",
+      "summary": "Says good startup ideas are usually found by observing real problems rather than brainstorming them abstractly.",
+      "why_it_is_a_good_conversation_topic": "Idea quality and problem selection are evergreen founder-room arguments.",
+      "what_kind_of_people_would_discuss_it": "Founders, investors, operators",
+      "difficulty_level": "beginner",
+      "conversation_value_score": 9,
+      "credibility_score": 10,
+      "link": "https://www.paulgraham.com/startupideas.html",
+      "tags": [
+        "ideas",
+        "problem discovery",
+        "founder intuition",
+        "opportunity"
+      ]
+    }
+  ],
+  "top_25_best_silicon_valley_conversation_topics": [
+    "The Bitter Lesson",
+    "Attention Is All You Need",
+    "GPT-4 Technical Report",
+    "Software Is Changing (Again)",
+    "2026 AI Index Report",
+    "Startup = Growth",
+    "Do Things that Don’t Scale",
+    "Before the Startup",
+    "Founder Mode",
+    "How to Get Startup Ideas"
+  ],
+  "safe_to_bring_up_at_dinner_or_networking_events": [
+    "AI capability trends",
+    "startup growth philosophy",
+    "founder mode",
+    "network effects",
+    "Sand Hill Road lore",
+    "Amazon’s operating style",
+    "shipping speed versus reliability",
+    "the classic Silicon Valley origin story"
+  ],
+  "technical_list_for_builders_and_engineers": [
+    "The Bitter Lesson",
+    "Attention Is All You Need",
+    "GPT-4 Technical Report",
+    "Software Is Changing (Again)",
+    "2026 AI Index Report"
+  ],
+  "investor_oriented_list": [
+    "VC: An American History",
+    "The Power Law",
+    "How Venture Capital Works",
+    "How Venture Capitalists Make Decisions",
+    "The Cold Start Problem"
+  ],
+  "concise_synthesis": "Silicon Valley conversation keeps circling a few durable questions: does scale beat theory, do founders need special operating freedom, how do network effects and distribution create moats, and how do funds, LPs, and regulation shape what gets built?",
+  "gaps": [
+    "venture debt and startup banking",
+    "global VC history outside the U.S.",
+    "later-stage crossover and growth equity",
+    "biotech, climate, defense, and hardware VC sub-histories",
+    "term sheets, legal infrastructure, and secondary mechanics",
+    "governance, access, and DEI history"
+  ]
+}

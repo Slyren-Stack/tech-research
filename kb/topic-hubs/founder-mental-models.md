@@ -2,7 +2,7 @@
 
 Durable ways of thinking about work, leverage, judgment, and doing great work over a career.
 
-12 item(s), ranked by signal. ⭐ = core / must-experience.
+14 item(s), ranked by signal. ⭐ = core / must-experience.
 
 ---
 
@@ -41,12 +41,26 @@ A deep essay corpus on startup ideas, hiring, growth, fundraising, and founder p
 
 **Why it matters:** Still one of the sharpest public collections of startup thinking ever published.
 
+### [Startup = Growth](../cards/startup-growth.md)
+*Paul Graham · 2012 · Essay · Beginner*
+
+One of Graham’s clearest statements that small differences in startup growth rate compound into radically different outcomes.
+
+**Why it matters:** Gives a precise, widely-cited definition of what makes a startup a startup, anchoring how founders and investors reason about progress.
+
 ### [Maker's Schedule, Manager's Schedule](../cards/makers-schedule-managers-schedule.md)
 *Paul Graham · 2009 · Essay · Beginner*
 
 A short essay distinguishing the manager's schedule (chopped into hour-long meetings) from the maker's schedule (long uninterrupted blocks), and why meetings are so costly for people who build.
 
 **Why it matters:** A small idea that reshapes how builders and their managers should structure time.
+
+### [Founder Mode](../cards/founder-mode.md)
+*Paul Graham · 2024 · Essay · Intermediate*
+
+Argues that founders should sometimes manage companies differently from professional managers as they scale.
+
+**Why it matters:** Sparked a major Silicon Valley debate about how founders should lead as companies scale, shaping current management discourse.
 
 ### [Poor Charlie's Almanack](../cards/poor-charlies-almanack.md)
 *Charlie Munger (ed. Peter Kaufman) · 2005 · Book · Intermediate*

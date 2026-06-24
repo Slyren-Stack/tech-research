@@ -24,6 +24,9 @@ venue: "OpenAI"
 ## Summary
 Describes GPT-4 as a large-scale multimodal model and summarizes its development, capabilities, and evaluation.
 
+## 💬 Good conversation topic
+It bridges model capability, product strategy, and the practical reality of frontier AI.
+
 ## Key takeaways
 - multimodal model
 - capability evaluation

@@ -2,7 +2,7 @@
 
 > A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.
 
-**142 curated items** · 31 core · last updated 2026-06-23 · version 1.6.0
+**144 curated items** · 31 core · last updated 2026-06-23 · version 1.7.0
 
 This is the human-readable overview. The machine-readable source of truth is [`master.json`](master.json). Everything in this repo is generated from it.
 
@@ -17,13 +17,14 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 - **[AI Foundations](../kb/topic-hubs/ai-foundations.md)** (16) — How AI actually works — the ideas, papers, and explainers that built modern machine learning and the transformer era.
 - **[AI in Practice](../kb/topic-hubs/ai-in-practice.md)** (9) — Applying AI as a builder: shipping ML systems, LLM products, and the engineering mindset behind them.
 - **[Startup History](../kb/topic-hubs/startup-history.md)** (13) — How companies actually got started — first-hand accounts, hard lessons, and the canon of startup thinking.
-- **[Founder Mental Models](../kb/topic-hubs/founder-mental-models.md)** (12) — Durable ways of thinking about work, leverage, judgment, and doing great work over a career.
+- **[Founder Mental Models](../kb/topic-hubs/founder-mental-models.md)** (14) — Durable ways of thinking about work, leverage, judgment, and doing great work over a career.
 - **[Product and Design](../kb/topic-hubs/product-and-design.md)** (16) — Designing things people love — product sense, interaction design, and the principles behind good craft.
 - **[Engineering and Systems](../kb/topic-hubs/engineering-and-systems.md)** (16) — Systems thinking for builders: distributed systems, software design, and the papers that shaped the field.
 - **[Venture Capital and Fundraising](../kb/topic-hubs/venture-capital.md)** (42) — How venture works from both sides of the table — term sheets, incentives, and raising money well.
 - **[Internet and Big Tech History](../kb/topic-hubs/internet-history.md)** (9) — Where computing and the internet came from — the people, labs, and machines that made it all possible.
 - **[Documentary and Long-Form Media](../kb/topic-hubs/documentary-long-form.md)** (9) — Films and long-form storytelling that capture the culture and history of technology.
 - **[Must-Watch Core Library](../kb/topic-hubs/core-library.md)** (31) — The essential cross-category set — if you only have time for a handful, start here. (Auto-collected from items marked 'core'.)
+- **[Conversation Starters](../kb/topic-hubs/conversation-starters.md)** (10) — High-signal topics worth raising in technical and founder circles — each is something smart people genuinely argue about. A cross-cutting collection; every item also lives in its home hub.
 
 ## Learning paths
 
@@ -115,7 +116,9 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [How to Do Great Work](../kb/cards/how-to-do-great-work.md) | Paul Graham | 2023 | Essay | Beginner | `core` | 19 |
 | [You and Your Research](../kb/cards/hamming-you-and-your-research.md) | Richard Hamming | 1986 | Talk | Intermediate | `core` | 19 |
 | [Essays by Paul Graham](../kb/cards/essays-by-paul-graham.md) | Paul Graham / Y Combinator | — | Essays | Intermediate | `recommended` | 19 |
+| [Startup = Growth](../kb/cards/startup-growth.md) | Paul Graham | 2012 | Essay | Beginner | `recommended` | 19 |
 | [Maker's Schedule, Manager's Schedule](../kb/cards/makers-schedule-managers-schedule.md) | Paul Graham | 2009 | Essay | Beginner | `recommended` | 17 |
+| [Founder Mode](../kb/cards/founder-mode.md) | Paul Graham | 2024 | Essay | Intermediate | `recommended` | 17 |
 | [Poor Charlie's Almanack](../kb/cards/poor-charlies-almanack.md) | Charlie Munger (ed. Peter Kaufman) | 2005 | Book | Intermediate | `recommended` | 16 |
 | [How to Get Startup Ideas](../kb/cards/how-to-get-startup-ideas.md) | Paul Graham | 2024 | Video reading / commentary | Beginner | `reviewed` | 16 |
 | [How to Get Rich (without getting lucky)](../kb/cards/naval-how-to-get-rich.md) | Naval Ravikant | 2019 | Podcast Series | Beginner | `recommended` | 15 |

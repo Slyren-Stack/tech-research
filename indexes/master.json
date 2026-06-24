@@ -2,7 +2,7 @@
   "meta": {
     "name": "Tech Research Knowledge Base",
     "description": "A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.",
-    "version": "1.6.0",
+    "version": "1.7.0",
     "generated_from": "indexes/master.json",
     "last_updated": "2026-06-23",
     "maintainers": [
@@ -68,6 +68,11 @@
       "id": "core-library",
       "title": "Must-Watch Core Library",
       "blurb": "The essential cross-category set — if you only have time for a handful, start here. (Auto-collected from items marked 'core'.)"
+    },
+    {
+      "id": "conversation-starters",
+      "title": "Conversation Starters",
+      "blurb": "High-signal topics worth raising in technical and founder circles — each is something smart people genuinely argue about. A cross-cutting collection; every item also lives in its home hub."
     }
   ],
   "learning_paths": [
@@ -209,7 +214,10 @@
       "source_link": "https://arxiv.org/abs/1706.03762",
       "credibility": 10,
       "usefulness": 9,
-      "status": "core"
+      "status": "core",
+      "conversation": true,
+      "conversation_note": "It is the technical before-and-after line for the generative AI era.",
+      "conversation_value": 10
     },
     {
       "id": "computing-machinery-and-intelligence",
@@ -265,7 +273,10 @@
       "source_link": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
       "credibility": 9,
       "usefulness": 9,
-      "status": "core"
+      "status": "core",
+      "conversation": true,
+      "conversation_note": "It instantly opens the scale-versus-craft debate that dominates AI rooms.",
+      "conversation_value": 10
     },
     {
       "id": "alexnet-imagenet-2012",
@@ -829,7 +840,10 @@
       "source_link": "https://paulgraham.com/ds.html",
       "credibility": 9,
       "usefulness": 9,
-      "status": "core"
+      "status": "core",
+      "conversation": true,
+      "conversation_note": "Almost every founder can tell a 'we did the ugly thing early' story.",
+      "conversation_value": 10
     },
     {
       "id": "how-to-do-great-work",
@@ -1478,7 +1492,10 @@
       "usefulness": 10,
       "status": "recommended",
       "venue": "Y Combinator / Stanford CS183F",
-      "runtime": "48:21"
+      "runtime": "48:21",
+      "conversation": true,
+      "conversation_note": "A natural entry point for anyone deciding whether to start a company.",
+      "conversation_value": 9
     },
     {
       "id": "software-is-changing-again",
@@ -1509,7 +1526,10 @@
       "usefulness": 10,
       "status": "core",
       "venue": "Y Combinator",
-      "runtime": "45:07"
+      "runtime": "45:07",
+      "conversation": true,
+      "conversation_note": "It is one of the clearest ways to discuss AI-native software without falling into hype.",
+      "conversation_value": 10
     },
     {
       "id": "openai-devday-opening-keynote",
@@ -1849,7 +1869,10 @@
       "usefulness": 8,
       "status": "reviewed",
       "venue": "Paul Graham / YC essay translated to video",
-      "runtime": "42:02"
+      "runtime": "42:02",
+      "conversation": true,
+      "conversation_note": "Idea quality and problem selection are evergreen founder-room arguments.",
+      "conversation_value": 9
     },
     {
       "id": "artificial-intelligence-index-report-2024",
@@ -1879,7 +1902,10 @@
       "credibility": 10,
       "usefulness": 10,
       "status": "core",
-      "venue": "Stanford HAI"
+      "venue": "Stanford HAI",
+      "conversation": true,
+      "conversation_note": "It gives people a shared factual baseline instead of vibes.",
+      "conversation_value": 9
     },
     {
       "id": "cs224n-natural-language-processing-with-deep-learning",
@@ -1999,7 +2025,10 @@
       "credibility": 10,
       "usefulness": 9,
       "status": "recommended",
-      "venue": "OpenAI"
+      "venue": "OpenAI",
+      "conversation": true,
+      "conversation_note": "It bridges model capability, product strategy, and the practical reality of frontier AI.",
+      "conversation_value": 10
     },
     {
       "id": "training-compute-optimal-large-language-models",
@@ -4298,6 +4327,68 @@
       "credibility": 8,
       "usefulness": 8,
       "status": "reviewed"
+    },
+    {
+      "id": "startup-growth",
+      "title": "Startup = Growth",
+      "creator": "Paul Graham",
+      "year": 2012,
+      "format": "Essay",
+      "category": "Founder Mental Models",
+      "subcategory": "Growth philosophy",
+      "summary": "One of Graham’s clearest statements that small differences in startup growth rate compound into radically different outcomes.",
+      "key_takeaways": [
+        "A startup is a company designed to grow fast; growth rate is its defining metric.",
+        "Small differences in weekly growth compound into radically different outcomes.",
+        "Optimizing relentlessly for growth forces clarity about what users actually want."
+      ],
+      "why_it_matters": "Gives a precise, widely-cited definition of what makes a startup a startup, anchoring how founders and investors reason about progress.",
+      "audience_fit": "Founders, investors, operators",
+      "difficulty": "Beginner",
+      "tags": [
+        "growth",
+        "compounding",
+        "startups",
+        "PG"
+      ],
+      "source_link": "https://www.paulgraham.com/growth.html",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "conversation": true,
+      "conversation_note": "Founders and investors constantly argue about growth quality, and this essay gives them a shared language.",
+      "conversation_value": 10
+    },
+    {
+      "id": "founder-mode",
+      "title": "Founder Mode",
+      "creator": "Paul Graham",
+      "year": 2024,
+      "format": "Essay",
+      "category": "Founder Mental Models",
+      "subcategory": "Leadership",
+      "summary": "Argues that founders should sometimes manage companies differently from professional managers as they scale.",
+      "key_takeaways": [
+        "Founders may need to run companies more hands-on than conventional 'manager mode' advice allows.",
+        "Blanket advice to fully delegate can hurt founder-led companies as they scale.",
+        "The idea is hotly debated precisely because the right limits of founder involvement are unclear."
+      ],
+      "why_it_matters": "Sparked a major Silicon Valley debate about how founders should lead as companies scale, shaping current management discourse.",
+      "audience_fit": "Founders, operators, investors",
+      "difficulty": "Intermediate",
+      "tags": [
+        "founder mode",
+        "management",
+        "scaling",
+        "culture"
+      ],
+      "source_link": "https://www.paulgraham.com/foundermode.html",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended",
+      "conversation": true,
+      "conversation_note": "It touches a live Silicon Valley argument about founder autonomy, management, and culture.",
+      "conversation_value": 10
     }
   ]
 }

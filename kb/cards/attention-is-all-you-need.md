@@ -21,6 +21,9 @@ status: core
 ## Summary
 The paper that introduced the Transformer, an architecture built entirely on attention mechanisms with no recurrence or convolution. It became the foundation for virtually every modern large language model.
 
+## 💬 Good conversation topic
+It is the technical before-and-after line for the generative AI era.
+
 ## Key takeaways
 - Self-attention lets a model weigh relationships between all tokens in a sequence in parallel.
 - Removing recurrence made training dramatically more parallelizable and scalable.
