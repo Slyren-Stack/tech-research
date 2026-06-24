@@ -2,7 +2,7 @@
 
 High-signal topics worth raising in technical and founder circles — each is something smart people genuinely argue about. A cross-cutting collection; every item also lives in its home hub.
 
-**73 conversation-worthy items** across every theme, ranked by conversation value. Each also lives in its home hub.
+**106 conversation-worthy items** across every theme, ranked by conversation value. Each also lives in its home hub.
 
 > **The recurring themes:** Silicon Valley conversation keeps circling a handful of durable tensions: does scale beat cleverness (AI), do founders deserve special operating freedom, how do distribution and network effects manufacture moats, what does software's history teach about its future, and where do markets, regulation, and human attention push back on all of it.
 
@@ -22,19 +22,19 @@ High-signal topics worth raising in technical and founder circles — each is so
 | 10 | [Before the Startup](../cards/before-the-startup.md) | Paul Graham | Recorded lecture | 9 |
 | 11 | [Zero to One](../cards/zero-to-one.md) | Peter Thiel with Blake Masters | Book | 9 |
 | 12 | [Aggregation Theory](../cards/aggregation-theory.md) | Ben Thompson (Stratechery) | Essay | 9 |
-| 13 | [Machines of Loving Grace](../cards/machines-of-loving-grace.md) | Dario Amodei | Essay | 9 |
-| 14 | [AlphaGo](../cards/alphago.md) | Greg Kohs (dir.) / DeepMind | Documentary | 9 |
-| 15 | [Why Software Is Eating the World](../cards/why-software-is-eating-the-world.md) | Marc Andreessen | Essay | 9 |
-| 16 | [Bad Blood: Secrets and Lies in a Silicon Valley Startup](../cards/bad-blood-secrets-and-lies-in-a-silicon-valley-startup.md) | John Carreyrou | Book | 9 |
-| 17 | [How to Get Startup Ideas](../cards/how-to-get-startup-ideas.md) | Paul Graham | Video reading / commentary | 9 |
-| 18 | [The Power Law: Venture Capital and the Making of the New Future](../cards/the-power-law-venture-capital-and-the-making-of-the-new-futu.md) | Sebastian Mallaby / Penguin Press | Book | 8 |
-| 19 | [The Innovator's Dilemma](../cards/the-innovator-s-dilemma.md) | Clayton M. Christensen | Book | 8 |
-| 20 | [The Hard Thing About Hard Things](../cards/hard-thing-about-hard-things.md) | Ben Horowitz | Book | 8 |
-| 21 | [The Entrepreneurial State](../cards/the-entrepreneurial-state.md) | Mariana Mazzucato | Book | 8 |
-| 22 | [Amazon Shareholder Letters](../cards/amazon-shareholder-letters.md) | Jeff Bezos | Letters | 8 |
-| 23 | [7 Powers: The Foundations of Business Strategy](../cards/7-powers-the-foundations-of-business-strategy.md) | Hamilton Helmer | Book | 8 |
-| 24 | [No Silver Bullet — Essence and Accident in Software Engineering](../cards/no-silver-bullet-essence-and-accident-in-software-engineerin.md) | Fred Brooks | Essay | 8 |
-| 25 | [Amazon's Antitrust Paradox](../cards/amazon-s-antitrust-paradox.md) | Lina Khan | Law journal article | 8 |
+| 13 | [Bitcoin: A Peer-to-Peer Electronic Cash System](../cards/bitcoin-a-peer-to-peer-electronic-cash-system.md) | Satoshi Nakamoto | Whitepaper | 9 |
+| 14 | [Chip War: The Fight for the World's Most Critical Technology](../cards/chip-war-the-fight-for-the-world-s-most-critical-technology.md) | Chris Miller | Book | 9 |
+| 15 | [Machines of Loving Grace](../cards/machines-of-loving-grace.md) | Dario Amodei | Essay | 9 |
+| 16 | [AlphaGo](../cards/alphago.md) | Greg Kohs (dir.) / DeepMind | Documentary | 9 |
+| 17 | [Why Software Is Eating the World](../cards/why-software-is-eating-the-world.md) | Marc Andreessen | Essay | 9 |
+| 18 | [Bad Blood: Secrets and Lies in a Silicon Valley Startup](../cards/bad-blood-secrets-and-lies-in-a-silicon-valley-startup.md) | John Carreyrou | Book | 9 |
+| 19 | [How to Get Startup Ideas](../cards/how-to-get-startup-ideas.md) | Paul Graham | Video reading / commentary | 9 |
+| 20 | [The Power Law: Venture Capital and the Making of the New Future](../cards/the-power-law-venture-capital-and-the-making-of-the-new-futu.md) | Sebastian Mallaby / Penguin Press | Book | 8 |
+| 21 | [The Innovator's Dilemma](../cards/the-innovator-s-dilemma.md) | Clayton M. Christensen | Book | 8 |
+| 22 | [The Hard Thing About Hard Things](../cards/hard-thing-about-hard-things.md) | Ben Horowitz | Book | 8 |
+| 23 | [The Entrepreneurial State](../cards/the-entrepreneurial-state.md) | Mariana Mazzucato | Book | 8 |
+| 24 | [Amazon Shareholder Letters](../cards/amazon-shareholder-letters.md) | Jeff Bezos | Letters | 8 |
+| 25 | [7 Powers: The Foundations of Business Strategy](../cards/7-powers-the-foundations-of-business-strategy.md) | Hamilton Helmer | Book | 8 |
 
 ## By theme
 
@@ -103,12 +103,51 @@ High-signal topics worth raising in technical and founder circles — each is so
 - **[A Philosophy of Software Design](../cards/a-philosophy-of-software-design.md)** — *John Ousterhout, 2018 (Book)* — Pit it against 'Clean Code' and engineers will happily argue for an hour.
 - **[The Twelve-Factor App](../cards/the-twelve-factor-app.md)** — *Adam Wiggins / Heroku, 2011 (Reference)* — A quick way to check if someone has actually shipped cloud software.
 
+### Crypto and Web3 (7)
+- **[Bitcoin: A Peer-to-Peer Electronic Cash System](../cards/bitcoin-a-peer-to-peer-electronic-cash-system.md)** — *Satoshi Nakamoto, 2008 (Whitepaper)* — The primary source — citing it (vs. price chatter) signals you actually understand crypto.
+- **[Ethereum Whitepaper](../cards/ethereum-whitepaper.md)** — *Vitalik Buterin, 2014 (Whitepaper)* — Sets up the 'is web3 a platform or a casino' debate from first principles.
+- **[The Scalability Trilemma](../cards/the-scalability-trilemma.md)** — *Vitalik Buterin, 2021 (Essay / concept)* — Name the trilemma and you've elevated a crypto chat from price to architecture.
+- **[Going Infinite: The Rise and Fall of a New Tycoon](../cards/going-infinite-the-rise-and-fall-of-a-new-tycoon.md)** — *Michael Lewis, 2023 (Book)* — Everyone has a hot take on SBF and whether Lewis went too easy on him.
+- **[Web3 Is Going Just Great](../cards/web3-is-going-just-great.md)** — *Molly White, 2021 (Website / running ledger)* — The receipts for anyone arguing crypto is mostly grift.
+- **[Number Go Up](../cards/number-go-up.md)** — *Zeke Faux, 2023 (Book)* — Pair it with a believer's book and you have a built-in crypto debate.
+- **[Read Write Own](../cards/read-write-own.md)** — *Chris Dixon, 2024 (Book)* — The believer's case — debate it against Molly White's ledger of disasters.
+
+### Climate, Energy, and Deep Tech (6)
+- **[How the World Really Works](../cards/how-the-world-really-works.md)** — *Vaclav Smil, 2022 (Book)* — The go-to for puncturing both climate doom and naive techno-optimism.
+- **[Where Is My Flying Car?](../cards/where-is-my-flying-car.md)** — *J. Storrs Hall, 2018 (Book)* — Catnip for the progress-studies crowd; instantly starts an 'are we stagnating' debate.
+- **[The Prize: The Epic Quest for Oil, Money & Power](../cards/the-prize-the-epic-quest-for-oil-money-power.md)** — *Daniel Yergin, 1990 (Book)* — Grounds energy-transition talk in how power and oil actually worked.
+- **[How to Avoid a Climate Disaster](../cards/how-to-avoid-a-climate-disaster.md)** — *Bill Gates, 2021 (Book)* — 'Green premium' gives a shared lens for evaluating any climate startup.
+- **[Stripe Climate & Advance Market Commitments (Frontier)](../cards/stripe-climate-advance-market-commitments-frontier.md)** — *Stripe / Frontier, 2020 (Initiative / essay)* — A tidy example of using market design (not subsidies) to fund deep tech.
+- **[Speed & Scale](../cards/speed-scale.md)** — *John Doerr, 2021 (Book)* — Bridges climate to OKRs — comfortable territory for operators.
+
+### Future of Work and Labor (6)
+- **[Bullshit Jobs](../cards/bullshit-jobs.md)** — *David Graeber, 2018 (Book)* — Everyone has a 'bullshit job' story — and an opinion on whether theirs counts.
+- **[Remote: Office Not Required](../cards/remote-office-not-required.md)** — *Jason Fried & David Heinemeier Hansson, 2013 (Book)* — The opening move in any remote-vs-return-to-office debate.
+- **[Rise of the Robots](../cards/rise-of-the-robots.md)** — *Martin Ford, 2015 (Book)* — The on-ramp to 'will AI take the jobs' — pairs well with today's headlines.
+- **[996.ICU](../cards/996-icu.md)** — *Chinese tech workers (GitHub), 2019 (Open repository / movement)* — A sharp prompt for the hustle-culture-vs-burnout debate, with a global angle.
+- **[The GitLab Handbook (All-Remote)](../cards/the-gitlab-handbook-all-remote.md)** — *GitLab, 2020 (Public handbook)* — The 'show me a remote company that works' answer — concrete, not theoretical.
+- **[A World Without Email](../cards/a-world-without-email.md)** — *Cal Newport, 2021 (Book)* — Resonates with anyone drowning in Slack — easy, relatable debate.
+
+### Hardware and Compute (5)
+- **[Chip War: The Fight for the World's Most Critical Technology](../cards/chip-war-the-fight-for-the-world-s-most-critical-technology.md)** — *Chris Miller, 2022 (Book)* — The shared reference for the chips-and-geopolitics conversation — guaranteed to land.
+- **[Acquired: TSMC](../cards/acquired-tsmc.md)** — *Acquired (Ben Gilbert & David Rosenthal), 2021 (Podcast episode)* — Knowing the Morris Chang / TSMC story is table stakes for chip conversations.
+- **[Acquired: NVIDIA](../cards/acquired-nvidia.md)** — *Acquired (Ben Gilbert & David Rosenthal), 2022 (Podcast episode)* — Explains why NVIDIA, not the model labs, captured so much AI value.
+- **[Cramming More Components onto Integrated Circuits](../cards/cramming-more-components-onto-integrated-circuits.md)** — *Gordon Moore, 1965 (Paper)* — 'Is Moore's Law dead?' is an evergreen, opinion-splitting question.
+- **[The Idea Factory: Bell Labs and the Great Age of American Innovation](../cards/the-idea-factory-bell-labs-and-the-great-age-of-american-inn.md)** — *Jon Gertner, 2012 (Book)* — Fuels the 'why don't we build Bell Labs anymore' debate.
+
 ### Venture Capital and Fundraising (5)
 - **[The Power Law: Venture Capital and the Making of the New Future](../cards/the-power-law-venture-capital-and-the-making-of-the-new-futu.md)** — *Sebastian Mallaby / Penguin Press, 2022 (Book)* — The go-to reference for how VC returns and power actually work.
 - **[The Entrepreneurial State](../cards/the-entrepreneurial-state.md)** — *Mariana Mazzucato, 2013 (Book)* — The strongest counter to 'private markets did it all' — guaranteed debate.
 - **[VC: An American History](../cards/vc-an-american-history.md)** — *Tom Nicholas / Harvard University Press, 2019 (Book)* — Grounds any 'is VC good for the world' debate in real history.
 - **[Secrets of Sand Hill Road](../cards/secrets-of-sand-hill-road.md)** — *Scott Kupor, 2019 (Book)* — The clearest explainer of how VC deals actually work — great for founders vs. investors.
 - **[Venture Deals](../cards/venture-deals.md)** — *Brad Feld, Jason Mendelson, 2011 (Book)* — Term-sheet literacy; mentioning it signals you know the mechanics.
+
+### Defense, Gov, and Public Tech (5)
+- **[Recoding America](../cards/recoding-america.md)** — *Jennifer Pahlka, 2023 (Book)* — The 'why is government software so bad' conversation, answered seriously.
+- **[Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War](../cards/unit-x-how-the-pentagon-and-silicon-valley-are-transforming.md)** — *Raj M. Shah & Christopher Kirchhoff, 2024 (Book)* — The reference for why defense tech suddenly became cool in the Valley.
+- **[The Kill Chain: Defending America in the Future of High-Tech Warfare](../cards/the-kill-chain-defending-america-in-the-future-of-high-tech.md)** — *Christian Brose, 2020 (Book)* — The intellectual backbone of the new defense-tech startups.
+- **[Rebuild the Arsenal of Democracy (Anduril)](../cards/rebuild-the-arsenal-of-democracy-anduril.md)** — *Palmer Luckey / Anduril, 2024 (Manifesto / essay)* — Splits the room on whether founders should build weapons — a live SV fault line.
+- **[The Pentagon's Brain](../cards/the-pentagon-s-brain.md)** — *Annie Jacobsen, 2015 (Book)* — Reminds everyone how much 'commercial' tech started as defense research.
 
 ### Product and Design (5)
 - **[The Tyranny of the Marginal User](../cards/the-tyranny-of-the-marginal-user.md)** — *Ivan Vendrov, 2022 (Essay)* — Explains why everyone's favorite app got worse — universally relatable.
@@ -128,6 +167,12 @@ High-signal topics worth raising in technical and founder circles — each is so
 - **[The Social Network](../cards/the-social-network.md)** — *David Fincher (dir.) / Aaron Sorkin, 2010 (Film)* — Everyone's seen it — an effortless way to open a founder-culture conversation.
 - **[The Social Dilemma](../cards/the-social-dilemma.md)** — *Jeff Orlowski (dir.), 2020 (Documentary)* — Widely watched — easy to reference, easy to debate (insiders vs. overstated).
 - **[Pirates of Silicon Valley](../cards/pirates-of-silicon-valley.md)** — *Martyn Burke (dir.), 1999 (Film)* — A fun deep cut for the Jobs-vs-Gates origin debate.
+
+### Global Tech and Non-US Ecosystems (4)
+- **[AI Superpowers: China, Silicon Valley, and the New World Order](../cards/ai-superpowers-china-silicon-valley-and-the-new-world-order.md)** — *Kai-Fu Lee, 2018 (Book)* — The starting point for any serious US-vs-China tech conversation.
+- **[Blitzscaling](../cards/blitzscaling.md)** — *Reid Hoffman & Chris Yeh, 2018 (Book)* — Loved and loathed — a reliable way to start a scaling-strategy argument.
+- **[The Billionaire Raj](../cards/the-billionaire-raj.md)** — *James Crabtree, 2018 (Book)* — Adds nuance to the 'India is the next China' investor pitch.
+- **[State of European Tech](../cards/state-of-european-tech.md)** — *Atomico, 2024 (Annual report)* — Brings receipts to the perennial 'why can't Europe build a trillion-dollar company' debate.
 
 ## Quick lists
 

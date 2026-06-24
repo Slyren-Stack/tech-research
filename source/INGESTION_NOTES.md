@@ -225,3 +225,47 @@ Ruthlessly-ranked SV conversation map. New topics added to home hubs and flagged
 - flag `cathedral-and-the-bazaar` — The Cathedral and the Bazaar
 - flag `designing-data-intensive-applications` — Designing Data-Intensive Applications
 - flag `mythical-man-month` — The Mythical Man-Month
+
+---
+
+## Conversation Topics expansion (conversation_topics_gaps.json)
+
+Ruthlessly-ranked SV conversation map. New topics added to home hubs and flagged; existing library items flagged in place (no duplicates).
+- **New home hubs registered:** crypto-web3, hardware-compute, climate-deep-tech, global-tech, future-of-work, defense-gov-tech
+- **New items created:** 33
+- **Existing items flagged:** 0
+- No warnings.
+
+- new `bitcoin-a-peer-to-peer-electronic-cash-system` — Bitcoin: A Peer-to-Peer Electronic Cash System
+- new `ethereum-whitepaper` — Ethereum Whitepaper
+- new `the-scalability-trilemma` — The Scalability Trilemma
+- new `going-infinite-the-rise-and-fall-of-a-new-tycoon` — Going Infinite: The Rise and Fall of a New Tycoon
+- new `number-go-up` — Number Go Up
+- new `read-write-own` — Read Write Own
+- new `web3-is-going-just-great` — Web3 Is Going Just Great
+- new `chip-war-the-fight-for-the-world-s-most-critical-technology` — Chip War: The Fight for the World's Most Critical Technology
+- new `acquired-tsmc` — Acquired: TSMC
+- new `acquired-nvidia` — Acquired: NVIDIA
+- new `cramming-more-components-onto-integrated-circuits` — Cramming More Components onto Integrated Circuits
+- new `the-idea-factory-bell-labs-and-the-great-age-of-american-inn` — The Idea Factory: Bell Labs and the Great Age of American Innovation
+- new `how-the-world-really-works` — How the World Really Works
+- new `where-is-my-flying-car` — Where Is My Flying Car?
+- new `how-to-avoid-a-climate-disaster` — How to Avoid a Climate Disaster
+- new `speed-scale` — Speed & Scale
+- new `the-prize-the-epic-quest-for-oil-money-power` — The Prize: The Epic Quest for Oil, Money & Power
+- new `stripe-climate-advance-market-commitments-frontier` — Stripe Climate & Advance Market Commitments (Frontier)
+- new `ai-superpowers-china-silicon-valley-and-the-new-world-order` — AI Superpowers: China, Silicon Valley, and the New World Order
+- new `the-billionaire-raj` — The Billionaire Raj
+- new `blitzscaling` — Blitzscaling
+- new `state-of-european-tech` — State of European Tech
+- new `bullshit-jobs` — Bullshit Jobs
+- new `remote-office-not-required` — Remote: Office Not Required
+- new `a-world-without-email` — A World Without Email
+- new `rise-of-the-robots` — Rise of the Robots
+- new `996-icu` — 996.ICU
+- new `the-gitlab-handbook-all-remote` — The GitLab Handbook (All-Remote)
+- new `unit-x-how-the-pentagon-and-silicon-valley-are-transforming` — Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War
+- new `the-kill-chain-defending-america-in-the-future-of-high-tech` — The Kill Chain: Defending America in the Future of High-Tech Warfare
+- new `recoding-america` — Recoding America
+- new `the-pentagon-s-brain` — The Pentagon's Brain
+- new `rebuild-the-arsenal-of-democracy-anduril` — Rebuild the Arsenal of Democracy (Anduril)

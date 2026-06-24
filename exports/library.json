@@ -2479,6 +2479,67 @@
       "conversation": true
     },
     {
+      "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+      "creator": "Satoshi Nakamoto",
+      "year": 2008,
+      "format": "Whitepaper",
+      "category": "Crypto and Web3",
+      "subcategory": "Origins",
+      "summary": "The nine-page whitepaper that introduced Bitcoin and a working solution to double-spending without a trusted third party.",
+      "key_takeaways": [
+        "Proof-of-work and a public ledger solve double-spending",
+        "Trust-minimized money without intermediaries",
+        "The founding document of an entire industry"
+      ],
+      "why_it_matters": "The origin text of crypto; you can't seriously discuss the space without it.",
+      "audience_fit": "Founders, engineers, investors, the crypto-curious",
+      "difficulty": "Intermediate",
+      "tags": [
+        "bitcoin",
+        "blockchain",
+        "cryptography",
+        "whitepaper"
+      ],
+      "source_link": "https://bitcoin.org/bitcoin.pdf",
+      "credibility": 10,
+      "usefulness": 8,
+      "status": "recommended",
+      "conversation_value": 9,
+      "conversation_note": "The primary source — citing it (vs. price chatter) signals you actually understand crypto.",
+      "id": "bitcoin-a-peer-to-peer-electronic-cash-system",
+      "conversation": true
+    },
+    {
+      "title": "Chip War: The Fight for the World's Most Critical Technology",
+      "creator": "Chris Miller",
+      "year": 2022,
+      "format": "Book",
+      "category": "Hardware and Compute",
+      "subcategory": "Geopolitics of semiconductors",
+      "summary": "A history of the semiconductor industry and the US–China struggle for control of advanced chips.",
+      "key_takeaways": [
+        "Chips as the oil of the 21st century",
+        "TSMC, ASML, and choke points in the supply chain",
+        "Why semiconductors are now geopolitics"
+      ],
+      "why_it_matters": "The definitive primer on the compute supply chain everyone now debates.",
+      "audience_fit": "Founders, investors, policy people",
+      "difficulty": "Intermediate",
+      "tags": [
+        "semiconductors",
+        "tsmc",
+        "geopolitics",
+        "supply-chain"
+      ],
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended",
+      "conversation_value": 9,
+      "conversation_note": "The shared reference for the chips-and-geopolitics conversation — guaranteed to land.",
+      "id": "chip-war-the-fight-for-the-world-s-most-critical-technology",
+      "conversation": true
+    },
+    {
       "id": "alexnet-imagenet-2012",
       "title": "ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)",
       "creator": "Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton",
@@ -3511,6 +3572,66 @@
       "conversation": true
     },
     {
+      "title": "Cramming More Components onto Integrated Circuits",
+      "creator": "Gordon Moore",
+      "year": 1965,
+      "format": "Paper",
+      "category": "Hardware and Compute",
+      "subcategory": "Foundational",
+      "summary": "The paper that introduced what became Moore's Law — the doubling of transistor density over time.",
+      "key_takeaways": [
+        "The empirical 'law' that drove five decades of progress",
+        "Exponential improvement as an industry organizing principle",
+        "The debate over whether it is ending"
+      ],
+      "why_it_matters": "The single most influential prediction in computing; its slowdown reframes everything.",
+      "audience_fit": "Engineers, founders, investors",
+      "difficulty": "Intermediate",
+      "tags": [
+        "moores-law",
+        "semiconductors",
+        "scaling",
+        "classic"
+      ],
+      "credibility": 10,
+      "usefulness": 7,
+      "status": "recommended",
+      "conversation_value": 7,
+      "conversation_note": "'Is Moore's Law dead?' is an evergreen, opinion-splitting question.",
+      "id": "cramming-more-components-onto-integrated-circuits",
+      "conversation": true
+    },
+    {
+      "title": "How the World Really Works",
+      "creator": "Vaclav Smil",
+      "year": 2022,
+      "format": "Book",
+      "category": "Climate, Energy, and Deep Tech",
+      "subcategory": "Energy realism",
+      "summary": "Vaclav Smil's data-grounded account of energy, food, materials, and the physical realities behind modern life.",
+      "key_takeaways": [
+        "Fossil fuels underpin food, steel, cement, plastics",
+        "Energy transitions are slow and material-intensive",
+        "A sober counter to techno-optimist timelines"
+      ],
+      "why_it_matters": "Smil is the energy realist that founders (and Bill Gates) cite to check climate hype.",
+      "audience_fit": "Founders, investors, policy people",
+      "difficulty": "Intermediate",
+      "tags": [
+        "energy",
+        "materials",
+        "climate",
+        "realism"
+      ],
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended",
+      "conversation_value": 8,
+      "conversation_note": "The go-to for puncturing both climate doom and naive techno-optimism.",
+      "id": "how-the-world-really-works",
+      "conversation": true
+    },
+    {
       "id": "out-of-the-tar-pit",
       "title": "Out of the Tar Pit",
       "creator": "Ben Moseley, Peter Marks",
@@ -4190,6 +4311,218 @@
       "conversation_value": 7,
       "conversation_note": "Tell the milkshake story and you've started a product-thinking conversation.",
       "id": "competing-against-luck-jobs-to-be-done",
+      "conversation": true
+    },
+    {
+      "title": "Ethereum Whitepaper",
+      "creator": "Vitalik Buterin",
+      "year": 2014,
+      "format": "Whitepaper",
+      "category": "Crypto and Web3",
+      "subcategory": "Smart contracts",
+      "summary": "Vitalik Buterin's proposal for a programmable blockchain with a Turing-complete scripting language.",
+      "key_takeaways": [
+        "Generalizes blockchains from money to arbitrary programs",
+        "Smart contracts and dapps as primitives",
+        "Foundation for DeFi, NFTs, and DAOs"
+      ],
+      "why_it_matters": "It reframed blockchains as world computers, defining the second era of crypto.",
+      "audience_fit": "Founders, engineers, investors",
+      "difficulty": "Advanced",
+      "tags": [
+        "ethereum",
+        "smart-contracts",
+        "web3",
+        "whitepaper"
+      ],
+      "source_link": "https://ethereum.org/en/whitepaper/",
+      "credibility": 9,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 8,
+      "conversation_note": "Sets up the 'is web3 a platform or a casino' debate from first principles.",
+      "id": "ethereum-whitepaper",
+      "conversation": true
+    },
+    {
+      "title": "Acquired: TSMC",
+      "creator": "Acquired (Ben Gilbert & David Rosenthal)",
+      "year": 2021,
+      "format": "Podcast episode",
+      "category": "Hardware and Compute",
+      "subcategory": "Company deep-dive",
+      "summary": "A long-form history of how Morris Chang built TSMC into the world's most important company.",
+      "key_takeaways": [
+        "The pure-play foundry model that reshaped chips",
+        "Why the world depends on one Taiwanese firm",
+        "Strategy lessons in patient, capital-intensive scale"
+      ],
+      "why_it_matters": "The most accessible deep-dive on the single most strategically important company in tech.",
+      "audience_fit": "Founders, investors, strategists",
+      "difficulty": "Intermediate",
+      "tags": [
+        "tsmc",
+        "foundry",
+        "acquired",
+        "strategy"
+      ],
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "recommended",
+      "conversation_value": 8,
+      "conversation_note": "Knowing the Morris Chang / TSMC story is table stakes for chip conversations.",
+      "id": "acquired-tsmc",
+      "conversation": true
+    },
+    {
+      "title": "Acquired: NVIDIA",
+      "creator": "Acquired (Ben Gilbert & David Rosenthal)",
+      "year": 2022,
+      "format": "Podcast episode",
+      "category": "Hardware and Compute",
+      "subcategory": "Company deep-dive",
+      "summary": "A multi-part history of NVIDIA's path from gaming GPUs to the backbone of the AI boom.",
+      "key_takeaways": [
+        "CUDA and the bet on general-purpose GPU compute",
+        "How gaming hardware became AI infrastructure",
+        "Jensen Huang's long-horizon strategy"
+      ],
+      "why_it_matters": "NVIDIA is the company at the center of the AI era; this is the canonical narrative.",
+      "audience_fit": "Founders, investors, engineers",
+      "difficulty": "Intermediate",
+      "tags": [
+        "nvidia",
+        "gpu",
+        "cuda",
+        "ai-infrastructure"
+      ],
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "recommended",
+      "conversation_value": 8,
+      "conversation_note": "Explains why NVIDIA, not the model labs, captured so much AI value.",
+      "id": "acquired-nvidia",
+      "conversation": true
+    },
+    {
+      "title": "The Idea Factory: Bell Labs and the Great Age of American Innovation",
+      "creator": "Jon Gertner",
+      "year": 2012,
+      "format": "Book",
+      "category": "Hardware and Compute",
+      "subcategory": "Innovation history",
+      "summary": "The story of Bell Labs and how it produced the transistor, the laser, information theory, and more.",
+      "key_takeaways": [
+        "How a single lab invented the modern world",
+        "Conditions that produce breakthrough research",
+        "A model (and warning) for industrial R&D"
+      ],
+      "why_it_matters": "The reference point for debates about where real innovation comes from.",
+      "audience_fit": "Founders, researchers, historians",
+      "difficulty": "Intermediate",
+      "tags": [
+        "bell-labs",
+        "r-and-d",
+        "innovation",
+        "transistor"
+      ],
+      "credibility": 9,
+      "usefulness": 7,
+      "status": "recommended",
+      "conversation_value": 7,
+      "conversation_note": "Fuels the 'why don't we build Bell Labs anymore' debate.",
+      "id": "the-idea-factory-bell-labs-and-the-great-age-of-american-inn",
+      "conversation": true
+    },
+    {
+      "title": "The Prize: The Epic Quest for Oil, Money & Power",
+      "creator": "Daniel Yergin",
+      "year": 1990,
+      "format": "Book",
+      "category": "Climate, Energy, and Deep Tech",
+      "subcategory": "Energy history",
+      "summary": "A Pulitzer-winning history of the oil industry and how energy shaped the modern world and geopolitics.",
+      "key_takeaways": [
+        "Energy as the hidden driver of geopolitics",
+        "How the oil industry built the 20th century",
+        "Context for today's energy transition"
+      ],
+      "why_it_matters": "The definitive backstory for anyone reasoning about energy, power, and transition.",
+      "audience_fit": "Founders, investors, policy people",
+      "difficulty": "Advanced",
+      "tags": [
+        "energy",
+        "oil",
+        "geopolitics",
+        "history"
+      ],
+      "credibility": 9,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "Grounds energy-transition talk in how power and oil actually worked.",
+      "id": "the-prize-the-epic-quest-for-oil-money-power",
+      "conversation": true
+    },
+    {
+      "title": "The GitLab Handbook (All-Remote)",
+      "creator": "GitLab",
+      "year": 2020,
+      "format": "Public handbook",
+      "category": "Future of Work and Labor",
+      "subcategory": "Remote operations",
+      "summary": "GitLab's radically transparent, public handbook documenting how a large all-remote company actually runs.",
+      "key_takeaways": [
+        "Handbook-first, documentation-driven culture",
+        "Concrete async and remote operating practices",
+        "Transparency as an operating system"
+      ],
+      "why_it_matters": "The most-cited real-world reference for how to run an all-remote company at scale.",
+      "audience_fit": "Founders, managers, operators",
+      "difficulty": "Beginner",
+      "tags": [
+        "remote-work",
+        "handbook",
+        "async",
+        "operations"
+      ],
+      "source_link": "https://handbook.gitlab.com/handbook/company/culture/all-remote/",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "reviewed",
+      "conversation_value": 6,
+      "conversation_note": "The 'show me a remote company that works' answer — concrete, not theoretical.",
+      "id": "the-gitlab-handbook-all-remote",
+      "conversation": true
+    },
+    {
+      "title": "Recoding America",
+      "creator": "Jennifer Pahlka",
+      "year": 2023,
+      "format": "Book",
+      "category": "Defense, Gov, and Public Tech",
+      "subcategory": "Govtech",
+      "summary": "The Code for America founder on why government technology fails and how to actually fix delivery.",
+      "key_takeaways": [
+        "Policy and implementation are fatally separated",
+        "Why government software keeps failing",
+        "Delivery as a core governing capability"
+      ],
+      "why_it_matters": "The defining modern text on govtech and state capacity, cited across the political spectrum.",
+      "audience_fit": "Founders, operators, policy people",
+      "difficulty": "Intermediate",
+      "tags": [
+        "govtech",
+        "state-capacity",
+        "delivery",
+        "policy"
+      ],
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "recommended",
+      "conversation_value": 8,
+      "conversation_note": "The 'why is government software so bad' conversation, answered seriously.",
+      "id": "recoding-america",
       "conversation": true
     },
     {
@@ -4937,6 +5270,188 @@
       "conversation": true
     },
     {
+      "title": "The Scalability Trilemma",
+      "creator": "Vitalik Buterin",
+      "year": 2021,
+      "format": "Essay / concept",
+      "category": "Crypto and Web3",
+      "subcategory": "Scaling vs decentralization",
+      "summary": "The framing that blockchains struggle to be simultaneously scalable, secure, and decentralized — you trade off among the three.",
+      "key_takeaways": [
+        "Scalability, security, decentralization as a trilemma",
+        "Explains L2s, rollups, and sharding choices",
+        "The core technical tension of crypto design"
+      ],
+      "why_it_matters": "It is the precise vocabulary for the scaling-vs-decentralization argument that defines crypto engineering.",
+      "audience_fit": "Engineers, founders, investors",
+      "difficulty": "Advanced",
+      "tags": [
+        "scalability",
+        "decentralization",
+        "rollups",
+        "trilemma"
+      ],
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 8,
+      "conversation_note": "Name the trilemma and you've elevated a crypto chat from price to architecture.",
+      "id": "the-scalability-trilemma",
+      "conversation": true
+    },
+    {
+      "title": "Stripe Climate & Advance Market Commitments (Frontier)",
+      "creator": "Stripe / Frontier",
+      "year": 2020,
+      "format": "Initiative / essay",
+      "category": "Climate, Energy, and Deep Tech",
+      "subcategory": "Carbon removal",
+      "summary": "Stripe's effort to fund early carbon-removal via advance market commitments, later expanded as Frontier.",
+      "key_takeaways": [
+        "Advance market commitments to pull tech into existence",
+        "Software money funding hard climate tech",
+        "A new model for funding deep tech"
+      ],
+      "why_it_matters": "A concrete, much-discussed example of tech capital trying to bootstrap a hard market.",
+      "audience_fit": "Founders, investors, climate builders",
+      "difficulty": "Intermediate",
+      "tags": [
+        "carbon-removal",
+        "amc",
+        "frontier",
+        "climate-tech"
+      ],
+      "source_link": "https://stripe.com/climate",
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 6,
+      "conversation_note": "A tidy example of using market design (not subsidies) to fund deep tech.",
+      "id": "stripe-climate-advance-market-commitments-frontier",
+      "conversation": true
+    },
+    {
+      "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
+      "creator": "Kai-Fu Lee",
+      "year": 2018,
+      "format": "Book",
+      "category": "Global Tech and Non-US Ecosystems",
+      "subcategory": "China & US AI",
+      "summary": "Kai-Fu Lee's comparison of the Chinese and American AI ecosystems and what each does better.",
+      "key_takeaways": [
+        "China's execution-and-data advantages",
+        "Different innovation cultures, US vs China",
+        "AI's labor and geopolitical implications"
+      ],
+      "why_it_matters": "The reference book for the US–China AI competition framing that recurs constantly.",
+      "audience_fit": "Founders, investors, policy people",
+      "difficulty": "Beginner",
+      "tags": [
+        "china",
+        "ai",
+        "geopolitics",
+        "ecosystems"
+      ],
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "recommended",
+      "conversation_value": 8,
+      "conversation_note": "The starting point for any serious US-vs-China tech conversation.",
+      "id": "ai-superpowers-china-silicon-valley-and-the-new-world-order",
+      "conversation": true
+    },
+    {
+      "title": "State of European Tech",
+      "creator": "Atomico",
+      "year": 2024,
+      "format": "Annual report",
+      "category": "Global Tech and Non-US Ecosystems",
+      "subcategory": "Europe",
+      "summary": "Atomico's annual data report on the European tech and venture ecosystem.",
+      "key_takeaways": [
+        "Hard data on European funding and outcomes",
+        "Tracks the gap with the US ecosystem",
+        "The reference for Europe-vs-Valley debates"
+      ],
+      "why_it_matters": "The shared factual baseline for arguing whether Europe can build globally significant tech.",
+      "audience_fit": "Investors, founders, operators",
+      "difficulty": "Beginner",
+      "tags": [
+        "europe",
+        "venture",
+        "ecosystem",
+        "data"
+      ],
+      "source_link": "https://stateofeuropeantech.com/",
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 6,
+      "conversation_note": "Brings receipts to the perennial 'why can't Europe build a trillion-dollar company' debate.",
+      "id": "state-of-european-tech",
+      "conversation": true
+    },
+    {
+      "title": "Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War",
+      "creator": "Raj M. Shah & Christopher Kirchhoff",
+      "year": 2024,
+      "format": "Book",
+      "category": "Defense, Gov, and Public Tech",
+      "subcategory": "Defense innovation",
+      "summary": "An inside account of the Defense Innovation Unit's effort to bring commercial tech speed into the Pentagon.",
+      "key_takeaways": [
+        "Why DoD procurement resists startups",
+        "How commercial tech is entering defense",
+        "The new startup–military relationship"
+      ],
+      "why_it_matters": "The clearest insider narrative on the defense-tech wave drawing Valley founders and capital.",
+      "audience_fit": "Founders, investors, policy people",
+      "difficulty": "Intermediate",
+      "tags": [
+        "defense-tech",
+        "pentagon",
+        "procurement",
+        "diu"
+      ],
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "recommended",
+      "conversation_value": 8,
+      "conversation_note": "The reference for why defense tech suddenly became cool in the Valley.",
+      "id": "unit-x-how-the-pentagon-and-silicon-valley-are-transforming",
+      "conversation": true
+    },
+    {
+      "title": "The Kill Chain: Defending America in the Future of High-Tech Warfare",
+      "creator": "Christian Brose",
+      "year": 2020,
+      "format": "Book",
+      "category": "Defense, Gov, and Public Tech",
+      "subcategory": "Future of warfare",
+      "summary": "A former Senate staffer argues US defense must shift from expensive platforms to networked, software-defined systems.",
+      "key_takeaways": [
+        "'Kill chain' speed over legacy platforms",
+        "Software and autonomy as decisive",
+        "A critique of defense acquisition"
+      ],
+      "why_it_matters": "Shapes the thesis behind Anduril-style defense startups and the software-eats-defense argument.",
+      "audience_fit": "Founders, investors, policy people",
+      "difficulty": "Intermediate",
+      "tags": [
+        "defense",
+        "autonomy",
+        "software",
+        "strategy"
+      ],
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "recommended",
+      "conversation_value": 7,
+      "conversation_note": "The intellectual backbone of the new defense-tech startups.",
+      "id": "the-kill-chain-defending-america-in-the-future-of-high-tech",
+      "conversation": true
+    },
+    {
       "id": "where-wizards-stay-up-late",
       "title": "Where Wizards Stay Up Late: The Origins of the Internet",
       "creator": "Katie Hafner, Matthew Lyon",
@@ -5378,6 +5893,217 @@
       "conversation": true
     },
     {
+      "title": "Web3 Is Going Just Great",
+      "creator": "Molly White",
+      "year": 2021,
+      "format": "Website / running ledger",
+      "category": "Crypto and Web3",
+      "subcategory": "Critique",
+      "summary": "A continuously updated catalog of crypto hacks, scams, and collapses, with tallied losses.",
+      "key_takeaways": [
+        "A running tally of crypto's failures",
+        "Sharp, evidence-based skepticism",
+        "The most-cited critical resource in the space"
+      ],
+      "why_it_matters": "The definitive skeptic's reference — a factual counterweight to web3 hype.",
+      "audience_fit": "Investors, skeptics, journalists",
+      "difficulty": "Beginner",
+      "tags": [
+        "crypto",
+        "critique",
+        "scams",
+        "skepticism"
+      ],
+      "source_link": "https://www.web3isgoinggreat.com/",
+      "credibility": 7,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "The receipts for anyone arguing crypto is mostly grift.",
+      "id": "web3-is-going-just-great",
+      "conversation": true
+    },
+    {
+      "title": "Where Is My Flying Car?",
+      "creator": "J. Storrs Hall",
+      "year": 2018,
+      "format": "Book",
+      "category": "Climate, Energy, and Deep Tech",
+      "subcategory": "Stagnation & progress",
+      "summary": "An argument that energy and atom-world progress stalled, with nanotech and nuclear as the unrealized future.",
+      "key_takeaways": [
+        "The 'great stagnation' in physical technology",
+        "Cheap, abundant energy as the missing input",
+        "A cult favorite of the progress movement"
+      ],
+      "why_it_matters": "A beloved SV deep-tech text that frames the 'why did atoms stop progressing' debate.",
+      "audience_fit": "Founders, deep-tech builders, the progress crowd",
+      "difficulty": "Intermediate",
+      "tags": [
+        "deep-tech",
+        "energy",
+        "stagnation",
+        "progress"
+      ],
+      "credibility": 7,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 8,
+      "conversation_note": "Catnip for the progress-studies crowd; instantly starts an 'are we stagnating' debate.",
+      "id": "where-is-my-flying-car",
+      "conversation": true
+    },
+    {
+      "title": "How to Avoid a Climate Disaster",
+      "creator": "Bill Gates",
+      "year": 2021,
+      "format": "Book",
+      "category": "Climate, Energy, and Deep Tech",
+      "subcategory": "Climate strategy",
+      "summary": "Bill Gates's framework for getting to net-zero, organized around 'green premiums' and hard-to-abate sectors.",
+      "key_takeaways": [
+        "The 51-gigaton framing of the problem",
+        "'Green premium' as a decision tool",
+        "Innovation, not just deployment, is needed"
+      ],
+      "why_it_matters": "A widely-read, investor-friendly map of the climate-tech opportunity space.",
+      "audience_fit": "Founders, investors, operators",
+      "difficulty": "Beginner",
+      "tags": [
+        "climate",
+        "net-zero",
+        "green-premium",
+        "deep-tech"
+      ],
+      "credibility": 7,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "'Green premium' gives a shared lens for evaluating any climate startup.",
+      "id": "how-to-avoid-a-climate-disaster",
+      "conversation": true
+    },
+    {
+      "title": "Blitzscaling",
+      "creator": "Reid Hoffman & Chris Yeh",
+      "year": 2018,
+      "format": "Book",
+      "category": "Global Tech and Non-US Ecosystems",
+      "subcategory": "Scaling & global competition",
+      "summary": "A playbook for prioritizing speed over efficiency to win winner-take-most markets, with heavy US–China framing.",
+      "key_takeaways": [
+        "Prioritize speed over efficiency to capture markets",
+        "Winner-take-most dynamics justify the risk",
+        "Explicit US vs China scaling comparison"
+      ],
+      "why_it_matters": "A widely-debated (and criticized) thesis on how global tech races are won.",
+      "audience_fit": "Founders, investors, operators",
+      "difficulty": "Intermediate",
+      "tags": [
+        "scaling",
+        "winner-take-most",
+        "china",
+        "strategy"
+      ],
+      "credibility": 7,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "Loved and loathed — a reliable way to start a scaling-strategy argument.",
+      "id": "blitzscaling",
+      "conversation": true
+    },
+    {
+      "title": "Remote: Office Not Required",
+      "creator": "Jason Fried & David Heinemeier Hansson",
+      "year": 2013,
+      "format": "Book",
+      "category": "Future of Work and Labor",
+      "subcategory": "Remote work",
+      "summary": "The 37signals founders' early, influential case for remote work and async collaboration.",
+      "key_takeaways": [
+        "Remote work as default, not exception",
+        "Async over synchronous communication",
+        "Trust and output over hours and presence"
+      ],
+      "why_it_matters": "The pre-pandemic playbook that framed the remote-vs-office fight now central to tech.",
+      "audience_fit": "Founders, managers, operators",
+      "difficulty": "Beginner",
+      "tags": [
+        "remote-work",
+        "async",
+        "culture",
+        "management"
+      ],
+      "credibility": 7,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "The opening move in any remote-vs-return-to-office debate.",
+      "id": "remote-office-not-required",
+      "conversation": true
+    },
+    {
+      "title": "A World Without Email",
+      "creator": "Cal Newport",
+      "year": 2021,
+      "format": "Book",
+      "category": "Future of Work and Labor",
+      "subcategory": "Knowledge work",
+      "summary": "Cal Newport argues the 'hyperactive hive mind' of constant messaging wrecks knowledge-work productivity.",
+      "key_takeaways": [
+        "Constant messaging is a productivity tax",
+        "Design workflows, don't just react",
+        "Attention as the scarce resource of knowledge work"
+      ],
+      "why_it_matters": "A practical, widely-discussed critique of how modern teams actually (fail to) work.",
+      "audience_fit": "Founders, managers, knowledge workers",
+      "difficulty": "Beginner",
+      "tags": [
+        "productivity",
+        "email",
+        "focus",
+        "knowledge-work"
+      ],
+      "credibility": 7,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 6,
+      "conversation_note": "Resonates with anyone drowning in Slack — easy, relatable debate.",
+      "id": "a-world-without-email",
+      "conversation": true
+    },
+    {
+      "title": "The Pentagon's Brain",
+      "creator": "Annie Jacobsen",
+      "year": 2015,
+      "format": "Book",
+      "category": "Defense, Gov, and Public Tech",
+      "subcategory": "DARPA history",
+      "summary": "A history of DARPA and its role in everything from the internet to autonomous weapons.",
+      "key_takeaways": [
+        "DARPA's outsized role in modern tech",
+        "Government moonshots and their legacy",
+        "The blurry line between defense and civilian tech"
+      ],
+      "why_it_matters": "Context for DARPA's role in tech history and today's renewed state–startup ties.",
+      "audience_fit": "Founders, historians, policy people",
+      "difficulty": "Intermediate",
+      "tags": [
+        "darpa",
+        "defense",
+        "history",
+        "r-and-d"
+      ],
+      "credibility": 8,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 6,
+      "conversation_note": "Reminds everyone how much 'commercial' tech started as defense research.",
+      "id": "the-pentagon-s-brain",
+      "conversation": true
+    },
+    {
       "id": "something-ventured-documentary",
       "title": "Something Ventured",
       "creator": "Dan Geller, Dayna Goldfine",
@@ -5554,6 +6280,247 @@
       "conversation": true
     },
     {
+      "title": "Going Infinite: The Rise and Fall of a New Tycoon",
+      "creator": "Michael Lewis",
+      "year": 2023,
+      "format": "Book",
+      "category": "Crypto and Web3",
+      "subcategory": "Fraud & collapse",
+      "summary": "Michael Lewis's close-up account of Sam Bankman-Fried and the collapse of FTX.",
+      "key_takeaways": [
+        "An inside view of FTX's rise and implosion",
+        "Effective altruism, risk, and hubris collide",
+        "A polarizing portrait that splits readers"
+      ],
+      "why_it_matters": "FTX is the defining crypto scandal; Lewis's controversial take is itself a debate.",
+      "audience_fit": "Founders, investors, the crypto-curious",
+      "difficulty": "Beginner",
+      "tags": [
+        "ftx",
+        "sbf",
+        "fraud",
+        "effective-altruism"
+      ],
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 8,
+      "conversation_note": "Everyone has a hot take on SBF and whether Lewis went too easy on him.",
+      "id": "going-infinite-the-rise-and-fall-of-a-new-tycoon",
+      "conversation": true
+    },
+    {
+      "title": "Number Go Up",
+      "creator": "Zeke Faux",
+      "year": 2023,
+      "format": "Book",
+      "category": "Crypto and Web3",
+      "subcategory": "Critique",
+      "summary": "An investigative romp through the crypto bubble, Tether, and the industry's seedier corners.",
+      "key_takeaways": [
+        "Skeptical, on-the-ground reporting on crypto mania",
+        "Hard questions about Tether and stablecoins",
+        "A counterweight to crypto triumphalism"
+      ],
+      "why_it_matters": "The best-known skeptical narrative — essential for arguing the bear case credibly.",
+      "audience_fit": "Investors, founders, skeptics",
+      "difficulty": "Beginner",
+      "tags": [
+        "crypto",
+        "tether",
+        "bubble",
+        "critique"
+      ],
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "Pair it with a believer's book and you have a built-in crypto debate.",
+      "id": "number-go-up",
+      "conversation": true
+    },
+    {
+      "title": "Read Write Own",
+      "creator": "Chris Dixon",
+      "year": 2024,
+      "format": "Book",
+      "category": "Crypto and Web3",
+      "subcategory": "Web3 thesis",
+      "summary": "a16z's Chris Dixon makes the case for blockchains as networks that let users own a piece of the internet.",
+      "key_takeaways": [
+        "'Read, write, own' as the third internet era",
+        "Tokens align networks with their users",
+        "The strongest articulation of the pro-web3 thesis"
+      ],
+      "why_it_matters": "The clearest statement of the optimistic web3 case from its biggest backer.",
+      "audience_fit": "Founders, investors, builders",
+      "difficulty": "Beginner",
+      "tags": [
+        "web3",
+        "tokens",
+        "ownership",
+        "a16z"
+      ],
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "The believer's case — debate it against Molly White's ledger of disasters.",
+      "id": "read-write-own",
+      "conversation": true
+    },
+    {
+      "title": "Speed & Scale",
+      "creator": "John Doerr",
+      "year": 2021,
+      "format": "Book",
+      "category": "Climate, Energy, and Deep Tech",
+      "subcategory": "Climate execution",
+      "summary": "Venture investor John Doerr applies OKRs to a global plan for reaching net-zero emissions.",
+      "key_takeaways": [
+        "An OKR-driven action plan for climate",
+        "Measurable targets across sectors",
+        "VC operating discipline applied to climate"
+      ],
+      "why_it_matters": "Connects the climate agenda to the execution language SV already speaks.",
+      "audience_fit": "Founders, investors, operators",
+      "difficulty": "Beginner",
+      "tags": [
+        "climate",
+        "okrs",
+        "execution",
+        "venture"
+      ],
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 6,
+      "conversation_note": "Bridges climate to OKRs — comfortable territory for operators.",
+      "id": "speed-scale",
+      "conversation": true
+    },
+    {
+      "title": "The Billionaire Raj",
+      "creator": "James Crabtree",
+      "year": 2018,
+      "format": "Book",
+      "category": "Global Tech and Non-US Ecosystems",
+      "subcategory": "India",
+      "summary": "A portrait of India's new tycoon economy, inequality, and the conditions shaping its tech and business boom.",
+      "key_takeaways": [
+        "The dynamics behind India's startup surge",
+        "Inequality and crony-capital tensions",
+        "Context for the world's fastest-growing internet market"
+      ],
+      "why_it_matters": "Essential background for the India-as-next-big-market thesis investors love to debate.",
+      "audience_fit": "Investors, founders, operators",
+      "difficulty": "Intermediate",
+      "tags": [
+        "india",
+        "markets",
+        "inequality",
+        "ecosystems"
+      ],
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "Adds nuance to the 'India is the next China' investor pitch.",
+      "id": "the-billionaire-raj",
+      "conversation": true
+    },
+    {
+      "title": "Bullshit Jobs",
+      "creator": "David Graeber",
+      "year": 2018,
+      "format": "Book",
+      "category": "Future of Work and Labor",
+      "subcategory": "Meaning of work",
+      "summary": "Anthropologist David Graeber argues a large share of modern jobs are pointless and explains why they persist.",
+      "key_takeaways": [
+        "A taxonomy of meaningless work",
+        "Why useless jobs survive economically",
+        "A provocation about work and value"
+      ],
+      "why_it_matters": "A polarizing, widely-cited lens on automation, meaning, and the value of work.",
+      "audience_fit": "Founders, operators, the work-curious",
+      "difficulty": "Beginner",
+      "tags": [
+        "work",
+        "meaning",
+        "automation",
+        "labor"
+      ],
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 8,
+      "conversation_note": "Everyone has a 'bullshit job' story — and an opinion on whether theirs counts.",
+      "id": "bullshit-jobs",
+      "conversation": true
+    },
+    {
+      "title": "Rise of the Robots",
+      "creator": "Martin Ford",
+      "year": 2015,
+      "format": "Book",
+      "category": "Future of Work and Labor",
+      "subcategory": "Automation",
+      "summary": "An argument that automation and AI will displace large swaths of jobs across skill levels.",
+      "key_takeaways": [
+        "Automation may hit white-collar work too",
+        "Structural unemployment and inequality risks",
+        "An early case for ideas like UBI"
+      ],
+      "why_it_matters": "A foundational text for the automation-and-jobs debate now supercharged by AI.",
+      "audience_fit": "Founders, policy people, operators",
+      "difficulty": "Beginner",
+      "tags": [
+        "automation",
+        "jobs",
+        "ubi",
+        "labor"
+      ],
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "The on-ramp to 'will AI take the jobs' — pairs well with today's headlines.",
+      "id": "rise-of-the-robots",
+      "conversation": true
+    },
+    {
+      "title": "996.ICU",
+      "creator": "Chinese tech workers (GitHub)",
+      "year": 2019,
+      "format": "Open repository / movement",
+      "category": "Future of Work and Labor",
+      "subcategory": "Labor & culture",
+      "summary": "A viral GitHub project protesting China's '996' (9am–9pm, 6 days) overwork culture in tech.",
+      "key_takeaways": [
+        "Grassroots protest against tech overwork",
+        "'996' as shorthand for extreme hustle culture",
+        "Labor pushback inside a censored ecosystem"
+      ],
+      "why_it_matters": "A vivid global counterpoint to hustle culture and the limits of the grind.",
+      "audience_fit": "Founders, operators, the globally-curious",
+      "difficulty": "Beginner",
+      "tags": [
+        "996",
+        "overwork",
+        "china",
+        "labor"
+      ],
+      "source_link": "https://github.com/996icu/996.ICU",
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "A sharp prompt for the hustle-culture-vs-burnout debate, with a global angle.",
+      "id": "996-icu",
+      "conversation": true
+    },
+    {
       "id": "canon-of-design-product-management",
       "title": "The Canon of Design for a New Journey in Product Management",
       "creator": "Rajiv Kaul (Intelligaia)",
@@ -5670,6 +6637,36 @@
       "conversation_value": 7,
       "conversation_note": "Widely watched — easy to reference, easy to debate (insiders vs. overstated).",
       "id": "the-social-dilemma",
+      "conversation": true
+    },
+    {
+      "title": "Rebuild the Arsenal of Democracy (Anduril)",
+      "creator": "Palmer Luckey / Anduril",
+      "year": 2024,
+      "format": "Manifesto / essay",
+      "category": "Defense, Gov, and Public Tech",
+      "subcategory": "Defense startups",
+      "summary": "Anduril's public argument for software-defined, commercially-built weapons and a reformed defense industrial base.",
+      "key_takeaways": [
+        "Commercial-style product approach to weapons",
+        "Critique of legacy defense primes",
+        "Explicit Valley-meets-military thesis"
+      ],
+      "why_it_matters": "A lightning-rod statement of the new, openly patriotic defense-tech posture in the Valley.",
+      "audience_fit": "Founders, investors, policy people",
+      "difficulty": "Beginner",
+      "tags": [
+        "anduril",
+        "defense-tech",
+        "manifesto",
+        "industrial-base"
+      ],
+      "credibility": 6,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "Splits the room on whether founders should build weapons — a live SV fault line.",
+      "id": "rebuild-the-arsenal-of-democracy-anduril",
       "conversation": true
     }
   ]

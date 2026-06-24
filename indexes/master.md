@@ -2,7 +2,7 @@
 
 > A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.
 
-**190 curated items** · 31 core · last updated 2026-06-23 · version 1.8.0
+**223 curated items** · 31 core · last updated 2026-06-23 · version 1.8.0
 
 This is the human-readable overview. The machine-readable source of truth is [`master.json`](master.json). Everything in this repo is generated from it.
 
@@ -24,7 +24,13 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 - **[Internet and Big Tech History](../kb/topic-hubs/internet-history.md)** (19) — Where computing and the internet came from — the people, labs, and machines that made it all possible.
 - **[Documentary and Long-Form Media](../kb/topic-hubs/documentary-long-form.md)** (13) — Films and long-form storytelling that capture the culture and history of technology.
 - **[Must-Watch Core Library](../kb/topic-hubs/core-library.md)** (31) — The essential cross-category set — if you only have time for a handful, start here. (Auto-collected from items marked 'core'.)
-- **[Conversation Starters](../kb/topic-hubs/conversation-starters.md)** (73) — High-signal topics worth raising in technical and founder circles — each is something smart people genuinely argue about. A cross-cutting collection; every item also lives in its home hub.
+- **[Conversation Starters](../kb/topic-hubs/conversation-starters.md)** (106) — High-signal topics worth raising in technical and founder circles — each is something smart people genuinely argue about. A cross-cutting collection; every item also lives in its home hub.
+- **[Crypto and Web3](../kb/topic-hubs/crypto-web3.md)** (7) — Blockchains, tokens, and the decade-long argument over decentralization, scaling, fraud, and whether any of it actually matters.
+- **[Hardware and Compute](../kb/topic-hubs/hardware-compute.md)** (5) — Semiconductors, the compute supply chain, and the physical substrate the entire software and AI industry runs on.
+- **[Climate, Energy, and Deep Tech](../kb/topic-hubs/climate-deep-tech.md)** (6) — Energy, climate, and hard-tech — the founders and ideas building atoms, not just bits.
+- **[Global Tech and Non-US Ecosystems](../kb/topic-hubs/global-tech.md)** (4) — Tech and venture beyond Silicon Valley: China, India, Europe, and the global contest for the next platform.
+- **[Future of Work and Labor](../kb/topic-hubs/future-of-work.md)** (6) — Remote work, hiring, team culture, automation, and the contested future of jobs.
+- **[Defense, Gov, and Public Tech](../kb/topic-hubs/defense-gov-tech.md)** (5) — Defense tech, govtech, and the new — and newly tense — relationship between startups and the state.
 
 ## Learning paths
 
@@ -80,6 +86,39 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [Allan Dafoe — AI Governance & Safety Talks](../kb/cards/allan-dafoe-ai-talks.md) | Allan Dafoe | — | Talk Collection | Intermediate | `reviewed` | 14 |
 | [The Intelligence Age](../kb/cards/the-intelligence-age.md) | Sam Altman | 2024 | Essay | Beginner | `reviewed` | 14 |
 | [AGI Ruin: A List of Lethalities](../kb/cards/agi-ruin-a-list-of-lethalities.md) | Eliezer Yudkowsky | 2022 | Essay | Advanced | `reviewed` | 12 |
+
+### Climate, Energy, and Deep Tech
+
+| Item | Creator | Year | Format | Difficulty | Status | Score |
+|---|---|---|---|---|---|---|
+| [How the World Really Works](../kb/cards/how-the-world-really-works.md) | Vaclav Smil | 2022 | Book | Intermediate | `recommended` | 17 |
+| [The Prize: The Epic Quest for Oil, Money & Power](../kb/cards/the-prize-the-epic-quest-for-oil-money-power.md) | Daniel Yergin | 1990 | Book | Advanced | `reviewed` | 16 |
+| [Stripe Climate & Advance Market Commitments (Frontier)](../kb/cards/stripe-climate-advance-market-commitments-frontier.md) | Stripe / Frontier | 2020 | Initiative / essay | Intermediate | `reviewed` | 15 |
+| [Where Is My Flying Car?](../kb/cards/where-is-my-flying-car.md) | J. Storrs Hall | 2018 | Book | Intermediate | `reviewed` | 14 |
+| [How to Avoid a Climate Disaster](../kb/cards/how-to-avoid-a-climate-disaster.md) | Bill Gates | 2021 | Book | Beginner | `reviewed` | 14 |
+| [Speed & Scale](../kb/cards/speed-scale.md) | John Doerr | 2021 | Book | Beginner | `reviewed` | 13 |
+
+### Crypto and Web3
+
+| Item | Creator | Year | Format | Difficulty | Status | Score |
+|---|---|---|---|---|---|---|
+| [Bitcoin: A Peer-to-Peer Electronic Cash System](../kb/cards/bitcoin-a-peer-to-peer-electronic-cash-system.md) | Satoshi Nakamoto | 2008 | Whitepaper | Intermediate | `recommended` | 18 |
+| [Ethereum Whitepaper](../kb/cards/ethereum-whitepaper.md) | Vitalik Buterin | 2014 | Whitepaper | Advanced | `reviewed` | 16 |
+| [The Scalability Trilemma](../kb/cards/the-scalability-trilemma.md) | Vitalik Buterin | 2021 | Essay / concept | Advanced | `reviewed` | 15 |
+| [Web3 Is Going Just Great](../kb/cards/web3-is-going-just-great.md) | Molly White | 2021 | Website / running ledger | Beginner | `reviewed` | 14 |
+| [Going Infinite: The Rise and Fall of a New Tycoon](../kb/cards/going-infinite-the-rise-and-fall-of-a-new-tycoon.md) | Michael Lewis | 2023 | Book | Beginner | `reviewed` | 13 |
+| [Number Go Up](../kb/cards/number-go-up.md) | Zeke Faux | 2023 | Book | Beginner | `reviewed` | 13 |
+| [Read Write Own](../kb/cards/read-write-own.md) | Chris Dixon | 2024 | Book | Beginner | `reviewed` | 13 |
+
+### Defense, Gov, and Public Tech
+
+| Item | Creator | Year | Format | Difficulty | Status | Score |
+|---|---|---|---|---|---|---|
+| [Recoding America](../kb/cards/recoding-america.md) | Jennifer Pahlka | 2023 | Book | Intermediate | `recommended` | 16 |
+| [Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War](../kb/cards/unit-x-how-the-pentagon-and-silicon-valley-are-transforming.md) | Raj M. Shah & Christopher Kirchhoff | 2024 | Book | Intermediate | `recommended` | 15 |
+| [The Kill Chain: Defending America in the Future of High-Tech Warfare](../kb/cards/the-kill-chain-defending-america-in-the-future-of-high-tech.md) | Christian Brose | 2020 | Book | Intermediate | `recommended` | 15 |
+| [The Pentagon's Brain](../kb/cards/the-pentagon-s-brain.md) | Annie Jacobsen | 2015 | Book | Intermediate | `reviewed` | 14 |
+| [Rebuild the Arsenal of Democracy (Anduril)](../kb/cards/rebuild-the-arsenal-of-democracy-anduril.md) | Palmer Luckey / Anduril | 2024 | Manifesto / essay | Beginner | `reviewed` | 12 |
 
 ### Documentary and Long-Form Media
 
@@ -151,6 +190,36 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [The Beginning of Infinity](../kb/cards/the-beginning-of-infinity.md) | David Deutsch | 2011 | Book | Advanced | `reviewed` | 15 |
 | [Stanford Commencement Address (2005)](../kb/cards/steve-jobs-stanford-2005.md) | Steve Jobs | 2005 | Talk | Beginner | `reviewed` | 14 |
 | [Meditations on Moloch](../kb/cards/meditations-on-moloch.md) | Scott Alexander | 2014 | Essay | Advanced | `reviewed` | 14 |
+
+### Future of Work and Labor
+
+| Item | Creator | Year | Format | Difficulty | Status | Score |
+|---|---|---|---|---|---|---|
+| [The GitLab Handbook (All-Remote)](../kb/cards/the-gitlab-handbook-all-remote.md) | GitLab | 2020 | Public handbook | Beginner | `reviewed` | 16 |
+| [Remote: Office Not Required](../kb/cards/remote-office-not-required.md) | Jason Fried & David Heinemeier Hansson | 2013 | Book | Beginner | `reviewed` | 14 |
+| [A World Without Email](../kb/cards/a-world-without-email.md) | Cal Newport | 2021 | Book | Beginner | `reviewed` | 14 |
+| [Bullshit Jobs](../kb/cards/bullshit-jobs.md) | David Graeber | 2018 | Book | Beginner | `reviewed` | 13 |
+| [Rise of the Robots](../kb/cards/rise-of-the-robots.md) | Martin Ford | 2015 | Book | Beginner | `reviewed` | 13 |
+| [996.ICU](../kb/cards/996-icu.md) | Chinese tech workers (GitHub) | 2019 | Open repository / movement | Beginner | `reviewed` | 13 |
+
+### Global Tech and Non-US Ecosystems
+
+| Item | Creator | Year | Format | Difficulty | Status | Score |
+|---|---|---|---|---|---|---|
+| [AI Superpowers: China, Silicon Valley, and the New World Order](../kb/cards/ai-superpowers-china-silicon-valley-and-the-new-world-order.md) | Kai-Fu Lee | 2018 | Book | Beginner | `recommended` | 15 |
+| [State of European Tech](../kb/cards/state-of-european-tech.md) | Atomico | 2024 | Annual report | Beginner | `reviewed` | 15 |
+| [Blitzscaling](../kb/cards/blitzscaling.md) | Reid Hoffman & Chris Yeh | 2018 | Book | Intermediate | `reviewed` | 14 |
+| [The Billionaire Raj](../kb/cards/the-billionaire-raj.md) | James Crabtree | 2018 | Book | Intermediate | `reviewed` | 13 |
+
+### Hardware and Compute
+
+| Item | Creator | Year | Format | Difficulty | Status | Score |
+|---|---|---|---|---|---|---|
+| [Chip War: The Fight for the World's Most Critical Technology](../kb/cards/chip-war-the-fight-for-the-world-s-most-critical-technology.md) | Chris Miller | 2022 | Book | Intermediate | `recommended` | 18 |
+| [Cramming More Components onto Integrated Circuits](../kb/cards/cramming-more-components-onto-integrated-circuits.md) | Gordon Moore | 1965 | Paper | Intermediate | `recommended` | 17 |
+| [Acquired: TSMC](../kb/cards/acquired-tsmc.md) | Acquired (Ben Gilbert & David Rosenthal) | 2021 | Podcast episode | Intermediate | `recommended` | 16 |
+| [Acquired: NVIDIA](../kb/cards/acquired-nvidia.md) | Acquired (Ben Gilbert & David Rosenthal) | 2022 | Podcast episode | Intermediate | `recommended` | 16 |
+| [The Idea Factory: Bell Labs and the Great Age of American Innovation](../kb/cards/the-idea-factory-bell-labs-and-the-great-age-of-american-inn.md) | Jon Gertner | 2012 | Book | Intermediate | `recommended` | 16 |
 
 ### Internet and Big Tech History
 

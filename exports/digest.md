@@ -2,7 +2,7 @@
 
 > A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.
 
-190 curated items · generated 2026-06-24. This single file is meant to be sent to a teammate as a complete snapshot.
+223 curated items · generated 2026-06-24. This single file is meant to be sent to a teammate as a complete snapshot.
 
 ---
 
@@ -1154,6 +1154,34 @@ The theory that internet-era winners aggregate demand by owning the user relatio
 
 ---
 
+## Bitcoin: A Peer-to-Peer Electronic Cash System
+*Satoshi Nakamoto · 2008 · Whitepaper · Crypto and Web3 → Origins*
+`Intermediate` · cred 10/10 · useful 8/10 · status `recommended`
+
+The nine-page whitepaper that introduced Bitcoin and a working solution to double-spending without a trusted third party.
+
+**Key takeaways:** (1) Proof-of-work and a public ledger solve double-spending (2) Trust-minimized money without intermediaries (3) The founding document of an entire industry
+
+**Why it matters:** The origin text of crypto; you can't seriously discuss the space without it.
+
+**Source:** [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
+
+---
+
+## Chip War: The Fight for the World's Most Critical Technology
+*Chris Miller · 2022 · Book · Hardware and Compute → Geopolitics of semiconductors*
+`Intermediate` · cred 9/10 · useful 9/10 · status `recommended`
+
+A history of the semiconductor industry and the US–China struggle for control of advanced chips.
+
+**Key takeaways:** (1) Chips as the oil of the 21st century (2) TSMC, ASML, and choke points in the supply chain (3) Why semiconductors are now geopolitics
+
+**Why it matters:** The definitive primer on the compute supply chain everyone now debates.
+
+**Source:** _No single canonical link._
+
+---
+
 ## ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)
 *Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton · 2012 · Paper · AI Foundations → Deep Learning Architectures*
 `Advanced` · cred 10/10 · useful 7/10 · status `recommended`
@@ -1644,6 +1672,34 @@ The Nobel laureate's synthesis of System 1 / System 2 thinking and cognitive bia
 
 ---
 
+## Cramming More Components onto Integrated Circuits
+*Gordon Moore · 1965 · Paper · Hardware and Compute → Foundational*
+`Intermediate` · cred 10/10 · useful 7/10 · status `recommended`
+
+The paper that introduced what became Moore's Law — the doubling of transistor density over time.
+
+**Key takeaways:** (1) The empirical 'law' that drove five decades of progress (2) Exponential improvement as an industry organizing principle (3) The debate over whether it is ending
+
+**Why it matters:** The single most influential prediction in computing; its slowdown reframes everything.
+
+**Source:** _No single canonical link._
+
+---
+
+## How the World Really Works
+*Vaclav Smil · 2022 · Book · Climate, Energy, and Deep Tech → Energy realism*
+`Intermediate` · cred 9/10 · useful 8/10 · status `recommended`
+
+Vaclav Smil's data-grounded account of energy, food, materials, and the physical realities behind modern life.
+
+**Key takeaways:** (1) Fossil fuels underpin food, steel, cement, plastics (2) Energy transitions are slow and material-intensive (3) A sober counter to techno-optimist timelines
+
+**Why it matters:** Smil is the energy realist that founders (and Bill Gates) cite to check climate hype.
+
+**Source:** _No single canonical link._
+
+---
+
 ## Out of the Tar Pit
 *Ben Moseley, Peter Marks · 2006 · Paper · Engineering and Systems → Software Complexity*
 `Advanced` · cred 8/10 · useful 8/10 · status `reviewed`
@@ -1961,6 +2017,104 @@ Christensen's theory that customers 'hire' products to do a job, reframing how t
 **Key takeaways:** (1) Customers hire products for a 'job' (2) Causation over correlation in demand (3) Reframes segmentation and innovation
 
 **Why it matters:** JTBD is everyday product vocabulary; the milkshake story is a shared reference.
+
+**Source:** _No single canonical link._
+
+---
+
+## Ethereum Whitepaper
+*Vitalik Buterin · 2014 · Whitepaper · Crypto and Web3 → Smart contracts*
+`Advanced` · cred 9/10 · useful 7/10 · status `reviewed`
+
+Vitalik Buterin's proposal for a programmable blockchain with a Turing-complete scripting language.
+
+**Key takeaways:** (1) Generalizes blockchains from money to arbitrary programs (2) Smart contracts and dapps as primitives (3) Foundation for DeFi, NFTs, and DAOs
+
+**Why it matters:** It reframed blockchains as world computers, defining the second era of crypto.
+
+**Source:** [https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)
+
+---
+
+## Acquired: TSMC
+*Acquired (Ben Gilbert & David Rosenthal) · 2021 · Podcast episode · Hardware and Compute → Company deep-dive*
+`Intermediate` · cred 8/10 · useful 8/10 · status `recommended`
+
+A long-form history of how Morris Chang built TSMC into the world's most important company.
+
+**Key takeaways:** (1) The pure-play foundry model that reshaped chips (2) Why the world depends on one Taiwanese firm (3) Strategy lessons in patient, capital-intensive scale
+
+**Why it matters:** The most accessible deep-dive on the single most strategically important company in tech.
+
+**Source:** _No single canonical link._
+
+---
+
+## Acquired: NVIDIA
+*Acquired (Ben Gilbert & David Rosenthal) · 2022 · Podcast episode · Hardware and Compute → Company deep-dive*
+`Intermediate` · cred 8/10 · useful 8/10 · status `recommended`
+
+A multi-part history of NVIDIA's path from gaming GPUs to the backbone of the AI boom.
+
+**Key takeaways:** (1) CUDA and the bet on general-purpose GPU compute (2) How gaming hardware became AI infrastructure (3) Jensen Huang's long-horizon strategy
+
+**Why it matters:** NVIDIA is the company at the center of the AI era; this is the canonical narrative.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Idea Factory: Bell Labs and the Great Age of American Innovation
+*Jon Gertner · 2012 · Book · Hardware and Compute → Innovation history*
+`Intermediate` · cred 9/10 · useful 7/10 · status `recommended`
+
+The story of Bell Labs and how it produced the transistor, the laser, information theory, and more.
+
+**Key takeaways:** (1) How a single lab invented the modern world (2) Conditions that produce breakthrough research (3) A model (and warning) for industrial R&D
+
+**Why it matters:** The reference point for debates about where real innovation comes from.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Prize: The Epic Quest for Oil, Money & Power
+*Daniel Yergin · 1990 · Book · Climate, Energy, and Deep Tech → Energy history*
+`Advanced` · cred 9/10 · useful 7/10 · status `reviewed`
+
+A Pulitzer-winning history of the oil industry and how energy shaped the modern world and geopolitics.
+
+**Key takeaways:** (1) Energy as the hidden driver of geopolitics (2) How the oil industry built the 20th century (3) Context for today's energy transition
+
+**Why it matters:** The definitive backstory for anyone reasoning about energy, power, and transition.
+
+**Source:** _No single canonical link._
+
+---
+
+## The GitLab Handbook (All-Remote)
+*GitLab · 2020 · Public handbook · Future of Work and Labor → Remote operations*
+`Beginner` · cred 8/10 · useful 8/10 · status `reviewed`
+
+GitLab's radically transparent, public handbook documenting how a large all-remote company actually runs.
+
+**Key takeaways:** (1) Handbook-first, documentation-driven culture (2) Concrete async and remote operating practices (3) Transparency as an operating system
+
+**Why it matters:** The most-cited real-world reference for how to run an all-remote company at scale.
+
+**Source:** [https://handbook.gitlab.com/handbook/company/culture/all-remote/](https://handbook.gitlab.com/handbook/company/culture/all-remote/)
+
+---
+
+## Recoding America
+*Jennifer Pahlka · 2023 · Book · Defense, Gov, and Public Tech → Govtech*
+`Intermediate` · cred 8/10 · useful 8/10 · status `recommended`
+
+The Code for America founder on why government technology fails and how to actually fix delivery.
+
+**Key takeaways:** (1) Policy and implementation are fatally separated (2) Why government software keeps failing (3) Delivery as a core governing capability
+
+**Why it matters:** The defining modern text on govtech and state capacity, cited across the political spectrum.
 
 **Source:** _No single canonical link._
 
@@ -2316,6 +2470,90 @@ A physicist's argument that good explanations drive unbounded knowledge and prog
 
 ---
 
+## The Scalability Trilemma
+*Vitalik Buterin · 2021 · Essay / concept · Crypto and Web3 → Scaling vs decentralization*
+`Advanced` · cred 8/10 · useful 7/10 · status `reviewed`
+
+The framing that blockchains struggle to be simultaneously scalable, secure, and decentralized — you trade off among the three.
+
+**Key takeaways:** (1) Scalability, security, decentralization as a trilemma (2) Explains L2s, rollups, and sharding choices (3) The core technical tension of crypto design
+
+**Why it matters:** It is the precise vocabulary for the scaling-vs-decentralization argument that defines crypto engineering.
+
+**Source:** _No single canonical link._
+
+---
+
+## Stripe Climate & Advance Market Commitments (Frontier)
+*Stripe / Frontier · 2020 · Initiative / essay · Climate, Energy, and Deep Tech → Carbon removal*
+`Intermediate` · cred 8/10 · useful 7/10 · status `reviewed`
+
+Stripe's effort to fund early carbon-removal via advance market commitments, later expanded as Frontier.
+
+**Key takeaways:** (1) Advance market commitments to pull tech into existence (2) Software money funding hard climate tech (3) A new model for funding deep tech
+
+**Why it matters:** A concrete, much-discussed example of tech capital trying to bootstrap a hard market.
+
+**Source:** [https://stripe.com/climate](https://stripe.com/climate)
+
+---
+
+## AI Superpowers: China, Silicon Valley, and the New World Order
+*Kai-Fu Lee · 2018 · Book · Global Tech and Non-US Ecosystems → China & US AI*
+`Beginner` · cred 8/10 · useful 7/10 · status `recommended`
+
+Kai-Fu Lee's comparison of the Chinese and American AI ecosystems and what each does better.
+
+**Key takeaways:** (1) China's execution-and-data advantages (2) Different innovation cultures, US vs China (3) AI's labor and geopolitical implications
+
+**Why it matters:** The reference book for the US–China AI competition framing that recurs constantly.
+
+**Source:** _No single canonical link._
+
+---
+
+## State of European Tech
+*Atomico · 2024 · Annual report · Global Tech and Non-US Ecosystems → Europe*
+`Beginner` · cred 8/10 · useful 7/10 · status `reviewed`
+
+Atomico's annual data report on the European tech and venture ecosystem.
+
+**Key takeaways:** (1) Hard data on European funding and outcomes (2) Tracks the gap with the US ecosystem (3) The reference for Europe-vs-Valley debates
+
+**Why it matters:** The shared factual baseline for arguing whether Europe can build globally significant tech.
+
+**Source:** [https://stateofeuropeantech.com/](https://stateofeuropeantech.com/)
+
+---
+
+## Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War
+*Raj M. Shah & Christopher Kirchhoff · 2024 · Book · Defense, Gov, and Public Tech → Defense innovation*
+`Intermediate` · cred 8/10 · useful 7/10 · status `recommended`
+
+An inside account of the Defense Innovation Unit's effort to bring commercial tech speed into the Pentagon.
+
+**Key takeaways:** (1) Why DoD procurement resists startups (2) How commercial tech is entering defense (3) The new startup–military relationship
+
+**Why it matters:** The clearest insider narrative on the defense-tech wave drawing Valley founders and capital.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Kill Chain: Defending America in the Future of High-Tech Warfare
+*Christian Brose · 2020 · Book · Defense, Gov, and Public Tech → Future of warfare*
+`Intermediate` · cred 8/10 · useful 7/10 · status `recommended`
+
+A former Senate staffer argues US defense must shift from expensive platforms to networked, software-defined systems.
+
+**Key takeaways:** (1) 'Kill chain' speed over legacy platforms (2) Software and autonomy as decisive (3) A critique of defense acquisition
+
+**Why it matters:** Shapes the thesis behind Anduril-style defense startups and the software-eats-defense argument.
+
+**Source:** _No single canonical link._
+
+---
+
 ## Where Wizards Stay Up Late: The Origins of the Internet
 *Katie Hafner, Matthew Lyon · 1996 · Book · Internet and Big Tech History → Internet Origins*
 `Beginner` · cred 8/10 · useful 6/10 · status `reviewed`
@@ -2526,6 +2764,104 @@ An essay using 'Moloch' as a metaphor for coordination failures where everyone r
 
 ---
 
+## Web3 Is Going Just Great
+*Molly White · 2021 · Website / running ledger · Crypto and Web3 → Critique*
+`Beginner` · cred 7/10 · useful 7/10 · status `reviewed`
+
+A continuously updated catalog of crypto hacks, scams, and collapses, with tallied losses.
+
+**Key takeaways:** (1) A running tally of crypto's failures (2) Sharp, evidence-based skepticism (3) The most-cited critical resource in the space
+
+**Why it matters:** The definitive skeptic's reference — a factual counterweight to web3 hype.
+
+**Source:** [https://www.web3isgoinggreat.com/](https://www.web3isgoinggreat.com/)
+
+---
+
+## Where Is My Flying Car?
+*J. Storrs Hall · 2018 · Book · Climate, Energy, and Deep Tech → Stagnation & progress*
+`Intermediate` · cred 7/10 · useful 7/10 · status `reviewed`
+
+An argument that energy and atom-world progress stalled, with nanotech and nuclear as the unrealized future.
+
+**Key takeaways:** (1) The 'great stagnation' in physical technology (2) Cheap, abundant energy as the missing input (3) A cult favorite of the progress movement
+
+**Why it matters:** A beloved SV deep-tech text that frames the 'why did atoms stop progressing' debate.
+
+**Source:** _No single canonical link._
+
+---
+
+## How to Avoid a Climate Disaster
+*Bill Gates · 2021 · Book · Climate, Energy, and Deep Tech → Climate strategy*
+`Beginner` · cred 7/10 · useful 7/10 · status `reviewed`
+
+Bill Gates's framework for getting to net-zero, organized around 'green premiums' and hard-to-abate sectors.
+
+**Key takeaways:** (1) The 51-gigaton framing of the problem (2) 'Green premium' as a decision tool (3) Innovation, not just deployment, is needed
+
+**Why it matters:** A widely-read, investor-friendly map of the climate-tech opportunity space.
+
+**Source:** _No single canonical link._
+
+---
+
+## Blitzscaling
+*Reid Hoffman & Chris Yeh · 2018 · Book · Global Tech and Non-US Ecosystems → Scaling & global competition*
+`Intermediate` · cred 7/10 · useful 7/10 · status `reviewed`
+
+A playbook for prioritizing speed over efficiency to win winner-take-most markets, with heavy US–China framing.
+
+**Key takeaways:** (1) Prioritize speed over efficiency to capture markets (2) Winner-take-most dynamics justify the risk (3) Explicit US vs China scaling comparison
+
+**Why it matters:** A widely-debated (and criticized) thesis on how global tech races are won.
+
+**Source:** _No single canonical link._
+
+---
+
+## Remote: Office Not Required
+*Jason Fried & David Heinemeier Hansson · 2013 · Book · Future of Work and Labor → Remote work*
+`Beginner` · cred 7/10 · useful 7/10 · status `reviewed`
+
+The 37signals founders' early, influential case for remote work and async collaboration.
+
+**Key takeaways:** (1) Remote work as default, not exception (2) Async over synchronous communication (3) Trust and output over hours and presence
+
+**Why it matters:** The pre-pandemic playbook that framed the remote-vs-office fight now central to tech.
+
+**Source:** _No single canonical link._
+
+---
+
+## A World Without Email
+*Cal Newport · 2021 · Book · Future of Work and Labor → Knowledge work*
+`Beginner` · cred 7/10 · useful 7/10 · status `reviewed`
+
+Cal Newport argues the 'hyperactive hive mind' of constant messaging wrecks knowledge-work productivity.
+
+**Key takeaways:** (1) Constant messaging is a productivity tax (2) Design workflows, don't just react (3) Attention as the scarce resource of knowledge work
+
+**Why it matters:** A practical, widely-discussed critique of how modern teams actually (fail to) work.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Pentagon's Brain
+*Annie Jacobsen · 2015 · Book · Defense, Gov, and Public Tech → DARPA history*
+`Intermediate` · cred 8/10 · useful 6/10 · status `reviewed`
+
+A history of DARPA and its role in everything from the internet to autonomous weapons.
+
+**Key takeaways:** (1) DARPA's outsized role in modern tech (2) Government moonshots and their legacy (3) The blurry line between defense and civilian tech
+
+**Why it matters:** Context for DARPA's role in tech history and today's renewed state–startup ties.
+
+**Source:** _No single canonical link._
+
+---
+
 ## Something Ventured
 *Dan Geller, Dayna Goldfine · 2011 · Documentary · Documentary and Long-Form Media → Venture History*
 `Beginner` · cred 7/10 · useful 6/10 · status `reviewed`
@@ -2610,6 +2946,118 @@ The cyberpunk novel that coined the 'Metaverse' and shaped how technologists ima
 
 ---
 
+## Going Infinite: The Rise and Fall of a New Tycoon
+*Michael Lewis · 2023 · Book · Crypto and Web3 → Fraud & collapse*
+`Beginner` · cred 7/10 · useful 6/10 · status `reviewed`
+
+Michael Lewis's close-up account of Sam Bankman-Fried and the collapse of FTX.
+
+**Key takeaways:** (1) An inside view of FTX's rise and implosion (2) Effective altruism, risk, and hubris collide (3) A polarizing portrait that splits readers
+
+**Why it matters:** FTX is the defining crypto scandal; Lewis's controversial take is itself a debate.
+
+**Source:** _No single canonical link._
+
+---
+
+## Number Go Up
+*Zeke Faux · 2023 · Book · Crypto and Web3 → Critique*
+`Beginner` · cred 7/10 · useful 6/10 · status `reviewed`
+
+An investigative romp through the crypto bubble, Tether, and the industry's seedier corners.
+
+**Key takeaways:** (1) Skeptical, on-the-ground reporting on crypto mania (2) Hard questions about Tether and stablecoins (3) A counterweight to crypto triumphalism
+
+**Why it matters:** The best-known skeptical narrative — essential for arguing the bear case credibly.
+
+**Source:** _No single canonical link._
+
+---
+
+## Read Write Own
+*Chris Dixon · 2024 · Book · Crypto and Web3 → Web3 thesis*
+`Beginner` · cred 7/10 · useful 6/10 · status `reviewed`
+
+a16z's Chris Dixon makes the case for blockchains as networks that let users own a piece of the internet.
+
+**Key takeaways:** (1) 'Read, write, own' as the third internet era (2) Tokens align networks with their users (3) The strongest articulation of the pro-web3 thesis
+
+**Why it matters:** The clearest statement of the optimistic web3 case from its biggest backer.
+
+**Source:** _No single canonical link._
+
+---
+
+## Speed & Scale
+*John Doerr · 2021 · Book · Climate, Energy, and Deep Tech → Climate execution*
+`Beginner` · cred 7/10 · useful 6/10 · status `reviewed`
+
+Venture investor John Doerr applies OKRs to a global plan for reaching net-zero emissions.
+
+**Key takeaways:** (1) An OKR-driven action plan for climate (2) Measurable targets across sectors (3) VC operating discipline applied to climate
+
+**Why it matters:** Connects the climate agenda to the execution language SV already speaks.
+
+**Source:** _No single canonical link._
+
+---
+
+## The Billionaire Raj
+*James Crabtree · 2018 · Book · Global Tech and Non-US Ecosystems → India*
+`Intermediate` · cred 7/10 · useful 6/10 · status `reviewed`
+
+A portrait of India's new tycoon economy, inequality, and the conditions shaping its tech and business boom.
+
+**Key takeaways:** (1) The dynamics behind India's startup surge (2) Inequality and crony-capital tensions (3) Context for the world's fastest-growing internet market
+
+**Why it matters:** Essential background for the India-as-next-big-market thesis investors love to debate.
+
+**Source:** _No single canonical link._
+
+---
+
+## Bullshit Jobs
+*David Graeber · 2018 · Book · Future of Work and Labor → Meaning of work*
+`Beginner` · cred 7/10 · useful 6/10 · status `reviewed`
+
+Anthropologist David Graeber argues a large share of modern jobs are pointless and explains why they persist.
+
+**Key takeaways:** (1) A taxonomy of meaningless work (2) Why useless jobs survive economically (3) A provocation about work and value
+
+**Why it matters:** A polarizing, widely-cited lens on automation, meaning, and the value of work.
+
+**Source:** _No single canonical link._
+
+---
+
+## Rise of the Robots
+*Martin Ford · 2015 · Book · Future of Work and Labor → Automation*
+`Beginner` · cred 7/10 · useful 6/10 · status `reviewed`
+
+An argument that automation and AI will displace large swaths of jobs across skill levels.
+
+**Key takeaways:** (1) Automation may hit white-collar work too (2) Structural unemployment and inequality risks (3) An early case for ideas like UBI
+
+**Why it matters:** A foundational text for the automation-and-jobs debate now supercharged by AI.
+
+**Source:** _No single canonical link._
+
+---
+
+## 996.ICU
+*Chinese tech workers (GitHub) · 2019 · Open repository / movement · Future of Work and Labor → Labor & culture*
+`Beginner` · cred 7/10 · useful 6/10 · status `reviewed`
+
+A viral GitHub project protesting China's '996' (9am–9pm, 6 days) overwork culture in tech.
+
+**Key takeaways:** (1) Grassroots protest against tech overwork (2) '996' as shorthand for extreme hustle culture (3) Labor pushback inside a censored ecosystem
+
+**Why it matters:** A vivid global counterpoint to hustle culture and the limits of the grind.
+
+**Source:** [https://github.com/996icu/996.ICU](https://github.com/996icu/996.ICU)
+
+---
+
 ## The Canon of Design for a New Journey in Product Management
 *Rajiv Kaul (Intelligaia) · Unknown · Slides · Product and Design → Design-led product*
 `Beginner` · cred 6/10 · useful 6/10 · status `reviewed`
@@ -2661,6 +3109,20 @@ A documentary in which former insiders critique social media's attention and man
 **Key takeaways:** (1) Engagement optimization vs. user wellbeing (2) Insider testimony on persuasive design (3) Polarization and mental-health concerns
 
 **Why it matters:** The mainstream on-ramp to the social-media-harms debate that most people have seen.
+
+**Source:** _No single canonical link._
+
+---
+
+## Rebuild the Arsenal of Democracy (Anduril)
+*Palmer Luckey / Anduril · 2024 · Manifesto / essay · Defense, Gov, and Public Tech → Defense startups*
+`Beginner` · cred 6/10 · useful 6/10 · status `reviewed`
+
+Anduril's public argument for software-defined, commercially-built weapons and a reformed defense industrial base.
+
+**Key takeaways:** (1) Commercial-style product approach to weapons (2) Critique of legacy defense primes (3) Explicit Valley-meets-military thesis
+
+**Why it matters:** A lightning-rod statement of the new, openly patriotic defense-tech posture in the Valley.
 
 **Source:** _No single canonical link._
 

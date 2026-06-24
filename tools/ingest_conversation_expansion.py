@@ -14,10 +14,14 @@ Idempotent (dedupes by normalized title). Usage:
 import json
 import os
 import re
+import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MASTER = os.path.join(ROOT, "indexes", "master.json")
-SRC = os.path.join(ROOT, "source", "conversation_topics_expansion.json")
+SRC = sys.argv[1] if len(sys.argv) > 1 else os.path.join(
+    ROOT, "source", "conversation_topics_expansion.json")
+if not os.path.isabs(SRC):
+    SRC = os.path.join(ROOT, SRC)
 NOTES = os.path.join(ROOT, "source", "INGESTION_NOTES.md")
 
 
@@ -43,6 +47,15 @@ def main():
     # carry the synthesis line into meta for the generator to render
     if src.get("conversation_synthesis"):
         m["meta"]["conversation_synthesis"] = src["conversation_synthesis"]
+
+    # register any new home hubs declared by the source file
+    existing_hub_ids = {h["id"] for h in m["hubs"]}
+    new_hubs = []
+    for h in src.get("hubs", []):
+        if h["id"] not in existing_hub_ids:
+            m["hubs"].append(h)
+            existing_hub_ids.add(h["id"])
+            new_hubs.append(h["id"])
 
     flagged, created, warned = [], [], []
 
@@ -85,10 +98,11 @@ def main():
     json.dump(m, open(MASTER, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
 
     note = ["", "---", "",
-            "## Conversation Topics expansion (conversation_topics_expansion.json)",
+            f"## Conversation Topics expansion ({os.path.basename(SRC)})",
             "",
             "Ruthlessly-ranked SV conversation map. New topics added to home hubs and flagged; "
             "existing library items flagged in place (no duplicates).",
+            (f"- **New home hubs registered:** {', '.join(new_hubs)}" if new_hubs else "- No new hubs."),
             f"- **New items created:** {len(created)}",
             f"- **Existing items flagged:** {len(flagged)}",
             (f"- **WARNINGS (flag_only with no match):** {', '.join(warned)}" if warned else "- No warnings."),

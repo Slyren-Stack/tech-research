@@ -4,7 +4,7 @@ A curated, shareable library of the most foundational media for people who build
 
 It answers: *how does AI work, where did startups and the internet come from, what is good product and design sense, how do systems and venture really work* — through the canonical talks, papers, books, essays, and documentaries worth your time.
 
-**190 curated items · 11 topic hubs · 6 learning paths.** Curated, not dumped.
+**223 curated items · 17 topic hubs · 6 learning paths.** Curated, not dumped.
 
 ---
 
@@ -31,7 +31,13 @@ It answers: *how does AI work, where did startups and the internet come from, wh
 - [Internet and Big Tech History](kb/topic-hubs/internet-history.md)
 - [Documentary and Long-Form Media](kb/topic-hubs/documentary-long-form.md)
 - [Must-Watch Core Library](kb/topic-hubs/core-library.md)
-- [Conversation Starters](kb/topic-hubs/conversation-starters.md) — 73 high-signal SV conversation topics, ranked + grouped by theme
+- [Crypto and Web3](kb/topic-hubs/crypto-web3.md)
+- [Hardware and Compute](kb/topic-hubs/hardware-compute.md)
+- [Climate, Energy, and Deep Tech](kb/topic-hubs/climate-deep-tech.md)
+- [Global Tech and Non-US Ecosystems](kb/topic-hubs/global-tech.md)
+- [Future of Work and Labor](kb/topic-hubs/future-of-work.md)
+- [Defense, Gov, and Public Tech](kb/topic-hubs/defense-gov-tech.md)
+- [Conversation Starters](kb/topic-hubs/conversation-starters.md) — 106 high-signal SV conversation topics, ranked + grouped by theme
 
 ## How it's built
 Everything is generated from one source-of-truth file, **[`indexes/master.json`](indexes/master.json)**, by **[`tools/generate.py`](tools/generate.py)**. To change the library, edit the JSON and run:
