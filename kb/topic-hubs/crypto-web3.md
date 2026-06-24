@@ -2,7 +2,7 @@
 
 Blockchains, tokens, and the decade-long argument over decentralization, scaling, fraud, and whether any of it actually matters.
 
-7 item(s), ranked by signal. ⭐ = core / must-experience.
+8 item(s), ranked by signal. ⭐ = core / must-experience.
 
 ---
 
@@ -26,6 +26,13 @@ Vitalik Buterin's proposal for a programmable blockchain with a Turing-complete 
 The framing that blockchains struggle to be simultaneously scalable, secure, and decentralized — you trade off among the three.
 
 **Why it matters:** It is the precise vocabulary for the scaling-vs-decentralization argument that defines crypto engineering.
+
+### [The GENIUS Act](../cards/the-genius-act.md)
+*U.S. Congress · 2025 · Legislation · Intermediate*
+
+The first major US federal crypto law, creating a framework for dollar-backed stablecoins with 1:1 reserves, audits, and disclosures.
+
+**Why it matters:** Moved US crypto from regulatory limbo to law; global crypto briefly topped $4T after enactment.
 
 ### [Web3 Is Going Just Great](../cards/web3-is-going-just-great.md)
 *Molly White · 2021 · Website / running ledger · Beginner*

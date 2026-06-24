@@ -2,7 +2,7 @@
 
 Where computing and the internet came from — the people, labs, and machines that made it all possible.
 
-19 item(s), ranked by signal. ⭐ = core / must-experience.
+20 item(s), ranked by signal. ⭐ = core / must-experience.
 
 ---
 
@@ -117,6 +117,13 @@ The story of the people who built ARPANET, the precursor to the internet — the
 An oral history of Silicon Valley told through the voices of the people who built it.
 
 **Why it matters:** A lively, quotable source of Valley lore and origin stories.
+
+### [Nexus: A Brief History of Information Networks](../cards/nexus-a-brief-history-of-information-networks.md)
+*Yuval Noah Harari · 2024 · Book · Beginner*
+
+A sweeping history of information networks from myth and writing to AI, arguing that how societies handle information determines their fate.
+
+**Why it matters:** A mainstream big-think frame that puts AI in deep historical context — heavily referenced.
 
 ### [The Californian Ideology](../cards/the-californian-ideology.md)
 *Richard Barbrook & Andy Cameron · 1995 · Essay · Advanced*

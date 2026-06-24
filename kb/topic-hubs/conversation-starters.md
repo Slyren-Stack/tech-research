@@ -2,7 +2,7 @@
 
 High-signal topics worth raising in technical and founder circles — each is something smart people genuinely argue about. A cross-cutting collection; every item also lives in its home hub.
 
-**106 conversation-worthy items** across every theme, ranked by conversation value. Each also lives in its home hub.
+**118 conversation-worthy items** across every theme, ranked by conversation value. Each also lives in its home hub.
 
 > **The recurring themes:** Silicon Valley conversation keeps circling a handful of durable tensions: does scale beat cleverness (AI), do founders deserve special operating freedom, how do distribution and network effects manufacture moats, what does software's history teach about its future, and where do markets, regulation, and human attention push back on all of it.
 
@@ -18,8 +18,8 @@ High-signal topics worth raising in technical and founder circles — each is so
 | 6 | [Startup = Growth](../cards/startup-growth.md) | Paul Graham | Essay | 10 |
 | 7 | [Founder Mode](../cards/founder-mode.md) | Paul Graham | Essay | 10 |
 | 8 | [Situational Awareness: The Decade Ahead](../cards/situational-awareness-the-decade-ahead.md) | Leopold Aschenbrenner | Essay series | 10 |
-| 9 | [Artificial Intelligence Index Report 2024](../cards/artificial-intelligence-index-report-2024.md) | Stanford HAI / AI Index Steering Committee | Report | 9 |
-| 10 | [Before the Startup](../cards/before-the-startup.md) | Paul Graham | Recorded lecture | 9 |
+| 9 | [Before the Startup](../cards/before-the-startup.md) | Paul Graham | Recorded lecture | 9 |
+| 10 | [The 2026 AI Index Report](../cards/the-2026-ai-index-report.md) | Stanford HAI | Report | 9 |
 | 11 | [Zero to One](../cards/zero-to-one.md) | Peter Thiel with Blake Masters | Book | 9 |
 | 12 | [Aggregation Theory](../cards/aggregation-theory.md) | Ben Thompson (Stratechery) | Essay | 9 |
 | 13 | [Bitcoin: A Peer-to-Peer Electronic Cash System](../cards/bitcoin-a-peer-to-peer-electronic-cash-system.md) | Satoshi Nakamoto | Whitepaper | 9 |
@@ -28,15 +28,34 @@ High-signal topics worth raising in technical and founder circles — each is so
 | 16 | [AlphaGo](../cards/alphago.md) | Greg Kohs (dir.) / DeepMind | Documentary | 9 |
 | 17 | [Why Software Is Eating the World](../cards/why-software-is-eating-the-world.md) | Marc Andreessen | Essay | 9 |
 | 18 | [Bad Blood: Secrets and Lies in a Silicon Valley Startup](../cards/bad-blood-secrets-and-lies-in-a-silicon-valley-startup.md) | John Carreyrou | Book | 9 |
-| 19 | [How to Get Startup Ideas](../cards/how-to-get-startup-ideas.md) | Paul Graham | Video reading / commentary | 9 |
-| 20 | [The Power Law: Venture Capital and the Making of the New Future](../cards/the-power-law-venture-capital-and-the-making-of-the-new-futu.md) | Sebastian Mallaby / Penguin Press | Book | 8 |
-| 21 | [The Innovator's Dilemma](../cards/the-innovator-s-dilemma.md) | Clayton M. Christensen | Book | 8 |
-| 22 | [The Hard Thing About Hard Things](../cards/hard-thing-about-hard-things.md) | Ben Horowitz | Book | 8 |
-| 23 | [The Entrepreneurial State](../cards/the-entrepreneurial-state.md) | Mariana Mazzucato | Book | 8 |
-| 24 | [Amazon Shareholder Letters](../cards/amazon-shareholder-letters.md) | Jeff Bezos | Letters | 8 |
-| 25 | [7 Powers: The Foundations of Business Strategy](../cards/7-powers-the-foundations-of-business-strategy.md) | Hamilton Helmer | Book | 8 |
+| 19 | [The Adolescence of Technology](../cards/the-adolescence-of-technology.md) | Dario Amodei | Essay | 9 |
+| 20 | [How to Get Startup Ideas](../cards/how-to-get-startup-ideas.md) | Paul Graham | Video reading / commentary | 9 |
+| 21 | [Empire of AI](../cards/empire-of-ai.md) | Karen Hao | Book | 9 |
+| 22 | [AI 2027](../cards/ai-2027.md) | AI Futures Project (Kokotajlo, Lifland, Larsen, Dean) | Scenario forecast | 9 |
+| 23 | [The Power Law: Venture Capital and the Making of the New Future](../cards/the-power-law-venture-capital-and-the-making-of-the-new-futu.md) | Sebastian Mallaby / Penguin Press | Book | 8 |
+| 24 | [The Innovator's Dilemma](../cards/the-innovator-s-dilemma.md) | Clayton M. Christensen | Book | 8 |
+| 25 | [The Hard Thing About Hard Things](../cards/hard-thing-about-hard-things.md) | Ben Horowitz | Book | 8 |
 
 ## By theme
+
+### AI in Practice (17)
+- **[Software Is Changing (Again)](../cards/software-is-changing-again.md)** — *Andrej Karpathy, 2025 (Talk)* — It is one of the clearest ways to discuss AI-native software without falling into hype.
+- **[GPT-4 Technical Report](../cards/gpt-4-technical-report.md)** — *OpenAI, 2023 (Technical report)* — It bridges model capability, product strategy, and the practical reality of frontier AI.
+- **[Situational Awareness: The Decade Ahead](../cards/situational-awareness-the-decade-ahead.md)** — *Leopold Aschenbrenner, 2024 (Essay series)* — Instantly splits a room into accelerationists and skeptics on AGI timelines.
+- **[The 2026 AI Index Report](../cards/the-2026-ai-index-report.md)** — *Stanford HAI, 2026 (Report)* — The freshest data everyone cites — citing 2026 figures (not 2023 vibes) marks you as current.
+- **[Machines of Loving Grace](../cards/machines-of-loving-grace.md)** — *Dario Amodei, 2024 (Essay)* — Lets you argue the AI-upside case with specifics instead of vibes.
+- **[The Adolescence of Technology](../cards/the-adolescence-of-technology.md)** — *Dario Amodei, 2026 (Essay)* — The 2026 counterweight to AI optimism — pairs directly against Altman's 'Gentle Singularity.'
+- **[Empire of AI](../cards/empire-of-ai.md)** — *Karen Hao, 2025 (Book)* — The book the AI industry argues about — supplies the critical case in any OpenAI conversation.
+- **[AI 2027](../cards/ai-2027.md)** — *AI Futures Project (Kokotajlo, Lifland, Larsen, Dean), 2025 (Scenario forecast)* — Everyone in AI has a take on whether the 2027 timeline is prophetic or hype.
+- **[Superintelligence: Paths, Dangers, Strategies](../cards/superintelligence-paths-dangers-strategies.md)** — *Nick Bostrom, 2014 (Book)* — The reference point whenever AI doom comes up — even critics define themselves against it.
+- **[The Gentle Singularity](../cards/the-gentle-singularity.md)** — *Sam Altman, 2025 (Essay)* — The optimist case — set it against Amodei or Yudkowsky for an instant debate.
+- **[The Intelligence Age](../cards/the-intelligence-age.md)** — *Sam Altman, 2024 (Essay)* — A short, quotable manifesto everyone in tech has an opinion on.
+- **[AGI Ruin: A List of Lethalities](../cards/agi-ruin-a-list-of-lethalities.md)** — *Eliezer Yudkowsky, 2022 (Essay)* — Name-dropping 'list of lethalities' signals you know the AI-risk discourse.
+- **[If Anyone Builds It, Everyone Dies](../cards/if-anyone-builds-it-everyone-dies.md)** — *Eliezer Yudkowsky & Nate Soares, 2025 (Book)* — Provocative title alone starts arguments; the bestseller everyone loves or loathes.
+- **[AI Engineering: Building Applications with Foundation Models](../cards/ai-engineering-building-applications-with-foundation-models.md)** — *Chip Huyen, 2025 (Book)* — The builder's reference — citing it signals you actually ship AI products.
+- **[The State of AI Report 2025](../cards/the-state-of-ai-report-2025.md)** — *Nathan Benaich / Air Street Capital, 2025 (Report)* — The investor-flavored counterpart to the AI Index — great for market-trend talk.
+- **[The Coming Wave](../cards/the-coming-wave.md)** — *Mustafa Suleyman, 2023 (Book)* — A balanced on-ramp to the AI-regulation conversation.
+- **[Weapons of Math Destruction](../cards/weapons-of-math-destruction.md)** — *Cathy O'Neil, 2016 (Book)* — An accessible entry to the algorithmic-fairness conversation.
 
 ### Startup History (13)
 - **[Zero to One](../cards/zero-to-one.md)** — *Peter Thiel with Blake Masters, 2014 (Book)* — 'Competition is for losers' and the monopoly thesis are perennial debate-starters.
@@ -67,9 +86,10 @@ High-signal topics worth raising in technical and founder circles — each is so
 - **[The Beginning of Infinity](../cards/the-beginning-of-infinity.md)** — *David Deutsch, 2011 (Book)* — Name-checking Deutsch signals you're in the progress-studies / optimist camp.
 - **[Thinking, Fast and Slow](../cards/thinking-fast-and-slow.md)** — *Daniel Kahneman, 2011 (Book)* — System 1/2 is near-universal vocabulary — safe, smart, always relevant.
 
-### Internet and Big Tech History (11)
+### Internet and Big Tech History (12)
 - **[Bad Blood: Secrets and Lies in a Silicon Valley Startup](../cards/bad-blood-secrets-and-lies-in-a-silicon-valley-startup.md)** — *John Carreyrou, 2018 (Book)* — Universally read; a safe, juicy reference for the limits of hype.
 - **[Amazon's Antitrust Paradox](../cards/amazon-s-antitrust-paradox.md)** — *Lina Khan, 2017 (Law journal article)* — The reference point for any Big-Tech regulation debate.
+- **[Nexus: A Brief History of Information Networks](../cards/nexus-a-brief-history-of-information-networks.md)** — *Yuval Noah Harari, 2024 (Book)* — A crowd-pleasing way to zoom out from 'AI tools' to 'AI and the fate of societies.'
 - **[The Mother of All Demos](../cards/mother-of-all-demos.md)** — *Douglas Engelbart, 1968 (Video)* — The 1968 demo is the ultimate 'they predicted everything' reference.
 - **[The Everything Store: Jeff Bezos and the Age of Amazon](../cards/the-everything-store-jeff-bezos-and-the-age-of-amazon.md)** — *Brad Stone, 2013 (Book)* — Pairs perfectly with the Bezos letters for an Amazon-strategy conversation.
 - **[The Dream Machine](../cards/the-dream-machine.md)** — *M. Mitchell Waldrop, 2001 (Book)* — Citing Licklider and 'The Dream Machine' is a deep-cut credibility move.
@@ -79,18 +99,6 @@ High-signal topics worth raising in technical and founder circles — each is so
 - **[Snow Crash](../cards/snow-crash.md)** — *Neal Stephenson, 1992 (Book)* — Explains where 'metaverse' came from — a fun bridge from fiction to product.
 - **[Chaos Monkeys](../cards/chaos-monkeys.md)** — *Antonio García Martínez, 2016 (Book)* — Polarizing — mention it and people immediately take sides.
 - **[The Attention Merchants](../cards/the-attention-merchants.md)** — *Tim Wu, 2016 (Book)* — Adds historical heft to any attention-economy debate.
-
-### AI in Practice (10)
-- **[Software Is Changing (Again)](../cards/software-is-changing-again.md)** — *Andrej Karpathy, 2025 (Talk)* — It is one of the clearest ways to discuss AI-native software without falling into hype.
-- **[GPT-4 Technical Report](../cards/gpt-4-technical-report.md)** — *OpenAI, 2023 (Technical report)* — It bridges model capability, product strategy, and the practical reality of frontier AI.
-- **[Situational Awareness: The Decade Ahead](../cards/situational-awareness-the-decade-ahead.md)** — *Leopold Aschenbrenner, 2024 (Essay series)* — Instantly splits a room into accelerationists and skeptics on AGI timelines.
-- **[Artificial Intelligence Index Report 2024](../cards/artificial-intelligence-index-report-2024.md)** — *Stanford HAI / AI Index Steering Committee, 2024 (Report)* — It gives people a shared factual baseline instead of vibes.
-- **[Machines of Loving Grace](../cards/machines-of-loving-grace.md)** — *Dario Amodei, 2024 (Essay)* — Lets you argue the AI-upside case with specifics instead of vibes.
-- **[Superintelligence: Paths, Dangers, Strategies](../cards/superintelligence-paths-dangers-strategies.md)** — *Nick Bostrom, 2014 (Book)* — The reference point whenever AI doom comes up — even critics define themselves against it.
-- **[The Intelligence Age](../cards/the-intelligence-age.md)** — *Sam Altman, 2024 (Essay)* — A short, quotable manifesto everyone in tech has an opinion on.
-- **[AGI Ruin: A List of Lethalities](../cards/agi-ruin-a-list-of-lethalities.md)** — *Eliezer Yudkowsky, 2022 (Essay)* — Name-dropping 'list of lethalities' signals you know the AI-risk discourse.
-- **[The Coming Wave](../cards/the-coming-wave.md)** — *Mustafa Suleyman, 2023 (Book)* — A balanced on-ramp to the AI-regulation conversation.
-- **[Weapons of Math Destruction](../cards/weapons-of-math-destruction.md)** — *Cathy O'Neil, 2016 (Book)* — An accessible entry to the algorithmic-fairness conversation.
 
 ### Engineering and Systems (9)
 - **[No Silver Bullet — Essence and Accident in Software Engineering](../cards/no-silver-bullet-essence-and-accident-in-software-engineerin.md)** — *Fred Brooks, 1986 (Essay)* — The perfect skeptic's reply to 'AI will 10x engineering.'
@@ -103,14 +111,31 @@ High-signal topics worth raising in technical and founder circles — each is so
 - **[A Philosophy of Software Design](../cards/a-philosophy-of-software-design.md)** — *John Ousterhout, 2018 (Book)* — Pit it against 'Clean Code' and engineers will happily argue for an hour.
 - **[The Twelve-Factor App](../cards/the-twelve-factor-app.md)** — *Adam Wiggins / Heroku, 2011 (Reference)* — A quick way to check if someone has actually shipped cloud software.
 
-### Crypto and Web3 (7)
+### Crypto and Web3 (8)
 - **[Bitcoin: A Peer-to-Peer Electronic Cash System](../cards/bitcoin-a-peer-to-peer-electronic-cash-system.md)** — *Satoshi Nakamoto, 2008 (Whitepaper)* — The primary source — citing it (vs. price chatter) signals you actually understand crypto.
 - **[Ethereum Whitepaper](../cards/ethereum-whitepaper.md)** — *Vitalik Buterin, 2014 (Whitepaper)* — Sets up the 'is web3 a platform or a casino' debate from first principles.
 - **[The Scalability Trilemma](../cards/the-scalability-trilemma.md)** — *Vitalik Buterin, 2021 (Essay / concept)* — Name the trilemma and you've elevated a crypto chat from price to architecture.
 - **[Going Infinite: The Rise and Fall of a New Tycoon](../cards/going-infinite-the-rise-and-fall-of-a-new-tycoon.md)** — *Michael Lewis, 2023 (Book)* — Everyone has a hot take on SBF and whether Lewis went too easy on him.
+- **[The GENIUS Act](../cards/the-genius-act.md)** — *U.S. Congress, 2025 (Legislation)* — The pivot point for 'is crypto finally legitimate' debates with institutions.
 - **[Web3 Is Going Just Great](../cards/web3-is-going-just-great.md)** — *Molly White, 2021 (Website / running ledger)* — The receipts for anyone arguing crypto is mostly grift.
 - **[Number Go Up](../cards/number-go-up.md)** — *Zeke Faux, 2023 (Book)* — Pair it with a believer's book and you have a built-in crypto debate.
 - **[Read Write Own](../cards/read-write-own.md)** — *Chris Dixon, 2024 (Book)* — The believer's case — debate it against Molly White's ledger of disasters.
+
+### Hardware and Compute (6)
+- **[Chip War: The Fight for the World's Most Critical Technology](../cards/chip-war-the-fight-for-the-world-s-most-critical-technology.md)** — *Chris Miller, 2022 (Book)* — The shared reference for the chips-and-geopolitics conversation — guaranteed to land.
+- **[Acquired: TSMC](../cards/acquired-tsmc.md)** — *Acquired (Ben Gilbert & David Rosenthal), 2021 (Podcast episode)* — Knowing the Morris Chang / TSMC story is table stakes for chip conversations.
+- **[Acquired: NVIDIA](../cards/acquired-nvidia.md)** — *Acquired (Ben Gilbert & David Rosenthal), 2022 (Podcast episode)* — Explains why NVIDIA, not the model labs, captured so much AI value.
+- **[NVIDIA GTC 2026 Keynote: The Age of Physical AI](../cards/nvidia-gtc-2026-keynote-the-age-of-physical-ai.md)** — *Jensen Huang / NVIDIA, 2026 (Keynote)* — 'Physical AI' is the 2026 buzzphrase — this keynote is where the robotics debate starts.
+- **[Cramming More Components onto Integrated Circuits](../cards/cramming-more-components-onto-integrated-circuits.md)** — *Gordon Moore, 1965 (Paper)* — 'Is Moore's Law dead?' is an evergreen, opinion-splitting question.
+- **[The Idea Factory: Bell Labs and the Great Age of American Innovation](../cards/the-idea-factory-bell-labs-and-the-great-age-of-american-inn.md)** — *Jon Gertner, 2012 (Book)* — Fuels the 'why don't we build Bell Labs anymore' debate.
+
+### Documentary and Long-Form Media (6)
+- **[AlphaGo](../cards/alphago.md)** — *Greg Kohs (dir.) / DeepMind, 2017 (Documentary)* — Everyone knows 'Move 37' — an instant shared reference for AI creativity.
+- **[The Social Network](../cards/the-social-network.md)** — *David Fincher (dir.) / Aaron Sorkin, 2010 (Film)* — Everyone's seen it — an effortless way to open a founder-culture conversation.
+- **[The AI Doc: Or How I Became an Apocaloptimist](../cards/the-ai-doc-or-how-i-became-an-apocaloptimist.md)** — *Daniel Roher & Charlie Tyrell (dir.), 2026 (Documentary)* — A shared 2026 cultural reference for the optimist-vs-doomer split.
+- **[Ghost in the Machine](../cards/ghost-in-the-machine.md)** — *Valerie Veatch (dir.), 2026 (Documentary)* — A sharp counterpoint that complicates triumphalist AI origin stories.
+- **[The Social Dilemma](../cards/the-social-dilemma.md)** — *Jeff Orlowski (dir.), 2020 (Documentary)* — Widely watched — easy to reference, easy to debate (insiders vs. overstated).
+- **[Pirates of Silicon Valley](../cards/pirates-of-silicon-valley.md)** — *Martyn Burke (dir.), 1999 (Film)* — A fun deep cut for the Jobs-vs-Gates origin debate.
 
 ### Climate, Energy, and Deep Tech (6)
 - **[How the World Really Works](../cards/how-the-world-really-works.md)** — *Vaclav Smil, 2022 (Book)* — The go-to for puncturing both climate doom and naive techno-optimism.
@@ -127,13 +152,6 @@ High-signal topics worth raising in technical and founder circles — each is so
 - **[996.ICU](../cards/996-icu.md)** — *Chinese tech workers (GitHub), 2019 (Open repository / movement)* — A sharp prompt for the hustle-culture-vs-burnout debate, with a global angle.
 - **[The GitLab Handbook (All-Remote)](../cards/the-gitlab-handbook-all-remote.md)** — *GitLab, 2020 (Public handbook)* — The 'show me a remote company that works' answer — concrete, not theoretical.
 - **[A World Without Email](../cards/a-world-without-email.md)** — *Cal Newport, 2021 (Book)* — Resonates with anyone drowning in Slack — easy, relatable debate.
-
-### Hardware and Compute (5)
-- **[Chip War: The Fight for the World's Most Critical Technology](../cards/chip-war-the-fight-for-the-world-s-most-critical-technology.md)** — *Chris Miller, 2022 (Book)* — The shared reference for the chips-and-geopolitics conversation — guaranteed to land.
-- **[Acquired: TSMC](../cards/acquired-tsmc.md)** — *Acquired (Ben Gilbert & David Rosenthal), 2021 (Podcast episode)* — Knowing the Morris Chang / TSMC story is table stakes for chip conversations.
-- **[Acquired: NVIDIA](../cards/acquired-nvidia.md)** — *Acquired (Ben Gilbert & David Rosenthal), 2022 (Podcast episode)* — Explains why NVIDIA, not the model labs, captured so much AI value.
-- **[Cramming More Components onto Integrated Circuits](../cards/cramming-more-components-onto-integrated-circuits.md)** — *Gordon Moore, 1965 (Paper)* — 'Is Moore's Law dead?' is an evergreen, opinion-splitting question.
-- **[The Idea Factory: Bell Labs and the Great Age of American Innovation](../cards/the-idea-factory-bell-labs-and-the-great-age-of-american-inn.md)** — *Jon Gertner, 2012 (Book)* — Fuels the 'why don't we build Bell Labs anymore' debate.
 
 ### Venture Capital and Fundraising (5)
 - **[The Power Law: Venture Capital and the Making of the New Future](../cards/the-power-law-venture-capital-and-the-making-of-the-new-futu.md)** — *Sebastian Mallaby / Penguin Press, 2022 (Book)* — The go-to reference for how VC returns and power actually work.
@@ -162,12 +180,6 @@ High-signal topics worth raising in technical and founder circles — each is so
 - **[On the Dangers of Stochastic Parrots](../cards/on-the-dangers-of-stochastic-parrots.md)** — *Bender, Gebru, McMillan-Major, Shmitchell, 2021 (Paper)* — Pits 'scale is all you need' against 'understanding matters' — and has Big-Tech drama attached.
 - **[Sparks of Artificial General Intelligence: Early experiments with GPT-4](../cards/sparks-of-artificial-general-intelligence-early-experiments.md)** — *Bubeck et al. (Microsoft Research), 2023 (Paper)* — Great for the 'are we overhyping GPT-4 or underrating it' debate.
 
-### Documentary and Long-Form Media (4)
-- **[AlphaGo](../cards/alphago.md)** — *Greg Kohs (dir.) / DeepMind, 2017 (Documentary)* — Everyone knows 'Move 37' — an instant shared reference for AI creativity.
-- **[The Social Network](../cards/the-social-network.md)** — *David Fincher (dir.) / Aaron Sorkin, 2010 (Film)* — Everyone's seen it — an effortless way to open a founder-culture conversation.
-- **[The Social Dilemma](../cards/the-social-dilemma.md)** — *Jeff Orlowski (dir.), 2020 (Documentary)* — Widely watched — easy to reference, easy to debate (insiders vs. overstated).
-- **[Pirates of Silicon Valley](../cards/pirates-of-silicon-valley.md)** — *Martyn Burke (dir.), 1999 (Film)* — A fun deep cut for the Jobs-vs-Gates origin debate.
-
 ### Global Tech and Non-US Ecosystems (4)
 - **[AI Superpowers: China, Silicon Valley, and the New World Order](../cards/ai-superpowers-china-silicon-valley-and-the-new-world-order.md)** — *Kai-Fu Lee, 2018 (Book)* — The starting point for any serious US-vs-China tech conversation.
 - **[Blitzscaling](../cards/blitzscaling.md)** — *Reid Hoffman & Chris Yeh, 2018 (Book)* — Loved and loathed — a reliable way to start a scaling-strategy argument.
@@ -176,20 +188,11 @@ High-signal topics worth raising in technical and founder circles — each is so
 
 ## Quick lists
 
-**🍷 Safe at dinner or networking** (accessible, broadly known): [The Bitter Lesson](../cards/the-bitter-lesson.md) · [Do Things That Don't Scale](../cards/do-things-that-dont-scale.md) · [Startup = Growth](../cards/startup-growth.md) · [Before the Startup](../cards/before-the-startup.md) · [Zero to One](../cards/zero-to-one.md) · [AlphaGo](../cards/alphago.md) · [Why Software Is Eating the World](../cards/why-software-is-eating-the-world.md) · [Bad Blood: Secrets and Lies in a Silicon Valley Startup](../cards/bad-blood-secrets-and-lies-in-a-silicon-valley-startup.md) · [How to Get Startup Ideas](../cards/how-to-get-startup-ideas.md) · [Amazon Shareholder Letters](../cards/amazon-shareholder-letters.md) · [It's Time to Build](../cards/it-s-time-to-build.md) · [The Almanack of Naval Ravikant](../cards/the-almanack-of-naval-ravikant.md)
+**🍷 Safe at dinner or networking** (accessible, broadly known): [The Bitter Lesson](../cards/the-bitter-lesson.md) · [Do Things That Don't Scale](../cards/do-things-that-dont-scale.md) · [Startup = Growth](../cards/startup-growth.md) · [Before the Startup](../cards/before-the-startup.md) · [Zero to One](../cards/zero-to-one.md) · [AlphaGo](../cards/alphago.md) · [Why Software Is Eating the World](../cards/why-software-is-eating-the-world.md) · [Bad Blood: Secrets and Lies in a Silicon Valley Startup](../cards/bad-blood-secrets-and-lies-in-a-silicon-valley-startup.md) · [How to Get Startup Ideas](../cards/how-to-get-startup-ideas.md) · [Empire of AI](../cards/empire-of-ai.md) · [Amazon Shareholder Letters](../cards/amazon-shareholder-letters.md) · [It's Time to Build](../cards/it-s-time-to-build.md)
 
-**🛠️ For builders & engineers** (technical depth): [Software Is Changing (Again)](../cards/software-is-changing-again.md) · [Attention Is All You Need](../cards/attention-is-all-you-need.md) · [The Bitter Lesson](../cards/the-bitter-lesson.md) · [GPT-4 Technical Report](../cards/gpt-4-technical-report.md) · [Situational Awareness: The Decade Ahead](../cards/situational-awareness-the-decade-ahead.md) · [Artificial Intelligence Index Report 2024](../cards/artificial-intelligence-index-report-2024.md) · [Machines of Loving Grace](../cards/machines-of-loving-grace.md) · [No Silver Bullet — Essence and Accident in Software Engineering](../cards/no-silver-bullet-essence-and-accident-in-software-engineerin.md) · [Superintelligence: Paths, Dangers, Strategies](../cards/superintelligence-paths-dangers-strategies.md) · [On the Dangers of Stochastic Parrots](../cards/on-the-dangers-of-stochastic-parrots.md) · [Sparks of Artificial General Intelligence: Early experiments with GPT-4](../cards/sparks-of-artificial-general-intelligence-early-experiments.md) · [The Intelligence Age](../cards/the-intelligence-age.md)
+**🛠️ For builders & engineers** (technical depth): [Software Is Changing (Again)](../cards/software-is-changing-again.md) · [Attention Is All You Need](../cards/attention-is-all-you-need.md) · [The Bitter Lesson](../cards/the-bitter-lesson.md) · [GPT-4 Technical Report](../cards/gpt-4-technical-report.md) · [Situational Awareness: The Decade Ahead](../cards/situational-awareness-the-decade-ahead.md) · [The 2026 AI Index Report](../cards/the-2026-ai-index-report.md) · [Machines of Loving Grace](../cards/machines-of-loving-grace.md) · [The Adolescence of Technology](../cards/the-adolescence-of-technology.md) · [Empire of AI](../cards/empire-of-ai.md) · [AI 2027](../cards/ai-2027.md) · [No Silver Bullet — Essence and Accident in Software Engineering](../cards/no-silver-bullet-essence-and-accident-in-software-engineerin.md) · [Superintelligence: Paths, Dangers, Strategies](../cards/superintelligence-paths-dangers-strategies.md)
 
 **💰 Investor lens** (capital, markets, moats): [The Power Law: Venture Capital and the Making of the New Future](../cards/the-power-law-venture-capital-and-the-making-of-the-new-futu.md) · [The Entrepreneurial State](../cards/the-entrepreneurial-state.md) · [VC: An American History](../cards/vc-an-american-history.md) · [Secrets of Sand Hill Road](../cards/secrets-of-sand-hill-road.md) · [Venture Deals](../cards/venture-deals.md)
-
-## Gaps — where this map should grow next
-
-- Crypto/web3 history and the scaling-vs-decentralization debate
-- Hardware, semiconductors, and the compute supply chain (TSMC, NVIDIA)
-- Climate, energy, and deep-tech founder stories
-- Non-US tech ecosystems (China, India, Europe) and global VC
-- Labor, remote work, and the future-of-work debate
-- Defense tech, govtech, and the new state–startup relationship
 
 ---
 *[← Back to master index](../../indexes/master.md) · Generated from `indexes/master.json`.*

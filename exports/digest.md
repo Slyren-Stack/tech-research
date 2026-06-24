@@ -2,7 +2,7 @@
 
 > A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.
 
-223 curated items · generated 2026-06-24. This single file is meant to be sent to a teammate as a complete snapshot.
+236 curated items · generated 2026-06-24. This single file is meant to be sent to a teammate as a complete snapshot.
 
 ---
 
@@ -804,6 +804,20 @@ One of Graham’s clearest statements that small differences in startup growth r
 
 ---
 
+## The 2026 AI Index Report
+*Stanford HAI · 2026 · Report · AI in Practice → State of the field*
+`Intermediate` · cred 10/10 · useful 9/10 · status `recommended`
+
+Stanford HAI's 2026 edition tracking AI capability, adoption, investment, safety, and the widening gap between what AI can do and how prepared institutions are to govern it.
+
+**Key takeaways:** (1) SWE-bench Verified coding jumped from ~60% to near 100% in a year (2) Generative AI hit 53% population adoption — faster than PC or internet (3) US private AI investment ($285.9B in 2025) dwarfs China; documented AI incidents rose to 362
+
+**Why it matters:** The current shared factual baseline for any serious AI strategy or policy conversation.
+
+**Source:** [https://hai.stanford.edu/ai-index/2026-ai-index-report](https://hai.stanford.edu/ai-index/2026-ai-index-report)
+
+---
+
 ## ⭐ Computing Machinery and Intelligence
 *Alan Turing · 1950 · Essay · AI Foundations → Origins of AI*
 `Intermediate` · cred 10/10 · useful 7/10 · status `core`
@@ -1177,6 +1191,20 @@ A history of the semiconductor industry and the US–China struggle for control 
 **Key takeaways:** (1) Chips as the oil of the 21st century (2) TSMC, ASML, and choke points in the supply chain (3) Why semiconductors are now geopolitics
 
 **Why it matters:** The definitive primer on the compute supply chain everyone now debates.
+
+**Source:** _No single canonical link._
+
+---
+
+## AI Engineering: Building Applications with Foundation Models
+*Chip Huyen · 2025 · Book · AI in Practice → Building with AI*
+`Intermediate` · cred 9/10 · useful 9/10 · status `recommended`
+
+A practical, framework-first guide to building applications on foundation models — prompting, RAG, fine-tuning, agents, evaluation, and deployment.
+
+**Key takeaways:** (1) End-to-end stack for foundation-model apps (2) Durable mental models over ephemeral tool tutorials (3) Strong on evaluation and dataset engineering
+
+**Why it matters:** The most-read book on O'Reilly and the current standard reference for the AI-engineering role.
 
 **Source:** _No single canonical link._
 
@@ -1700,6 +1728,20 @@ Vaclav Smil's data-grounded account of energy, food, materials, and the physical
 
 ---
 
+## The Adolescence of Technology
+*Dario Amodei · 2026 · Essay · AI in Practice → AI risk & governance*
+`Intermediate` · cred 9/10 · useful 8/10 · status `recommended`
+
+Anthropic's CEO argues AI is in a volatile 'adolescent' phase, analyzing risks of misuse, misalignment, and concentration of power — and how to defend against them.
+
+**Key takeaways:** (1) Frames the present as a risky technological adolescence (2) Names misuse, misalignment, and power-concentration as core risks (3) Predicts human-level AI within roughly two years
+
+**Why it matters:** A January 2026 statement from a frontier-lab CEO that set the year's AI-risk agenda.
+
+**Source:** [https://darioamodei.com/essay/the-adolescence-of-technology](https://darioamodei.com/essay/the-adolescence-of-technology)
+
+---
+
 ## Out of the Tar Pit
 *Ben Moseley, Peter Marks · 2006 · Paper · Engineering and Systems → Software Complexity*
 `Advanced` · cred 8/10 · useful 8/10 · status `reviewed`
@@ -2117,6 +2159,20 @@ The Code for America founder on why government technology fails and how to actua
 **Why it matters:** The defining modern text on govtech and state capacity, cited across the political spectrum.
 
 **Source:** _No single canonical link._
+
+---
+
+## The State of AI Report 2025
+*Nathan Benaich / Air Street Capital · 2025 · Report · AI in Practice → State of the field*
+`Intermediate` · cred 8/10 · useful 8/10 · status `recommended`
+
+The eighth annual open-access report synthesizing AI research, industry, politics, and safety, plus a survey of 1,200 practitioners.
+
+**Key takeaways:** (1) 44% of US businesses now pay for AI (up from 5% in 2023) (2) Average AI contract value hit $530k, projected past $1M in 2026 (3) Tracks Stargate ($500B, 10GW US mega-cluster) and compute buildout
+
+**Why it matters:** The investor-grade annual synthesis that frames the year's AI market debates.
+
+**Source:** [https://www.stateof.ai/](https://www.stateof.ai/)
 
 ---
 
@@ -2554,6 +2610,62 @@ A former Senate staffer argues US defense must shift from expensive platforms to
 
 ---
 
+## The Gentle Singularity
+*Sam Altman · 2025 · Essay · AI in Practice → AI vision*
+`Beginner` · cred 8/10 · useful 7/10 · status `recommended`
+
+OpenAI's CEO argues the singularity will feel gradual and manageable, with agents doing cognitive work in 2025, novel insights in 2026, and real-world robots by 2027.
+
+**Key takeaways:** (1) Exponential progress feels smooth from the inside (2) A year-by-year capability timeline (agents → insights → robots) (3) A deliberately calming counter to AI-anxiety narratives
+
+**Why it matters:** The optimist pole of the 2025–26 AI debate, widely read and widely criticized.
+
+**Source:** [https://blog.samaltman.com/the-gentle-singularity](https://blog.samaltman.com/the-gentle-singularity)
+
+---
+
+## Empire of AI
+*Karen Hao · 2025 · Book · AI in Practice → Power & institutions*
+`Beginner` · cred 8/10 · useful 7/10 · status `recommended`
+
+A bestselling investigation of how OpenAI went from idealistic nonprofit to one of tech's most powerful companies, including the chips, energy, and labor behind modern AI.
+
+**Key takeaways:** (1) Inside OpenAI's nonprofit-to-empire transformation (2) The hidden resource costs: chips, energy, Global South labor (3) A critical lens on AI's concentration of power
+
+**Why it matters:** The defining critical narrative of the AI boom; an NBCC finalist and instant bestseller.
+
+**Source:** _No single canonical link._
+
+---
+
+## NVIDIA GTC 2026 Keynote: The Age of Physical AI
+*Jensen Huang / NVIDIA · 2026 · Keynote · Hardware and Compute → Compute & robotics*
+`Intermediate` · cred 8/10 · useful 7/10 · status `recommended`
+
+Jensen Huang's March 2026 keynote reframing AI as 'AI factories,' agents, and physical AI — robots and autonomous vehicles at commercial scale.
+
+**Key takeaways:** (1) 'AI factories' churning out tokens as the new computing model (2) Physical AI / robotics pitched as a $1T+ market (3) Vera Rubin platform and an expanded RoboTaxi partner roster
+
+**Why it matters:** The clearest signal of where compute and robotics are heading, from the company at the center of it all.
+
+**Source:** [https://www.nvidia.com/gtc/keynote/](https://www.nvidia.com/gtc/keynote/)
+
+---
+
+## The GENIUS Act
+*U.S. Congress · 2025 · Legislation · Crypto and Web3 → Regulation*
+`Intermediate` · cred 8/10 · useful 7/10 · status `reviewed`
+
+The first major US federal crypto law, creating a framework for dollar-backed stablecoins with 1:1 reserves, audits, and disclosures.
+
+**Key takeaways:** (1) First comprehensive US stablecoin framework (2) Requires 1:1 reserves and regular audits (3) Clarifies compliant stablecoins are neither securities nor commodities
+
+**Why it matters:** Moved US crypto from regulatory limbo to law; global crypto briefly topped $4T after enactment.
+
+**Source:** [https://en.wikipedia.org/wiki/GENIUS_Act](https://en.wikipedia.org/wiki/GENIUS_Act)
+
+---
+
 ## Where Wizards Stay Up Late: The Origins of the Internet
 *Katie Hafner, Matthew Lyon · 1996 · Book · Internet and Big Tech History → Internet Origins*
 `Beginner` · cred 8/10 · useful 6/10 · status `reviewed`
@@ -2862,6 +2974,34 @@ A history of DARPA and its role in everything from the internet to autonomous we
 
 ---
 
+## AI 2027
+*AI Futures Project (Kokotajlo, Lifland, Larsen, Dean) · 2025 · Scenario forecast · AI in Practice → AGI forecasting*
+`Intermediate` · cred 7/10 · useful 7/10 · status `recommended`
+
+A detailed narrative scenario of AI progress from 2025 to 2027, driven by US–China race dynamics, with branching good and catastrophic endings.
+
+**Key takeaways:** (1) A concrete, month-by-month superintelligence scenario (2) Race dynamics as the key accelerant and danger (3) Read by over a million people, including policymakers
+
+**Why it matters:** The most-discussed AI forecast of 2025; a reference point researchers say 'feels less wild' than the public thinks.
+
+**Source:** [https://ai-2027.com/](https://ai-2027.com/)
+
+---
+
+## Nexus: A Brief History of Information Networks
+*Yuval Noah Harari · 2024 · Book · Internet and Big Tech History → Information & power*
+`Beginner` · cred 7/10 · useful 7/10 · status `reviewed`
+
+A sweeping history of information networks from myth and writing to AI, arguing that how societies handle information determines their fate.
+
+**Key takeaways:** (1) Information networks as the engine of history (2) AI as a new kind of non-human agent in those networks (3) Warnings about truth, control, and alignment at civilizational scale
+
+**Why it matters:** A mainstream big-think frame that puts AI in deep historical context — heavily referenced.
+
+**Source:** _No single canonical link._
+
+---
+
 ## Something Ventured
 *Dan Geller, Dayna Goldfine · 2011 · Documentary · Documentary and Long-Form Media → Venture History*
 `Beginner` · cred 7/10 · useful 6/10 · status `reviewed`
@@ -3058,6 +3198,34 @@ A viral GitHub project protesting China's '996' (9am–9pm, 6 days) overwork cul
 
 ---
 
+## The AI Doc: Or How I Became an Apocaloptimist
+*Daniel Roher & Charlie Tyrell (dir.) · 2026 · Documentary · Documentary and Long-Form Media → AI & society*
+`Beginner` · cred 7/10 · useful 6/10 · status `reviewed`
+
+A Sundance 2026 documentary in which filmmaker Daniel Roher, expecting a child, interviews leading AI figures about the technology's threats and promises.
+
+**Key takeaways:** (1) A personal, accessible tour of the AI debate (2) Interviews across the optimist–doomer spectrum (3) Frames AI stakes through impending fatherhood
+
+**Why it matters:** A theatrical-release 2026 doc that brings the insider AI debate to a mainstream audience.
+
+**Source:** _No single canonical link._
+
+---
+
+## Ghost in the Machine
+*Valerie Veatch (dir.) · 2026 · Documentary · Documentary and Long-Form Media → AI critique & history*
+`Intermediate` · cred 7/10 · useful 6/10 · status `reviewed`
+
+A Sundance 2026 essay-documentary tracing AI's roots through the histories of computing, statistics, and eugenics, and the power dynamics behind the AI boom.
+
+**Key takeaways:** (1) Links AI's lineage to control and scientific racism (2) Connects computing, semiconductors, and statistics histories (3) A critical, contrarian counter-history of AI
+
+**Why it matters:** A provocative 2026 critical history that fuels the 'whose values are baked into AI' debate.
+
+**Source:** _No single canonical link._
+
+---
+
 ## The Canon of Design for a New Journey in Product Management
 *Rajiv Kaul (Intelligaia) · Unknown · Slides · Product and Design → Design-led product*
 `Beginner` · cred 6/10 · useful 6/10 · status `reviewed`
@@ -3125,5 +3293,19 @@ Anduril's public argument for software-defined, commercially-built weapons and a
 **Why it matters:** A lightning-rod statement of the new, openly patriotic defense-tech posture in the Valley.
 
 **Source:** _No single canonical link._
+
+---
+
+## If Anyone Builds It, Everyone Dies
+*Eliezer Yudkowsky & Nate Soares · 2025 · Book · AI in Practice → AI risk*
+`Beginner` · cred 6/10 · useful 6/10 · status `reviewed`
+
+A New York Times bestseller arguing that building artificial superintelligence with current methods would almost certainly destroy humanity, and calling for a global halt.
+
+**Key takeaways:** (1) Modern AI is grown, not coded — and opaque (2) Argues alignment is unsolved and default outcomes are lethal (3) Calls for coordinated global halt of large-scale AI
+
+**Why it matters:** The 2025 mainstream-bestseller version of the doomer case — and a lightning rod for rebuttal.
+
+**Source:** [https://ifanyonebuildsit.com/](https://ifanyonebuildsit.com/)
 
 ---

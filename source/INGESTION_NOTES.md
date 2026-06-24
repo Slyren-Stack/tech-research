@@ -269,3 +269,27 @@ Ruthlessly-ranked SV conversation map. New topics added to home hubs and flagged
 - new `recoding-america` — Recoding America
 - new `the-pentagon-s-brain` — The Pentagon's Brain
 - new `rebuild-the-arsenal-of-democracy-anduril` — Rebuild the Arsenal of Democracy (Anduril)
+
+---
+
+## Conversation Topics expansion (conversation_topics_2026.json)
+
+Ruthlessly-ranked SV conversation map. New topics added to home hubs and flagged; existing library items flagged in place (no duplicates).
+- No new hubs.
+- **New items created:** 13
+- **Existing items flagged:** 0
+- No warnings.
+
+- new `the-2026-ai-index-report` — The 2026 AI Index Report
+- new `the-adolescence-of-technology` — The Adolescence of Technology
+- new `the-gentle-singularity` — The Gentle Singularity
+- new `ai-2027` — AI 2027
+- new `if-anyone-builds-it-everyone-dies` — If Anyone Builds It, Everyone Dies
+- new `empire-of-ai` — Empire of AI
+- new `ai-engineering-building-applications-with-foundation-models` — AI Engineering: Building Applications with Foundation Models
+- new `the-state-of-ai-report-2025` — The State of AI Report 2025
+- new `nexus-a-brief-history-of-information-networks` — Nexus: A Brief History of Information Networks
+- new `nvidia-gtc-2026-keynote-the-age-of-physical-ai` — NVIDIA GTC 2026 Keynote: The Age of Physical AI
+- new `the-genius-act` — The GENIUS Act
+- new `the-ai-doc-or-how-i-became-an-apocaloptimist` — The AI Doc: Or How I Became an Apocaloptimist
+- new `ghost-in-the-machine` — Ghost in the Machine

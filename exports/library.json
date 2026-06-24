@@ -142,10 +142,7 @@
       "credibility": 10,
       "usefulness": 10,
       "status": "core",
-      "venue": "Stanford HAI",
-      "conversation": true,
-      "conversation_note": "It gives people a shared factual baseline instead of vibes.",
-      "conversation_value": 9
+      "venue": "Stanford HAI"
     },
     {
       "id": "cs224n-natural-language-processing-with-deep-learning",
@@ -1736,6 +1733,37 @@
       "conversation_value": 10
     },
     {
+      "title": "The 2026 AI Index Report",
+      "creator": "Stanford HAI",
+      "year": 2026,
+      "format": "Report",
+      "category": "AI in Practice",
+      "subcategory": "State of the field",
+      "summary": "Stanford HAI's 2026 edition tracking AI capability, adoption, investment, safety, and the widening gap between what AI can do and how prepared institutions are to govern it.",
+      "key_takeaways": [
+        "SWE-bench Verified coding jumped from ~60% to near 100% in a year",
+        "Generative AI hit 53% population adoption — faster than PC or internet",
+        "US private AI investment ($285.9B in 2025) dwarfs China; documented AI incidents rose to 362"
+      ],
+      "why_it_matters": "The current shared factual baseline for any serious AI strategy or policy conversation.",
+      "audience_fit": "Founders, investors, researchers, operators, policy people",
+      "difficulty": "Intermediate",
+      "tags": [
+        "ai-index",
+        "trends",
+        "2026",
+        "benchmarks"
+      ],
+      "source_link": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+      "credibility": 10,
+      "usefulness": 9,
+      "status": "recommended",
+      "conversation_value": 9,
+      "conversation_note": "The freshest data everyone cites — citing 2026 figures (not 2023 vibes) marks you as current.",
+      "id": "the-2026-ai-index-report",
+      "conversation": true
+    },
+    {
       "id": "computing-machinery-and-intelligence",
       "title": "Computing Machinery and Intelligence",
       "creator": "Alan Turing",
@@ -2537,6 +2565,36 @@
       "conversation_value": 9,
       "conversation_note": "The shared reference for the chips-and-geopolitics conversation — guaranteed to land.",
       "id": "chip-war-the-fight-for-the-world-s-most-critical-technology",
+      "conversation": true
+    },
+    {
+      "title": "AI Engineering: Building Applications with Foundation Models",
+      "creator": "Chip Huyen",
+      "year": 2025,
+      "format": "Book",
+      "category": "AI in Practice",
+      "subcategory": "Building with AI",
+      "summary": "A practical, framework-first guide to building applications on foundation models — prompting, RAG, fine-tuning, agents, evaluation, and deployment.",
+      "key_takeaways": [
+        "End-to-end stack for foundation-model apps",
+        "Durable mental models over ephemeral tool tutorials",
+        "Strong on evaluation and dataset engineering"
+      ],
+      "why_it_matters": "The most-read book on O'Reilly and the current standard reference for the AI-engineering role.",
+      "audience_fit": "AI engineers, technical founders, applied ML teams",
+      "difficulty": "Intermediate",
+      "tags": [
+        "ai-engineering",
+        "rag",
+        "agents",
+        "evaluation"
+      ],
+      "credibility": 9,
+      "usefulness": 9,
+      "status": "recommended",
+      "conversation_value": 7,
+      "conversation_note": "The builder's reference — citing it signals you actually ship AI products.",
+      "id": "ai-engineering-building-applications-with-foundation-models",
       "conversation": true
     },
     {
@@ -3632,6 +3690,37 @@
       "conversation": true
     },
     {
+      "title": "The Adolescence of Technology",
+      "creator": "Dario Amodei",
+      "year": 2026,
+      "format": "Essay",
+      "category": "AI in Practice",
+      "subcategory": "AI risk & governance",
+      "summary": "Anthropic's CEO argues AI is in a volatile 'adolescent' phase, analyzing risks of misuse, misalignment, and concentration of power — and how to defend against them.",
+      "key_takeaways": [
+        "Frames the present as a risky technological adolescence",
+        "Names misuse, misalignment, and power-concentration as core risks",
+        "Predicts human-level AI within roughly two years"
+      ],
+      "why_it_matters": "A January 2026 statement from a frontier-lab CEO that set the year's AI-risk agenda.",
+      "audience_fit": "Founders, researchers, investors, policy people",
+      "difficulty": "Intermediate",
+      "tags": [
+        "ai-safety",
+        "governance",
+        "anthropic",
+        "2026"
+      ],
+      "source_link": "https://darioamodei.com/essay/the-adolescence-of-technology",
+      "credibility": 9,
+      "usefulness": 8,
+      "status": "recommended",
+      "conversation_value": 9,
+      "conversation_note": "The 2026 counterweight to AI optimism — pairs directly against Altman's 'Gentle Singularity.'",
+      "id": "the-adolescence-of-technology",
+      "conversation": true
+    },
+    {
       "id": "out-of-the-tar-pit",
       "title": "Out of the Tar Pit",
       "creator": "Ben Moseley, Peter Marks",
@@ -4523,6 +4612,37 @@
       "conversation_value": 8,
       "conversation_note": "The 'why is government software so bad' conversation, answered seriously.",
       "id": "recoding-america",
+      "conversation": true
+    },
+    {
+      "title": "The State of AI Report 2025",
+      "creator": "Nathan Benaich / Air Street Capital",
+      "year": 2025,
+      "format": "Report",
+      "category": "AI in Practice",
+      "subcategory": "State of the field",
+      "summary": "The eighth annual open-access report synthesizing AI research, industry, politics, and safety, plus a survey of 1,200 practitioners.",
+      "key_takeaways": [
+        "44% of US businesses now pay for AI (up from 5% in 2023)",
+        "Average AI contract value hit $530k, projected past $1M in 2026",
+        "Tracks Stargate ($500B, 10GW US mega-cluster) and compute buildout"
+      ],
+      "why_it_matters": "The investor-grade annual synthesis that frames the year's AI market debates.",
+      "audience_fit": "Founders, investors, operators",
+      "difficulty": "Intermediate",
+      "tags": [
+        "state-of-ai",
+        "market",
+        "compute",
+        "report"
+      ],
+      "source_link": "https://www.stateof.ai/",
+      "credibility": 8,
+      "usefulness": 8,
+      "status": "recommended",
+      "conversation_value": 7,
+      "conversation_note": "The investor-flavored counterpart to the AI Index — great for market-trend talk.",
+      "id": "the-state-of-ai-report-2025",
       "conversation": true
     },
     {
@@ -5452,6 +5572,129 @@
       "conversation": true
     },
     {
+      "title": "The Gentle Singularity",
+      "creator": "Sam Altman",
+      "year": 2025,
+      "format": "Essay",
+      "category": "AI in Practice",
+      "subcategory": "AI vision",
+      "summary": "OpenAI's CEO argues the singularity will feel gradual and manageable, with agents doing cognitive work in 2025, novel insights in 2026, and real-world robots by 2027.",
+      "key_takeaways": [
+        "Exponential progress feels smooth from the inside",
+        "A year-by-year capability timeline (agents → insights → robots)",
+        "A deliberately calming counter to AI-anxiety narratives"
+      ],
+      "why_it_matters": "The optimist pole of the 2025–26 AI debate, widely read and widely criticized.",
+      "audience_fit": "Founders, operators, investors",
+      "difficulty": "Beginner",
+      "tags": [
+        "agi",
+        "optimism",
+        "openai",
+        "singularity"
+      ],
+      "source_link": "https://blog.samaltman.com/the-gentle-singularity",
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "recommended",
+      "conversation_value": 8,
+      "conversation_note": "The optimist case — set it against Amodei or Yudkowsky for an instant debate.",
+      "id": "the-gentle-singularity",
+      "conversation": true
+    },
+    {
+      "title": "Empire of AI",
+      "creator": "Karen Hao",
+      "year": 2025,
+      "format": "Book",
+      "category": "AI in Practice",
+      "subcategory": "Power & institutions",
+      "summary": "A bestselling investigation of how OpenAI went from idealistic nonprofit to one of tech's most powerful companies, including the chips, energy, and labor behind modern AI.",
+      "key_takeaways": [
+        "Inside OpenAI's nonprofit-to-empire transformation",
+        "The hidden resource costs: chips, energy, Global South labor",
+        "A critical lens on AI's concentration of power"
+      ],
+      "why_it_matters": "The defining critical narrative of the AI boom; an NBCC finalist and instant bestseller.",
+      "audience_fit": "Founders, investors, operators, journalists",
+      "difficulty": "Beginner",
+      "tags": [
+        "openai",
+        "power",
+        "labor",
+        "critique"
+      ],
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "recommended",
+      "conversation_value": 9,
+      "conversation_note": "The book the AI industry argues about — supplies the critical case in any OpenAI conversation.",
+      "id": "empire-of-ai",
+      "conversation": true
+    },
+    {
+      "title": "NVIDIA GTC 2026 Keynote: The Age of Physical AI",
+      "creator": "Jensen Huang / NVIDIA",
+      "year": 2026,
+      "format": "Keynote",
+      "category": "Hardware and Compute",
+      "subcategory": "Compute & robotics",
+      "summary": "Jensen Huang's March 2026 keynote reframing AI as 'AI factories,' agents, and physical AI — robots and autonomous vehicles at commercial scale.",
+      "key_takeaways": [
+        "'AI factories' churning out tokens as the new computing model",
+        "Physical AI / robotics pitched as a $1T+ market",
+        "Vera Rubin platform and an expanded RoboTaxi partner roster"
+      ],
+      "why_it_matters": "The clearest signal of where compute and robotics are heading, from the company at the center of it all.",
+      "audience_fit": "Founders, investors, engineers",
+      "difficulty": "Intermediate",
+      "tags": [
+        "nvidia",
+        "physical-ai",
+        "robotics",
+        "compute"
+      ],
+      "source_link": "https://www.nvidia.com/gtc/keynote/",
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "recommended",
+      "conversation_value": 8,
+      "conversation_note": "'Physical AI' is the 2026 buzzphrase — this keynote is where the robotics debate starts.",
+      "id": "nvidia-gtc-2026-keynote-the-age-of-physical-ai",
+      "conversation": true
+    },
+    {
+      "title": "The GENIUS Act",
+      "creator": "U.S. Congress",
+      "year": 2025,
+      "format": "Legislation",
+      "category": "Crypto and Web3",
+      "subcategory": "Regulation",
+      "summary": "The first major US federal crypto law, creating a framework for dollar-backed stablecoins with 1:1 reserves, audits, and disclosures.",
+      "key_takeaways": [
+        "First comprehensive US stablecoin framework",
+        "Requires 1:1 reserves and regular audits",
+        "Clarifies compliant stablecoins are neither securities nor commodities"
+      ],
+      "why_it_matters": "Moved US crypto from regulatory limbo to law; global crypto briefly topped $4T after enactment.",
+      "audience_fit": "Founders, investors, policy people",
+      "difficulty": "Intermediate",
+      "tags": [
+        "stablecoins",
+        "regulation",
+        "crypto-policy",
+        "2025"
+      ],
+      "source_link": "https://en.wikipedia.org/wiki/GENIUS_Act",
+      "credibility": 8,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "The pivot point for 'is crypto finally legitimate' debates with institutions.",
+      "id": "the-genius-act",
+      "conversation": true
+    },
+    {
       "id": "where-wizards-stay-up-late",
       "title": "Where Wizards Stay Up Late: The Origins of the Internet",
       "creator": "Katie Hafner, Matthew Lyon",
@@ -6104,6 +6347,67 @@
       "conversation": true
     },
     {
+      "title": "AI 2027",
+      "creator": "AI Futures Project (Kokotajlo, Lifland, Larsen, Dean)",
+      "year": 2025,
+      "format": "Scenario forecast",
+      "category": "AI in Practice",
+      "subcategory": "AGI forecasting",
+      "summary": "A detailed narrative scenario of AI progress from 2025 to 2027, driven by US–China race dynamics, with branching good and catastrophic endings.",
+      "key_takeaways": [
+        "A concrete, month-by-month superintelligence scenario",
+        "Race dynamics as the key accelerant and danger",
+        "Read by over a million people, including policymakers"
+      ],
+      "why_it_matters": "The most-discussed AI forecast of 2025; a reference point researchers say 'feels less wild' than the public thinks.",
+      "audience_fit": "Founders, researchers, policy people",
+      "difficulty": "Intermediate",
+      "tags": [
+        "agi",
+        "forecast",
+        "race-dynamics",
+        "scenario"
+      ],
+      "source_link": "https://ai-2027.com/",
+      "credibility": 7,
+      "usefulness": 7,
+      "status": "recommended",
+      "conversation_value": 9,
+      "conversation_note": "Everyone in AI has a take on whether the 2027 timeline is prophetic or hype.",
+      "id": "ai-2027",
+      "conversation": true
+    },
+    {
+      "title": "Nexus: A Brief History of Information Networks",
+      "creator": "Yuval Noah Harari",
+      "year": 2024,
+      "format": "Book",
+      "category": "Internet and Big Tech History",
+      "subcategory": "Information & power",
+      "summary": "A sweeping history of information networks from myth and writing to AI, arguing that how societies handle information determines their fate.",
+      "key_takeaways": [
+        "Information networks as the engine of history",
+        "AI as a new kind of non-human agent in those networks",
+        "Warnings about truth, control, and alignment at civilizational scale"
+      ],
+      "why_it_matters": "A mainstream big-think frame that puts AI in deep historical context — heavily referenced.",
+      "audience_fit": "Founders, operators, the intellectually-curious",
+      "difficulty": "Beginner",
+      "tags": [
+        "information",
+        "history",
+        "ai",
+        "society"
+      ],
+      "credibility": 7,
+      "usefulness": 7,
+      "status": "reviewed",
+      "conversation_value": 8,
+      "conversation_note": "A crowd-pleasing way to zoom out from 'AI tools' to 'AI and the fate of societies.'",
+      "id": "nexus-a-brief-history-of-information-networks",
+      "conversation": true
+    },
+    {
       "id": "something-ventured-documentary",
       "title": "Something Ventured",
       "creator": "Dan Geller, Dayna Goldfine",
@@ -6521,6 +6825,66 @@
       "conversation": true
     },
     {
+      "title": "The AI Doc: Or How I Became an Apocaloptimist",
+      "creator": "Daniel Roher & Charlie Tyrell (dir.)",
+      "year": 2026,
+      "format": "Documentary",
+      "category": "Documentary and Long-Form Media",
+      "subcategory": "AI & society",
+      "summary": "A Sundance 2026 documentary in which filmmaker Daniel Roher, expecting a child, interviews leading AI figures about the technology's threats and promises.",
+      "key_takeaways": [
+        "A personal, accessible tour of the AI debate",
+        "Interviews across the optimist–doomer spectrum",
+        "Frames AI stakes through impending fatherhood"
+      ],
+      "why_it_matters": "A theatrical-release 2026 doc that brings the insider AI debate to a mainstream audience.",
+      "audience_fit": "Everyone, founders, the AI-curious",
+      "difficulty": "Beginner",
+      "tags": [
+        "documentary",
+        "ai",
+        "sundance",
+        "2026"
+      ],
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "A shared 2026 cultural reference for the optimist-vs-doomer split.",
+      "id": "the-ai-doc-or-how-i-became-an-apocaloptimist",
+      "conversation": true
+    },
+    {
+      "title": "Ghost in the Machine",
+      "creator": "Valerie Veatch (dir.)",
+      "year": 2026,
+      "format": "Documentary",
+      "category": "Documentary and Long-Form Media",
+      "subcategory": "AI critique & history",
+      "summary": "A Sundance 2026 essay-documentary tracing AI's roots through the histories of computing, statistics, and eugenics, and the power dynamics behind the AI boom.",
+      "key_takeaways": [
+        "Links AI's lineage to control and scientific racism",
+        "Connects computing, semiconductors, and statistics histories",
+        "A critical, contrarian counter-history of AI"
+      ],
+      "why_it_matters": "A provocative 2026 critical history that fuels the 'whose values are baked into AI' debate.",
+      "audience_fit": "Researchers, the critically-minded, founders",
+      "difficulty": "Intermediate",
+      "tags": [
+        "documentary",
+        "ai-history",
+        "critique",
+        "ethics"
+      ],
+      "credibility": 7,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 7,
+      "conversation_note": "A sharp counterpoint that complicates triumphalist AI origin stories.",
+      "id": "ghost-in-the-machine",
+      "conversation": true
+    },
+    {
       "id": "canon-of-design-product-management",
       "title": "The Canon of Design for a New Journey in Product Management",
       "creator": "Rajiv Kaul (Intelligaia)",
@@ -6667,6 +7031,37 @@
       "conversation_value": 7,
       "conversation_note": "Splits the room on whether founders should build weapons — a live SV fault line.",
       "id": "rebuild-the-arsenal-of-democracy-anduril",
+      "conversation": true
+    },
+    {
+      "title": "If Anyone Builds It, Everyone Dies",
+      "creator": "Eliezer Yudkowsky & Nate Soares",
+      "year": 2025,
+      "format": "Book",
+      "category": "AI in Practice",
+      "subcategory": "AI risk",
+      "summary": "A New York Times bestseller arguing that building artificial superintelligence with current methods would almost certainly destroy humanity, and calling for a global halt.",
+      "key_takeaways": [
+        "Modern AI is grown, not coded — and opaque",
+        "Argues alignment is unsolved and default outcomes are lethal",
+        "Calls for coordinated global halt of large-scale AI"
+      ],
+      "why_it_matters": "The 2025 mainstream-bestseller version of the doomer case — and a lightning rod for rebuttal.",
+      "audience_fit": "Founders, researchers, the AI-curious",
+      "difficulty": "Beginner",
+      "tags": [
+        "ai-safety",
+        "x-risk",
+        "alignment",
+        "doom"
+      ],
+      "source_link": "https://ifanyonebuildsit.com/",
+      "credibility": 6,
+      "usefulness": 6,
+      "status": "reviewed",
+      "conversation_value": 8,
+      "conversation_note": "Provocative title alone starts arguments; the bestseller everyone loves or loathes.",
+      "id": "if-anyone-builds-it-everyone-dies",
       "conversation": true
     }
   ]

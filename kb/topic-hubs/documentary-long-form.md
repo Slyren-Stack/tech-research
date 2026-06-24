@@ -2,7 +2,7 @@
 
 Films and long-form storytelling that capture the culture and history of technology.
 
-13 item(s), ranked by signal. ⭐ = core / must-experience.
+15 item(s), ranked by signal. ⭐ = core / must-experience.
 
 ---
 
@@ -89,6 +89,20 @@ A three-part documentary on the rise of the personal computer industry, from hob
 A docudrama on the Apple–Microsoft rivalry and the personalities of Jobs and Gates.
 
 **Why it matters:** A nostalgic touchstone for the founding rivalry that shaped personal computing.
+
+### [The AI Doc: Or How I Became an Apocaloptimist](../cards/the-ai-doc-or-how-i-became-an-apocaloptimist.md)
+*Daniel Roher & Charlie Tyrell (dir.) · 2026 · Documentary · Beginner*
+
+A Sundance 2026 documentary in which filmmaker Daniel Roher, expecting a child, interviews leading AI figures about the technology's threats and promises.
+
+**Why it matters:** A theatrical-release 2026 doc that brings the insider AI debate to a mainstream audience.
+
+### [Ghost in the Machine](../cards/ghost-in-the-machine.md)
+*Valerie Veatch (dir.) · 2026 · Documentary · Intermediate*
+
+A Sundance 2026 essay-documentary tracing AI's roots through the histories of computing, statistics, and eugenics, and the power dynamics behind the AI boom.
+
+**Why it matters:** A provocative 2026 critical history that fuels the 'whose values are baked into AI' debate.
 
 ### [The Social Dilemma](../cards/the-social-dilemma.md)
 *Jeff Orlowski (dir.) · 2020 · Documentary · Beginner*

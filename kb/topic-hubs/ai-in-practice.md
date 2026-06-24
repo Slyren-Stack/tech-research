@@ -2,7 +2,7 @@
 
 Applying AI as a builder: shipping ML systems, LLM products, and the engineering mindset behind them.
 
-16 item(s), ranked by signal. ⭐ = core / must-experience.
+24 item(s), ranked by signal. ⭐ = core / must-experience.
 
 ---
 
@@ -41,12 +41,26 @@ Describes GPT-4 as a large-scale multimodal model and summarizes its development
 
 **Why it matters:** A canonical public reference for what frontier model releases look like in practice.
 
+### [The 2026 AI Index Report](../cards/the-2026-ai-index-report.md)
+*Stanford HAI · 2026 · Report · Intermediate*
+
+Stanford HAI's 2026 edition tracking AI capability, adoption, investment, safety, and the widening gap between what AI can do and how prepared institutions are to govern it.
+
+**Why it matters:** The current shared factual baseline for any serious AI strategy or policy conversation.
+
 ### [State of GPT](../cards/state-of-gpt.md)
 *Andrej Karpathy · 2023 · Talk · Intermediate*
 
 A talk (Microsoft Build 2023) explaining how GPT-class models are actually trained — pretraining, supervised fine-tuning, reward modeling, and RLHF — and how to use them effectively as a builder.
 
 **Why it matters:** One of the clearest explanations of how production LLMs are built and how to wield them.
+
+### [AI Engineering: Building Applications with Foundation Models](../cards/ai-engineering-building-applications-with-foundation-models.md)
+*Chip Huyen · 2025 · Book · Intermediate*
+
+A practical, framework-first guide to building applications on foundation models — prompting, RAG, fine-tuning, agents, evaluation, and deployment.
+
+**Why it matters:** The most-read book on O'Reilly and the current standard reference for the AI-engineering role.
 
 ### [Building Faster with AI](../cards/andrew-ng-building-faster-with-ai.md)
 *Andrew Ng · Unknown · Talk · Intermediate*
@@ -61,6 +75,20 @@ A talk by Andrew Ng on how teams can build and ship faster using AI — emphasiz
 Anthropic's CEO lays out a concrete, optimistic vision of how powerful AI could compress decades of progress in biology, health, and development.
 
 **Why it matters:** A rare detailed, credible articulation of the AI-upside case from a frontier-lab leader.
+
+### [The Adolescence of Technology](../cards/the-adolescence-of-technology.md)
+*Dario Amodei · 2026 · Essay · Intermediate*
+
+Anthropic's CEO argues AI is in a volatile 'adolescent' phase, analyzing risks of misuse, misalignment, and concentration of power — and how to defend against them.
+
+**Why it matters:** A January 2026 statement from a frontier-lab CEO that set the year's AI-risk agenda.
+
+### [The State of AI Report 2025](../cards/the-state-of-ai-report-2025.md)
+*Nathan Benaich / Air Street Capital · 2025 · Report · Intermediate*
+
+The eighth annual open-access report synthesizing AI research, industry, politics, and safety, plus a survey of 1,200 practitioners.
+
+**Why it matters:** The investor-grade annual synthesis that frames the year's AI market debates.
 
 ### [AI Engineer (Conferences & Talk Library)](../cards/ai-engineer-conference.md)
 *AI Engineer · Unknown · Conference / Video Hub · Intermediate*
@@ -97,6 +125,20 @@ How opaque algorithms in credit, policing, and hiring can scale bias and inequal
 
 **Why it matters:** A widely-read primer for the fairness and accountability side of the AI debate.
 
+### [The Gentle Singularity](../cards/the-gentle-singularity.md)
+*Sam Altman · 2025 · Essay · Beginner*
+
+OpenAI's CEO argues the singularity will feel gradual and manageable, with agents doing cognitive work in 2025, novel insights in 2026, and real-world robots by 2027.
+
+**Why it matters:** The optimist pole of the 2025–26 AI debate, widely read and widely criticized.
+
+### [Empire of AI](../cards/empire-of-ai.md)
+*Karen Hao · 2025 · Book · Beginner*
+
+A bestselling investigation of how OpenAI went from idealistic nonprofit to one of tech's most powerful companies, including the chips, energy, and labor behind modern AI.
+
+**Why it matters:** The defining critical narrative of the AI boom; an NBCC finalist and instant bestseller.
+
 ### [Allan Dafoe — AI Governance & Safety Talks](../cards/allan-dafoe-ai-talks.md)
 *Allan Dafoe · Unknown · Talk Collection · Intermediate*
 
@@ -111,12 +153,26 @@ OpenAI's CEO sketches a near-future where abundant intelligence reshapes work, p
 
 **Why it matters:** A concise statement of the dominant frontier-lab worldview that founders and investors react to.
 
+### [AI 2027](../cards/ai-2027.md)
+*AI Futures Project (Kokotajlo, Lifland, Larsen, Dean) · 2025 · Scenario forecast · Intermediate*
+
+A detailed narrative scenario of AI progress from 2025 to 2027, driven by US–China race dynamics, with branching good and catastrophic endings.
+
+**Why it matters:** The most-discussed AI forecast of 2025; a reference point researchers say 'feels less wild' than the public thinks.
+
 ### [AGI Ruin: A List of Lethalities](../cards/agi-ruin-a-list-of-lethalities.md)
 *Eliezer Yudkowsky · 2022 · Essay · Advanced*
 
 A blunt, much-cited enumeration of why the author believes aligning superhuman AI is extremely hard and likely to fail by default.
 
 **Why it matters:** It defines the doomer position that nearly every AI-risk conversation orbits.
+
+### [If Anyone Builds It, Everyone Dies](../cards/if-anyone-builds-it-everyone-dies.md)
+*Eliezer Yudkowsky & Nate Soares · 2025 · Book · Beginner*
+
+A New York Times bestseller arguing that building artificial superintelligence with current methods would almost certainly destroy humanity, and calling for a global halt.
+
+**Why it matters:** The 2025 mainstream-bestseller version of the doomer case — and a lightning rod for rebuttal.
 
 
 ---

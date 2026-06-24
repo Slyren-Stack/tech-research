@@ -24,9 +24,6 @@ venue: "Stanford HAI"
 ## Summary
 A data-rich annual report tracking technical progress, investment, public perception, policy, and societal impact in AI.
 
-## 💬 Good conversation topic
-It gives people a shared factual baseline instead of vibes.
-
 ## Key takeaways
 - AI trends
 - investment and adoption

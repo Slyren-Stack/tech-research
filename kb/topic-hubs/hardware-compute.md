@@ -2,7 +2,7 @@
 
 Semiconductors, the compute supply chain, and the physical substrate the entire software and AI industry runs on.
 
-5 item(s), ranked by signal. ⭐ = core / must-experience.
+6 item(s), ranked by signal. ⭐ = core / must-experience.
 
 ---
 
@@ -40,6 +40,13 @@ A multi-part history of NVIDIA's path from gaming GPUs to the backbone of the AI
 The story of Bell Labs and how it produced the transistor, the laser, information theory, and more.
 
 **Why it matters:** The reference point for debates about where real innovation comes from.
+
+### [NVIDIA GTC 2026 Keynote: The Age of Physical AI](../cards/nvidia-gtc-2026-keynote-the-age-of-physical-ai.md)
+*Jensen Huang / NVIDIA · 2026 · Keynote · Intermediate*
+
+Jensen Huang's March 2026 keynote reframing AI as 'AI factories,' agents, and physical AI — robots and autonomous vehicles at commercial scale.
+
+**Why it matters:** The clearest signal of where compute and robotics are heading, from the company at the center of it all.
 
 
 ---

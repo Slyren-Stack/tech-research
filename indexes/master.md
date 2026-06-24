@@ -2,7 +2,7 @@
 
 > A curated, shareable library of foundational tech, AI, startup, design, and engineering media for builders.
 
-**223 curated items** · 31 core · last updated 2026-06-23 · version 1.8.0
+**236 curated items** · 31 core · last updated 2026-06-23 · version 1.8.0
 
 This is the human-readable overview. The machine-readable source of truth is [`master.json`](master.json). Everything in this repo is generated from it.
 
@@ -15,18 +15,18 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 ## Topic hubs
 
 - **[AI Foundations](../kb/topic-hubs/ai-foundations.md)** (18) — How AI actually works — the ideas, papers, and explainers that built modern machine learning and the transformer era.
-- **[AI in Practice](../kb/topic-hubs/ai-in-practice.md)** (16) — Applying AI as a builder: shipping ML systems, LLM products, and the engineering mindset behind them.
+- **[AI in Practice](../kb/topic-hubs/ai-in-practice.md)** (24) — Applying AI as a builder: shipping ML systems, LLM products, and the engineering mindset behind them.
 - **[Startup History](../kb/topic-hubs/startup-history.md)** (19) — How companies actually got started — first-hand accounts, hard lessons, and the canon of startup thinking.
 - **[Founder Mental Models](../kb/topic-hubs/founder-mental-models.md)** (21) — Durable ways of thinking about work, leverage, judgment, and doing great work over a career.
 - **[Product and Design](../kb/topic-hubs/product-and-design.md)** (20) — Designing things people love — product sense, interaction design, and the principles behind good craft.
 - **[Engineering and Systems](../kb/topic-hubs/engineering-and-systems.md)** (22) — Systems thinking for builders: distributed systems, software design, and the papers that shaped the field.
 - **[Venture Capital and Fundraising](../kb/topic-hubs/venture-capital.md)** (42) — How venture works from both sides of the table — term sheets, incentives, and raising money well.
-- **[Internet and Big Tech History](../kb/topic-hubs/internet-history.md)** (19) — Where computing and the internet came from — the people, labs, and machines that made it all possible.
-- **[Documentary and Long-Form Media](../kb/topic-hubs/documentary-long-form.md)** (13) — Films and long-form storytelling that capture the culture and history of technology.
+- **[Internet and Big Tech History](../kb/topic-hubs/internet-history.md)** (20) — Where computing and the internet came from — the people, labs, and machines that made it all possible.
+- **[Documentary and Long-Form Media](../kb/topic-hubs/documentary-long-form.md)** (15) — Films and long-form storytelling that capture the culture and history of technology.
 - **[Must-Watch Core Library](../kb/topic-hubs/core-library.md)** (31) — The essential cross-category set — if you only have time for a handful, start here. (Auto-collected from items marked 'core'.)
-- **[Conversation Starters](../kb/topic-hubs/conversation-starters.md)** (106) — High-signal topics worth raising in technical and founder circles — each is something smart people genuinely argue about. A cross-cutting collection; every item also lives in its home hub.
-- **[Crypto and Web3](../kb/topic-hubs/crypto-web3.md)** (7) — Blockchains, tokens, and the decade-long argument over decentralization, scaling, fraud, and whether any of it actually matters.
-- **[Hardware and Compute](../kb/topic-hubs/hardware-compute.md)** (5) — Semiconductors, the compute supply chain, and the physical substrate the entire software and AI industry runs on.
+- **[Conversation Starters](../kb/topic-hubs/conversation-starters.md)** (118) — High-signal topics worth raising in technical and founder circles — each is something smart people genuinely argue about. A cross-cutting collection; every item also lives in its home hub.
+- **[Crypto and Web3](../kb/topic-hubs/crypto-web3.md)** (8) — Blockchains, tokens, and the decade-long argument over decentralization, scaling, fraud, and whether any of it actually matters.
+- **[Hardware and Compute](../kb/topic-hubs/hardware-compute.md)** (6) — Semiconductors, the compute supply chain, and the physical substrate the entire software and AI industry runs on.
 - **[Climate, Energy, and Deep Tech](../kb/topic-hubs/climate-deep-tech.md)** (6) — Energy, climate, and hard-tech — the founders and ideas building atoms, not just bits.
 - **[Global Tech and Non-US Ecosystems](../kb/topic-hubs/global-tech.md)** (4) — Tech and venture beyond Silicon Valley: China, India, Europe, and the global contest for the next platform.
 - **[Future of Work and Labor](../kb/topic-hubs/future-of-work.md)** (6) — Remote work, hiring, team culture, automation, and the contested future of jobs.
@@ -75,17 +75,25 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [Software 2.0](../kb/cards/software-2-0.md) | Andrej Karpathy | 2017 | Essay | Intermediate | `core` | 19 |
 | [OpenAI DevDay: Opening Keynote](../kb/cards/openai-devday-opening-keynote.md) | Sam Altman and OpenAI | 2023 | Keynote | Intermediate | `recommended` | 19 |
 | [GPT-4 Technical Report](../kb/cards/gpt-4-technical-report.md) | OpenAI | 2023 | Technical report | Advanced | `recommended` | 19 |
+| [The 2026 AI Index Report](../kb/cards/the-2026-ai-index-report.md) | Stanford HAI | 2026 | Report | Intermediate | `recommended` | 19 |
 | [State of GPT](../kb/cards/state-of-gpt.md) | Andrej Karpathy | 2023 | Talk | Intermediate | `recommended` | 18 |
+| [AI Engineering: Building Applications with Foundation Models](../kb/cards/ai-engineering-building-applications-with-foundation-models.md) | Chip Huyen | 2025 | Book | Intermediate | `recommended` | 18 |
 | [Building Faster with AI](../kb/cards/andrew-ng-building-faster-with-ai.md) | Andrew Ng | — | Talk | Intermediate | `recommended` | 17 |
 | [Machines of Loving Grace](../kb/cards/machines-of-loving-grace.md) | Dario Amodei | 2024 | Essay | Intermediate | `recommended` | 17 |
+| [The Adolescence of Technology](../kb/cards/the-adolescence-of-technology.md) | Dario Amodei | 2026 | Essay | Intermediate | `recommended` | 17 |
+| [The State of AI Report 2025](../kb/cards/the-state-of-ai-report-2025.md) | Nathan Benaich / Air Street Capital | 2025 | Report | Intermediate | `recommended` | 16 |
 | [AI Engineer (Conferences & Talk Library)](../kb/cards/ai-engineer-conference.md) | AI Engineer | — | Conference / Video Hub | Intermediate | `recommended` | 15 |
 | [Situational Awareness: The Decade Ahead](../kb/cards/situational-awareness-the-decade-ahead.md) | Leopold Aschenbrenner | 2024 | Essay series | Intermediate | `recommended` | 15 |
 | [Superintelligence: Paths, Dangers, Strategies](../kb/cards/superintelligence-paths-dangers-strategies.md) | Nick Bostrom | 2014 | Book | Advanced | `recommended` | 15 |
 | [The Coming Wave](../kb/cards/the-coming-wave.md) | Mustafa Suleyman | 2023 | Book | Intermediate | `reviewed` | 15 |
 | [Weapons of Math Destruction](../kb/cards/weapons-of-math-destruction.md) | Cathy O'Neil | 2016 | Book | Beginner | `reviewed` | 15 |
+| [The Gentle Singularity](../kb/cards/the-gentle-singularity.md) | Sam Altman | 2025 | Essay | Beginner | `recommended` | 15 |
+| [Empire of AI](../kb/cards/empire-of-ai.md) | Karen Hao | 2025 | Book | Beginner | `recommended` | 15 |
 | [Allan Dafoe — AI Governance & Safety Talks](../kb/cards/allan-dafoe-ai-talks.md) | Allan Dafoe | — | Talk Collection | Intermediate | `reviewed` | 14 |
 | [The Intelligence Age](../kb/cards/the-intelligence-age.md) | Sam Altman | 2024 | Essay | Beginner | `reviewed` | 14 |
+| [AI 2027](../kb/cards/ai-2027.md) | AI Futures Project (Kokotajlo, Lifland, Larsen, Dean) | 2025 | Scenario forecast | Intermediate | `recommended` | 14 |
 | [AGI Ruin: A List of Lethalities](../kb/cards/agi-ruin-a-list-of-lethalities.md) | Eliezer Yudkowsky | 2022 | Essay | Advanced | `reviewed` | 12 |
+| [If Anyone Builds It, Everyone Dies](../kb/cards/if-anyone-builds-it-everyone-dies.md) | Eliezer Yudkowsky & Nate Soares | 2025 | Book | Beginner | `reviewed` | 12 |
 
 ### Climate, Energy, and Deep Tech
 
@@ -105,6 +113,7 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [Bitcoin: A Peer-to-Peer Electronic Cash System](../kb/cards/bitcoin-a-peer-to-peer-electronic-cash-system.md) | Satoshi Nakamoto | 2008 | Whitepaper | Intermediate | `recommended` | 18 |
 | [Ethereum Whitepaper](../kb/cards/ethereum-whitepaper.md) | Vitalik Buterin | 2014 | Whitepaper | Advanced | `reviewed` | 16 |
 | [The Scalability Trilemma](../kb/cards/the-scalability-trilemma.md) | Vitalik Buterin | 2021 | Essay / concept | Advanced | `reviewed` | 15 |
+| [The GENIUS Act](../kb/cards/the-genius-act.md) | U.S. Congress | 2025 | Legislation | Intermediate | `reviewed` | 15 |
 | [Web3 Is Going Just Great](../kb/cards/web3-is-going-just-great.md) | Molly White | 2021 | Website / running ledger | Beginner | `reviewed` | 14 |
 | [Going Infinite: The Rise and Fall of a New Tycoon](../kb/cards/going-infinite-the-rise-and-fall-of-a-new-tycoon.md) | Michael Lewis | 2023 | Book | Beginner | `reviewed` | 13 |
 | [Number Go Up](../kb/cards/number-go-up.md) | Zeke Faux | 2023 | Book | Beginner | `reviewed` | 13 |
@@ -136,6 +145,8 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [Something Ventured](../kb/cards/something-ventured-documentary.md) | Dan Geller, Dayna Goldfine | 2011 | Documentary | Beginner | `reviewed` | 13 |
 | [Triumph of the Nerds](../kb/cards/triumph-of-the-nerds.md) | Robert X. Cringely | 1996 | Documentary | Beginner | `reviewed` | 13 |
 | [Pirates of Silicon Valley](../kb/cards/pirates-of-silicon-valley.md) | Martyn Burke (dir.) | 1999 | Film | Beginner | `reviewed` | 13 |
+| [The AI Doc: Or How I Became an Apocaloptimist](../kb/cards/the-ai-doc-or-how-i-became-an-apocaloptimist.md) | Daniel Roher & Charlie Tyrell (dir.) | 2026 | Documentary | Beginner | `reviewed` | 13 |
+| [Ghost in the Machine](../kb/cards/ghost-in-the-machine.md) | Valerie Veatch (dir.) | 2026 | Documentary | Intermediate | `reviewed` | 13 |
 | [The Social Dilemma](../kb/cards/the-social-dilemma.md) | Jeff Orlowski (dir.) | 2020 | Documentary | Beginner | `reviewed` | 12 |
 
 ### Engineering and Systems
@@ -220,6 +231,7 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [Acquired: TSMC](../kb/cards/acquired-tsmc.md) | Acquired (Ben Gilbert & David Rosenthal) | 2021 | Podcast episode | Intermediate | `recommended` | 16 |
 | [Acquired: NVIDIA](../kb/cards/acquired-nvidia.md) | Acquired (Ben Gilbert & David Rosenthal) | 2022 | Podcast episode | Intermediate | `recommended` | 16 |
 | [The Idea Factory: Bell Labs and the Great Age of American Innovation](../kb/cards/the-idea-factory-bell-labs-and-the-great-age-of-american-inn.md) | Jon Gertner | 2012 | Book | Intermediate | `recommended` | 16 |
+| [NVIDIA GTC 2026 Keynote: The Age of Physical AI](../kb/cards/nvidia-gtc-2026-keynote-the-age-of-physical-ai.md) | Jensen Huang / NVIDIA | 2026 | Keynote | Intermediate | `recommended` | 15 |
 
 ### Internet and Big Tech History
 
@@ -241,6 +253,7 @@ This is the human-readable overview. The machine-readable source of truth is [`m
 | [The Attention Merchants](../kb/cards/the-attention-merchants.md) | Tim Wu | 2016 | Book | Intermediate | `reviewed` | 15 |
 | [Where Wizards Stay Up Late: The Origins of the Internet](../kb/cards/where-wizards-stay-up-late.md) | Katie Hafner, Matthew Lyon | 1996 | Book | Beginner | `reviewed` | 14 |
 | [Valley of Genius](../kb/cards/valley-of-genius.md) | Adam Fisher | 2018 | Book | Beginner | `reviewed` | 14 |
+| [Nexus: A Brief History of Information Networks](../kb/cards/nexus-a-brief-history-of-information-networks.md) | Yuval Noah Harari | 2024 | Book | Beginner | `reviewed` | 14 |
 | [The Californian Ideology](../kb/cards/the-californian-ideology.md) | Richard Barbrook & Andy Cameron | 1995 | Essay | Advanced | `reviewed` | 13 |
 | [Snow Crash](../kb/cards/snow-crash.md) | Neal Stephenson | 1992 | Book | Intermediate | `reviewed` | 13 |
 | [Chaos Monkeys](../kb/cards/chaos-monkeys.md) | Antonio García Martínez | 2016 | Book | Beginner | `reviewed` | 12 |
